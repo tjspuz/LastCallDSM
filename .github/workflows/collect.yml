@@ -27,14 +27,22 @@ jobs:
         run: |
           python3 scripts/collect.py --verify-places
 
+      - name: Rebuild verified public timeline
+        run: |
+          python3 scripts/rebuild_verified_timeline.py
+
+      - name: Audit published data
+        run: |
+          python3 scripts/audit_data.py
+
       - name: Commit updated reports
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/cache data/reports
+          git add data/cache data/reports data/venues.json
           if git diff --cached --quiet; then
             echo "No report changes."
             exit 0
           fi
-          git commit -m "chore: refresh lead reports"
+          git commit -m "chore: refresh leads and verified timeline"
           git push

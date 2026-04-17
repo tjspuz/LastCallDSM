@@ -1,0 +1,770 @@
+[
+  {
+    "venue": "Bar Louie",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2025-03-28",
+    "source_label": "Metro closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Happy Joe's plans for comeback after closures, bankruptcy - Axios",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2025-02-14",
+    "source_label": "Metro closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "801 Restaurant Group files for Chapter 11 bankruptcy protection - The Business Journals",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2026-04-14",
+    "source_label": "Metro closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Restaurant chain \u2018hip in the 90s\u2019 closes store doors after sudden bankruptcy - the-sun.com",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2025-09-16",
+    "source_label": "Suburb closures",
+    "reason": "nonlocal-publication"
+  },
+  {
+    "venue": "Steakhouse group 801 Restaurants files for Chapter 11 bankruptcy - Restaurant Business",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2026-04-15",
+    "source_label": "Metro closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "West Des Moines is now permanently",
+    "area": "West Des Moines",
+    "status": "closed",
+    "published_at": "2023-01-18",
+    "source_label": "Official closure or move statements",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Will any Arby\u2019s locations in Iowa close after a franchisee filed for bankruptcy? - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2024-07-01",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "What 801 Chophouse\u2019s bankruptcy means for diners in Des Moines - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2026-04-15",
+    "source_label": "Metro closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Waukee's Kinship Brewing, in foreclosure, has closed its taproom until May 1, website says - The Des Moines Register",
+    "area": "Waukee",
+    "status": "closed",
+    "published_at": "2023-12-04",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Saints Pub + Patio's inventory set for auction after what owner had said was temporary closure - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2021-02-22",
+    "source_label": "Official closure or move statements",
+    "reason": "temporary-closure"
+  },
+  {
+    "venue": "New University Heights restaurant",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2022-12-14",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Campus Thai Restaurant With Daniel Johnston\u2019s \u201cHi, How Are You\u201d Mural Closed - Eater Austin",
+    "area": "Johnston",
+    "status": "closed",
+    "published_at": "2020-01-03",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Why Des Moines' restaurants are",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2026-02-06",
+    "source_label": "Metro closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Pizza Hut",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2026-02-06",
+    "source_label": "Metro closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Award-winning brewery",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2025-12-19",
+    "source_label": "Metro closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Restaurant With 'Best Burger' of the Year Is Permanently Closing - Men's Journal",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2025-05-30",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Des Moines restaurants now",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2019-04-01",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Waukee brewery enters foreclosure proceedings - KCCI",
+    "area": "Waukee",
+    "status": "closed",
+    "published_at": "2023-11-20",
+    "source_label": "Suburb openings",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Des Moines Thai restaurant",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2024-12-23",
+    "source_label": "Metro closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Vietnam Cafe in Des Moines faces closure amid mall construction - WHO13.com",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2026-02-22",
+    "source_label": "Metro closures",
+    "reason": "roundup-headline"
+  },
+  {
+    "venue": "Des Moines metro restaurants that",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2025-09-04",
+    "source_label": "Metro openings",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Why Des Moines restaurant Americana is",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2025-09-04",
+    "source_label": "Metro openings",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "A Chinese restaurant is",
+    "area": "Johnston",
+    "status": "closed",
+    "published_at": "2025-06-12",
+    "source_label": "Metro closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Des Moines Steak n' Shake restaurant temporarily",
+    "area": "West Des Moines",
+    "status": "closed",
+    "published_at": "2021-04-22",
+    "source_label": "Suburb closures",
+    "reason": "temporary-closure"
+  },
+  {
+    "venue": "'The city isn't progressing' - The Daily Advertiser | Lafayette, Louisiana",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2018-08-23",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "A popular NC brewery has",
+    "area": "Johnston",
+    "status": "closed",
+    "published_at": "2023-08-01",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Popular Jordan Creek restaurant and wine bar",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2019-03-12",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Northern Colorado truck stop has",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2025-01-14",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "After 42 Years, Popular Johnston County Restaurant Closing - JoCo Report",
+    "area": "Johnston",
+    "status": "closed",
+    "published_at": "2021-09-14",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Popular Cocktail Bar Closing at End of May After 10 Years - Men's Journal",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2025-05-20",
+    "source_label": "Metro closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Urbandale Italian restaurant has",
+    "area": "Urbandale",
+    "status": "closed",
+    "published_at": "2018-08-15",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "This NC restaurant rebuilt after 2 fires. Now it\u2019s closing for good after 40+ years - News & Observer",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2021-09-15",
+    "source_label": "Suburb closures",
+    "reason": "no-facility-confirmation"
+  },
+  {
+    "venue": "RI restaurant scene has openings, closing and sales. What to know. - The Providence Journal",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2026-03-18",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Look back at 16 restaurants that",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2023-12-27",
+    "source_label": "Metro closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Longtime Des Moines bar",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2023-12-27",
+    "source_label": "Metro closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Man who was 'executed' spent last day with his children, principal says - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2017-04-24",
+    "source_label": "Official closure or move statements",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "The community pushed us to",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2022-02-11",
+    "source_label": "Official closure or move statements",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "West Des Moines burger joint",
+    "area": "West Des Moines",
+    "status": "closed",
+    "published_at": "2018-04-09",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Cowboy Chicken in Ankeny has",
+    "area": "Ankeny",
+    "status": "closed",
+    "published_at": "2018-12-10",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "South Union Bread Caf\u00e9 is temporarily closed. When will the renovated lunch spot return? - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2025-02-10",
+    "source_label": "Metro closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "One of the Hardee's in Ankeny has",
+    "area": "Ankeny",
+    "status": "closed",
+    "published_at": "2019-04-15",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Ben's Burgers in Ankeny is",
+    "area": "Ankeny",
+    "status": "closed",
+    "published_at": "2023-12-18",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Shake Lab is",
+    "area": "Ankeny",
+    "status": "closed",
+    "published_at": "2019-01-28",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Mixed Wes Des Moines is",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2019-10-28",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Clayton pub",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2026-01-03",
+    "source_label": "Suburb closures",
+    "reason": "no-facility-confirmation"
+  },
+  {
+    "venue": "Vietnam Caf\u00e9 faces closure as Merle Hay Mall food court disappears - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2026-02-21",
+    "source_label": "Metro closures",
+    "reason": "roundup-headline"
+  },
+  {
+    "venue": "It's the End of an Era on Johnston Street, as McCoppins Fitzroy Announces Its Closure After Decades of Stocking Fine Food and Drinks - Concrete Playground",
+    "area": "Johnston",
+    "status": "closed",
+    "published_at": "2026-04-02",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Lefty\u2019s Live Music, Des Moines\u2019 home for eclectic sounds, closing soon - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2025-11-13",
+    "source_label": "Metro closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Pita Pit location in the Des Moines metro is",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2026-01-22",
+    "source_label": "Metro closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Johnston County BBQ joint",
+    "area": "Johnston",
+    "status": "closed",
+    "published_at": "2021-09-14",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Captain Ankeny\u2019s Pizza & Pub Is Closing Its Doors in Old Town After 38 Years - Willamette Week",
+    "area": "Ankeny",
+    "status": "closed",
+    "published_at": "2022-09-27",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Pizza locations in Iowa",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2026-01-07",
+    "source_label": "Metro closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Months after Johnson's Corner closure, new diner steps in to take its place - The Coloradoan",
+    "area": "Des Moines Metro",
+    "status": "closed",
+    "published_at": "2025-05-21",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "New Loaded Mac Bar Opening Near Downtown Lafayette - Hot 107.9",
+    "area": "Downtown",
+    "status": "review",
+    "published_at": "2025-05-02",
+    "source_label": "Suburb openings",
+    "reason": "status-not-publishable"
+  },
+  {
+    "venue": "Fields & Ivy Brewery to celebrate the re-opening of Lawrence\u2019s 23rd Street on Dec. 11 - Kansas City Pitch",
+    "area": "Des Moines Metro",
+    "status": "review",
+    "published_at": "2023-12-04",
+    "source_label": "Suburb openings",
+    "reason": "status-not-publishable"
+  },
+  {
+    "venue": "10 exciting restaurant and bar openings to anticipate in the Des Moines metro this summer - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "review",
+    "published_at": "2025-06-16",
+    "source_label": "Metro openings",
+    "reason": "status-not-publishable"
+  },
+  {
+    "venue": "Bar owners prepare to",
+    "area": "Des Moines Metro",
+    "status": "review",
+    "published_at": "2021-02-22",
+    "source_label": "Official closure or move statements",
+    "reason": "status-not-publishable"
+  },
+  {
+    "venue": "West Des Moines restaurant",
+    "area": "West Des Moines",
+    "status": "review",
+    "published_at": "2025-09-22",
+    "source_label": "Metro closures",
+    "reason": "status-not-publishable"
+  },
+  {
+    "venue": "The 15 most-anticipated restaurant openings in the Des Moines metro - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "review",
+    "published_at": "2026-03-05",
+    "source_label": "Metro openings",
+    "reason": "status-not-publishable"
+  },
+  {
+    "venue": "Literary-inspired wine bar",
+    "area": "Johnston",
+    "status": "review",
+    "published_at": "2025-11-13",
+    "source_label": "Metro openings",
+    "reason": "status-not-publishable"
+  },
+  {
+    "venue": "This barbecue restaurant owner is",
+    "area": "Ankeny",
+    "status": "review",
+    "published_at": "2024-05-16",
+    "source_label": "Suburb openings",
+    "reason": "status-not-publishable"
+  },
+  {
+    "venue": "Pizza, steakhouse restaurants opening in Ankeny's former Fletcher building - The Des Moines Register",
+    "area": "Ankeny",
+    "status": "review",
+    "published_at": "2022-10-20",
+    "source_label": "Suburb openings",
+    "reason": "status-not-publishable"
+  },
+  {
+    "venue": "Retro arcade brewery",
+    "area": "Johnston",
+    "status": "review",
+    "published_at": "2022-12-29",
+    "source_label": "Suburb openings",
+    "reason": "status-not-publishable"
+  },
+  {
+    "venue": "Chinese Bar-B-Que set to",
+    "area": "Des Moines Metro",
+    "status": "review",
+    "published_at": "2026-03-03",
+    "source_label": "Metro openings",
+    "reason": "status-not-publishable"
+  },
+  {
+    "venue": "Conveyor belt sushi restaurant",
+    "area": "West Des Moines",
+    "status": "review",
+    "published_at": "2025-11-04",
+    "source_label": "Metro openings",
+    "reason": "status-not-publishable"
+  },
+  {
+    "venue": "Ruth's Chris updates its",
+    "area": "Des Moines Metro",
+    "status": "review",
+    "published_at": "2023-06-20",
+    "source_label": "Suburb openings",
+    "reason": "status-not-publishable"
+  },
+  {
+    "venue": "Des Moines Art Center cafe to",
+    "area": "Des Moines Metro",
+    "status": "review",
+    "published_at": "2025-04-29",
+    "source_label": "Metro closures",
+    "reason": "status-not-publishable"
+  },
+  {
+    "venue": "New Korean fried chicken restaurant",
+    "area": "Waukee",
+    "status": "review",
+    "published_at": "2024-01-30",
+    "source_label": "Suburb openings",
+    "reason": "status-not-publishable"
+  },
+  {
+    "venue": "Korean restaurant Basic Bird temporarily",
+    "area": "Des Moines Metro",
+    "status": "review",
+    "published_at": "2025-01-22",
+    "source_label": "Official closure or move statements",
+    "reason": "status-not-publishable"
+  },
+  {
+    "venue": "Barista's Bouquet",
+    "area": "Urbandale",
+    "status": "review",
+    "published_at": "2025-09-24",
+    "source_label": "Metro openings",
+    "reason": "status-not-publishable"
+  },
+  {
+    "venue": "Locust Tap shut down; city says bar reopened illegally - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2014-12-01",
+    "source_label": "Official closure or move statements",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Gran Ranchero Mexican Bar & Grill plans grand",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2025-07-11",
+    "source_label": "Suburb openings",
+    "reason": "no-facility-confirmation"
+  },
+  {
+    "venue": "New restaurants that",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2025-10-19",
+    "source_label": "Metro openings",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "17 new restaurants that recently opened in the Des Moines metro. Here's where to go. - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2024-02-01",
+    "source_label": "Suburb openings",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "13 new restaurants opening in Des Moines this fall span Korean fried chicken to ice cream - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2025-09-16",
+    "source_label": "Metro openings",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Meet the new restaurant",
+    "area": "West Des Moines",
+    "status": "opened",
+    "published_at": "2024-02-27",
+    "source_label": "Suburb openings",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "9 things to know about the farm-to-table restaurant Table 128, reopening in Des Moines - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2024-02-08",
+    "source_label": "Suburb closures",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Long awaited reopening of Des Moines restaurant is inching ever closer - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2018-06-21",
+    "source_label": "Official closure or move statements",
+    "reason": "roundup-headline"
+  },
+  {
+    "venue": "With a fresh look and perspective, Des Moines' Proof Restaurant is reopening Aug. 31 - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2019-08-20",
+    "source_label": "Official closure or move statements",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Des Moines' historic Chuck's restaurant ready for a full reopening after undergoing $1.4 million renovation - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2022-01-25",
+    "source_label": "Official closure or move statements",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Rhode Island's 1st Ever Wingstop Throws Grand Opening Celebration In Johnston - Patch",
+    "area": "Johnston",
+    "status": "opened",
+    "published_at": "2025-10-15",
+    "source_label": "Suburb openings",
+    "reason": "nonlocal-publication"
+  },
+  {
+    "venue": "7 must-try new restaurants in Des Moines, from floral lattes to grills - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2025-11-21",
+    "source_label": "Metro openings",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "The hottest new restaurants in the Des Moines metro, February 2025 edition - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2025-02-28",
+    "source_label": "Suburb openings",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "The 12 hottest new restaurants in Des Moines \u2014 March 2025 - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2025-03-28",
+    "source_label": "Suburb openings",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Ankeny lands a new restaurant specializing in burgers, wings and beers. Find out more: - The Des Moines Register",
+    "area": "Ankeny",
+    "status": "opened",
+    "published_at": "2025-03-24",
+    "source_label": "Suburb openings",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "The hottest new restaurants in the Des Moines metro, January 2025 edition - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2025-02-02",
+    "source_label": "Suburb openings",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "7 new restaurants in the Des Moines metro you should try right now - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2025-09-28",
+    "source_label": "Metro openings",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "New restaurant \u2018The Empire\u2019 opens in downtown Des Moines, honors city\u2019s history - WHO13.com",
+    "area": "Downtown",
+    "status": "opened",
+    "published_at": "2025-10-02",
+    "source_label": "Metro openings",
+    "reason": "roundup-headline"
+  },
+  {
+    "venue": "The Renaissance Des Moines Savery Hotel will debut a new restaurant downtown in May - The Des Moines Register",
+    "area": "Downtown",
+    "status": "opened",
+    "published_at": "2025-05-13",
+    "source_label": "Metro openings",
+    "reason": "no-facility-confirmation"
+  },
+  {
+    "venue": "Clive Collective Announces Five New Restaurant Concepts - Arizona Foothills Magazine",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2025-04-29",
+    "source_label": "Suburb openings",
+    "reason": "no-facility-confirmation"
+  },
+  {
+    "venue": "Des Moines pizza pioneer Abbie Polito dies at age 101; opened restaurant in 1952 - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2025-06-18",
+    "source_label": "Metro openings",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Try these new bars that",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2025-11-26",
+    "source_label": "Metro openings",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "The most exciting new restaurant in Des Moines",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2025-05-28",
+    "source_label": "Metro openings",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "The hottest new restaurants in Des Moines offer Turkish delight, pho and more - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2025-04-30",
+    "source_label": "Suburb openings",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "One vegan spot out, one reopening - The Des Moines Register",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2015-05-24",
+    "source_label": "Official closure or move statements",
+    "reason": "not-facility-specific"
+  },
+  {
+    "venue": "Centro is reopening Wednesday after",
+    "area": "Des Moines Metro",
+    "status": "opened",
+    "published_at": "2019-07-30",
+    "source_label": "Official closure or move statements",
+    "reason": "not-facility-specific"
+  }
+]

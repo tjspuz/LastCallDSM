@@ -7,6 +7,7 @@
     "dev": "python3 -m http.server 4173",
     "collect": "python3 scripts/collect.py",
     "verify:places": "python3 scripts/collect.py --verify-places",
+    "rebuild:timeline": "python3 scripts/rebuild_verified_timeline.py",
     "check:py": "python3 -m py_compile scripts/collect.py",
     "audit:data": "python3 scripts/audit_data.py"
   }

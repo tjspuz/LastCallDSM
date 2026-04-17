@@ -1,0 +1,281 @@
+[
+  {
+    "id": "django-des-moines-metro-closed-2026-01-28",
+    "name": "Django",
+    "status": "closed",
+    "eventDate": "2026-01-28",
+    "sortDate": "2026-01-28",
+    "dateLabel": "Jan 2026",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Django in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Metro closures",
+        "url": ""
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFAyMWpZTkdGeVJnNmoyWTN1YXJwdEtoazhSaXJWNmVFU0pSOVc5b1FHcDM4bnpQb3hqdlRDNG55cmNaSzA4YkFlUVhBczF0YjFwaVJQcVFJWDJYOWZ2UkpVd0tUeGY0RTgxbDhiOERhd19RVWVQZXdMQ1Vpa0gxcDdCY0hpMFY0Y0p0ZFlZa28?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "pagliai-s-pizza-johnston-closed-2025-11-10",
+    "name": "Pagliai's Pizza",
+    "status": "closed",
+    "eventDate": "2025-11-10",
+    "sortDate": "2025-11-10",
+    "dateLabel": "Nov 2025",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Pizza",
+    "neighborhood": "Johnston",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Pagliai's Pizza in Johnston. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Metro closures",
+        "url": ""
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUUJwblFyNVdtLUtQWFhpNi1QWVU3UDNfdkFLRmJDWTRVc0g5X01yMWl1dVJIdmVnNTlCb0RuUTZFSHdfSXFjZmRVSEU3Y2xjRWx6SFdvQ09nbmdIc1VncklmeFo1MTh0U1hYVkt3bEJ2YlNRLUZtbVhlZUVjUWtLSnFjUU1xWXJINmdqUnZ3RFZLdjNtN1NuNVlkLUNPRm9qZm1UaVl3NlVTYkRVRWRmZkJ5SUFDX2V6YXJKcA?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "bar-louie-s-west-des-moines-west-des-moines-closed-2025-09-16",
+    "name": "Bar Louie's West Des Moines",
+    "status": "closed",
+    "eventDate": "2025-09-16",
+    "sortDate": "2025-09-16",
+    "dateLabel": "Sep 2025",
+    "datePrecision": "day",
+    "venueType": "bar",
+    "venueTypeLabel": "Bar",
+    "cuisine": "Bar & Grill",
+    "neighborhood": "West Des Moines",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Bar Louie's West Des Moines in West Des Moines. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Suburb closures",
+        "url": ""
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNTIwWlFOQkVNbVEwR2x2OUZZTzhtSHVlZDVJcVV2aG9zWkY2N0hFR3BPcGptbVNGS3N0Ukw4cmU2LWQ3ZEtaOFFuYnZCVUpkRExHSGYtZ2paVjN0RXFXcHo4cTUwcGFRRkUtQVBtOWJtUTBDYy1HWjF1Wmhxc181OVAzV0dCSHBfc3VzQVhSMUYwTGZkNDZYSTNUV0FneWRBdWFVU2RCTTBraXJ6Nm9xZFltb29RMGljLWUtTjJwYjI5ZHIzUWNwbjktc2ZRWHRWVUdmUHNhTklSM2ZVT0dlVXhYdnNpU04yYTNROFJhMDc?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "st-kilda-cafe-bakery-downtown-closed-2024-12-20",
+    "name": "St. Kilda Cafe & Bakery",
+    "status": "closed",
+    "eventDate": "2024-12-20",
+    "sortDate": "2024-12-20",
+    "dateLabel": "Dec 2024",
+    "datePrecision": "day",
+    "venueType": "cafe",
+    "venueTypeLabel": "Cafe",
+    "cuisine": "Cafe / Bakery",
+    "neighborhood": "Downtown",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for St. Kilda Cafe & Bakery in Downtown. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Suburb closures",
+        "url": ""
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS2dwU3QwbVA4SF80RFVKLWJwd3R2UnN0MEZqRzRYQ3IxY21wTDJYZGhnWThzcmNmalZwaGxfeDBnY3EyamtTZUNiTGRHQ2RJX2p2d25VZGhuTXFxSl82XzhkY1JPVFo1TVByMmQ5WEstRXN3c3d0T3Fwbjg1SENpbGVIa0pabUZxSEZNZWtRZ3lvYTZadDFpWnNETnRnZUNaN3BZX1g5VzltRzZTREd5U3JncG1IeFZxSjMxUGpGRTNBUjgtZmVNS0VlQXI5c0ZHektpMnBCbENSemN4X0E5VXJn?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "the-handlebar-in-dallas-center-des-moines-metro-opened-2024-04-11",
+    "name": "The Handlebar in Dallas Center",
+    "status": "opened",
+    "eventDate": "2024-04-11",
+    "sortDate": "2024-04-11",
+    "dateLabel": "Apr 2024",
+    "datePrecision": "day",
+    "venueType": "bar",
+    "venueTypeLabel": "Bar",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for The Handlebar in Dallas Center in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Official closure or move statements",
+        "url": ""
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORWtpLTUtZzRqTkp4M2JVQ2lNZU84ZGtCaXNWNExDaXZ4cGpSTmZDYW1TUjE1OG1ocGFMYkh6aHY1TUhseVUwa0E5UWJQLWtMS2o5ZVpmS3VvQ1FRR00wUUpXY3k0cHgySXhWVWpnTzBHVVBSdk1UX3VMYjNOMzd1RFFmMkZ2OHJjSWNUTHRCcWN6REJkbXRJSTA4QjVJUW8tME1VTkMzTE5IR01NTTdZ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "zora-rooftop-bar-des-moines-metro-closed-2024-03-11",
+    "name": "Zora Rooftop Bar",
+    "status": "closed",
+    "eventDate": "2024-03-11",
+    "sortDate": "2024-03-11",
+    "dateLabel": "Mar 2024",
+    "datePrecision": "day",
+    "venueType": "bar",
+    "venueTypeLabel": "Bar",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Zora Rooftop Bar in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Metro closures",
+        "url": ""
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSmpxal9rdGo4akdvTDBFRlBsOW8ybUp0S0Q5aVQ5LVQ4clhPVzhwd2xhV1JCaE9jZXZHZmlOdVVvMDA2YTVPSzRhVS0zeTl4MGE0NmdCQktsUlpRS1hRSUdMbUpxd3U3a1k1SF95cXh1SENfREJFVzFPclVDRWtDbEgzT19tcVFYNjJOTGNFYw?oc=5"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWFWUGZVR3J1S1hlQ2JXc2h1MzBBb2FjMFBCT0hxb1RMaEluVzlBX3VrX1UzTE93bGIxVGpab2U4N0NNSFFuSTlCTlpiOHhadF8zWEQ5am9XdV9tTHVmN0tybXM3ZVo5Qk5NQ3VfNUhWZ3RReG1DVDVjam1tdzRoRDNRV1k5RldsVTdlUw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "gusto-pizza-waukee-closed-2023-02-09",
+    "name": "Gusto Pizza",
+    "status": "closed",
+    "eventDate": "2023-02-09",
+    "sortDate": "2023-02-09",
+    "dateLabel": "Feb 2023",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Pizza",
+    "neighborhood": "Waukee",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Gusto Pizza in Waukee. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Suburb closures",
+        "url": ""
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxRlBWbDJHY016Rl9EbXJoc203R2NTN1RrNEl4UjlsS08tVkROcHdydG45QkVTUWRHRW4ya1FRZlZCZ1YtLU9BNXJuTFl3OUpFekpRUjBFYkVGWll3R05hcXRQandnbThfZ21BSnlOZ0ZqUzJYdWVuNWY4MzZrUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "mistress-brewing-company-ankeny-closed-2022-11-01",
+    "name": "Mistress Brewing Company",
+    "status": "closed",
+    "eventDate": "2022-11-01",
+    "sortDate": "2022-11-01",
+    "dateLabel": "Nov 2022",
+    "datePrecision": "day",
+    "venueType": "bar",
+    "venueTypeLabel": "Bar",
+    "cuisine": "Brewery",
+    "neighborhood": "Ankeny",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Mistress Brewing Company in Ankeny. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Suburb closures",
+        "url": ""
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbVdPTG1XNGVTMHlVU3BjLWhMRGNjenRHOUxXa25uMExiZ3FZM0dCSjgxTzEtcENudzFaTDhIU2tUTTFaYUhjODBKX29xSjhULWxtekdXVEFqSFhOOXpwSXZPZzRNam0xazQtSXprczhpTm5LQlhILTRWT1BwYmxmdnFRZ2xiQjFoZzk0Mk4zRm5JaW9KS3dyVHVrdDM2Q1o1Si1nNzlGQWhzeHozNDVvTm9CNEtPSnhESEx3NzlMaENCbXhCNlJmdlhB?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "nomi-s-asian-cuisine-des-moines-metro-opened-2019-09-11",
+    "name": "Nomi's Asian Cuisine",
+    "status": "opened",
+    "eventDate": "2019-09-11",
+    "sortDate": "2019-09-11",
+    "dateLabel": "Sep 2019",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Nomi's Asian Cuisine in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Official closure or move statements",
+        "url": ""
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQW45WmVackhKdmYyUVhwNjlOdHZacHpRQjBHcUQ3ZFU0ZzhWQlE2VHlKMXZkMGp0M3plbGhINlA2NjNIdkIySVdNRHQxZkVDQnNiUzBXRzM3ZkpyY2FGU2lHMVlDTHowYW4wLTI3QnpVWUNHZTVRa3U1WXNKcWJqTkxmTHkxd1hKdnlycUlUXy1naVpxZGRWdzFpaEc2VWlaZGYwOXpHbGhieEdqOVRZR1prN21aQnJ1RXZhMF8xWjAwOXd6bmFucTY3Q01tNUpTdFVTaGpNV000M2ZlbWdGVUtha2p6WEx5Mko0d21UNE5TZnJTOTdTcnVab3pfUGhtNEttWUV0dw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "bear-ankeny-closed-2016-07-19",
+    "name": "Bear",
+    "status": "closed",
+    "eventDate": "2016-07-19",
+    "sortDate": "2016-07-19",
+    "dateLabel": "Jul 2016",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Ankeny",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Bear in Ankeny. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Suburb closures",
+        "url": ""
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXY0eFFPQXgzTXZSOFpyZEI5UG9HOTJJbDdkcnZVV3lJTEg2NjVNa1JLUTVlQ2tvbFNrSkVLVTRzcTZoZ1JWUEVqRVo1czRQaXJxdW5LWXpGZlAxNkZRc1RwT2R3b2dGVjZXZUx2dDZLU29YYTdIdW82cU9oUEN5ZlN4djZHejYxRy1xOG1ncXBRcTZiWU1rWVlhOEc2RVNoWXNfRTA4bko?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "overtime-urbandale-opened-2015-03-05",
+    "name": "Overtime",
+    "status": "opened",
+    "eventDate": "2015-03-05",
+    "sortDate": "2015-03-05",
+    "dateLabel": "Mar 2015",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Urbandale",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Overtime in Urbandale. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Official closure or move statements",
+        "url": ""
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONFk5TTVPMFpOSVRTNmk2a1BhQVpCLTZ0ZnpBTXZKSEVrLWxrdzlvR3g5R1JhLXExRTZYMFVwajA0MnRBcTNDV2ppVmNNWmJNNm5vbjNVWGZtSVVNZ3Z2QmsxY3lUQzl3OTVPSmhxNjYtNnJuNGJ1MXF0RXdjcnZFd0dGSlY3X0MyVjNjdlRJekNDREdOaG8wbS0xWVIxbHlUWlpiUkZ3Z2VocElsNzM5dHk1LVNlcnplR1ppQ25oRHF4UDhCSmhzQlJyS0U?oc=5"
+      }
+    ]
+  }
+]
