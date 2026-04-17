@@ -13,21 +13,17 @@
   <body>
     <main class="page-shell">
       <header class="masthead">
-        <div class="masthead-top">
-          <p class="eyebrow">DES MOINES, IA RESTAURANT ARCHIVE</p>
-          <a class="utility-link" href="review.html">Review Queue</a>
+        <div class="brand-lockup">
+          <div class="brand-icon" aria-hidden="true">
+            <span class="brand-icon-line"></span>
+            <span class="brand-icon-line"></span>
+            <span class="brand-icon-line"></span>
+          </div>
+          <h1>Last Call DSM</h1>
         </div>
-        <h1>Last Call DSM</h1>
-        <p class="hero-copy">
-          A running archive of Des Moines metro restaurant and bar openings and
-          closures, verified from local reporting, official posts, Google status
-          checks, and community leads.
-        </p>
-        <div class="summary-strip" aria-label="Dataset summary">
-          <span>Archive <strong data-stat="total">0</strong></span>
-          <span>Closed <strong class="status-closed" data-stat="closed">0</strong></span>
-          <span>Opened <strong class="status-opened" data-stat="opened">0</strong></span>
-          <span>This Month <strong class="status-warm" data-stat="month">0</strong></span>
+        <div class="masthead-meta">
+          <p class="eyebrow">Des Moines, Iowa restaurant and bar archive</p>
+          <a class="utility-link" href="review.html">Review Queue</a>
         </div>
       </header>
 
@@ -42,20 +38,16 @@
               placeholder="Search by venue, source, neighborhood, or note"
             />
           </label>
-          <p class="results-copy">
-            Filter Archive
-            <span data-results-count>0 results</span>
-          </p>
-        </div>
-        <div class="toolbar-row toolbar-row-filters">
-          <label class="filter-field" for="status-filter">
-            <span class="toolbar-label">Status</span>
+          <label class="filter-field filter-field-inline" for="status-filter">
+            <span class="toolbar-label">View</span>
             <select id="status-filter" class="filter-select">
-              <option value="all">All statuses</option>
+              <option value="all">All records</option>
               <option value="closed">Closures</option>
               <option value="opened">Openings</option>
             </select>
           </label>
+        </div>
+        <div class="toolbar-row toolbar-row-filters">
           <label class="filter-field" for="type-filter">
             <span class="toolbar-label">Type</span>
             <select id="type-filter" class="filter-select">
@@ -76,6 +68,9 @@
               <option value="review">Review only</option>
             </select>
           </label>
+          <p class="results-copy">
+            <span data-results-count>0 results</span>
+          </p>
         </div>
       </section>
 
@@ -83,43 +78,33 @@
         <p>
           Verified records have direct coverage, official statements, or cross-source
           confirmation. Review records stay visible when the history matters but the
-          date or sourcing still needs another pass.
+          source trail still needs work.
         </p>
       </section>
 
       <section id="timeline" class="timeline" aria-live="polite"></section>
 
       <template id="event-template">
-        <article class="entry-card">
-          <div class="entry-marker">
-            <div class="entry-icon" data-field="icon"></div>
-            <p class="entry-date" data-field="date"></p>
-            <p class="entry-type" data-field="type"></p>
-          </div>
-          <div class="entry-main">
-            <div class="entry-heading">
-              <div class="entry-heading-copy">
-                <p class="entry-kicker" data-field="kicker"></p>
-                <h3 data-field="name"></h3>
-              </div>
-              <div class="entry-badges">
-                <span class="badge badge-status" data-field="status"></span>
-                <span class="badge badge-verification" data-field="verification"></span>
-              </div>
+        <article class="tile-card">
+          <div class="tile-marker">
+            <div class="tile-icon" aria-hidden="true">
+              <span class="tile-icon-line"></span>
+              <span class="tile-icon-line"></span>
+              <span class="tile-icon-line"></span>
             </div>
-            <p class="entry-story" data-field="story"></p>
-            <p class="entry-meta" data-field="meta"></p>
-            <p class="entry-sources" data-field="sources"></p>
+            <p class="tile-range" data-field="range"></p>
+            <p class="tile-category" data-field="type"></p>
+          </div>
+          <div class="tile-main">
+            <h2 class="tile-title" data-field="name"></h2>
+            <p class="tile-description" data-field="description"></p>
+            <div class="tile-footer">
+              <span class="badge badge-status" data-field="status"></span>
+              <span class="badge badge-verification" data-field="verification"></span>
+            </div>
           </div>
         </article>
       </template>
-
-      <footer class="page-footer">
-        <p>
-          Last Call DSM keeps the public timeline strict and pushes weak leads into
-          the review queue instead of publishing rumor as history.
-        </p>
-      </footer>
     </main>
 
     <script src="app.js" defer></script>

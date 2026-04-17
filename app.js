@@ -16,30 +16,128 @@ const state = {
   items: [],
 };
 
+const NUMBER_WORDS = {
+  one: 1,
+  two: 2,
+  three: 3,
+  four: 4,
+  five: 5,
+  six: 6,
+  seven: 7,
+  eight: 8,
+  nine: 9,
+  ten: 10,
+  eleven: 11,
+  twelve: 12,
+  thirteen: 13,
+  fourteen: 14,
+  fifteen: 15,
+  sixteen: 16,
+  seventeen: 17,
+  eighteen: 18,
+  nineteen: 19,
+  twenty: 20,
+  twentyone: 21,
+  twentytwo: 22,
+  twentythree: 23,
+  twentyfour: 24,
+  twentyfive: 25,
+};
+
 function parseDate(value) {
   return new Date(`${value}T12:00:00`);
 }
 
-function titleCase(value) {
-  return value.charAt(0).toUpperCase() + value.slice(1);
+function yearOf(item) {
+  return Number(item.eventDate.slice(0, 4));
 }
 
-function buildKicker(item) {
-  const parts = [item.neighborhood, item.cuisine || item.venueTypeLabel];
-  return parts.filter(Boolean).join(" / ");
+function normalizeSpaces(value) {
+  return value.replace(/\s+/g, " ").trim();
 }
 
-function buildMeta(item) {
-  const parts = [];
-  if (item.datePrecision === "year") {
-    parts.push(`Year-level date`);
-  } else if (item.datePrecision === "month") {
-    parts.push(`Month-level date`);
+function extractStartYear(item) {
+  const story = item.story || "";
+  const directPatterns = [
+    /\bsince (\d{4})\b/i,
+    /\bopened in (\d{4})\b/i,
+    /\bestablished in (\d{4})\b/i,
+    /\bfounded in (\d{4})\b/i,
+    /\bserv(?:ed|ing).* since (\d{4})\b/i,
+  ];
+
+  for (const pattern of directPatterns) {
+    const match = story.match(pattern);
+    if (match) {
+      return Number(match[1]);
+    }
   }
-  if (item.verificationLevel === "review") {
-    parts.push("Still needs stronger sourcing");
+
+  const ageDigitMatch = story.match(/\bafter (\d{1,2})\+? years\b/i)
+    || story.match(/\b(?:almost|about|over) (\d{1,2}) years old\b/i)
+    || story.match(/\bfor (\d{1,2}) years\b/i);
+  if (ageDigitMatch) {
+    return yearOf(item) - Number(ageDigitMatch[1]);
   }
-  return parts.join(" • ");
+
+  const ageWordMatch = story.match(
+    /\bafter ((?:twenty|nineteen|eighteen|seventeen|sixteen|fifteen|fourteen|thirteen|twelve|eleven|ten|nine|eight|seven|six|five|four|three|two|one)(?:[- ](?:one|two|three|four|five))?) years\b/i,
+  );
+  if (ageWordMatch) {
+    const token = ageWordMatch[1].replace(/[\s-]+/g, "").toLowerCase();
+    if (NUMBER_WORDS[token]) {
+      return yearOf(item) - NUMBER_WORDS[token];
+    }
+  }
+
+  return null;
+}
+
+function buildRange(item) {
+  const endYear = yearOf(item);
+  const startYear = extractStartYear(item);
+
+  if (item.status === "opened") {
+    if (startYear && startYear <= endYear) {
+      return `${startYear} - present`;
+    }
+    return `${endYear} - present`;
+  }
+
+  if (startYear && startYear <= endYear) {
+    return `${startYear} - ${endYear}`;
+  }
+
+  return `closed ${endYear}`;
+}
+
+function buildDescription(item) {
+  let story = normalizeSpaces(item.story || "");
+
+  if (story.startsWith("Automatically verified from the lead pipeline.")) {
+    const statusPhrase = item.status === "closed" ? "Closed" : "Opened";
+    const area = item.neighborhood || "the metro";
+    const type = item.cuisine && item.cuisine !== "Category Pending"
+      ? item.cuisine
+      : item.venueTypeLabel.toLowerCase();
+    const verification =
+      item.verificationLevel === "verified"
+        ? "Local coverage confirmed the event."
+        : "Still needs stronger sourcing.";
+    return `${statusPhrase} in ${item.dateLabel}, ${item.name} was tracked as a ${type} in ${area}. ${verification}`;
+  }
+
+  story = story
+    .replace(/^Known for\s+/i, "Known for ")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  if (story.length > 180) {
+    const clipped = story.slice(0, 177);
+    return `${clipped.slice(0, clipped.lastIndexOf(" "))}...`;
+  }
+
+  return story;
 }
 
 function populateSelect(select, values, labels, allLabel) {
@@ -101,25 +199,8 @@ function filteredItems() {
   });
 }
 
-function updateStats(items) {
-  const now = new Date();
-  const currentMonth = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}`;
-  const totals = {
-    total: items.length,
-    closed: items.filter((item) => item.status === "closed").length,
-    opened: items.filter((item) => item.status === "opened").length,
-    month: items.filter((item) => item.eventDate.startsWith(currentMonth)).length,
-  };
-
-  document.querySelector('[data-stat="total"]').textContent = totals.total;
-  document.querySelector('[data-stat="closed"]').textContent = totals.closed;
-  document.querySelector('[data-stat="opened"]').textContent = totals.opened;
-  document.querySelector('[data-stat="month"]').textContent = totals.month;
-}
-
 function renderTimeline() {
   const items = filteredItems();
-  updateStats(items);
   resultsCountEl.textContent = `${items.length} result${items.length === 1 ? "" : "s"}`;
   timelineEl.innerHTML = "";
 
@@ -127,82 +208,35 @@ function renderTimeline() {
     const empty = document.createElement("p");
     empty.className = "empty-state";
     empty.textContent =
-      "No records match the current filters. Try broadening the search or switching the dropdowns back to all.";
+      "No records match the current filters. Try broadening the dropdowns or search.";
     timelineEl.appendChild(empty);
     return;
   }
 
-  const grouped = new Map();
   items.forEach((item) => {
-    const year = item.eventDate.slice(0, 4);
-    if (!grouped.has(year)) {
-      grouped.set(year, []);
-    }
-    grouped.get(year).push(item);
-  });
+    const fragment = template.content.cloneNode(true);
+    const article = fragment.querySelector(".tile-card");
+    const statusBadge = fragment.querySelector('[data-field="status"]');
+    const verificationBadge = fragment.querySelector('[data-field="verification"]');
 
-  Array.from(grouped.entries()).forEach(([year, yearItems]) => {
-    const section = document.createElement("section");
-    section.className = "year-group";
+    fragment.querySelector('[data-field="range"]').textContent = buildRange(item);
+    fragment.querySelector('[data-field="type"]').textContent = item.venueTypeLabel;
+    fragment.querySelector('[data-field="name"]').textContent = item.name;
+    fragment.querySelector('[data-field="description"]').textContent = buildDescription(item);
 
-    const heading = document.createElement("h2");
-    heading.className = "year-heading";
-    heading.textContent = year;
-    section.appendChild(heading);
+    statusBadge.textContent = item.status === "closed" ? "Closed" : "Opened";
+    statusBadge.classList.add(item.status);
 
-    const list = document.createElement("div");
-    list.className = "events";
+    verificationBadge.textContent =
+      item.verificationLevel === "verified" ? "Verified" : "Review";
+    verificationBadge.classList.add(
+      item.verificationLevel === "verified" ? "verified" : "review",
+    );
 
-    yearItems.forEach((item) => {
-      const fragment = template.content.cloneNode(true);
-      const article = fragment.querySelector(".entry-card");
-      const statusBadge = fragment.querySelector('[data-field="status"]');
-      const verificationBadge = fragment.querySelector('[data-field="verification"]');
-
-      fragment.querySelector('[data-field="icon"]').textContent =
-        item.status === "closed" ? "⚰" : "✦";
-      fragment.querySelector('[data-field="date"]').textContent = item.dateLabel;
-      fragment.querySelector('[data-field="type"]').textContent = item.venueTypeLabel.toLowerCase();
-      fragment.querySelector('[data-field="kicker"]').textContent = buildKicker(item);
-      fragment.querySelector('[data-field="name"]').textContent = item.name;
-      fragment.querySelector('[data-field="story"]').textContent = item.story;
-      fragment.querySelector('[data-field="meta"]').textContent = buildMeta(item);
-
-      const sourcesEl = fragment.querySelector('[data-field="sources"]');
-      sourcesEl.textContent = "";
-      item.sources.forEach((source, index) => {
-        if (index > 0) {
-          sourcesEl.appendChild(document.createTextNode(" / "));
-        }
-        if (source.url) {
-          const link = document.createElement("a");
-          link.href = source.url;
-          link.target = "_blank";
-          link.rel = "noreferrer";
-          link.textContent = source.label;
-          sourcesEl.appendChild(link);
-        } else {
-          sourcesEl.appendChild(document.createTextNode(source.label));
-        }
-      });
-
-      statusBadge.textContent = item.status === "closed" ? "Closed" : "Opened";
-      statusBadge.classList.add(item.status);
-
-      verificationBadge.textContent =
-        item.verificationLevel === "verified" ? "Verified" : "Review";
-      verificationBadge.classList.add(
-        item.verificationLevel === "verified" ? "verified" : "review",
-      );
-
-      article.dataset.status = item.status;
-      article.dataset.type = item.venueType;
-      article.dataset.neighborhood = item.neighborhood;
-      list.appendChild(fragment);
-    });
-
-    section.appendChild(list);
-    timelineEl.appendChild(section);
+    article.dataset.status = item.status;
+    article.dataset.type = item.venueType;
+    article.dataset.neighborhood = item.neighborhood;
+    timelineEl.appendChild(fragment);
   });
 }
 
