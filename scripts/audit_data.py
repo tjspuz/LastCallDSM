@@ -25,7 +25,7 @@ REQUIRED_FIELDS = {
     "sources",
 }
 
-VALID_STATUS = {"opened", "closed"}
+VALID_STATUS = {"opened", "closed", "lastcall"}
 VALID_PRECISION = {"day", "month", "year"}
 VALID_VERIFICATION = {"verified", "review"}
 PLANNED_TERMS = ("planned", "plan is", "expected to open", "set to open", "about to open")
@@ -83,6 +83,16 @@ def main() -> int:
             warnings.append(
                 f"{item['id']}: opening story still reads like a plan, verify before publishing"
             )
+
+        if item["status"] == "lastcall":
+            closed_date = item.get("closedDate")
+            closed_precision = item.get("closedDatePrecision")
+            if not closed_date:
+                errors.append(f"{item['id']}: lastcall record missing closedDate")
+            if closed_precision and closed_precision != "day":
+                warnings.append(
+                    f"{item['id']}: lastcall record should ideally have day precision, found {closed_precision}"
+                )
 
     print(f"Audited {len(items)} records from {DATA_PATH}")
     if warnings:

@@ -6,7 +6,7 @@
     <title>Last Call DSM</title>
     <meta
       name="description"
-      content="Tracking Des Moines restaurant and bar openings, closures, relocations, and reopenings."
+      content="Tracking Des Moines restaurant and bar openings, last calls, closures, relocations, and reopenings."
     />
     <link rel="stylesheet" href="styles.css" />
   </head>
@@ -14,40 +14,36 @@
     <main class="page-shell">
       <header class="masthead">
         <div class="brand-lockup">
-          <div class="brand-icon" aria-hidden="true">
-            <span class="brand-icon-line"></span>
-            <span class="brand-icon-line"></span>
-            <span class="brand-icon-line"></span>
-          </div>
+          <img class="brand-icon-image" src="assets/lastcall.png" alt="" aria-hidden="true" />
           <h1>Last Call DSM</h1>
         </div>
-        <div class="masthead-meta">
-          <p class="eyebrow">Des Moines, Iowa restaurant and bar archive</p>
-          <a class="utility-link" href="review.html">Review Queue</a>
-        </div>
+        <p class="masthead-copy">
+          A running archive of Des Moines metro restaurants and bars, from new openings
+          to last-call announcements and permanent closures.
+        </p>
       </header>
 
       <section class="toolbar" aria-label="Search and filters">
-        <div class="toolbar-row toolbar-row-search">
-          <label class="toolbar-search" for="search">
-            <span class="toolbar-label">Search</span>
-            <input
-              id="search"
-              class="search-input"
-              type="search"
-              placeholder="Search by venue, source, neighborhood, or note"
-            />
-          </label>
-          <label class="filter-field filter-field-inline" for="status-filter">
-            <span class="toolbar-label">View</span>
+        <label class="toolbar-search" for="search">
+          <span class="toolbar-label">Search</span>
+          <input
+            id="search"
+            class="search-input"
+            type="search"
+            placeholder="Search by venue, neighborhood, source, or note"
+          />
+        </label>
+
+        <div class="toolbar-grid">
+          <label class="filter-field" for="status-filter">
+            <span class="toolbar-label">Status</span>
             <select id="status-filter" class="filter-select">
               <option value="all">All records</option>
-              <option value="closed">Closures</option>
-              <option value="opened">Openings</option>
+              <option value="lastcall">Last call</option>
+              <option value="closed">Closed</option>
+              <option value="opened">Opened</option>
             </select>
           </label>
-        </div>
-        <div class="toolbar-row toolbar-row-filters">
           <label class="filter-field" for="type-filter">
             <span class="toolbar-label">Type</span>
             <select id="type-filter" class="filter-select">
@@ -68,18 +64,12 @@
               <option value="review">Review only</option>
             </select>
           </label>
-          <p class="results-copy">
-            <span data-results-count>0 results</span>
-          </p>
         </div>
-      </section>
 
-      <section class="legend" aria-label="Legend">
-        <p>
-          Verified records have direct coverage, official statements, or cross-source
-          confirmation. Review records stay visible when the history matters but the
-          source trail still needs work.
-        </p>
+        <div class="toolbar-meta">
+          <p class="results-copy"><span data-results-count>0 results</span></p>
+          <a class="utility-link" href="review.html">Review Queue</a>
+        </div>
       </section>
 
       <section id="timeline" class="timeline" aria-live="polite"></section>
@@ -87,21 +77,14 @@
       <template id="event-template">
         <article class="tile-card">
           <div class="tile-marker">
-            <div class="tile-icon" aria-hidden="true">
-              <span class="tile-icon-line"></span>
-              <span class="tile-icon-line"></span>
-              <span class="tile-icon-line"></span>
-            </div>
+            <img class="tile-icon-image" data-field="icon" alt="" aria-hidden="true" />
             <p class="tile-range" data-field="range"></p>
             <p class="tile-category" data-field="type"></p>
           </div>
           <div class="tile-main">
+            <p class="tile-kicker" data-field="kicker"></p>
             <h2 class="tile-title" data-field="name"></h2>
             <p class="tile-description" data-field="description"></p>
-            <div class="tile-footer">
-              <span class="badge badge-status" data-field="status"></span>
-              <span class="badge badge-verification" data-field="verification"></span>
-            </div>
           </div>
         </article>
       </template>

@@ -16,128 +16,137 @@ const state = {
   items: [],
 };
 
-const NUMBER_WORDS = {
-  one: 1,
-  two: 2,
-  three: 3,
-  four: 4,
-  five: 5,
-  six: 6,
-  seven: 7,
-  eight: 8,
-  nine: 9,
-  ten: 10,
-  eleven: 11,
-  twelve: 12,
-  thirteen: 13,
-  fourteen: 14,
-  fifteen: 15,
-  sixteen: 16,
-  seventeen: 17,
-  eighteen: 18,
-  nineteen: 19,
-  twenty: 20,
-  twentyone: 21,
-  twentytwo: 22,
-  twentythree: 23,
-  twentyfour: 24,
-  twentyfive: 25,
+const STATUS_LABELS = {
+  opened: "Opened",
+  closed: "Closed",
+  lastcall: "Last Call",
+};
+
+const ICONS = {
+  opened: "assets/open.png",
+  closed: "assets/closed.png",
+  lastcall: "assets/lastcall.png",
 };
 
 function parseDate(value) {
   return new Date(`${value}T12:00:00`);
 }
 
-function yearOf(item) {
-  return Number(item.eventDate.slice(0, 4));
-}
-
 function normalizeSpaces(value) {
-  return value.replace(/\s+/g, " ").trim();
+  return (value || "").replace(/\s+/g, " ").trim();
 }
 
-function extractStartYear(item) {
-  const story = item.story || "";
-  const directPatterns = [
-    /\bsince (\d{4})\b/i,
-    /\bopened in (\d{4})\b/i,
-    /\bestablished in (\d{4})\b/i,
-    /\bfounded in (\d{4})\b/i,
-    /\bserv(?:ed|ing).* since (\d{4})\b/i,
-  ];
-
-  for (const pattern of directPatterns) {
-    const match = story.match(pattern);
-    if (match) {
-      return Number(match[1]);
-    }
+function formatShortDate(value, precision = "month") {
+  if (!value) {
+    return "";
   }
 
-  const ageDigitMatch = story.match(/\bafter (\d{1,2})\+? years\b/i)
-    || story.match(/\b(?:almost|about|over) (\d{1,2}) years old\b/i)
-    || story.match(/\bfor (\d{1,2}) years\b/i);
-  if (ageDigitMatch) {
-    return yearOf(item) - Number(ageDigitMatch[1]);
+  const [year, month = "01", day = "01"] = value.split("-");
+  if (precision === "day") {
+    return `${month}/${day}/${year}`;
+  }
+  if (precision === "month") {
+    return `${month}/${year}`;
+  }
+  return year;
+}
+
+function formatLongDate(value, precision = "month") {
+  if (!value) {
+    return "";
   }
 
-  const ageWordMatch = story.match(
-    /\bafter ((?:twenty|nineteen|eighteen|seventeen|sixteen|fifteen|fourteen|thirteen|twelve|eleven|ten|nine|eight|seven|six|five|four|three|two|one)(?:[- ](?:one|two|three|four|five))?) years\b/i,
-  );
-  if (ageWordMatch) {
-    const token = ageWordMatch[1].replace(/[\s-]+/g, "").toLowerCase();
-    if (NUMBER_WORDS[token]) {
-      return yearOf(item) - NUMBER_WORDS[token];
-    }
+  const parsed = parseDate(value);
+  if (precision === "day") {
+    return parsed.toLocaleDateString("en-US", {
+      month: "long",
+      day: "numeric",
+      year: "numeric",
+    });
   }
-
-  return null;
+  if (precision === "month") {
+    return parsed.toLocaleDateString("en-US", {
+      month: "long",
+      year: "numeric",
+    });
+  }
+  return String(parsed.getFullYear());
 }
 
 function buildRange(item) {
-  const endYear = yearOf(item);
-  const startYear = extractStartYear(item);
+  const openedDate = item.openedDate;
+  const openedPrecision = item.openedDatePrecision || "year";
+  const closedDate = item.closedDate || item.eventDate;
+  const closedPrecision = item.closedDatePrecision || item.datePrecision || "month";
 
-  if (item.status === "opened") {
-    if (startYear && startYear <= endYear) {
-      return `${startYear} - present`;
-    }
-    return `${endYear} - present`;
+  if (openedDate && closedDate && item.status !== "opened") {
+    return `${formatShortDate(openedDate, openedPrecision)} - ${formatShortDate(
+      closedDate,
+      closedPrecision,
+    )}`;
   }
 
-  if (startYear && startYear <= endYear) {
-    return `${startYear} - ${endYear}`;
+  if (openedDate && item.status === "opened") {
+    return `${formatShortDate(openedDate, openedPrecision)} - present`;
   }
 
-  return `closed ${endYear}`;
+  if (item.status === "lastcall" && closedDate) {
+    return `Closes ${formatShortDate(closedDate, closedPrecision)}`;
+  }
+
+  if (closedDate) {
+    return formatShortDate(closedDate, closedPrecision);
+  }
+
+  return item.dateLabel || "";
+}
+
+function buildKicker(item) {
+  const parts = [];
+  if (item.neighborhood) {
+    parts.push(item.neighborhood);
+  }
+  parts.push(STATUS_LABELS[item.status] || item.status);
+  return parts.join(" / ");
 }
 
 function buildDescription(item) {
-  let story = normalizeSpaces(item.story || "");
+  let description = normalizeSpaces(item.publicDescription || item.story || "");
 
-  if (story.startsWith("Automatically verified from the lead pipeline.")) {
-    const statusPhrase = item.status === "closed" ? "Closed" : "Opened";
-    const area = item.neighborhood || "the metro";
-    const type = item.cuisine && item.cuisine !== "Category Pending"
-      ? item.cuisine
-      : item.venueTypeLabel.toLowerCase();
-    const verification =
-      item.verificationLevel === "verified"
-        ? "Local coverage confirmed the event."
-        : "Still needs stronger sourcing.";
-    return `${statusPhrase} in ${item.dateLabel}, ${item.name} was tracked as a ${type} in ${area}. ${verification}`;
-  }
-
-  story = story
-    .replace(/^Known for\s+/i, "Known for ")
-    .replace(/\s+/g, " ")
+  description = description
+    .replace(/^Automatically verified from the lead pipeline\.\s*/i, "")
+    .replace(/^Matched facility-specific coverage for\s*/i, "")
+    .replace(/Confirmation source:\s*news\.google\.com\.?/i, "")
     .trim();
 
-  if (story.length > 180) {
-    const clipped = story.slice(0, 177);
+  if (
+    item.status === "lastcall" &&
+    item.closedDate &&
+    item.closedDatePrecision === "day" &&
+    !new RegExp(formatLongDate(item.closedDate, "day"), "i").test(description)
+  ) {
+    description = `Last call is ${formatLongDate(item.closedDate, "day")}. ${description}`.trim();
+  }
+
+  if (!description) {
+    const type = (item.cuisine && item.cuisine !== "Category Pending")
+      ? item.cuisine
+      : item.venueTypeLabel.toLowerCase();
+    if (item.status === "opened") {
+      description = `${item.name} opened as a ${type} in ${item.neighborhood}.`;
+    } else if (item.status === "lastcall") {
+      description = `${item.name} is preparing to close in ${item.neighborhood}.`;
+    } else {
+      description = `${item.name} closed after a run in ${item.neighborhood}.`;
+    }
+  }
+
+  if (description.length > 175) {
+    const clipped = description.slice(0, 172);
     return `${clipped.slice(0, clipped.lastIndexOf(" "))}...`;
   }
 
-  return story;
+  return description;
 }
 
 function populateSelect(select, values, labels, allLabel) {
@@ -186,8 +195,11 @@ function filteredItems() {
       item.neighborhood,
       item.cuisine,
       item.story,
+      item.publicDescription,
       item.venueTypeLabel,
       item.dateLabel,
+      item.openedDate,
+      item.closedDate,
       item.verificationLevel,
       ...item.sources.map((source) => source.label),
     ]
@@ -201,7 +213,7 @@ function filteredItems() {
 
 function renderTimeline() {
   const items = filteredItems();
-  resultsCountEl.textContent = `${items.length} result${items.length === 1 ? "" : "s"}`;
+  resultsCountEl.textContent = `${items.length} record${items.length === 1 ? "" : "s"}`;
   timelineEl.innerHTML = "";
 
   if (!items.length) {
@@ -215,27 +227,15 @@ function renderTimeline() {
 
   items.forEach((item) => {
     const fragment = template.content.cloneNode(true);
-    const article = fragment.querySelector(".tile-card");
-    const statusBadge = fragment.querySelector('[data-field="status"]');
-    const verificationBadge = fragment.querySelector('[data-field="verification"]');
+    const icon = fragment.querySelector('[data-field="icon"]');
 
+    icon.src = ICONS[item.status] || ICONS.closed;
     fragment.querySelector('[data-field="range"]').textContent = buildRange(item);
     fragment.querySelector('[data-field="type"]').textContent = item.venueTypeLabel;
+    fragment.querySelector('[data-field="kicker"]').textContent = buildKicker(item);
     fragment.querySelector('[data-field="name"]').textContent = item.name;
     fragment.querySelector('[data-field="description"]').textContent = buildDescription(item);
 
-    statusBadge.textContent = item.status === "closed" ? "Closed" : "Opened";
-    statusBadge.classList.add(item.status);
-
-    verificationBadge.textContent =
-      item.verificationLevel === "verified" ? "Verified" : "Review";
-    verificationBadge.classList.add(
-      item.verificationLevel === "verified" ? "verified" : "review",
-    );
-
-    article.dataset.status = item.status;
-    article.dataset.type = item.venueType;
-    article.dataset.neighborhood = item.neighborhood;
     timelineEl.appendChild(fragment);
   });
 }
@@ -259,42 +259,43 @@ async function loadData() {
   populateSelect(
     areaFilter,
     neighborhoods,
-    Object.fromEntries(neighborhoods.map((value) => [value, value])),
+    Object.fromEntries(state.items.map((item) => [item.neighborhood, item.neighborhood])),
     "All areas",
   );
 
   renderTimeline();
 }
 
-statusFilter.addEventListener("change", (event) => {
-  state.status = event.target.value;
-  renderTimeline();
-});
+function bindEvents() {
+  searchInput.addEventListener("input", (event) => {
+    state.search = event.target.value.trim();
+    renderTimeline();
+  });
 
-typeFilter.addEventListener("change", (event) => {
-  state.venueType = event.target.value;
-  renderTimeline();
-});
+  statusFilter.addEventListener("change", (event) => {
+    state.status = event.target.value;
+    renderTimeline();
+  });
 
-areaFilter.addEventListener("change", (event) => {
-  state.neighborhood = event.target.value;
-  renderTimeline();
-});
+  typeFilter.addEventListener("change", (event) => {
+    state.venueType = event.target.value;
+    renderTimeline();
+  });
 
-verificationFilter.addEventListener("change", (event) => {
-  state.verificationLevel = event.target.value;
-  renderTimeline();
-});
+  areaFilter.addEventListener("change", (event) => {
+    state.neighborhood = event.target.value;
+    renderTimeline();
+  });
 
-searchInput.addEventListener("input", (event) => {
-  state.search = event.target.value.trim();
-  renderTimeline();
-});
+  verificationFilter.addEventListener("change", (event) => {
+    state.verificationLevel = event.target.value;
+    renderTimeline();
+  });
+}
 
+bindEvents();
 loadData().catch((error) => {
-  timelineEl.innerHTML = "";
-  const failure = document.createElement("p");
-  failure.className = "empty-state";
-  failure.textContent = `Unable to load venue data: ${error.message}`;
-  timelineEl.appendChild(failure);
+  console.error(error);
+  timelineEl.innerHTML =
+    '<p class="empty-state">Unable to load the public timeline right now.</p>';
 });
