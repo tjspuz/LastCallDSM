@@ -12,6 +12,7 @@ from html import unescape
 from pathlib import Path
 from typing import Any, Iterable
 from urllib.parse import quote_plus, urlencode
+from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
 
@@ -99,6 +100,9 @@ class Lead:
     source_id: str
     source_label: str
     source_type: str
+    source_query: str
+    source_sort: str
+    source_timeframe: str
     title: str
     summary: str
     url: str
@@ -141,6 +145,48 @@ def fetch_text(url: str) -> str:
 
 def fetch_json(url: str) -> Any:
     return json.loads(fetch_text(url))
+
+
+def fetch_reddit_search_json(params: dict[str, str]) -> Any:
+    attempts = [
+        ("https://www.reddit.com/r/desmoines/search.json", {**params, "raw_json": "1"}),
+        ("https://old.reddit.com/r/desmoines/search.json", {**params, "raw_json": "1"}),
+    ]
+
+    last_error: Exception | None = None
+    for base_url, query_params in attempts:
+        try:
+            return fetch_json(f"{base_url}?{urlencode(query_params)}")
+        except HTTPError as error:
+            last_error = error
+            if error.code != 403:
+                raise
+
+    if last_error is not None:
+        raise last_error
+
+    raise RuntimeError("Reddit search fetch failed with no response.")
+
+
+def fetch_reddit_search_rss(params: dict[str, str]) -> list[dict[str, str]]:
+    attempts = [
+        f"https://www.reddit.com/r/desmoines/search.rss?{urlencode(params)}",
+        f"https://old.reddit.com/r/desmoines/search.rss?{urlencode(params)}",
+    ]
+
+    last_error: Exception | None = None
+    for url in attempts:
+        try:
+            return parse_rss_items(fetch_text(url))
+        except HTTPError as error:
+            last_error = error
+            if error.code != 403:
+                raise
+
+    if last_error is not None:
+        raise last_error
+
+    raise RuntimeError("Reddit RSS fetch failed with no response.")
 
 
 def clean_html(text: str) -> str:
@@ -280,6 +326,9 @@ def collect_google_news(sources: Iterable[dict[str, str]]) -> list[Lead]:
                     source_id=source["id"],
                     source_label=source["label"],
                     source_type="google_news",
+                    source_query=source["query"],
+                    source_sort="relevance",
+                    source_timeframe="all",
                     title=item["title"],
                     summary=item["summary"],
                     url=item["link"],
@@ -294,47 +343,89 @@ def collect_google_news(sources: Iterable[dict[str, str]]) -> list[Lead]:
     return leads
 
 
-def collect_reddit(sources: Iterable[dict[str, str]]) -> list[Lead]:
+def collect_reddit(sources: Iterable[dict[str, str]]) -> tuple[list[Lead], list[str]]:
     leads: list[Lead] = []
+    warnings: list[str] = []
     for source in sources:
-        params = urlencode(
-            {
-                "restrict_sr": "1",
-                "sort": "new",
-                "limit": "100",
-                "q": source["query"],
-            }
-        )
-        payload = fetch_json(f"https://www.reddit.com/r/desmoines/search.json?{params}")
-        posts = payload.get("data", {}).get("children", [])
-        for node in posts:
-            data = node.get("data", {})
-            title = clean_html(data.get("title", ""))
-            summary = clean_html(data.get("selftext", ""))
-            url = data.get("url_overridden_by_dest") or f"https://www.reddit.com{data.get('permalink', '')}"
-            status_guess, score, matched_terms = score_text(title, summary)
-            if score < 3:
-                continue
-            leads.append(
-                Lead(
-                    fingerprint=lead_fingerprint(source["id"], title, url, status_guess),
-                    source_id=source["id"],
-                    source_label=source["label"],
-                    source_type="reddit",
-                    title=title,
-                    summary=summary,
-                    url=url,
-                    published_at=datetime.fromtimestamp(
-                        data.get("created_utc", 0), tz=timezone.utc
-                    ).isoformat(),
-                    status_guess=status_guess,
-                    score=score,
-                    venue_guess=guess_name(title),
-                    area_guess=guess_area(f"{title} {summary}"),
-                    matched_terms=matched_terms,
+        sort = source.get("sort", "new")
+        timeframe = source.get("timeframe", "year")
+        params = {
+            "restrict_sr": "1",
+            "sort": sort,
+            "t": timeframe,
+            "limit": str(source.get("limit", 100)),
+            "q": source["query"],
+        }
+        try:
+            payload = fetch_reddit_search_json(params)
+            posts = payload.get("data", {}).get("children", [])
+            for node in posts:
+                data = node.get("data", {})
+                title = clean_html(data.get("title", ""))
+                summary = clean_html(data.get("selftext", ""))
+                url = data.get("url_overridden_by_dest") or f"https://www.reddit.com{data.get('permalink', '')}"
+                status_guess, score, matched_terms = score_text(title, summary)
+                if score < 3:
+                    continue
+                leads.append(
+                    Lead(
+                        fingerprint=lead_fingerprint(source["id"], title, url, status_guess),
+                        source_id=source["id"],
+                        source_label=source["label"],
+                        source_type="reddit",
+                        source_query=source["query"],
+                        source_sort=sort,
+                        source_timeframe=timeframe,
+                        title=title,
+                        summary=summary,
+                        url=url,
+                        published_at=datetime.fromtimestamp(
+                            data.get("created_utc", 0), tz=timezone.utc
+                        ).isoformat(),
+                        status_guess=status_guess,
+                        score=score,
+                        venue_guess=guess_name(title),
+                        area_guess=guess_area(f"{title} {summary}"),
+                        matched_terms=matched_terms,
+                    )
                 )
-            )
-    return leads
+        except HTTPError as error:
+            if error.code != 403:
+                raise
+            try:
+                rss_items = fetch_reddit_search_rss(params)
+                for item in rss_items:
+                    title = item["title"]
+                    summary = item["summary"]
+                    url = item["link"]
+                    status_guess, score, matched_terms = score_text(title, summary)
+                    if score < 3:
+                        continue
+                    leads.append(
+                        Lead(
+                            fingerprint=lead_fingerprint(source["id"], title, url, status_guess),
+                            source_id=source["id"],
+                            source_label=source["label"],
+                            source_type="reddit",
+                            source_query=source["query"],
+                            source_sort=sort,
+                            source_timeframe=timeframe,
+                            title=title,
+                            summary=summary,
+                            url=url,
+                            published_at=item["published_at"],
+                            status_guess=status_guess,
+                            score=score,
+                            venue_guess=guess_name(title),
+                            area_guess=guess_area(f"{title} {summary}"),
+                            matched_terms=matched_terms,
+                        )
+                    )
+            except HTTPError:
+                warnings.append(
+                    f"Reddit blocked source {source['id']} ({source['query']}); no JSON or RSS results returned."
+                )
+    return leads, warnings
 
 
 def dedupe_leads(leads: Iterable[Lead]) -> list[Lead]:
@@ -342,9 +433,39 @@ def dedupe_leads(leads: Iterable[Lead]) -> list[Lead]:
     for lead in leads:
         key = normalize_text(f"{lead.venue_guess} {lead.status_guess} {lead.area_guess}")
         incumbent = best_by_key.get(key)
-        if incumbent is None or lead.score > incumbent.score:
+        if incumbent is None or (lead.score, lead.published_at) > (
+            incumbent.score,
+            incumbent.published_at,
+        ):
             best_by_key[key] = lead
-    return sorted(best_by_key.values(), key=lambda lead: (lead.published_at, lead.score), reverse=True)
+
+    status_priority = {"closed": 0, "review": 1, "opened": 2, "moved": 3}
+    return sorted(
+        best_by_key.values(),
+        key=lambda lead: (
+            status_priority.get(lead.status_guess, 9),
+            lead.published_at,
+            lead.score,
+        ),
+        reverse=False,
+    )
+
+
+def sort_leads_for_report(leads: Iterable[Lead]) -> list[Lead]:
+    status_priority = {"closed": 0, "review": 1, "opened": 2, "moved": 3}
+    return sorted(
+        leads,
+        key=lambda lead: (
+            status_priority.get(lead.status_guess, 9),
+            -lead.score,
+            lead.published_at,
+        ),
+    )
+
+
+def build_closure_report(leads: Iterable[Lead]) -> list[Lead]:
+    closure_like = [lead for lead in leads if lead.status_guess in {"closed", "review"}]
+    return sort_leads_for_report(closure_like)
 
 
 def verify_places() -> list[dict[str, Any]]:
@@ -384,15 +505,19 @@ def verify_places() -> list[dict[str, Any]]:
     return results
 
 
-def build_summary(leads: list[Lead]) -> dict[str, Any]:
+def build_summary(leads: list[Lead], warnings: list[str] | None = None) -> dict[str, Any]:
     status_counts: dict[str, int] = {}
+    source_type_counts: dict[str, int] = {}
     for lead in leads:
         status_counts[lead.status_guess] = status_counts.get(lead.status_guess, 0) + 1
+        source_type_counts[lead.source_type] = source_type_counts.get(lead.source_type, 0) + 1
 
     return {
         "generatedAt": now_iso(),
         "leadCount": len(leads),
         "statusCounts": status_counts,
+        "sourceTypeCounts": source_type_counts,
+        "warnings": warnings or [],
         "topLeads": [asdict(lead) for lead in leads[:15]],
     }
 
@@ -410,13 +535,25 @@ def main() -> None:
     config = load_json(CONFIG_PATH)
 
     raw_google_news = collect_google_news(config["googleNews"])
-    raw_reddit = collect_reddit(config["redditSearches"])
+    raw_reddit, warnings = collect_reddit(config["redditSearches"])
     leads = dedupe_leads([*raw_google_news, *raw_reddit])
+    closure_report = build_closure_report(leads)
+    reddit_closure_report = sort_leads_for_report(
+        [lead for lead in raw_reddit if lead.status_guess in {"closed", "review"}]
+    )
 
     save_json(CACHE_DIR / "google-news.json", [asdict(lead) for lead in raw_google_news])
     save_json(CACHE_DIR / "reddit.json", [asdict(lead) for lead in raw_reddit])
-    save_json(REPORTS_DIR / "latest-candidates.json", [asdict(lead) for lead in leads])
-    save_json(REPORTS_DIR / "latest-summary.json", build_summary(leads))
+    save_json(REPORTS_DIR / "latest-candidates.json", [asdict(lead) for lead in sort_leads_for_report(leads)])
+    save_json(
+        REPORTS_DIR / "latest-closure-candidates.json",
+        [asdict(lead) for lead in closure_report],
+    )
+    save_json(
+        REPORTS_DIR / "latest-reddit-closures.json",
+        [asdict(lead) for lead in reddit_closure_report],
+    )
+    save_json(REPORTS_DIR / "latest-summary.json", build_summary(leads, warnings))
 
     if args.verify_places:
         save_json(REPORTS_DIR / "places-status.json", verify_places())
@@ -426,8 +563,10 @@ def main() -> None:
             {
                 "generatedAt": now_iso(),
                 "candidateCount": len(leads),
+                "closureCandidateCount": len(closure_report),
                 "googleNewsCount": len(raw_google_news),
                 "redditCount": len(raw_reddit),
+                "warnings": warnings,
                 "placesVerified": bool(args.verify_places),
             },
             indent=2,

@@ -45,17 +45,83 @@
     {
       "id": "reddit-openings",
       "label": "r/desmoines openings",
-      "query": "\"new restaurant\" OR opening OR opened OR \"soft opening\" OR \"grand opening\""
+      "query": "\"new restaurant\" OR opening OR opened OR \"soft opening\" OR \"grand opening\" OR reopening",
+      "sort": "new",
+      "timeframe": "year",
+      "limit": 100,
+      "focus": "opened"
     },
     {
-      "id": "reddit-closures",
-      "label": "r/desmoines closures",
-      "query": "closing OR closed OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR sold"
+      "id": "reddit-closing",
+      "label": "r/desmoines closing",
+      "query": "closing",
+      "sort": "new",
+      "timeframe": "year",
+      "limit": 100,
+      "focus": "closed"
+    },
+    {
+      "id": "reddit-closed",
+      "label": "r/desmoines closed",
+      "query": "closed",
+      "sort": "new",
+      "timeframe": "year",
+      "limit": 100,
+      "focus": "closed"
+    },
+    {
+      "id": "reddit-shuttered",
+      "label": "r/desmoines shuttered",
+      "query": "shuttered OR closure",
+      "sort": "new",
+      "timeframe": "year",
+      "limit": 100,
+      "focus": "closed"
+    },
+    {
+      "id": "reddit-last-day",
+      "label": "r/desmoines last day",
+      "query": "\"last day\" OR \"final day\" OR farewell",
+      "sort": "new",
+      "timeframe": "year",
+      "limit": 100,
+      "focus": "closed"
+    },
+    {
+      "id": "reddit-permanently-closed",
+      "label": "r/desmoines permanently closed",
+      "query": "\"permanently closed\"",
+      "sort": "new",
+      "timeframe": "year",
+      "limit": 100,
+      "focus": "closed"
+    },
+    {
+      "id": "reddit-distress",
+      "label": "r/desmoines distress signals",
+      "query": "bankruptcy OR bankrupt OR eviction OR auction OR \"for lease\" OR \"liquor license\"",
+      "sort": "new",
+      "timeframe": "year",
+      "limit": 100,
+      "focus": "closed"
+    },
+    {
+      "id": "reddit-sold-bought",
+      "label": "r/desmoines sold or bought out",
+      "query": "sold OR \"bought out\" OR acquired",
+      "sort": "new",
+      "timeframe": "year",
+      "limit": 100,
+      "focus": "review"
     },
     {
       "id": "reddit-moves",
       "label": "r/desmoines relocations",
-      "query": "moving OR moved OR relocating OR relocation OR reopening"
+      "query": "moving OR moved OR relocating OR relocation",
+      "sort": "new",
+      "timeframe": "year",
+      "limit": 100,
+      "focus": "moved"
     }
   ]
 }

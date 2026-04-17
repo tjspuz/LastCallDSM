@@ -74,6 +74,24 @@ Recommended query families:
 
 Reddit is excellent for catching rumors, neighborhood chatter, and early sightings. It is not enough by itself to mark a venue `verified`.
 
+Recommended Reddit search matrix:
+
+- `closing`
+- `closed`
+- `shuttered`
+- `"last day"`
+- `"permanently closed"`
+- `bankruptcy OR bankrupt OR eviction OR auction OR "for lease"`
+- `sold OR "bought out" OR acquired`
+
+Use:
+
+- `sort=new`
+- `t=year`
+- multiple keyword queries instead of one OR-heavy mega-query
+
+This catches more quiet closures and gives better chronological coverage than a single relevance-sorted search.
+
 ### 3. Do not depend on Facebook scraping
 
 Meta actively fights scraping, and the long-term maintenance cost is not worth it. The safer play is:

@@ -4,6 +4,8 @@ const templateEl = document.getElementById("candidate-template");
 const exportButton = document.getElementById("export-decisions");
 const clearButton = document.getElementById("clear-decisions");
 const toolbarNote = document.getElementById("toolbar-note");
+const loadClosureQueueButton = document.getElementById("load-closure-queue");
+const loadAllLeadsButton = document.getElementById("load-all-leads");
 
 const STORAGE_KEY = "lastCallDSMReviewDecisions";
 
@@ -14,6 +16,7 @@ const state = {
   candidates: [],
   curated: [],
   decisions: loadDecisions(),
+  mode: "closures",
 };
 
 function loadDecisions() {
@@ -40,6 +43,12 @@ function setActiveChip(group, value) {
 
 function candidateDecision(candidate) {
   return state.decisions[candidate.fingerprint] || "unreviewed";
+}
+
+function setMode(mode) {
+  state.mode = mode;
+  loadClosureQueueButton.classList.toggle("active", mode === "closures");
+  loadAllLeadsButton.classList.toggle("active", mode === "all");
 }
 
 function duplicateHints(candidate) {
@@ -99,12 +108,20 @@ function renderLinks(container, candidate) {
   if (candidate.published_at) {
     container.append(` • Published: ${candidate.published_at}`);
   }
+  if (candidate.source_timeframe || candidate.source_sort) {
+    container.append(
+      ` • Query: ${candidate.source_sort || "new"} / ${candidate.source_timeframe || "all"}`,
+    );
+  }
 }
 
 function renderHints(container, candidate, duplicates) {
   const bits = [];
   if ((candidate.matched_terms || []).length) {
     bits.push(`Matched terms: ${candidate.matched_terms.join(", ")}`);
+  }
+  if (candidate.source_query) {
+    bits.push(`Search: ${candidate.source_query}`);
   }
   if (duplicates.length) {
     bits.push(`Possible duplicates: ${duplicates.map((venue) => venue.name).join(" • ")}`);
@@ -172,18 +189,32 @@ function renderReviewList() {
   });
 }
 
-async function load() {
-  const [candidatePayload, curatedPayload] = await Promise.all([
-    fetch("data/reports/latest-candidates.json").then((response) => (response.ok ? response.json() : [])),
+async function loadCandidates(mode) {
+  const path =
+    mode === "closures"
+      ? "data/reports/latest-closure-candidates.json"
+      : "data/reports/latest-candidates.json";
+  const response = await fetch(path);
+  return response.ok ? response.json() : [];
+}
+
+async function load(mode = "closures") {
+  const [candidatePayload, curatedPayload, summaryPayload] = await Promise.all([
+    loadCandidates(mode),
     fetch("data/venues.json").then((response) => response.json()),
+    fetch("data/reports/latest-summary.json").then((response) => (response.ok ? response.json() : {})),
   ]);
 
   state.candidates = Array.isArray(candidatePayload) ? candidatePayload : [];
   state.curated = curatedPayload.items || [];
-  toolbarNote.textContent =
+  setMode(mode);
+  const baseNote =
     state.candidates.length > 0
-      ? `Loaded ${state.candidates.length} lead candidates against ${state.curated.length} published records.`
-      : "No candidate report yet. Published history is ready; run the collector to populate this queue.";
+      ? `Loaded ${state.candidates.length} ${mode === "closures" ? "closure-focused" : "total"} lead candidates against ${state.curated.length} published records.`
+      : `No ${mode === "closures" ? "closure-focused" : "general"} candidate report yet. Published history is ready; run the collector to populate this queue.`;
+  const warningCount = Array.isArray(summaryPayload.warnings) ? summaryPayload.warnings.length : 0;
+  toolbarNote.textContent =
+    warningCount > 0 ? `${baseNote} ${warningCount} source warnings were recorded in the latest run.` : baseNote;
 
   renderReviewList();
 }
@@ -223,6 +254,18 @@ clearButton.addEventListener("click", () => {
   state.decisions = {};
   saveDecisions();
   renderReviewList();
+});
+
+loadClosureQueueButton.addEventListener("click", () => {
+  load("closures").catch((error) => {
+    toolbarNote.textContent = `Unable to load closure queue: ${error.message}`;
+  });
+});
+
+loadAllLeadsButton.addEventListener("click", () => {
+  load("all").catch((error) => {
+    toolbarNote.textContent = `Unable to load all leads: ${error.message}`;
+  });
 });
 
 load().catch((error) => {

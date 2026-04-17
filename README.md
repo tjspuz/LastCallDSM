@@ -46,6 +46,8 @@ Outputs:
 - `data/cache/google-news.json`
 - `data/cache/reddit.json`
 - `data/reports/latest-candidates.json`
+- `data/reports/latest-closure-candidates.json`
+- `data/reports/latest-reddit-closures.json`
 - `data/reports/latest-summary.json`
 
 ## Optional Google Places verification
@@ -70,7 +72,7 @@ This checks sort order, required fields, source URLs, duplicate IDs, and a few c
 ## Editorial workflow
 
 1. Collect leads from Google News RSS and Reddit.
-2. Open `review.html` and review `latest-candidates.json`.
+2. Open `review.html` and start with the closure queue from `latest-closure-candidates.json`.
 3. Confirm each event with an official venue post, Google Places status, or at least two independent sources.
 4. Add only curated records to `data/venues.json`.
 5. Keep uncertain historical entries with `verificationLevel: "review"` and a clear note.

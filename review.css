@@ -8,6 +8,11 @@
   align-items: center;
 }
 
+.review-toolbar .chip.active {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 255, 255, 0.45);
+}
+
 .toolbar-note {
   color: var(--muted);
   margin: 0;
