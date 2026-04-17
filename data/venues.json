@@ -1,0 +1,1179 @@
+{
+  "updatedAt": "2026-04-16",
+  "city": "Des Moines Metro",
+  "items": [
+    {
+      "id": "ocha-downtown-opening",
+      "name": "Ocha Bubble Tea & Dessert Cafe",
+      "status": "opened",
+      "eventDate": "2026-02-10",
+      "sortDate": "2026-02-10",
+      "dateLabel": "Feb 2026",
+      "datePrecision": "day",
+      "venueType": "cafe",
+      "venueTypeLabel": "Cafe",
+      "cuisine": "Dessert / Bubble Tea",
+      "neighborhood": "Court Avenue",
+      "story": "Ocha opened its downtown cafe and tea-room concept in the former Despensary space with expanded seating and desserts.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2026/02/10/first-bite-ocha-opens-new-dessert-cafe-in-downtown-des-moines"
+        },
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2025/11/25/ocha-bubble-tea-opening-in-downtown-des-moines"
+        }
+      ]
+    },
+    {
+      "id": "heroics-opening",
+      "name": "Heroics Sports Lounge",
+      "status": "opened",
+      "eventDate": "2025-12-24",
+      "sortDate": "2025-12-24",
+      "dateLabel": "Dec 2025",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Sports Bar",
+      "neighborhood": "Ingersoll",
+      "story": "Iowa's first women's sports bar opened on Ingersoll, taking over the former Juniper Moon space and leaning into an inclusive fan-first identity.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2026/01/09/heroics-iowas-first-womens-sports-bar-des-moines"
+        }
+      ]
+    },
+    {
+      "id": "highland-underground-opening",
+      "name": "Highland Underground",
+      "status": "opened",
+      "eventDate": "2025-10-15",
+      "sortDate": "2025-10-15",
+      "dateLabel": "Oct 2025",
+      "datePrecision": "day",
+      "venueType": "lounge",
+      "venueTypeLabel": "Lounge",
+      "cuisine": "Cocktail Lounge",
+      "neighborhood": "Highland Park",
+      "story": "Highland Underground opened as a retro cocktail lounge in the basement of the former Klein's Department Store building.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2025/10/15/first-bite-highland-underground"
+        }
+      ]
+    },
+    {
+      "id": "haiku-closure",
+      "name": "Haiku",
+      "status": "closed",
+      "eventDate": "2025-10-01",
+      "sortDate": "2025-10-01",
+      "dateLabel": "Oct 2025",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Asian Fusion / Sushi",
+      "neighborhood": "Drake",
+      "story": "The longtime Drake-area Asian fusion restaurant closed after about 15 years, and later reporting cited the business as inactive.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2026/02/06/des-moines-restaurants-closing-fast-economy"
+        },
+        {
+          "label": "Times-Delphic",
+          "url": "https://timesdelphic.com/83950/news/two-drake-neighborhood-businesses-set-to-close-by-2026/"
+        }
+      ]
+    },
+    {
+      "id": "americana-closure",
+      "name": "Americana",
+      "status": "closed",
+      "eventDate": "2025-09-07",
+      "sortDate": "2025-09-07",
+      "dateLabel": "Sep 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "American / Brunch",
+      "neighborhood": "Western Gateway",
+      "story": "After about 14 years downtown, Americana announced it would close after service on September 7.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "KCCI",
+          "url": "https://www.kcci.com/article/americana-restaurant-des-moines-menu-closing-last-day/65872967"
+        },
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2026/02/06/des-moines-restaurants-closing-fast-economy"
+        }
+      ]
+    },
+    {
+      "id": "ritual-cafe-closure",
+      "name": "Ritual Cafe",
+      "status": "closed",
+      "eventDate": "2025-08-02",
+      "sortDate": "2025-08-02",
+      "dateLabel": "Aug 2025",
+      "datePrecision": "day",
+      "venueType": "cafe",
+      "venueTypeLabel": "Cafe",
+      "cuisine": "Coffee / Vegetarian",
+      "neighborhood": "Western Gateway",
+      "story": "Ritual Cafe closed after a 20-year run, ending one of downtown's most recognizable coffee-and-community spaces.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Des Moines Register via Yahoo",
+          "url": "https://www.yahoo.com/news/articles/lgbtq-friendly-coffee-shop-downtown-144214600.html"
+        }
+      ]
+    },
+    {
+      "id": "fongs-east-village-opening",
+      "name": "Fong's Pizza",
+      "status": "opened",
+      "eventDate": "2025-04-01",
+      "sortDate": "2025-04-01",
+      "dateLabel": "Apr 2025",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Pizza Bar",
+      "neighborhood": "East Village",
+      "story": "Fong's reopened in the East Village at the former Peace Tree site, turning a relocation into a major new chapter for the brand.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2025/03/25/east-village-fongs-location-opening-april"
+        },
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2025/02/05/fongs-pizza-moving-former-peace-tree-brewing-location"
+        }
+      ]
+    },
+    {
+      "id": "flora-opening",
+      "name": "Flora",
+      "status": "opened",
+      "eventDate": "2024-12-18",
+      "sortDate": "2024-12-18",
+      "dateLabel": "Dec 2024",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Farm-to-Table Lunch",
+      "neighborhood": "Botanical Garden",
+      "story": "Flora opened at the Greater Des Moines Botanical Garden in the space long occupied by Trellis.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2024/12/13/first-bite-flora"
+        }
+      ]
+    },
+    {
+      "id": "cowboy-mexican-opening",
+      "name": "Cowboy Mexican Bar & Grill",
+      "status": "opened",
+      "eventDate": "2024-12-01",
+      "sortDate": "2024-12-01",
+      "dateLabel": "Dec 2024",
+      "datePrecision": "month",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Mexican",
+      "neighborhood": "Highland Park",
+      "story": "Cowboy Mexican opened in the former El Rodeo space near East Euclid and E. 14th, giving the corridor a new bar-and-grill tenant.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2025/03/11/first-bite-cowboy-mexican-desmoines-new-restaurant"
+        }
+      ]
+    },
+    {
+      "id": "early-bird-east-village-opening",
+      "name": "Early Bird East Village",
+      "status": "opened",
+      "eventDate": "2024-10-31",
+      "sortDate": "2024-10-31",
+      "dateLabel": "Oct 2024",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Brunch",
+      "neighborhood": "East Village",
+      "story": "Early Bird expanded again with an East Village location, bringing its brunch-heavy menu to Court Avenue.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2024/10/31/early-bird-five-borough-bagels-open-des-moines"
+        }
+      ]
+    },
+    {
+      "id": "bussin-eggroll-opening",
+      "name": "Bussin' Eggroll and Rice Co.",
+      "status": "opened",
+      "eventDate": "2024-06-27",
+      "sortDate": "2024-06-27",
+      "dateLabel": "Jun 2024",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Fast Casual",
+      "neighborhood": "Downtown",
+      "story": "The Equitable Building gained a new quick-lunch option when Bussin' Eggroll and Rice Co. opened on the ground floor.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2024/06/27/bussin-eggroll-rice-co-desmoines"
+        }
+      ]
+    },
+    {
+      "id": "whiskey-house-closure",
+      "name": "Whiskey House",
+      "status": "closed",
+      "eventDate": "2024-06-01",
+      "sortDate": "2024-06-01",
+      "dateLabel": "Jun 2024",
+      "datePrecision": "month",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Live Music Bar",
+      "neighborhood": "Ankeny",
+      "story": "Whiskey House shut down after more than seven years as part of a cluster of Ankeny-area restaurant closures.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2024/06/12/ankeny-restaurants-close-club-car-luddys-whiskey-house"
+        }
+      ]
+    },
+    {
+      "id": "tacos-tequila-la-cava-closure",
+      "name": "Tacos & Tequila La Cava",
+      "status": "closed",
+      "eventDate": "2024-06-01",
+      "sortDate": "2024-06-01",
+      "dateLabel": "Jun 2024",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Mexican",
+      "neighborhood": "Ankeny",
+      "story": "The Ankeny Mexican gastrobar closed with plans to relocate out of state, part of a difficult month for local restaurants there.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2024/06/12/ankeny-restaurants-close-club-car-luddys-whiskey-house"
+        }
+      ]
+    },
+    {
+      "id": "luddys-tavern-closure",
+      "name": "Luddy's Tavern",
+      "status": "closed",
+      "eventDate": "2024-06-01",
+      "sortDate": "2024-06-01",
+      "dateLabel": "Jun 2024",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "German-American",
+      "neighborhood": "Ankeny",
+      "story": "Luddy's Tavern had a short run before closing during the same June shakeout that also hit several other Ankeny spots.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2024/06/12/ankeny-restaurants-close-club-car-luddys-whiskey-house"
+        }
+      ]
+    },
+    {
+      "id": "club-car-ankeny-closure",
+      "name": "Club Car Ankeny",
+      "status": "closed",
+      "eventDate": "2024-06-01",
+      "sortDate": "2024-06-01",
+      "dateLabel": "Jun 2024",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "American Bar & Grill",
+      "neighborhood": "Ankeny",
+      "story": "Club Car's Ankeny outpost, which had opened only the year before, permanently closed in June.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2024/06/12/ankeny-restaurants-close-club-car-luddys-whiskey-house"
+        }
+      ]
+    },
+    {
+      "id": "hugos-opening",
+      "name": "Hugo's Wood-Fired Kitchen",
+      "status": "opened",
+      "eventDate": "2024-05-31",
+      "sortDate": "2024-05-31",
+      "dateLabel": "May 2024",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Mediterranean / Pizza",
+      "neighborhood": "Drake",
+      "story": "Lynn Pritchard's Hugo's opened in late May on the Meals on Wheels campus, adding wood-fired cooking and a full bar near Drake.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2024/06/25/hugos-wood-fired-kitchen-desmmoines"
+        }
+      ]
+    },
+    {
+      "id": "prime-providence-opening",
+      "name": "Prime & Providence",
+      "status": "opened",
+      "eventDate": "2024-05-13",
+      "sortDate": "2024-05-13",
+      "dateLabel": "May 2024",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Steakhouse",
+      "neighborhood": "West Des Moines",
+      "story": "Prime & Providence debuted as a new high-end steakhouse with a soft opening just before its formal mid-May launch.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2024/05/08/prime-providence-steak-restaurant-review"
+        }
+      ]
+    },
+    {
+      "id": "zavy-kitchen-opening",
+      "name": "Zavy Kitchen",
+      "status": "opened",
+      "eventDate": "2024-04-19",
+      "sortDate": "2024-04-19",
+      "dateLabel": "Apr 2024",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Vietnamese",
+      "neighborhood": "East Village",
+      "story": "The team behind Pho Real expanded into the East Village with Zavy Kitchen, adding a new Vietnamese option downtown.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2024/04/19/zavy-kitchen-vietnamese-food-opens-east-village-des-moines"
+        }
+      ]
+    },
+    {
+      "id": "izumi-opening",
+      "name": "Izumi Sushi & Hibachi",
+      "status": "opened",
+      "eventDate": "2023-12-15",
+      "sortDate": "2023-12-15",
+      "dateLabel": "Dec 2023",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Sushi / Hibachi",
+      "neighborhood": "Clive",
+      "story": "Izumi opened in Clive before the new year, adding another all-you-can-eat sushi and hibachi option to the western suburbs.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2024/01/10/first-bite-izumi-sushi-hibachi"
+        }
+      ]
+    },
+    {
+      "id": "oak-park-opening",
+      "name": "Oak Park",
+      "status": "opened",
+      "eventDate": "2023-10-17",
+      "sortDate": "2023-10-17",
+      "dateLabel": "Oct 2023",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Fine Dining",
+      "neighborhood": "Ingersoll",
+      "story": "Oak Park opened after heavy anticipation, anchoring a new fine-dining addition on the western half of Ingersoll.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2023/10/20/oak-park-insider-look-anticipated-restaurant-opening"
+        }
+      ]
+    },
+    {
+      "id": "either-or-opening",
+      "name": "Either/Or",
+      "status": "opened",
+      "eventDate": "2023-09-15",
+      "sortDate": "2023-09-15",
+      "dateLabel": "Sep 2023",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "New American",
+      "neighborhood": "West Des Moines",
+      "story": "The Lua Brewing team opened Either/Or in a converted auto-parts building with a more ambitious full-service menu.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2023/09/26/either-or-restaurant-opens-lua-brewing"
+        }
+      ]
+    },
+    {
+      "id": "zora-closure",
+      "name": "Zora",
+      "status": "closed",
+      "eventDate": "2023-07-01",
+      "sortDate": "2023-07-01",
+      "dateLabel": "Jul 2023",
+      "datePrecision": "month",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Restaurant / Bar",
+      "neighborhood": "Ingersoll",
+      "story": "Zora closed amid escalating city scrutiny, nuisance complaints, and litigation tied to safety and operating issues.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2023/12/19/restaurants-closed-list-spaghetti-works-wahlburgers"
+        },
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2023/07/06/zora-future-liquor-license-desmoines-edwinallen"
+        }
+      ]
+    },
+    {
+      "id": "spaghetti-works-closure",
+      "name": "Spaghetti Works",
+      "status": "closed",
+      "eventDate": "2023-03-01",
+      "sortDate": "2023-03-01",
+      "dateLabel": "Mar 2023",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Italian",
+      "neighborhood": "Court Avenue",
+      "story": "The longtime Court Avenue institution closed in March 2023 after failing to recover from pandemic-era losses.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2023/12/19/2023-s-restaurant-closures"
+        },
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2024/10/22/spaghetti-works-court-avenue-bar-big-lars"
+        }
+      ]
+    },
+    {
+      "id": "maxies-closure",
+      "name": "Maxie's Restaurant & Lounge",
+      "status": "closed",
+      "eventDate": "2023-02-18",
+      "sortDate": "2023-02-18",
+      "dateLabel": "Feb 2023",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Classic American",
+      "neighborhood": "West Des Moines",
+      "story": "One of the metro's oldest restaurants closed after 56 years when its owner faced health issues and a sale failed to materialize in time.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2023/01/13/west-des-moines-maxies-permanently-closing"
+        }
+      ]
+    },
+    {
+      "id": "faustinos-opening",
+      "name": "Faustinos Taqueria",
+      "status": "opened",
+      "eventDate": "2023-02-01",
+      "sortDate": "2023-02-01",
+      "dateLabel": "Feb 2023",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Mexican",
+      "neighborhood": "Franklin Avenue",
+      "story": "Faustinos opened in Franklin Plaza with Guerrero-rooted recipes and quickly became a local taco favorite.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2023/03/22/faustinos-taqueria-opens-desmoines"
+        }
+      ]
+    },
+    {
+      "id": "homegrown-opening",
+      "name": "HomeGrown",
+      "status": "opened",
+      "eventDate": "2023-01-30",
+      "sortDate": "2023-01-30",
+      "dateLabel": "Jan 2023",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Breakfast / Brunch",
+      "neighborhood": "Sherman Hill",
+      "story": "HomeGrown opened in the Crescent Building as the restaurant's first Iowa location.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2023/01/31/homegrown-desmoines-open-restaurant-iowa-first"
+        },
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2023/01/23/homegrown-restaurant-opening-near-sherman-hill"
+        }
+      ]
+    },
+    {
+      "id": "wahlburgers-jordan-creek-closure",
+      "name": "Wahlburgers Jordan Creek",
+      "status": "closed",
+      "eventDate": "2023-01-01",
+      "sortDate": "2023-01-01",
+      "dateLabel": "Jan 2023",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Burgers",
+      "neighborhood": "West Des Moines",
+      "story": "Hy-Vee pulled back from standalone Wahlburgers locations in early 2023, closing the original Jordan Creek outpost.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2023/12/19/restaurants-closed-list-spaghetti-works-wahlburgers"
+        }
+      ]
+    },
+    {
+      "id": "coopers-hawk-opening",
+      "name": "Cooper's Hawk Winery & Restaurant",
+      "status": "opened",
+      "eventDate": "2022-12-05",
+      "sortDate": "2022-12-05",
+      "dateLabel": "Dec 2022",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Winery / Steakhouse",
+      "neighborhood": "Clive",
+      "story": "Cooper's Hawk opened its first Iowa location in the former Granite City site on University Avenue.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2022/12/02/coopers-hawk-winery-opening-iowa"
+        }
+      ]
+    },
+    {
+      "id": "1717-brewing-closure",
+      "name": "1717 Brewing Co.",
+      "status": "closed",
+      "eventDate": "2022-12-04",
+      "sortDate": "2022-12-04",
+      "dateLabel": "Dec 2022",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Brewery",
+      "neighborhood": "Market District",
+      "story": "1717 Brewing shut its taproom after four years in business, becoming one of the more notable brewery losses of late 2022.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Des Moines Register via Yahoo",
+          "url": "https://www.yahoo.com/entertainment/another-brewery-closes-weekend-time-110118395.html"
+        }
+      ]
+    },
+    {
+      "id": "proof-closure",
+      "name": "Proof",
+      "status": "closed",
+      "eventDate": "2022-11-19",
+      "sortDate": "2022-11-19",
+      "dateLabel": "Nov 2022",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "New American",
+      "neighborhood": "Downtown",
+      "story": "Proof closed after service on Nov. 19, ending a highly regarded downtown tasting-menu run that many locals considered one of the city's best restaurants.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Des Moines Register via Yahoo",
+          "url": "https://www.yahoo.com/entertainment/one-best-restaurants-des-moines-213602982.html"
+        }
+      ]
+    },
+    {
+      "id": "ninas-tacos-closure",
+      "name": "Nina's Tacos",
+      "status": "closed",
+      "eventDate": "2022-10-31",
+      "sortDate": "2022-10-31",
+      "dateLabel": "Oct 2022",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Mexican",
+      "neighborhood": "South Side",
+      "story": "Nina's Tacos closed its south-side restaurant after multiple break-ins, shifting its focus back to the food-truck side of the business.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2022/10/31/ninas-tacos-closes-restaurant-multiple-break-ins"
+        }
+      ]
+    },
+    {
+      "id": "gusto-wdm-closure",
+      "name": "Gusto Pizza West Des Moines",
+      "status": "closed",
+      "eventDate": "2022-10-06",
+      "sortDate": "2022-10-06",
+      "dateLabel": "Oct 2022",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Pizza",
+      "neighborhood": "West Des Moines",
+      "story": "Gusto closed its West Des Moines location while consolidating around a newly reopened Des Moines flagship.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2022/10/06/gusto-pizza-reopens-des-moines-closes-other-location"
+        }
+      ]
+    },
+    {
+      "id": "gusto-ingersoll-reopening",
+      "name": "Gusto Pizza Ingersoll Relaunch",
+      "status": "opened",
+      "eventDate": "2022-10-06",
+      "sortDate": "2022-10-06",
+      "dateLabel": "Oct 2022",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Pizza",
+      "neighborhood": "Ingersoll",
+      "story": "Gusto reopened in a larger Ingersoll location after a summer hiatus, turning a delayed pandemic-era expansion into one of the corridor's more meaningful 2022 relaunches.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2022/10/06/gusto-pizza-reopens-des-moines-closes-other-location"
+        },
+        {
+          "label": "Des Moines Register via AOL",
+          "url": "https://www.aol.com/gusto-pizza-bar-ingersoll-avenue-214442799.html"
+        }
+      ]
+    },
+    {
+      "id": "home-touch-kitchen-opening",
+      "name": "Home Touch Kitchen",
+      "status": "opened",
+      "eventDate": "2022-09-22",
+      "sortDate": "2022-09-22",
+      "dateLabel": "Sep 2022",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Afro-Soul",
+      "neighborhood": "East Village",
+      "story": "Home Touch Kitchen opened on East Grand with Liberian and West African influences brought into an Afro-Soul format.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2022/09/22/home-touch-kitchen-des-moines-new-afro-soul-food-restaurant"
+        }
+      ]
+    },
+    {
+      "id": "big-grove-opening",
+      "name": "Big Grove Brewery & Taproom",
+      "status": "opened",
+      "eventDate": "2022-07-27",
+      "sortDate": "2022-07-27",
+      "dateLabel": "Jul 2022",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Brewery / Restaurant",
+      "neighborhood": "Sherman Hill",
+      "story": "Big Grove opened its giant Sherman Hill taproom and restaurant in the former Crescent Chevrolet building, one of the metro's splashiest 2022 launches.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Des Moines Register via Yahoo",
+          "url": "https://www.yahoo.com/entertainment/big-grove-brewery-brings-giant-173454891.html"
+        },
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2022/04/05/des-moines-crescent-chevrolet-sign-landmark-proposal"
+        }
+      ]
+    },
+    {
+      "id": "chicken-shack-opening",
+      "name": "The Chicken Shack",
+      "status": "opened",
+      "eventDate": "2022-07-21",
+      "sortDate": "2022-07-21",
+      "dateLabel": "Jul 2022",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Fast Casual Chicken",
+      "neighborhood": "Highland Park",
+      "story": "The Las Vegas-based Chicken Shack entered the market with its first Iowa location on East Euclid.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2022/07/21/des-moines-new-chain-restaurant-the-chicken-shack"
+        }
+      ]
+    },
+    {
+      "id": "continental-reopening",
+      "name": "The Continental",
+      "status": "opened",
+      "eventDate": "2022-06-01",
+      "sortDate": "2022-06-01",
+      "dateLabel": "Jun 2022",
+      "datePrecision": "month",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Cocktail Lounge / Restaurant",
+      "neighborhood": "East Village",
+      "story": "After two years away, The Continental returned in a new East Village space, reviving one of the neighborhood's signature cocktail-and-small-plates spots.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2022/07/05/continental-new-east-village-restaurant-space"
+        },
+        {
+          "label": "Cityview",
+          "url": "https://www.dmcityview.com/belly-up/2024/03/06/the-continental/"
+        }
+      ]
+    },
+    {
+      "id": "rice-bowl-closure",
+      "name": "Rice Bowl",
+      "status": "closed",
+      "eventDate": "2022-04-26",
+      "sortDate": "2022-04-26",
+      "dateLabel": "Apr 2022",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Chinese",
+      "neighborhood": "Beaverdale",
+      "story": "Rice Bowl permanently closed after serving Beaverdale for more than 45 years, ending a long Lee-family run.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2022/04/26/rice-bowl-des-moines-closing"
+        }
+      ]
+    },
+    {
+      "id": "casa-cancun-opening",
+      "name": "Casa Cancun Mexican Bar & Grill",
+      "status": "opened",
+      "eventDate": "2022-04-12",
+      "sortDate": "2022-04-12",
+      "dateLabel": "Apr 2022",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Latin American / Mexican",
+      "neighborhood": "South Side",
+      "story": "Casa Cancun opened in the former Strudl Haus building on Indianola Avenue with Mexican and Venezuelan dishes.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2022/04/12/casa-cancun-bar-grill-des-moines-review"
+        }
+      ]
+    },
+    {
+      "id": "tupelo-honey-opening",
+      "name": "Tupelo Honey",
+      "status": "opened",
+      "eventDate": "2022-03-18",
+      "sortDate": "2022-03-18",
+      "dateLabel": "Mar 2022",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Southern",
+      "neighborhood": "Downtown",
+      "story": "Tupelo Honey finally opened its first Iowa restaurant after a long pandemic delay.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2022/03/18/des-moines-tupelo-honey-new-restaurant"
+        }
+      ]
+    },
+    {
+      "id": "503-opening",
+      "name": "503 Cocktail Lab + Tasting Room",
+      "status": "opened",
+      "eventDate": "2022-02-01",
+      "sortDate": "2022-02-01",
+      "dateLabel": "Feb 2022",
+      "datePrecision": "month",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Cocktail Bar / Small Plates",
+      "neighborhood": "East Village",
+      "story": "Chef Lynn Pritchard opened 503 as a drink lab and tasting room in the East Village, giving the area a clever small-footprint cocktail destination.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2022/01/24/des-moines-east-village-new-restaurant-503"
+        },
+        {
+          "label": "Des Moines Register via AOL",
+          "url": "https://www.aol.com/chef-lynn-pritchard-abruptly-closes-113119333.html"
+        }
+      ]
+    },
+    {
+      "id": "mad-meatball-reopening",
+      "name": "Mad Meatball",
+      "status": "opened",
+      "eventDate": "2022-01-25",
+      "sortDate": "2022-01-25",
+      "dateLabel": "Jan 2022",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Pizza / Subs",
+      "neighborhood": "Gray's Station",
+      "story": "Mad Meatball returned to Des Moines at LINC at Gray's Station after closing its East Village location and delaying a comeback during the pandemic.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2022/01/26/mad-meatball-returns-to-des-moines"
+        }
+      ]
+    },
+    {
+      "id": "ricochet-opening",
+      "name": "Ricochet",
+      "status": "opened",
+      "eventDate": "2022-01-01",
+      "sortDate": "2022-01-01",
+      "dateLabel": "Jan 2022",
+      "datePrecision": "month",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Game Lounge / Bar",
+      "neighborhood": "Court Avenue",
+      "story": "Ricochet finally opened its larger downtown game lounge after a pandemic-delayed move out of the East Village.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2022/01/05/ricochet-des-moines-game-lounge-ping-pong"
+        }
+      ]
+    },
+    {
+      "id": "hobnob-opening",
+      "name": "Hobnob Coffee and Wine Bar",
+      "status": "opened",
+      "eventDate": "2021-12-20",
+      "sortDate": "2021-12-20",
+      "dateLabel": "Dec 2021",
+      "datePrecision": "day",
+      "venueType": "cafe",
+      "venueTypeLabel": "Cafe",
+      "cuisine": "Coffee / Wine Bar",
+      "neighborhood": "Downtown",
+      "story": "Hobnob opened inside Hotel Fort Des Moines as a sister concept across from Proudfoot & Bird.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2021/12/21/hobnob-coffee-and-wine-bar-des-moines"
+        }
+      ]
+    },
+    {
+      "id": "java-joes-closure",
+      "name": "Java Joe's",
+      "status": "closed",
+      "eventDate": "2021-11-16",
+      "sortDate": "2021-11-16",
+      "dateLabel": "Nov 2021",
+      "datePrecision": "day",
+      "venueType": "cafe",
+      "venueTypeLabel": "Cafe",
+      "cuisine": "Coffeehouse",
+      "neighborhood": "Downtown",
+      "story": "Java Joe's closed on 4th Street and announced a move to Ankeny, adding to the block's pandemic-era losses.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2021/11/18/des-moines-4th-street-business-closed-pandemic"
+        }
+      ]
+    },
+    {
+      "id": "proudfoot-bird-opening",
+      "name": "Proudfoot & Bird",
+      "status": "opened",
+      "eventDate": "2021-10-14",
+      "sortDate": "2021-10-14",
+      "dateLabel": "Oct 2021",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Hotel Dining",
+      "neighborhood": "Downtown",
+      "story": "Proudfoot & Bird opened with the revived Hotel Fort Des Moines project, restoring a major downtown dining room.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2021/10/14/des-moines-proudfoot-and-bird-hotel"
+        }
+      ]
+    },
+    {
+      "id": "alleged-lees-opening",
+      "name": "Alleged Lee's",
+      "status": "opened",
+      "eventDate": "2021-10-01",
+      "sortDate": "2021-10-01",
+      "dateLabel": "Oct 2021",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Speakeasy",
+      "neighborhood": "East Village",
+      "story": "Alleged Lee's opened next to a reopened Quinton's East Village with a Prohibition-era Iowa theme and whiskey focus.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2021/09/09/des-moines-speakeasy-quintons-bar-alleged-lees"
+        }
+      ]
+    },
+    {
+      "id": "new-northwestern-opening",
+      "name": "The New Northwestern",
+      "status": "opened",
+      "eventDate": "2021-09-30",
+      "sortDate": "2021-09-30",
+      "dateLabel": "Sep 2021",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Cocktail & Wine Bar",
+      "neighborhood": "East Village",
+      "story": "The New Northwestern opened in a restored historic building with an elegant small-plates, cocktails, and wine focus.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2021/09/30/new-northwestern-des-moines-food-cocktails-review"
+        },
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2021/05/21/new-restaurant-des-moines-historic-northwestern-hotel"
+        }
+      ]
+    },
+    {
+      "id": "dobre-opening",
+      "name": "Dobre Tasting Room",
+      "status": "opened",
+      "eventDate": "2021-07-01",
+      "sortDate": "2021-07-01",
+      "dateLabel": "Jul 2021",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Eclectic / Seltzer Bar",
+      "neighborhood": "East Village",
+      "story": "Dobre arrived in the East Village in summer 2021 with one of Des Moines' first handcrafted seltzer-bar concepts, though it proved short-lived.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2021/06/15/dobre-tasting-room-des-moines-east-village"
+        },
+        {
+          "label": "Des Moines Register via AOL",
+          "url": "https://www.aol.com/chef-lynn-pritchard-abruptly-closes-113119333.html"
+        }
+      ]
+    },
+    {
+      "id": "tako-opening",
+      "name": "TaKo",
+      "status": "opened",
+      "eventDate": "2021-04-15",
+      "sortDate": "2021-04-15",
+      "dateLabel": "Apr 2021",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Tex-Mex / Korean Fusion",
+      "neighborhood": "West Des Moines",
+      "story": "TaKo opened at Boomer's Bicycle Lounge with a Korean barbecue and Tex-Mex fusion menu.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2021/04/15/tex-mex-asian-fusion-restaurant-west-des-moines"
+        }
+      ]
+    },
+    {
+      "id": "good-news-darling-opening",
+      "name": "Good News, Darling",
+      "status": "opened",
+      "eventDate": "2021-04-09",
+      "sortDate": "2021-04-09",
+      "dateLabel": "Apr 2021",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Cocktail Bar",
+      "neighborhood": "Downtown",
+      "story": "Good News, Darling opened behind Hello, Marjorie with an intimate, cocktail-forward format that quickly became a downtown favorite.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2021/04/02/good-news-darling-des-moines-cocktail-bar"
+        }
+      ]
+    },
+    {
+      "id": "riccellis-closure",
+      "name": "Riccelli's Italian Restaurant",
+      "status": "closed",
+      "eventDate": "2020-01-01",
+      "sortDate": "2020-01-01",
+      "dateLabel": "2020",
+      "datePrecision": "year",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Italian",
+      "neighborhood": "South Side",
+      "story": "Riccelli's is included as a major pandemic-era loss; later redevelopment and sale reporting confirmed the family had closed the longtime restaurant in 2020.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2024/04/19/riccellis-restaurant-desmoines-italian-food-sold"
+        },
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2024/07/16/riccellis-italian-restaurant-demolished-desmoines"
+        }
+      ]
+    },
+    {
+      "id": "george-the-chili-king-closure",
+      "name": "George the Chili King",
+      "status": "closed",
+      "eventDate": "2020-01-01",
+      "sortDate": "2020-01-01",
+      "dateLabel": "2020",
+      "datePrecision": "year",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Classic Drive-In",
+      "neighborhood": "Merle Hay",
+      "story": "One of the metro's most mourned old-school closures, George the Chili King is kept as a history anchor even though the exact closure date still needs tighter documentation.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "Triple D Life",
+          "url": "https://tripledlife.com/restaurant/george-the-chili-king/"
+        },
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2023/10/23/taco-casa-new-owners-mexican-food"
+        }
+      ]
+    }
+  ]
+}

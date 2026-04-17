@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Last Call DSM Review Queue</title>
+    <meta
+      name="description"
+      content="Editorial review queue for Last Call DSM lead candidates."
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="review.css" />
+  </head>
+  <body>
+    <main class="page-shell">
+      <header class="hero">
+        <p class="eyebrow">LAST CALL DSM • EDITORIAL TOOLS</p>
+        <div class="hero-actions">
+          <a class="hero-link" href="index.html">Back To Timeline</a>
+        </div>
+        <h1>Review Queue</h1>
+        <p class="hero-copy">
+          Triage raw candidates before they become public history. Decisions here
+          stay local in your browser until you export them.
+        </p>
+      </header>
+
+      <section class="stats" aria-label="Review summary">
+        <article class="stat-card">
+          <p class="stat-label">Candidates</p>
+          <strong class="stat-value" data-review-stat="candidates">0</strong>
+        </article>
+        <article class="stat-card">
+          <p class="stat-label">High Score</p>
+          <strong class="stat-value status-opened" data-review-stat="high">0</strong>
+        </article>
+        <article class="stat-card">
+          <p class="stat-label">Possible Duplicates</p>
+          <strong class="stat-value status-warm" data-review-stat="duplicates">0</strong>
+        </article>
+        <article class="stat-card">
+          <p class="stat-label">Reviewed</p>
+          <strong class="stat-value status-closed" data-review-stat="reviewed">0</strong>
+        </article>
+      </section>
+
+      <section class="controls" aria-label="Review filters">
+        <div class="control-row">
+          <span class="control-label">Lead</span>
+          <div class="chip-row" id="candidate-status-filters">
+            <button class="chip active" data-filter-group="candidateStatus" data-value="all">All</button>
+            <button class="chip chip-opened" data-filter-group="candidateStatus" data-value="opened">Openings</button>
+            <button class="chip chip-closed" data-filter-group="candidateStatus" data-value="closed">Closures</button>
+            <button class="chip" data-filter-group="candidateStatus" data-value="moved">Moves</button>
+            <button class="chip" data-filter-group="candidateStatus" data-value="review">Needs Parsing</button>
+          </div>
+        </div>
+        <div class="control-row">
+          <span class="control-label">Decision</span>
+          <div class="chip-row" id="decision-filters">
+            <button class="chip active" data-filter-group="decision" data-value="all">All</button>
+            <button class="chip" data-filter-group="decision" data-value="unreviewed">Unreviewed</button>
+            <button class="chip chip-opened" data-filter-group="decision" data-value="accept">Accept</button>
+            <button class="chip" data-filter-group="decision" data-value="hold">Hold</button>
+            <button class="chip chip-closed" data-filter-group="decision" data-value="reject">Reject</button>
+          </div>
+        </div>
+        <div class="control-row">
+          <label class="search-label" for="review-search">Search</label>
+          <input
+            id="review-search"
+            class="search-input"
+            type="search"
+            placeholder="Search titles, venue guesses, areas, terms, or summaries"
+          />
+        </div>
+      </section>
+
+      <section class="review-toolbar">
+        <button class="chip" id="export-decisions">Export Decisions</button>
+        <button class="chip" id="clear-decisions">Clear Decisions</button>
+        <p class="toolbar-note" id="toolbar-note">
+          Waiting for candidate data.
+        </p>
+      </section>
+
+      <section id="review-list" class="review-list" aria-live="polite"></section>
+    </main>
+
+    <template id="candidate-template">
+      <article class="candidate-card">
+        <div class="candidate-head">
+          <div class="candidate-title-wrap">
+            <h2 class="candidate-title"></h2>
+            <p class="candidate-meta"></p>
+          </div>
+          <div class="candidate-pills"></div>
+        </div>
+        <p class="candidate-summary"></p>
+        <div class="candidate-links"></div>
+        <div class="candidate-hints"></div>
+        <div class="decision-row">
+          <button class="chip" data-decision="accept">Accept</button>
+          <button class="chip" data-decision="hold">Hold</button>
+          <button class="chip" data-decision="reject">Reject</button>
+        </div>
+      </article>
+    </template>
+
+    <script src="review.js" defer></script>
+  </body>
+</html>

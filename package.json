@@ -1,0 +1,13 @@
+{
+  "name": "last-call-dsm",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Des Moines restaurant and bar opening and closure tracker",
+  "scripts": {
+    "dev": "python3 -m http.server 4173",
+    "collect": "python3 scripts/collect.py",
+    "verify:places": "python3 scripts/collect.py --verify-places",
+    "check:py": "python3 -m py_compile scripts/collect.py",
+    "audit:data": "python3 scripts/audit_data.py"
+  }
+}

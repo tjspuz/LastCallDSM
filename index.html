@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Last Call DSM</title>
+    <meta
+      name="description"
+      content="Tracking Des Moines restaurant and bar openings, closures, relocations, and reopenings."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="ambient ambient-left"></div>
+    <div class="ambient ambient-right"></div>
+
+    <main class="page-shell">
+      <header class="hero">
+        <p class="eyebrow">DES MOINES, IOWA • HISTORY WATCH</p>
+        <div class="hero-actions">
+          <a class="hero-link" href="review.html">Open Review Queue</a>
+        </div>
+        <h1>
+          <span class="status-closed">Last Call</span>
+          <span class="hero-ampersand">&amp;</span>
+          <span class="status-opened">Grand Opening</span>
+        </h1>
+        <p class="hero-copy">
+          Tracking restaurant and bar openings, closures, reopenings, and moves
+          across the Des Moines metro.
+        </p>
+        <p class="hero-copy hero-copy-muted">
+          Built from Google News watchlists, Reddit leads, Google Places
+          verification, and manual curation so rumors stay separate from confirmed
+          history.
+        </p>
+      </header>
+
+      <section class="stats" aria-label="Summary metrics">
+        <article class="stat-card">
+          <p class="stat-label">Tracked Total</p>
+          <strong class="stat-value" data-stat="total">0</strong>
+        </article>
+        <article class="stat-card">
+          <p class="stat-label">Closed</p>
+          <strong class="stat-value status-closed" data-stat="closed">0</strong>
+        </article>
+        <article class="stat-card">
+          <p class="stat-label">Opened</p>
+          <strong class="stat-value status-opened" data-stat="opened">0</strong>
+        </article>
+        <article class="stat-card">
+          <p class="stat-label">This Month</p>
+          <strong class="stat-value status-warm" data-stat="month">0</strong>
+        </article>
+      </section>
+
+      <section class="controls" aria-label="Filters">
+        <div class="control-row">
+          <span class="control-label">Show</span>
+          <div class="chip-row" id="status-filters">
+            <button class="chip active" data-filter-group="status" data-value="all">
+              All
+            </button>
+            <button class="chip chip-closed" data-filter-group="status" data-value="closed">
+              Closures
+            </button>
+            <button class="chip chip-opened" data-filter-group="status" data-value="opened">
+              Openings
+            </button>
+          </div>
+        </div>
+
+        <div class="control-row">
+          <span class="control-label">Type</span>
+          <div class="chip-row" id="type-filters"></div>
+        </div>
+
+        <div class="control-row">
+          <span class="control-label">Area</span>
+          <div class="chip-row" id="area-filters"></div>
+        </div>
+
+        <div class="control-row">
+          <label class="search-label" for="search">Search</label>
+          <input
+            id="search"
+            class="search-input"
+            type="search"
+            placeholder="Search by venue, neighborhood, cuisine, or note"
+          />
+        </div>
+      </section>
+
+      <section class="legend">
+        <div class="legend-item">
+          <span class="legend-dot legend-verified"></span>
+          Verified means the event has an official source, Google Places confirmation,
+          or at least two independent reports.
+        </div>
+        <div class="legend-item">
+          <span class="legend-dot legend-review"></span>
+          In review means the lead is credible enough to track but still needs a
+          second source or manual confirmation.
+        </div>
+      </section>
+
+      <section id="timeline" class="timeline" aria-live="polite"></section>
+
+      <template id="event-template">
+        <article class="event-card">
+          <div class="event-icon" data-field="icon"></div>
+          <div class="event-main">
+            <div class="event-header">
+              <div>
+                <h3 data-field="name"></h3>
+                <p class="event-subhead" data-field="meta"></p>
+              </div>
+              <div class="event-badges">
+                <span class="badge badge-status" data-field="status"></span>
+                <span class="badge badge-verification" data-field="verification"></span>
+              </div>
+            </div>
+            <p class="event-story" data-field="story"></p>
+            <p class="event-sources" data-field="sources"></p>
+          </div>
+          <div class="event-date-block">
+            <span class="event-date" data-field="date"></span>
+          </div>
+        </article>
+      </template>
+
+      <section class="methodology">
+        <h2>Method</h2>
+        <div class="method-grid">
+          <article class="method-card">
+            <h3>1. Find Leads</h3>
+            <p>
+              Google News RSS queries catch local coverage fast, while Reddit helps
+              surface neighborhood chatter that mainstream outlets miss.
+            </p>
+          </article>
+          <article class="method-card">
+            <h3>2. Verify Status</h3>
+            <p>
+              Closures and moves are cross-checked with Google Places business
+              status, official posts, or multiple independent reports before being
+              marked verified.
+            </p>
+          </article>
+          <article class="method-card">
+            <h3>3. Preserve History</h3>
+            <p>
+              Older venues stay in the timeline with source notes, date precision,
+              and context so famous Des Moines spots do not disappear after the
+              headlines fade.
+            </p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>

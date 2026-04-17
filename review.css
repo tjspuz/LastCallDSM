@@ -1,0 +1,137 @@
+.review-toolbar {
+  border-top: 1px solid var(--line);
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  display: flex;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.toolbar-note {
+  color: var(--muted);
+  margin: 0;
+}
+
+.review-list {
+  border-top: 1px solid var(--line);
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.candidate-card {
+  background: var(--panel);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: var(--card-radius);
+  box-shadow: var(--shadow);
+  padding: 1.4rem 1.5rem;
+}
+
+.candidate-head {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.candidate-title {
+  font-size: clamp(1.35rem, 2vw, 1.8rem);
+}
+
+.candidate-meta,
+.candidate-summary {
+  margin: 0.5rem 0 0;
+  line-height: 1.5;
+}
+
+.candidate-meta,
+.candidate-links,
+.candidate-hints {
+  color: var(--muted);
+}
+
+.candidate-pills {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  border-radius: 999px;
+  padding: 0.35rem 0.8rem;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  font-family: "Courier New", "SFMono-Regular", monospace;
+  font-size: 0.84rem;
+}
+
+.pill.opened {
+  border-color: var(--opened);
+  background: var(--opened-soft);
+  color: #eef7df;
+}
+
+.pill.closed {
+  border-color: var(--closed);
+  background: var(--closed-soft);
+  color: #fff0ef;
+}
+
+.pill.moved,
+.pill.review,
+.pill.duplicate,
+.pill.score {
+  color: var(--text);
+}
+
+.candidate-links,
+.candidate-hints {
+  margin-top: 0.9rem;
+  line-height: 1.55;
+}
+
+.candidate-links a {
+  color: inherit;
+}
+
+.decision-row {
+  margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+}
+
+.decision-row .chip.active[data-decision="accept"] {
+  background: var(--opened-soft);
+  border-color: var(--opened);
+}
+
+.decision-row .chip.active[data-decision="hold"] {
+  background: rgba(184, 132, 44, 0.16);
+  border-color: var(--warm);
+}
+
+.decision-row .chip.active[data-decision="reject"] {
+  background: var(--closed-soft);
+  border-color: var(--closed);
+}
+
+.review-empty {
+  color: var(--muted);
+  margin: 0;
+}
+
+@media (max-width: 700px) {
+  .candidate-head {
+    flex-direction: column;
+  }
+
+  .candidate-pills {
+    justify-content: flex-start;
+  }
+}

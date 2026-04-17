@@ -1,0 +1,61 @@
+{
+  "metroAliases": [
+    "Des Moines",
+    "West Des Moines",
+    "Waukee",
+    "Clive",
+    "Urbandale",
+    "Johnston",
+    "Ankeny",
+    "Altoona",
+    "Pleasant Hill",
+    "Windsor Heights",
+    "Beaverdale",
+    "East Village",
+    "Ingersoll"
+  ],
+  "googleNews": [
+    {
+      "id": "metro-openings",
+      "label": "Metro openings",
+      "query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (opened OR opening OR \"soft opening\" OR \"grand opening\" OR reopening)"
+    },
+    {
+      "id": "metro-closures",
+      "label": "Metro closures",
+      "query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)"
+    },
+    {
+      "id": "suburb-openings",
+      "label": "Suburb openings",
+      "query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (opened OR opening OR reopening)"
+    },
+    {
+      "id": "suburb-closures",
+      "label": "Suburb closures",
+      "query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)"
+    },
+    {
+      "id": "official-social-statements",
+      "label": "Official closure or move statements",
+      "query": "\"Des Moines\" (restaurant OR bar) (\"last day\" OR \"permanently closed\" OR reopening OR relocated)"
+    }
+  ],
+  "redditSearches": [
+    {
+      "id": "reddit-openings",
+      "label": "r/desmoines openings",
+      "query": "\"new restaurant\" OR opening OR opened OR \"soft opening\" OR \"grand opening\""
+    },
+    {
+      "id": "reddit-closures",
+      "label": "r/desmoines closures",
+      "query": "closing OR closed OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR sold"
+    },
+    {
+      "id": "reddit-moves",
+      "label": "r/desmoines relocations",
+      "query": "moving OR moved OR relocating OR relocation OR reopening"
+    }
+  ]
+}
