@@ -11,153 +11,115 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <div class="ambient ambient-left"></div>
-    <div class="ambient ambient-right"></div>
-
     <main class="page-shell">
-      <header class="hero">
-        <p class="eyebrow">DES MOINES, IOWA • HISTORY WATCH</p>
-        <div class="hero-actions">
-          <a class="hero-link" href="review.html">Open Review Queue</a>
+      <header class="masthead">
+        <div class="masthead-top">
+          <p class="eyebrow">DES MOINES, IA RESTAURANT ARCHIVE</p>
+          <a class="utility-link" href="review.html">Review Queue</a>
         </div>
-        <h1>
-          <span class="status-closed">Last Call</span>
-          <span class="hero-ampersand">&amp;</span>
-          <span class="status-opened">Grand Opening</span>
-        </h1>
+        <h1>Last Call DSM</h1>
         <p class="hero-copy">
-          Tracking restaurant and bar openings, closures, reopenings, and moves
-          across the Des Moines metro.
+          A running archive of Des Moines metro restaurant and bar openings and
+          closures, verified from local reporting, official posts, Google status
+          checks, and community leads.
         </p>
-        <p class="hero-copy hero-copy-muted">
-          Built from Google News watchlists, Reddit leads, Google Places
-          verification, and manual curation so rumors stay separate from confirmed
-          history.
-        </p>
+        <div class="summary-strip" aria-label="Dataset summary">
+          <span>Archive <strong data-stat="total">0</strong></span>
+          <span>Closed <strong class="status-closed" data-stat="closed">0</strong></span>
+          <span>Opened <strong class="status-opened" data-stat="opened">0</strong></span>
+          <span>This Month <strong class="status-warm" data-stat="month">0</strong></span>
+        </div>
       </header>
 
-      <section class="stats" aria-label="Summary metrics">
-        <article class="stat-card">
-          <p class="stat-label">Tracked Total</p>
-          <strong class="stat-value" data-stat="total">0</strong>
-        </article>
-        <article class="stat-card">
-          <p class="stat-label">Closed</p>
-          <strong class="stat-value status-closed" data-stat="closed">0</strong>
-        </article>
-        <article class="stat-card">
-          <p class="stat-label">Opened</p>
-          <strong class="stat-value status-opened" data-stat="opened">0</strong>
-        </article>
-        <article class="stat-card">
-          <p class="stat-label">This Month</p>
-          <strong class="stat-value status-warm" data-stat="month">0</strong>
-        </article>
-      </section>
-
-      <section class="controls" aria-label="Filters">
-        <div class="control-row">
-          <span class="control-label">Show</span>
-          <div class="chip-row" id="status-filters">
-            <button class="chip active" data-filter-group="status" data-value="all">
-              All
-            </button>
-            <button class="chip chip-closed" data-filter-group="status" data-value="closed">
-              Closures
-            </button>
-            <button class="chip chip-opened" data-filter-group="status" data-value="opened">
-              Openings
-            </button>
-          </div>
+      <section class="toolbar" aria-label="Search and filters">
+        <div class="toolbar-row toolbar-row-search">
+          <label class="toolbar-search" for="search">
+            <span class="toolbar-label">Search</span>
+            <input
+              id="search"
+              class="search-input"
+              type="search"
+              placeholder="Search by venue, source, neighborhood, or note"
+            />
+          </label>
+          <p class="results-copy">
+            Filter Archive
+            <span data-results-count>0 results</span>
+          </p>
         </div>
-
-        <div class="control-row">
-          <span class="control-label">Type</span>
-          <div class="chip-row" id="type-filters"></div>
-        </div>
-
-        <div class="control-row">
-          <span class="control-label">Area</span>
-          <div class="chip-row" id="area-filters"></div>
-        </div>
-
-        <div class="control-row">
-          <label class="search-label" for="search">Search</label>
-          <input
-            id="search"
-            class="search-input"
-            type="search"
-            placeholder="Search by venue, neighborhood, cuisine, or note"
-          />
+        <div class="toolbar-row toolbar-row-filters">
+          <label class="filter-field" for="status-filter">
+            <span class="toolbar-label">Status</span>
+            <select id="status-filter" class="filter-select">
+              <option value="all">All statuses</option>
+              <option value="closed">Closures</option>
+              <option value="opened">Openings</option>
+            </select>
+          </label>
+          <label class="filter-field" for="type-filter">
+            <span class="toolbar-label">Type</span>
+            <select id="type-filter" class="filter-select">
+              <option value="all">All types</option>
+            </select>
+          </label>
+          <label class="filter-field" for="area-filter">
+            <span class="toolbar-label">Area</span>
+            <select id="area-filter" class="filter-select">
+              <option value="all">All areas</option>
+            </select>
+          </label>
+          <label class="filter-field" for="verification-filter">
+            <span class="toolbar-label">Verification</span>
+            <select id="verification-filter" class="filter-select">
+              <option value="all">All records</option>
+              <option value="verified">Verified only</option>
+              <option value="review">Review only</option>
+            </select>
+          </label>
         </div>
       </section>
 
-      <section class="legend">
-        <div class="legend-item">
-          <span class="legend-dot legend-verified"></span>
-          Verified means the event has an official source, Google Places confirmation,
-          or at least two independent reports.
-        </div>
-        <div class="legend-item">
-          <span class="legend-dot legend-review"></span>
-          In review means the lead is credible enough to track but still needs a
-          second source or manual confirmation.
-        </div>
+      <section class="legend" aria-label="Legend">
+        <p>
+          Verified records have direct coverage, official statements, or cross-source
+          confirmation. Review records stay visible when the history matters but the
+          date or sourcing still needs another pass.
+        </p>
       </section>
 
       <section id="timeline" class="timeline" aria-live="polite"></section>
 
       <template id="event-template">
-        <article class="event-card">
-          <div class="event-icon" data-field="icon"></div>
-          <div class="event-main">
-            <div class="event-header">
-              <div>
+        <article class="entry-card">
+          <div class="entry-marker">
+            <div class="entry-icon" data-field="icon"></div>
+            <p class="entry-date" data-field="date"></p>
+            <p class="entry-type" data-field="type"></p>
+          </div>
+          <div class="entry-main">
+            <div class="entry-heading">
+              <div class="entry-heading-copy">
+                <p class="entry-kicker" data-field="kicker"></p>
                 <h3 data-field="name"></h3>
-                <p class="event-subhead" data-field="meta"></p>
               </div>
-              <div class="event-badges">
+              <div class="entry-badges">
                 <span class="badge badge-status" data-field="status"></span>
                 <span class="badge badge-verification" data-field="verification"></span>
               </div>
             </div>
-            <p class="event-story" data-field="story"></p>
-            <p class="event-sources" data-field="sources"></p>
-          </div>
-          <div class="event-date-block">
-            <span class="event-date" data-field="date"></span>
+            <p class="entry-story" data-field="story"></p>
+            <p class="entry-meta" data-field="meta"></p>
+            <p class="entry-sources" data-field="sources"></p>
           </div>
         </article>
       </template>
 
-      <section class="methodology">
-        <h2>Method</h2>
-        <div class="method-grid">
-          <article class="method-card">
-            <h3>1. Find Leads</h3>
-            <p>
-              Google News RSS queries catch local coverage fast, while Reddit helps
-              surface neighborhood chatter that mainstream outlets miss.
-            </p>
-          </article>
-          <article class="method-card">
-            <h3>2. Verify Status</h3>
-            <p>
-              Closures and moves are cross-checked with Google Places business
-              status, official posts, or multiple independent reports before being
-              marked verified.
-            </p>
-          </article>
-          <article class="method-card">
-            <h3>3. Preserve History</h3>
-            <p>
-              Older venues stay in the timeline with source notes, date precision,
-              and context so famous Des Moines spots do not disappear after the
-              headlines fade.
-            </p>
-          </article>
-        </div>
-      </section>
+      <footer class="page-footer">
+        <p>
+          Last Call DSM keeps the public timeline strict and pushes weak leads into
+          the review queue instead of publishing rumor as history.
+        </p>
+      </footer>
     </main>
 
     <script src="app.js" defer></script>

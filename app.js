@@ -1,11 +1,17 @@
 const timelineEl = document.getElementById("timeline");
 const template = document.getElementById("event-template");
 const searchInput = document.getElementById("search");
+const statusFilter = document.getElementById("status-filter");
+const typeFilter = document.getElementById("type-filter");
+const areaFilter = document.getElementById("area-filter");
+const verificationFilter = document.getElementById("verification-filter");
+const resultsCountEl = document.querySelector("[data-results-count]");
 
 const state = {
   status: "all",
   venueType: "all",
   neighborhood: "all",
+  verificationLevel: "all",
   search: "",
   items: [],
 };
@@ -14,42 +20,41 @@ function parseDate(value) {
   return new Date(`${value}T12:00:00`);
 }
 
-function buildMeta(item) {
-  const parts = [item.venueTypeLabel, item.neighborhood];
-  if (item.cuisine) {
-    parts.push(item.cuisine);
-  }
-  return parts.filter(Boolean).join(" • ");
-}
-
 function titleCase(value) {
   return value.charAt(0).toUpperCase() + value.slice(1);
 }
 
-function setActiveChip(group, value) {
-  document.querySelectorAll(`[data-filter-group="${group}"]`).forEach((chip) => {
-    chip.classList.toggle("active", chip.dataset.value === value);
-  });
+function buildKicker(item) {
+  const parts = [item.neighborhood, item.cuisine || item.venueTypeLabel];
+  return parts.filter(Boolean).join(" / ");
 }
 
-function renderFilterGroup({ containerId, group, values, labels }) {
-  const container = document.getElementById(containerId);
-  container.innerHTML = "";
+function buildMeta(item) {
+  const parts = [];
+  if (item.datePrecision === "year") {
+    parts.push(`Year-level date`);
+  } else if (item.datePrecision === "month") {
+    parts.push(`Month-level date`);
+  }
+  if (item.verificationLevel === "review") {
+    parts.push("Still needs stronger sourcing");
+  }
+  return parts.join(" • ");
+}
 
-  const allButton = document.createElement("button");
-  allButton.className = "chip active";
-  allButton.dataset.filterGroup = group;
-  allButton.dataset.value = "all";
-  allButton.textContent = "All";
-  container.appendChild(allButton);
+function populateSelect(select, values, labels, allLabel) {
+  select.innerHTML = "";
+
+  const allOption = document.createElement("option");
+  allOption.value = "all";
+  allOption.textContent = allLabel;
+  select.appendChild(allOption);
 
   values.forEach((value) => {
-    const button = document.createElement("button");
-    button.className = "chip";
-    button.dataset.filterGroup = group;
-    button.dataset.value = value;
-    button.textContent = labels[value] || value;
-    container.appendChild(button);
+    const option = document.createElement("option");
+    option.value = value;
+    option.textContent = labels[value] || value;
+    select.appendChild(option);
   });
 }
 
@@ -67,6 +72,13 @@ function filteredItems() {
       return false;
     }
 
+    if (
+      state.verificationLevel !== "all" &&
+      item.verificationLevel !== state.verificationLevel
+    ) {
+      return false;
+    }
+
     if (!state.search) {
       return true;
     }
@@ -78,6 +90,7 @@ function filteredItems() {
       item.story,
       item.venueTypeLabel,
       item.dateLabel,
+      item.verificationLevel,
       ...item.sources.map((source) => source.label),
     ]
       .filter(Boolean)
@@ -107,20 +120,21 @@ function updateStats(items) {
 function renderTimeline() {
   const items = filteredItems();
   updateStats(items);
+  resultsCountEl.textContent = `${items.length} result${items.length === 1 ? "" : "s"}`;
   timelineEl.innerHTML = "";
 
   if (!items.length) {
     const empty = document.createElement("p");
     empty.className = "empty-state";
     empty.textContent =
-      "No venues match the current filters yet. Try broadening the area or status filters.";
+      "No records match the current filters. Try broadening the search or switching the dropdowns back to all.";
     timelineEl.appendChild(empty);
     return;
   }
 
   const grouped = new Map();
   items.forEach((item) => {
-    const year = item.dateLabel.slice(-4);
+    const year = item.eventDate.slice(0, 4);
     if (!grouped.has(year)) {
       grouped.set(year, []);
     }
@@ -141,22 +155,24 @@ function renderTimeline() {
 
     yearItems.forEach((item) => {
       const fragment = template.content.cloneNode(true);
-      const article = fragment.querySelector(".event-card");
+      const article = fragment.querySelector(".entry-card");
       const statusBadge = fragment.querySelector('[data-field="status"]');
       const verificationBadge = fragment.querySelector('[data-field="verification"]');
 
       fragment.querySelector('[data-field="icon"]').textContent =
-        item.status === "closed" ? "🪦" : "🎉";
-      fragment.querySelector('[data-field="name"]').textContent = item.name;
-      fragment.querySelector('[data-field="meta"]').textContent = buildMeta(item);
-      fragment.querySelector('[data-field="story"]').textContent = item.story;
+        item.status === "closed" ? "⚰" : "✦";
       fragment.querySelector('[data-field="date"]').textContent = item.dateLabel;
+      fragment.querySelector('[data-field="type"]').textContent = item.venueTypeLabel.toLowerCase();
+      fragment.querySelector('[data-field="kicker"]').textContent = buildKicker(item);
+      fragment.querySelector('[data-field="name"]').textContent = item.name;
+      fragment.querySelector('[data-field="story"]').textContent = item.story;
+      fragment.querySelector('[data-field="meta"]').textContent = buildMeta(item);
 
       const sourcesEl = fragment.querySelector('[data-field="sources"]');
-      sourcesEl.textContent = "via ";
+      sourcesEl.textContent = "";
       item.sources.forEach((source, index) => {
         if (index > 0) {
-          sourcesEl.appendChild(document.createTextNode(" • "));
+          sourcesEl.appendChild(document.createTextNode(" / "));
         }
         if (source.url) {
           const link = document.createElement("a");
@@ -170,11 +186,11 @@ function renderTimeline() {
         }
       });
 
-      statusBadge.textContent = titleCase(item.status);
+      statusBadge.textContent = item.status === "closed" ? "Closed" : "Opened";
       statusBadge.classList.add(item.status);
 
       verificationBadge.textContent =
-        item.verificationLevel === "verified" ? "Verified" : "In Review";
+        item.verificationLevel === "verified" ? "Verified" : "Review";
       verificationBadge.classList.add(
         item.verificationLevel === "verified" ? "verified" : "review",
       );
@@ -200,35 +216,39 @@ async function loadData() {
   const venueTypes = Array.from(new Set(state.items.map((item) => item.venueType)));
   const neighborhoods = Array.from(new Set(state.items.map((item) => item.neighborhood)));
 
-  renderFilterGroup({
-    containerId: "type-filters",
-    group: "venueType",
-    values: venueTypes,
-    labels: Object.fromEntries(
-      state.items.map((item) => [item.venueType, item.venueTypeLabel]),
-    ),
-  });
-
-  renderFilterGroup({
-    containerId: "area-filters",
-    group: "neighborhood",
-    values: neighborhoods,
-    labels: Object.fromEntries(neighborhoods.map((value) => [value, value])),
-  });
+  populateSelect(
+    typeFilter,
+    venueTypes,
+    Object.fromEntries(state.items.map((item) => [item.venueType, item.venueTypeLabel])),
+    "All types",
+  );
+  populateSelect(
+    areaFilter,
+    neighborhoods,
+    Object.fromEntries(neighborhoods.map((value) => [value, value])),
+    "All areas",
+  );
 
   renderTimeline();
 }
 
-document.addEventListener("click", (event) => {
-  const target = event.target.closest("[data-filter-group]");
-  if (!target) {
-    return;
-  }
+statusFilter.addEventListener("change", (event) => {
+  state.status = event.target.value;
+  renderTimeline();
+});
 
-  const group = target.dataset.filterGroup;
-  const value = target.dataset.value;
-  state[group] = value;
-  setActiveChip(group, value);
+typeFilter.addEventListener("change", (event) => {
+  state.venueType = event.target.value;
+  renderTimeline();
+});
+
+areaFilter.addEventListener("change", (event) => {
+  state.neighborhood = event.target.value;
+  renderTimeline();
+});
+
+verificationFilter.addEventListener("change", (event) => {
+  state.verificationLevel = event.target.value;
   renderTimeline();
 });
 
