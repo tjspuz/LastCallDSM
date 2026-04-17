@@ -13,6 +13,7 @@ const state = {
   candidateStatus: "all",
   decision: "all",
   search: "",
+  allCandidates: [],
   candidates: [],
   curated: [],
   decisions: loadDecisions(),
@@ -45,10 +46,59 @@ function candidateDecision(candidate) {
   return state.decisions[candidate.fingerprint] || "unreviewed";
 }
 
+function buildFingerprint(candidate) {
+  return [
+    candidate.status_guess || candidate.status || "review",
+    candidate.venue_guess || candidate.venue || candidate.title || "unknown",
+    candidate.area_guess || candidate.area || "des-moines-metro",
+    candidate.published_at || "unknown-date",
+  ]
+    .join("|")
+    .toLowerCase()
+    .replace(/[^a-z0-9|]+/g, "-");
+}
+
+function normalizeCandidate(candidate) {
+  const normalized = { ...candidate };
+  normalized.title = candidate.title || candidate.venue || "Unknown venue";
+  normalized.summary =
+    candidate.summary ||
+    candidate.story ||
+    `Reviewed candidate from ${candidate.source_label || "manual review"}.`;
+  normalized.venue_guess = candidate.venue_guess || candidate.venue || normalized.title;
+  normalized.area_guess = candidate.area_guess || candidate.area || "Des Moines Metro";
+  normalized.status_guess = candidate.status_guess || candidate.status || "review";
+  normalized.source_type = candidate.source_type || "manual_review";
+  normalized.source_query = candidate.source_query || "";
+  normalized.source_sort = candidate.source_sort || "";
+  normalized.source_timeframe = candidate.source_timeframe || "";
+  normalized.url = candidate.url || "";
+  normalized.score =
+    candidate.score ||
+    (normalized.status_guess === "closed"
+      ? 10
+      : normalized.status_guess === "review"
+        ? 6
+        : 4);
+  normalized.fingerprint = candidate.fingerprint || buildFingerprint(normalized);
+  normalized.matched_terms = candidate.matched_terms || [];
+  return normalized;
+}
+
+function setCandidatesForMode(mode) {
+  state.candidates =
+    mode === "closures"
+      ? state.allCandidates.filter((candidate) =>
+          ["closed", "review"].includes(candidate.status_guess),
+        )
+      : state.allCandidates.slice();
+}
+
 function setMode(mode) {
   state.mode = mode;
   loadClosureQueueButton.classList.toggle("active", mode === "closures");
   loadAllLeadsButton.classList.toggle("active", mode === "all");
+  setCandidatesForMode(mode);
 }
 
 function duplicateHints(candidate) {
@@ -98,13 +148,18 @@ function updateStats(candidates) {
 }
 
 function renderLinks(container, candidate) {
-  const anchor = document.createElement("a");
-  anchor.href = candidate.url;
-  anchor.target = "_blank";
-  anchor.rel = "noreferrer";
-  anchor.textContent = candidate.source_label;
   container.textContent = "";
-  container.append("Source: ", anchor);
+  container.append("Source: ");
+  if (candidate.url) {
+    const anchor = document.createElement("a");
+    anchor.href = candidate.url;
+    anchor.target = "_blank";
+    anchor.rel = "noreferrer";
+    anchor.textContent = candidate.source_label || "Source";
+    container.append(anchor);
+  } else {
+    container.append(candidate.source_label || "Manual review");
+  }
   if (candidate.published_at) {
     container.append(` • Published: ${candidate.published_at}`);
   }
@@ -189,23 +244,21 @@ function renderReviewList() {
   });
 }
 
-async function loadCandidates(mode) {
-  const path =
-    mode === "closures"
-      ? "data/reports/latest-closure-candidates.json"
-      : "data/reports/latest-candidates.json";
-  const response = await fetch(path);
+async function loadCandidates() {
+  const response = await fetch("data/reports/latest-candidates.json");
   return response.ok ? response.json() : [];
 }
 
 async function load(mode = "closures") {
   const [candidatePayload, curatedPayload, summaryPayload] = await Promise.all([
-    loadCandidates(mode),
+    loadCandidates(),
     fetch("data/venues.json").then((response) => response.json()),
     fetch("data/reports/latest-summary.json").then((response) => (response.ok ? response.json() : {})),
   ]);
 
-  state.candidates = Array.isArray(candidatePayload) ? candidatePayload : [];
+  state.allCandidates = Array.isArray(candidatePayload)
+    ? candidatePayload.map(normalizeCandidate)
+    : [];
   state.curated = curatedPayload.items || [];
   setMode(mode);
   const baseNote =
