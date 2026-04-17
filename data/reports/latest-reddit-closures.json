@@ -1,1 +1,1385 @@
-[]
+[
+  {
+    "fingerprint": "e8a03760bb9032",
+    "source_id": "reddit-permanently-closed",
+    "source_label": "r/desmoines permanently closed",
+    "source_type": "reddit",
+    "source_query": "\"permanently closed\"",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Is Alpine on Ingersoll permanently closed?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1laztmb/is_alpine_on_ingersoll_permanently_closed/",
+    "published_at": "2025-06-14T04:17:32+00:00",
+    "status_guess": "closed",
+    "score": 8,
+    "venue_guess": "Is Alpine on Ingersoll permanently",
+    "area_guess": "Ingersoll",
+    "matched_terms": [
+      "closed",
+      "permanently closed"
+    ]
+  },
+  {
+    "fingerprint": "3cc8a9821f4f9f",
+    "source_id": "reddit-permanently-closed",
+    "source_label": "r/desmoines permanently closed",
+    "source_type": "reddit",
+    "source_query": "\"permanently closed\"",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Connett Services HVAC - permanently closed??",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1nqr30z/connett_services_hvac_permanently_closed/",
+    "published_at": "2025-09-26T03:37:11+00:00",
+    "status_guess": "closed",
+    "score": 8,
+    "venue_guess": "Connett Services HVAC - permanently",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed",
+      "permanently closed"
+    ]
+  },
+  {
+    "fingerprint": "d1b22db8128f78",
+    "source_id": "reddit-distress",
+    "source_label": "r/desmoines distress signals",
+    "source_type": "reddit",
+    "source_query": "bankruptcy OR bankrupt OR eviction OR auction OR \"for lease\" OR \"liquor license\"",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "801 ChopHouse files for Bankruptcy",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1smqzws/801_chophouse_files_for_bankruptcy/",
+    "published_at": "2026-04-16T02:40:58+00:00",
+    "status_guess": "closed",
+    "score": 8,
+    "venue_guess": "801 ChopHouse files for Bankruptcy",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "bankrupt",
+      "bankruptcy"
+    ]
+  },
+  {
+    "fingerprint": "72f07d2a556beb",
+    "source_id": "reddit-shuttered",
+    "source_label": "r/desmoines shuttered",
+    "source_type": "reddit",
+    "source_query": "shuttered OR closure",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Might restaurant closures in the Western Gateway possibly unleash Beelzebub, or summon Cthulhu and all of his tentacled malevolence?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1n39o6c/might_restaurant_closures_in_the_western_gateway/",
+    "published_at": "2025-08-29T14:56:30+00:00",
+    "status_guess": "closed",
+    "score": 5,
+    "venue_guess": "Might restaurant closures in the Western Gateway possibly unleash Beelzebub, or summon Cthulhu and all of his tentacled malevolence?",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closure"
+    ]
+  },
+  {
+    "fingerprint": "6c61c28f13fd98",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Restaurants closing \ud83d\ude2b",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1qx0i80/restaurants_closing/",
+    "published_at": "2026-02-05T22:56:12+00:00",
+    "status_guess": "closed",
+    "score": 5,
+    "venue_guess": "Restaurants",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "8475336267537f",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Restaurants closing \ud83d\ude2b",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1qx0i80/restaurants_closing/",
+    "published_at": "2026-02-05T22:56:12+00:00",
+    "status_guess": "closed",
+    "score": 5,
+    "venue_guess": "Restaurants",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "c7c1d3b8e2c229",
+    "source_id": "reddit-distress",
+    "source_label": "r/desmoines distress signals",
+    "source_type": "reddit",
+    "source_query": "bankruptcy OR bankrupt OR eviction OR auction OR \"for lease\" OR \"liquor license\"",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Evictions increasing?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1mjdzhp/evictions_increasing/",
+    "published_at": "2025-08-06T19:21:35+00:00",
+    "status_guess": "closed",
+    "score": 4,
+    "venue_guess": "Evictions increasing?",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "eviction"
+    ]
+  },
+  {
+    "fingerprint": "0d454203b84377",
+    "source_id": "reddit-last-day",
+    "source_label": "r/desmoines last day",
+    "source_type": "reddit",
+    "source_query": "\"last day\" OR \"final day\" OR farewell",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "ISF - Last Day",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1mn1emd/isf_last_day/",
+    "published_at": "2025-08-11T02:35:12+00:00",
+    "status_guess": "closed",
+    "score": 4,
+    "venue_guess": "ISF - Last Day",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "last day"
+    ]
+  },
+  {
+    "fingerprint": "defce82fcdfb5c",
+    "source_id": "reddit-distress",
+    "source_label": "r/desmoines distress signals",
+    "source_type": "reddit",
+    "source_query": "bankruptcy OR bankrupt OR eviction OR auction OR \"for lease\" OR \"liquor license\"",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "How to delay eviction?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1nwcuup/how_to_delay_eviction/",
+    "published_at": "2025-10-02T19:07:37+00:00",
+    "status_guess": "closed",
+    "score": 4,
+    "venue_guess": "How to delay eviction?",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "eviction"
+    ]
+  },
+  {
+    "fingerprint": "c1bf1176914cd3",
+    "source_id": "reddit-shuttered",
+    "source_label": "r/desmoines shuttered",
+    "source_type": "reddit",
+    "source_query": "shuttered OR closure",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Good pages to follow for road closures?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1k62pkt/good_pages_to_follow_for_road_closures/",
+    "published_at": "2025-04-23T15:56:11+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Good pages to follow for road closures?",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closure"
+    ]
+  },
+  {
+    "fingerprint": "b9e1c7cb3d2844",
+    "source_id": "reddit-shuttered",
+    "source_label": "r/desmoines shuttered",
+    "source_type": "reddit",
+    "source_query": "shuttered OR closure",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Grimes warehouse among three Iowa businesses announcing closure, layoffs",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1knaja9/grimes_warehouse_among_three_iowa_businesses/",
+    "published_at": "2025-05-15T15:06:17+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Grimes warehouse among three Iowa businesses announcing closure, layoffs",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closure"
+    ]
+  },
+  {
+    "fingerprint": "123ecc3b88fbb3",
+    "source_id": "reddit-permanently-closed",
+    "source_label": "r/desmoines permanently closed",
+    "source_type": "reddit",
+    "source_query": "\"permanently closed\"",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "FedEx on sw 9th closing down",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1lv1x55/fedex_on_sw_9th_closing_down/",
+    "published_at": "2025-07-08T22:10:02+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "FedEx on sw 9th",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "70abd2c3d74a25",
+    "source_id": "reddit-distress",
+    "source_label": "r/desmoines distress signals",
+    "source_type": "reddit",
+    "source_query": "bankruptcy OR bankrupt OR eviction OR auction OR \"for lease\" OR \"liquor license\"",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Looking for people who had vehicles auctioned off by Crow Tow",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1m4fzwi/looking_for_people_who_had_vehicles_auctioned_off/",
+    "published_at": "2025-07-20T04:29:44+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Looking for people who had vehicles auctioned off by Crow Tow",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "auction"
+    ]
+  },
+  {
+    "fingerprint": "1e8533acef9738",
+    "source_id": "reddit-sold-bought",
+    "source_label": "r/desmoines sold or bought out",
+    "source_type": "reddit",
+    "source_query": "sold OR \"bought out\" OR acquired",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Looking for people who had vehicles auctioned off by Crow Tow",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1m4fzwi/looking_for_people_who_had_vehicles_auctioned_off/",
+    "published_at": "2025-07-20T04:29:44+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Looking for people who had vehicles auctioned off by Crow Tow",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "auction"
+    ]
+  },
+  {
+    "fingerprint": "f50b437fc91563",
+    "source_id": "reddit-shuttered",
+    "source_label": "r/desmoines shuttered",
+    "source_type": "reddit",
+    "source_query": "shuttered OR closure",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Local Paintball post the ICU closure",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1mif6yz/local_paintball_post_the_icu_closure/",
+    "published_at": "2025-08-05T17:17:08+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Local Paintball post the ICU closure",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closure"
+    ]
+  },
+  {
+    "fingerprint": "d8340865030abe",
+    "source_id": "reddit-shuttered",
+    "source_label": "r/desmoines shuttered",
+    "source_type": "reddit",
+    "source_query": "shuttered OR closure",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Raccoon River trail from Waukee to Adel, closure?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1mkeik0/raccoon_river_trail_from_waukee_to_adel_closure/",
+    "published_at": "2025-08-07T22:45:10+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Raccoon River trail from Waukee to Adel, closure?",
+    "area_guess": "Waukee",
+    "matched_terms": [
+      "closure"
+    ]
+  },
+  {
+    "fingerprint": "b82da1a00606de",
+    "source_id": "reddit-shuttered",
+    "source_label": "r/desmoines shuttered",
+    "source_type": "reddit",
+    "source_query": "shuttered OR closure",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "I80 closure",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1o7w9lk/i80_closure/",
+    "published_at": "2025-10-16T03:55:07+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "I80 closure",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closure"
+    ]
+  },
+  {
+    "fingerprint": "d1fc06dec71858",
+    "source_id": "reddit-distress",
+    "source_label": "r/desmoines distress signals",
+    "source_type": "reddit",
+    "source_query": "bankruptcy OR bankrupt OR eviction OR auction OR \"for lease\" OR \"liquor license\"",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Bucs Hockey auction",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1ohtbou/bucs_hockey_auction/",
+    "published_at": "2025-10-27T22:57:41+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Bucs Hockey auction",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "auction"
+    ]
+  },
+  {
+    "fingerprint": "5c1e044260a36d",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Little Caesar\u2019s WDM Closed?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1p9u5rc/little_caesars_wdm_closed/",
+    "published_at": "2025-11-29T17:11:47+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Little Caesar\u2019s WDM Closed?",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "7eabd7bb87b9a5",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Little Caesar\u2019s WDM Closed?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1p9u5rc/little_caesars_wdm_closed/",
+    "published_at": "2025-11-29T17:11:47+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Little Caesar\u2019s WDM Closed?",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "b101ff7fc9872e",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Business closing due to weather.",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1p9wp6p/business_closing_due_to_weather/",
+    "published_at": "2025-11-29T18:55:41+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Business",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "9f88eb382d5653",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Business closing due to weather.",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1p9wp6p/business_closing_due_to_weather/",
+    "published_at": "2025-11-29T18:55:41+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Business",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "8922707d054574",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Updates on the Closing of the Historical Society Library & Archives. Follow the provided link.",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1pdpkib/updates_on_the_closing_of_the_historical_society/",
+    "published_at": "2025-12-04T03:35:46+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Updates on the Closing of the Historical Society Library & Archives. Follow the provided link.",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "b41677cabc64de",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Updates on the Closing of the Historical Society Library & Archives. Follow the provided link.",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1pdpkib/updates_on_the_closing_of_the_historical_society/",
+    "published_at": "2025-12-04T03:35:46+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Updates on the Closing of the Historical Society Library & Archives. Follow the provided link.",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "9b5f889d18f35a",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Updates on the closing of the State Historical Library & Archives.",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1pdr9xu/updates_on_the_closing_of_the_state_historical/",
+    "published_at": "2025-12-04T05:01:34+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Updates on the",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "cf32f2fc4a9212",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Updates on the closing of the State Historical Library & Archives.",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1pdr9xu/updates_on_the_closing_of_the_state_historical/",
+    "published_at": "2025-12-04T05:01:34+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Updates on the",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "1c2a49543392ea",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "235 North closed?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1puczpk/235_north_closed/",
+    "published_at": "2025-12-24T03:12:20+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "North",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "f1acf0be16ae86",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "235 North closed?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1puczpk/235_north_closed/",
+    "published_at": "2025-12-24T03:12:20+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "North",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "cd46b8d5749746",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Grubb YMCA Closure",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1q7mr6s/grubb_ymca_closure/",
+    "published_at": "2026-01-08T20:19:08+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Grubb YMCA Closure",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closure"
+    ]
+  },
+  {
+    "fingerprint": "3bc267cf093ab8",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Grubb YMCA Closure",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1q7mr6s/grubb_ymca_closure/",
+    "published_at": "2026-01-08T20:19:08+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Grubb YMCA Closure",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closure"
+    ]
+  },
+  {
+    "fingerprint": "90d253554f3f11",
+    "source_id": "reddit-shuttered",
+    "source_label": "r/desmoines shuttered",
+    "source_type": "reddit",
+    "source_query": "shuttered OR closure",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Grubb YMCA Closure",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1q7mr6s/grubb_ymca_closure/",
+    "published_at": "2026-01-08T20:19:08+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Grubb YMCA Closure",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closure"
+    ]
+  },
+  {
+    "fingerprint": "73cf3f31f2cba1",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Domino's on Grand Ave closed, new location?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1q9n4xb/dominos_on_grand_ave_closed_new_location/",
+    "published_at": "2026-01-11T02:19:58+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Domino's on Grand Ave",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "1434c48ca227b5",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Domino's on Grand Ave closed, new location?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1q9n4xb/dominos_on_grand_ave_closed_new_location/",
+    "published_at": "2026-01-11T02:19:58+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Domino's on Grand Ave",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "a464142b06bd75",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Pita Pit on Merle Hay Closing",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1qc8pba/pita_pit_on_merle_hay_closing/",
+    "published_at": "2026-01-14T00:37:37+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Pita Pit on Merle Hay Closing",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "d1ae3b4729f650",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Pita Pit on Merle Hay Closing",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1qc8pba/pita_pit_on_merle_hay_closing/",
+    "published_at": "2026-01-14T00:37:37+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Pita Pit on Merle Hay Closing",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "fe79acf1410999",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Executive Laser Wash closed?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1qglt8n/executive_laser_wash_closed/",
+    "published_at": "2026-01-18T22:08:38+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Executive Laser Wash",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "f119eca57a133d",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Executive Laser Wash closed?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1qglt8n/executive_laser_wash_closed/",
+    "published_at": "2026-01-18T22:08:38+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Executive Laser Wash",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "56c7d507b35e4e",
+    "source_id": "reddit-shuttered",
+    "source_label": "r/desmoines shuttered",
+    "source_type": "reddit",
+    "source_query": "shuttered OR closure",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Executive Laser Wash closed?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1qglt8n/executive_laser_wash_closed/",
+    "published_at": "2026-01-18T22:08:38+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Executive Laser Wash",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "daaf7981d63fec",
+    "source_id": "reddit-distress",
+    "source_label": "r/desmoines distress signals",
+    "source_type": "reddit",
+    "source_query": "bankruptcy OR bankrupt OR eviction OR auction OR \"for lease\" OR \"liquor license\"",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Silent Auction Items",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1qpqaud/silent_auction_items/",
+    "published_at": "2026-01-28T22:32:46+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Silent Auction Items",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "auction"
+    ]
+  },
+  {
+    "fingerprint": "c1722549a9469a",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Health clinics closed",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1qpwmgc/health_clinics_closed/",
+    "published_at": "2026-01-29T02:56:19+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Health clinics",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "89cbaa7b746775",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Health clinics closed",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1qpwmgc/health_clinics_closed/",
+    "published_at": "2026-01-29T02:56:19+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Health clinics",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "0dfcf73c66e1d7",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Baskin Robbin\u2019s closed?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1qxst6r/baskin_robbins_closed/",
+    "published_at": "2026-02-06T20:23:58+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Baskin Robbin\u2019s closed?",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "a1023609f1cc72",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Baskin Robbin\u2019s closed?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1qxst6r/baskin_robbins_closed/",
+    "published_at": "2026-02-06T20:23:58+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Baskin Robbin\u2019s closed?",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "2fc0e0a59cc2a1",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "West Des Moines Potbelly Closure",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1r1onob/west_des_moines_potbelly_closure/",
+    "published_at": "2026-02-11T05:20:55+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "West Des Moines Potbelly Closure",
+    "area_guess": "West Des Moines",
+    "matched_terms": [
+      "closure"
+    ]
+  },
+  {
+    "fingerprint": "933fc22041ef30",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "West Des Moines Potbelly Closure",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1r1onob/west_des_moines_potbelly_closure/",
+    "published_at": "2026-02-11T05:20:55+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "West Des Moines Potbelly Closure",
+    "area_guess": "West Des Moines",
+    "matched_terms": [
+      "closure"
+    ]
+  },
+  {
+    "fingerprint": "7495acc77ea402",
+    "source_id": "reddit-shuttered",
+    "source_label": "r/desmoines shuttered",
+    "source_type": "reddit",
+    "source_query": "shuttered OR closure",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "West Des Moines Potbelly Closure",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1r1onob/west_des_moines_potbelly_closure/",
+    "published_at": "2026-02-11T05:20:55+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "West Des Moines Potbelly Closure",
+    "area_guess": "West Des Moines",
+    "matched_terms": [
+      "closure"
+    ]
+  },
+  {
+    "fingerprint": "760b865ed79018",
+    "source_id": "reddit-permanently-closed",
+    "source_label": "r/desmoines permanently closed",
+    "source_type": "reddit",
+    "source_query": "\"permanently closed\"",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "West Des Moines Potbelly Closure",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1r1onob/west_des_moines_potbelly_closure/",
+    "published_at": "2026-02-11T05:20:55+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "West Des Moines Potbelly Closure",
+    "area_guess": "West Des Moines",
+    "matched_terms": [
+      "closure"
+    ]
+  },
+  {
+    "fingerprint": "b882f8c5849183",
+    "source_id": "reddit-moves",
+    "source_label": "r/desmoines relocations",
+    "source_type": "reddit",
+    "source_query": "moving OR moved OR relocating OR relocation",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "West Des Moines Potbelly Closure",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1r1onob/west_des_moines_potbelly_closure/",
+    "published_at": "2026-02-11T05:20:55+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "West Des Moines Potbelly Closure",
+    "area_guess": "West Des Moines",
+    "matched_terms": [
+      "closure"
+    ]
+  },
+  {
+    "fingerprint": "b1d37ba8f13544",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Are all of GITnGOs pumps closed",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1rorqbc/are_all_of_gitngos_pumps_closed/",
+    "published_at": "2026-03-09T05:32:33+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Are all of GITnGOs pumps",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "9e9750e8876a39",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Are all of GITnGOs pumps closed",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1rorqbc/are_all_of_gitngos_pumps_closed/",
+    "published_at": "2026-03-09T05:32:33+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Are all of GITnGOs pumps",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "d6870acac82eba",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Django is closing on the 14th. You guys should visit it before it\u2019s too late",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1rqa4uw/django_is_closing_on_the_14th_you_guys_should/",
+    "published_at": "2026-03-10T21:29:02+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Django is",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "ca9c4e91941c05",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Django is closing on the 14th. You guys should visit it before it\u2019s too late",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1rqa4uw/django_is_closing_on_the_14th_you_guys_should/",
+    "published_at": "2026-03-10T21:29:02+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Django is",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "2eca1deb32044c",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "DSM is at risk of closing if the parital shutdown continues",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1s4asf1/dsm_is_at_risk_of_closing_if_the_parital_shutdown/",
+    "published_at": "2026-03-26T15:32:59+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "DSM is at risk of",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "ff4387db7d7dac",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "DSM is at risk of closing if the parital shutdown continues",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1s4asf1/dsm_is_at_risk_of_closing_if_the_parital_shutdown/",
+    "published_at": "2026-03-26T15:32:59+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "DSM is at risk of",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "bb383ee0afbdf9",
+    "source_id": "reddit-shuttered",
+    "source_label": "r/desmoines shuttered",
+    "source_type": "reddit",
+    "source_query": "shuttered OR closure",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "DSM is at risk of closing if the parital shutdown continues",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1s4asf1/dsm_is_at_risk_of_closing_if_the_parital_shutdown/",
+    "published_at": "2026-03-26T15:32:59+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "DSM is at risk of",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "61d08a426d97b5",
+    "source_id": "reddit-shuttered",
+    "source_label": "r/desmoines shuttered",
+    "source_type": "reddit",
+    "source_query": "shuttered OR closure",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Demand the Closure of Blue Zoo",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1s691xu/demand_the_closure_of_blue_zoo/",
+    "published_at": "2026-03-28T19:07:37+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Demand the Closure of Blue Zoo",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closure"
+    ]
+  },
+  {
+    "fingerprint": "9cc5f12ea0e8d8",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Grimes True Value closed",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1s7awi5/grimes_true_value_closed/",
+    "published_at": "2026-03-29T23:48:07+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Grimes True Value",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "92bdb4c2055abe",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Grimes True Value closed",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1s7awi5/grimes_true_value_closed/",
+    "published_at": "2026-03-29T23:48:07+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Grimes True Value",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "3c96e6e5ad2556",
+    "source_id": "reddit-shuttered",
+    "source_label": "r/desmoines shuttered",
+    "source_type": "reddit",
+    "source_query": "shuttered OR closure",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Des Moines Musicians, Venues Play On Despite Stacked Closures",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1saqp45/des_moines_musicians_venues_play_on_despite/",
+    "published_at": "2026-04-02T19:11:10+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Des Moines Musicians, Venues Play On Despite Stacked Closures",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closure"
+    ]
+  },
+  {
+    "fingerprint": "24dbe1adaf68a8",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Arby's on 22nd closed",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1saz1d8/arbys_on_22nd_closed/",
+    "published_at": "2026-04-03T00:46:04+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Arby's on 22nd",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "9abedd3a66a5da",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Arby's on 22nd closed",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1saz1d8/arbys_on_22nd_closed/",
+    "published_at": "2026-04-03T00:46:04+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Arby's on 22nd",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "8ddd52f9e94613",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Looks like Louie's Wine Dive on University is closing.",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1sex260/looks_like_louies_wine_dive_on_university_is/",
+    "published_at": "2026-04-07T14:08:52+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Looks like Louie's Wine Dive on University is",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "687e06f764a79a",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Looks like Louie's Wine Dive on University is closing.",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1sex260/looks_like_louies_wine_dive_on_university_is/",
+    "published_at": "2026-04-07T14:08:52+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Looks like Louie's Wine Dive on University is",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "2362d65e36b6a7",
+    "source_id": "reddit-distress",
+    "source_label": "r/desmoines distress signals",
+    "source_type": "reddit",
+    "source_query": "bankruptcy OR bankrupt OR eviction OR auction OR \"for lease\" OR \"liquor license\"",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Looks like Louie's Wine Dive on University is closing.",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1sex260/looks_like_louies_wine_dive_on_university_is/",
+    "published_at": "2026-04-07T14:08:52+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Looks like Louie's Wine Dive on University is",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "85bebb73808273",
+    "source_id": "reddit-openings",
+    "source_label": "r/desmoines openings",
+    "source_type": "reddit",
+    "source_query": "\"new restaurant\" OR opening OR opened OR \"soft opening\" OR \"grand opening\" OR reopening",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Open-Ended (Not Closed) Vasectomy Options in/near Des Moines?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1shvqpn/openended_not_closed_vasectomy_options_innear_des/",
+    "published_at": "2026-04-10T18:58:09+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Open-Ended (Not Closed) Vasectomy Options in/near Des Moines?",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "c876d1c092c8bc",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Open-Ended (Not Closed) Vasectomy Options in/near Des Moines?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1shvqpn/openended_not_closed_vasectomy_options_innear_des/",
+    "published_at": "2026-04-10T18:58:09+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Open-Ended (Not Closed) Vasectomy Options in/near Des Moines?",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "68a98e82fe3690",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Open-Ended (Not Closed) Vasectomy Options in/near Des Moines?",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1shvqpn/openended_not_closed_vasectomy_options_innear_des/",
+    "published_at": "2026-04-10T18:58:09+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Open-Ended (Not Closed) Vasectomy Options in/near Des Moines?",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "a193a06d16e557",
+    "source_id": "reddit-closing",
+    "source_label": "r/desmoines closing",
+    "source_type": "reddit",
+    "source_query": "closing",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Louie\u2019s Wine Dive closing May 31",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1siitqn/louies_wine_dive_closing_may_31/",
+    "published_at": "2026-04-11T13:15:52+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Wine Dive",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "19a8fa3384e23e",
+    "source_id": "reddit-closed",
+    "source_label": "r/desmoines closed",
+    "source_type": "reddit",
+    "source_query": "closed",
+    "source_sort": "new",
+    "source_timeframe": "year",
+    "title": "Louie\u2019s Wine Dive closing May 31",
+    "summary": "",
+    "url": "https://www.reddit.com/r/desmoines/comments/1siitqn/louies_wine_dive_closing_may_31/",
+    "published_at": "2026-04-11T13:15:52+00:00",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Wine Dive",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  }
+]

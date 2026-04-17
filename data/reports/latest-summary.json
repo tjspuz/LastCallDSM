@@ -1,122 +1,319 @@
 {
-  "generatedAt": "2026-04-17T03:31:36+00:00",
-  "leadCount": 108,
+  "generatedAt": "2026-04-17T07:45:03+00:00",
+  "leadCount": 148,
   "statusCounts": {
-    "closed": 62,
-    "review": 17,
-    "opened": 29
+    "closed": 101,
+    "review": 20,
+    "opened": 26,
+    "moved": 1
   },
   "sourceTypeCounts": {
-    "manual_review": 108
+    "reddit": 40,
+    "google_news": 108
   },
-  "warnings": [
-    "latest-candidates.json replaced with user-reviewed results."
-  ],
+  "warnings": [],
   "topLeads": [
     {
-      "venue": "Bar Louie",
-      "area": "Des Moines Metro",
-      "status": "closed",
-      "published_at": "2025-03-28",
-      "source_label": "Metro closures"
+      "fingerprint": "c1bf1176914cd3",
+      "source_id": "reddit-shuttered",
+      "source_label": "r/desmoines shuttered",
+      "source_type": "reddit",
+      "source_query": "shuttered OR closure",
+      "source_sort": "new",
+      "source_timeframe": "year",
+      "title": "Good pages to follow for road closures?",
+      "summary": "",
+      "url": "https://www.reddit.com/r/desmoines/comments/1k62pkt/good_pages_to_follow_for_road_closures/",
+      "published_at": "2025-04-23T15:56:11+00:00",
+      "status_guess": "closed",
+      "score": 3,
+      "venue_guess": "Good pages to follow for road closures?",
+      "area_guess": "Des Moines Metro",
+      "matched_terms": [
+        "closure"
+      ]
     },
     {
-      "venue": "Happy Joe's plans for comeback after closures, bankruptcy - Axios",
-      "area": "Des Moines Metro",
-      "status": "closed",
-      "published_at": "2025-02-14",
-      "source_label": "Metro closures"
+      "fingerprint": "b9e1c7cb3d2844",
+      "source_id": "reddit-shuttered",
+      "source_label": "r/desmoines shuttered",
+      "source_type": "reddit",
+      "source_query": "shuttered OR closure",
+      "source_sort": "new",
+      "source_timeframe": "year",
+      "title": "Grimes warehouse among three Iowa businesses announcing closure, layoffs",
+      "summary": "",
+      "url": "https://www.reddit.com/r/desmoines/comments/1knaja9/grimes_warehouse_among_three_iowa_businesses/",
+      "published_at": "2025-05-15T15:06:17+00:00",
+      "status_guess": "closed",
+      "score": 3,
+      "venue_guess": "Grimes warehouse among three Iowa businesses announcing closure, layoffs",
+      "area_guess": "Des Moines Metro",
+      "matched_terms": [
+        "closure"
+      ]
     },
     {
-      "venue": "801 Restaurant Group files for Chapter 11 bankruptcy protection - The Business Journals",
-      "area": "Des Moines Metro",
-      "status": "closed",
-      "published_at": "2026-04-14",
-      "source_label": "Metro closures"
+      "fingerprint": "e8a03760bb9032",
+      "source_id": "reddit-permanently-closed",
+      "source_label": "r/desmoines permanently closed",
+      "source_type": "reddit",
+      "source_query": "\"permanently closed\"",
+      "source_sort": "new",
+      "source_timeframe": "year",
+      "title": "Is Alpine on Ingersoll permanently closed?",
+      "summary": "",
+      "url": "https://www.reddit.com/r/desmoines/comments/1laztmb/is_alpine_on_ingersoll_permanently_closed/",
+      "published_at": "2025-06-14T04:17:32+00:00",
+      "status_guess": "closed",
+      "score": 8,
+      "venue_guess": "Is Alpine on Ingersoll permanently",
+      "area_guess": "Ingersoll",
+      "matched_terms": [
+        "closed",
+        "permanently closed"
+      ]
     },
     {
-      "venue": "Bar Louie's West Des Moines location",
-      "area": "West Des Moines",
-      "status": "closed",
-      "published_at": "2025-09-16",
-      "source_label": "Suburb closures"
+      "fingerprint": "123ecc3b88fbb3",
+      "source_id": "reddit-permanently-closed",
+      "source_label": "r/desmoines permanently closed",
+      "source_type": "reddit",
+      "source_query": "\"permanently closed\"",
+      "source_sort": "new",
+      "source_timeframe": "year",
+      "title": "FedEx on sw 9th closing down",
+      "summary": "",
+      "url": "https://www.reddit.com/r/desmoines/comments/1lv1x55/fedex_on_sw_9th_closing_down/",
+      "published_at": "2025-07-08T22:10:02+00:00",
+      "status_guess": "closed",
+      "score": 3,
+      "venue_guess": "FedEx on sw 9th",
+      "area_guess": "Des Moines Metro",
+      "matched_terms": [
+        "closing"
+      ]
     },
     {
-      "venue": "Restaurant chain \u2018hip in the 90s\u2019 closes store doors after sudden bankruptcy - the-sun.com",
-      "area": "Des Moines Metro",
-      "status": "closed",
-      "published_at": "2025-09-16",
-      "source_label": "Suburb closures"
+      "fingerprint": "70abd2c3d74a25",
+      "source_id": "reddit-distress",
+      "source_label": "r/desmoines distress signals",
+      "source_type": "reddit",
+      "source_query": "bankruptcy OR bankrupt OR eviction OR auction OR \"for lease\" OR \"liquor license\"",
+      "source_sort": "new",
+      "source_timeframe": "year",
+      "title": "Looking for people who had vehicles auctioned off by Crow Tow",
+      "summary": "",
+      "url": "https://www.reddit.com/r/desmoines/comments/1m4fzwi/looking_for_people_who_had_vehicles_auctioned_off/",
+      "published_at": "2025-07-20T04:29:44+00:00",
+      "status_guess": "closed",
+      "score": 3,
+      "venue_guess": "Looking for people who had vehicles auctioned off by Crow Tow",
+      "area_guess": "Des Moines Metro",
+      "matched_terms": [
+        "auction"
+      ]
     },
     {
-      "venue": "Steakhouse group 801 Restaurants files for Chapter 11 bankruptcy - Restaurant Business",
-      "area": "Des Moines Metro",
-      "status": "closed",
-      "published_at": "2026-04-15",
-      "source_label": "Metro closures"
+      "fingerprint": "f50b437fc91563",
+      "source_id": "reddit-shuttered",
+      "source_label": "r/desmoines shuttered",
+      "source_type": "reddit",
+      "source_query": "shuttered OR closure",
+      "source_sort": "new",
+      "source_timeframe": "year",
+      "title": "Local Paintball post the ICU closure",
+      "summary": "",
+      "url": "https://www.reddit.com/r/desmoines/comments/1mif6yz/local_paintball_post_the_icu_closure/",
+      "published_at": "2025-08-05T17:17:08+00:00",
+      "status_guess": "closed",
+      "score": 3,
+      "venue_guess": "Local Paintball post the ICU closure",
+      "area_guess": "Des Moines Metro",
+      "matched_terms": [
+        "closure"
+      ]
     },
     {
-      "venue": "West Des Moines is now permanently",
-      "area": "West Des Moines",
-      "status": "closed",
-      "published_at": "2023-01-18",
-      "source_label": "Official closure or move statements"
+      "fingerprint": "c7c1d3b8e2c229",
+      "source_id": "reddit-distress",
+      "source_label": "r/desmoines distress signals",
+      "source_type": "reddit",
+      "source_query": "bankruptcy OR bankrupt OR eviction OR auction OR \"for lease\" OR \"liquor license\"",
+      "source_sort": "new",
+      "source_timeframe": "year",
+      "title": "Evictions increasing?",
+      "summary": "",
+      "url": "https://www.reddit.com/r/desmoines/comments/1mjdzhp/evictions_increasing/",
+      "published_at": "2025-08-06T19:21:35+00:00",
+      "status_guess": "closed",
+      "score": 4,
+      "venue_guess": "Evictions increasing?",
+      "area_guess": "Des Moines Metro",
+      "matched_terms": [
+        "eviction"
+      ]
     },
     {
-      "venue": "Will any Arby\u2019s locations in Iowa close after a franchisee filed for bankruptcy? - The Des Moines Register",
-      "area": "Des Moines Metro",
-      "status": "closed",
-      "published_at": "2024-07-01",
-      "source_label": "Suburb closures"
+      "fingerprint": "d8340865030abe",
+      "source_id": "reddit-shuttered",
+      "source_label": "r/desmoines shuttered",
+      "source_type": "reddit",
+      "source_query": "shuttered OR closure",
+      "source_sort": "new",
+      "source_timeframe": "year",
+      "title": "Raccoon River trail from Waukee to Adel, closure?",
+      "summary": "",
+      "url": "https://www.reddit.com/r/desmoines/comments/1mkeik0/raccoon_river_trail_from_waukee_to_adel_closure/",
+      "published_at": "2025-08-07T22:45:10+00:00",
+      "status_guess": "closed",
+      "score": 3,
+      "venue_guess": "Raccoon River trail from Waukee to Adel, closure?",
+      "area_guess": "Waukee",
+      "matched_terms": [
+        "closure"
+      ]
     },
     {
-      "venue": "Des Moines' Zora bar auctioned off a year after",
-      "area": "Des Moines Metro",
-      "status": "closed",
-      "published_at": "2024-10-22",
-      "source_label": "Metro closures"
+      "fingerprint": "0d454203b84377",
+      "source_id": "reddit-last-day",
+      "source_label": "r/desmoines last day",
+      "source_type": "reddit",
+      "source_query": "\"last day\" OR \"final day\" OR farewell",
+      "source_sort": "new",
+      "source_timeframe": "year",
+      "title": "ISF - Last Day",
+      "summary": "",
+      "url": "https://www.reddit.com/r/desmoines/comments/1mn1emd/isf_last_day/",
+      "published_at": "2025-08-11T02:35:12+00:00",
+      "status_guess": "closed",
+      "score": 4,
+      "venue_guess": "ISF - Last Day",
+      "area_guess": "Des Moines Metro",
+      "matched_terms": [
+        "last day"
+      ]
     },
     {
-      "venue": "What 801 Chophouse\u2019s bankruptcy means for diners in Des Moines - The Des Moines Register",
-      "area": "Des Moines Metro",
-      "status": "closed",
-      "published_at": "2026-04-15",
-      "source_label": "Metro closures"
+      "fingerprint": "72f07d2a556beb",
+      "source_id": "reddit-shuttered",
+      "source_label": "r/desmoines shuttered",
+      "source_type": "reddit",
+      "source_query": "shuttered OR closure",
+      "source_sort": "new",
+      "source_timeframe": "year",
+      "title": "Might restaurant closures in the Western Gateway possibly unleash Beelzebub, or summon Cthulhu and all of his tentacled malevolence?",
+      "summary": "",
+      "url": "https://www.reddit.com/r/desmoines/comments/1n39o6c/might_restaurant_closures_in_the_western_gateway/",
+      "published_at": "2025-08-29T14:56:30+00:00",
+      "status_guess": "closed",
+      "score": 5,
+      "venue_guess": "Might restaurant closures in the Western Gateway possibly unleash Beelzebub, or summon Cthulhu and all of his tentacled malevolence?",
+      "area_guess": "Des Moines Metro",
+      "matched_terms": [
+        "closure"
+      ]
     },
     {
-      "venue": "Waukee's Kinship Brewing, in foreclosure, has closed its taproom until May 1, website says - The Des Moines Register",
-      "area": "Waukee",
-      "status": "closed",
-      "published_at": "2023-12-04",
-      "source_label": "Suburb closures"
+      "fingerprint": "3cc8a9821f4f9f",
+      "source_id": "reddit-permanently-closed",
+      "source_label": "r/desmoines permanently closed",
+      "source_type": "reddit",
+      "source_query": "\"permanently closed\"",
+      "source_sort": "new",
+      "source_timeframe": "year",
+      "title": "Connett Services HVAC - permanently closed??",
+      "summary": "",
+      "url": "https://www.reddit.com/r/desmoines/comments/1nqr30z/connett_services_hvac_permanently_closed/",
+      "published_at": "2025-09-26T03:37:11+00:00",
+      "status_guess": "closed",
+      "score": 8,
+      "venue_guess": "Connett Services HVAC - permanently",
+      "area_guess": "Des Moines Metro",
+      "matched_terms": [
+        "closed",
+        "permanently closed"
+      ]
     },
     {
-      "venue": "Saints Pub + Patio's inventory set for auction after what owner had said was temporary closure - The Des Moines Register",
-      "area": "Des Moines Metro",
-      "status": "closed",
-      "published_at": "2021-02-22",
-      "source_label": "Official closure or move statements"
+      "fingerprint": "defce82fcdfb5c",
+      "source_id": "reddit-distress",
+      "source_label": "r/desmoines distress signals",
+      "source_type": "reddit",
+      "source_query": "bankruptcy OR bankrupt OR eviction OR auction OR \"for lease\" OR \"liquor license\"",
+      "source_sort": "new",
+      "source_timeframe": "year",
+      "title": "How to delay eviction?",
+      "summary": "",
+      "url": "https://www.reddit.com/r/desmoines/comments/1nwcuup/how_to_delay_eviction/",
+      "published_at": "2025-10-02T19:07:37+00:00",
+      "status_guess": "closed",
+      "score": 4,
+      "venue_guess": "How to delay eviction?",
+      "area_guess": "Des Moines Metro",
+      "matched_terms": [
+        "eviction"
+      ]
     },
     {
-      "venue": "New University Heights restaurant",
-      "area": "Des Moines Metro",
-      "status": "closed",
-      "published_at": "2022-12-14",
-      "source_label": "Suburb closures"
+      "fingerprint": "b82da1a00606de",
+      "source_id": "reddit-shuttered",
+      "source_label": "r/desmoines shuttered",
+      "source_type": "reddit",
+      "source_query": "shuttered OR closure",
+      "source_sort": "new",
+      "source_timeframe": "year",
+      "title": "I80 closure",
+      "summary": "",
+      "url": "https://www.reddit.com/r/desmoines/comments/1o7w9lk/i80_closure/",
+      "published_at": "2025-10-16T03:55:07+00:00",
+      "status_guess": "closed",
+      "score": 3,
+      "venue_guess": "I80 closure",
+      "area_guess": "Des Moines Metro",
+      "matched_terms": [
+        "closure"
+      ]
     },
     {
-      "venue": "Campus Thai Restaurant With Daniel Johnston\u2019s \u201cHi, How Are You\u201d Mural Closed - Eater Austin",
-      "area": "Johnston",
-      "status": "closed",
-      "published_at": "2020-01-03",
-      "source_label": "Suburb closures"
+      "fingerprint": "d1fc06dec71858",
+      "source_id": "reddit-distress",
+      "source_label": "r/desmoines distress signals",
+      "source_type": "reddit",
+      "source_query": "bankruptcy OR bankrupt OR eviction OR auction OR \"for lease\" OR \"liquor license\"",
+      "source_sort": "new",
+      "source_timeframe": "year",
+      "title": "Bucs Hockey auction",
+      "summary": "",
+      "url": "https://www.reddit.com/r/desmoines/comments/1ohtbou/bucs_hockey_auction/",
+      "published_at": "2025-10-27T22:57:41+00:00",
+      "status_guess": "closed",
+      "score": 3,
+      "venue_guess": "Bucs Hockey auction",
+      "area_guess": "Des Moines Metro",
+      "matched_terms": [
+        "auction"
+      ]
     },
     {
-      "venue": "Why Des Moines' restaurants are",
-      "area": "Des Moines Metro",
-      "status": "closed",
-      "published_at": "2026-02-06",
-      "source_label": "Metro closures"
+      "fingerprint": "5c1e044260a36d",
+      "source_id": "reddit-closing",
+      "source_label": "r/desmoines closing",
+      "source_type": "reddit",
+      "source_query": "closing",
+      "source_sort": "new",
+      "source_timeframe": "year",
+      "title": "Little Caesar\u2019s WDM Closed?",
+      "summary": "",
+      "url": "https://www.reddit.com/r/desmoines/comments/1p9u5rc/little_caesars_wdm_closed/",
+      "published_at": "2025-11-29T17:11:47+00:00",
+      "status_guess": "closed",
+      "score": 3,
+      "venue_guess": "Little Caesar\u2019s WDM Closed?",
+      "area_guess": "Des Moines Metro",
+      "matched_terms": [
+        "closed"
+      ]
     }
   ]
 }
