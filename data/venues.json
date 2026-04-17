@@ -1,7 +1,154 @@
 {
-  "updatedAt": "2026-04-16",
+  "updatedAt": "2026-04-17",
   "city": "Des Moines Metro",
   "items": [
+    {
+      "id": "what-801-chophouse-s-bankruptcy-means-for-diners-in-des-moines-the-des-moines-register-closed-2026-04-15",
+      "name": "What 801 Chophouse\u2019s bankruptcy means for diners in Des Moines - The Des Moines Register",
+      "status": "closed",
+      "eventDate": "2026-04-15",
+      "sortDate": "2026-04-15",
+      "dateLabel": "Apr 2026",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Steakhouse",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "steakhouse-group-801-restaurants-files-for-chapter-11-bankruptcy-restaurant-business-closed-2026-04-15",
+      "name": "Steakhouse group 801 Restaurants files for Chapter 11 bankruptcy - Restaurant Business",
+      "status": "closed",
+      "eventDate": "2026-04-15",
+      "sortDate": "2026-04-15",
+      "dateLabel": "Apr 2026",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Steakhouse",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "801-restaurant-group-files-for-chapter-11-bankruptcy-protection-the-business-journals-closed-2026-04-14",
+      "name": "801 Restaurant Group files for Chapter 11 bankruptcy protection - The Business Journals",
+      "status": "closed",
+      "eventDate": "2026-04-14",
+      "sortDate": "2026-04-14",
+      "dateLabel": "Apr 2026",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "it-s-the-end-of-an-era-on-johnston-street-as-mccoppins-fitzroy-announces-its-closure-after-decades-of-stocking-fine-food-and-drinks-concrete-playground-closed-2026-04-02",
+      "name": "It's the End of an Era on Johnston Street, as McCoppins Fitzroy Announces Its Closure After Decades of Stocking Fine Food and Drinks - Concrete Playground",
+      "status": "closed",
+      "eventDate": "2026-04-02",
+      "sortDate": "2026-04-02",
+      "dateLabel": "Apr 2026",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Johnston",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "ri-restaurant-scene-has-openings-closing-and-sales-what-to-know-the-providence-journal-closed-2026-03-18",
+      "name": "RI restaurant scene has openings, closing and sales. What to know. - The Providence Journal",
+      "status": "closed",
+      "eventDate": "2026-03-18",
+      "sortDate": "2026-03-18",
+      "dateLabel": "Mar 2026",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "vietnam-cafe-in-des-moines-faces-closure-amid-mall-construction-who13-com-closed-2026-02-22",
+      "name": "Vietnam Cafe in Des Moines faces closure amid mall construction - WHO13.com",
+      "status": "closed",
+      "eventDate": "2026-02-22",
+      "sortDate": "2026-02-22",
+      "dateLabel": "Feb 2026",
+      "datePrecision": "day",
+      "venueType": "cafe",
+      "venueTypeLabel": "Cafe",
+      "cuisine": "Cafe / Bakery",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "vietnam-caf-faces-closure-as-merle-hay-mall-food-court-disappears-the-des-moines-register-closed-2026-02-21",
+      "name": "Vietnam Caf\u00e9 faces closure as Merle Hay Mall food court disappears - The Des Moines Register",
+      "status": "closed",
+      "eventDate": "2026-02-21",
+      "sortDate": "2026-02-21",
+      "dateLabel": "Feb 2026",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
     {
       "id": "ocha-downtown-opening",
       "name": "Ocha Bubble Tea & Dessert Cafe",
@@ -28,6 +175,132 @@
       ]
     },
     {
+      "id": "why-des-moines-restaurants-are-closed-2026-02-06",
+      "name": "Why Des Moines' restaurants are",
+      "status": "closed",
+      "eventDate": "2026-02-06",
+      "sortDate": "2026-02-06",
+      "dateLabel": "Feb 2026",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "pizza-hut-closed-2026-02-06",
+      "name": "Pizza Hut",
+      "status": "closed",
+      "eventDate": "2026-02-06",
+      "sortDate": "2026-02-06",
+      "dateLabel": "Feb 2026",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Pizza",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "django-closed-2026-01-28",
+      "name": "Django",
+      "status": "closed",
+      "eventDate": "2026-01-28",
+      "sortDate": "2026-01-28",
+      "dateLabel": "Jan 2026",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "pita-pit-location-in-the-des-moines-metro-is-closed-2026-01-22",
+      "name": "Pita Pit location in the Des Moines metro is",
+      "status": "closed",
+      "eventDate": "2026-01-22",
+      "sortDate": "2026-01-22",
+      "dateLabel": "Jan 2026",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "pizza-locations-in-iowa-closed-2026-01-07",
+      "name": "Pizza locations in Iowa",
+      "status": "closed",
+      "eventDate": "2026-01-07",
+      "sortDate": "2026-01-07",
+      "dateLabel": "Jan 2026",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Pizza",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "clayton-pub-closed-2026-01-03",
+      "name": "Clayton pub",
+      "status": "closed",
+      "eventDate": "2026-01-03",
+      "sortDate": "2026-01-03",
+      "dateLabel": "Jan 2026",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
       "id": "heroics-opening",
       "name": "Heroics Sports Lounge",
       "status": "opened",
@@ -49,6 +322,153 @@
       ]
     },
     {
+      "id": "award-winning-brewery-closed-2025-12-19",
+      "name": "Award-winning brewery",
+      "status": "closed",
+      "eventDate": "2025-12-19",
+      "sortDate": "2025-12-19",
+      "dateLabel": "Dec 2025",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Brewery",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "try-these-new-bars-that-opened-2025-11-26",
+      "name": "Try these new bars that",
+      "status": "opened",
+      "eventDate": "2025-11-26",
+      "sortDate": "2025-11-26",
+      "dateLabel": "Nov 2025",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro openings",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "7-must-try-new-restaurants-in-des-moines-from-floral-lattes-to-grills-the-des-moines-register-opened-2025-11-21",
+      "name": "7 must-try new restaurants in Des Moines, from floral lattes to grills - The Des Moines Register",
+      "status": "opened",
+      "eventDate": "2025-11-21",
+      "sortDate": "2025-11-21",
+      "dateLabel": "Nov 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro openings",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "lefty-s-live-music-des-moines-home-for-eclectic-sounds-closing-soon-the-des-moines-register-closed-2025-11-13",
+      "name": "Lefty\u2019s Live Music, Des Moines\u2019 home for eclectic sounds, closing soon - The Des Moines Register",
+      "status": "closed",
+      "eventDate": "2025-11-13",
+      "sortDate": "2025-11-13",
+      "dateLabel": "Nov 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "pagliai-s-pizza-in-johnston-closed-2025-11-10",
+      "name": "Pagliai's Pizza in Johnston",
+      "status": "closed",
+      "eventDate": "2025-11-10",
+      "sortDate": "2025-11-10",
+      "dateLabel": "Nov 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Pizza",
+      "neighborhood": "Johnston",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "new-restaurants-that-opened-2025-10-19",
+      "name": "New restaurants that",
+      "status": "opened",
+      "eventDate": "2025-10-19",
+      "sortDate": "2025-10-19",
+      "dateLabel": "Oct 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro openings",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "rhode-island-s-1st-ever-wingstop-throws-grand-opening-celebration-in-johnston-patch-opened-2025-10-15",
+      "name": "Rhode Island's 1st Ever Wingstop Throws Grand Opening Celebration In Johnston - Patch",
+      "status": "opened",
+      "eventDate": "2025-10-15",
+      "sortDate": "2025-10-15",
+      "dateLabel": "Oct 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Johnston",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb openings",
+          "url": ""
+        }
+      ]
+    },
+    {
       "id": "highland-underground-opening",
       "name": "Highland Underground",
       "status": "opened",
@@ -66,6 +486,27 @@
         {
           "label": "Axios Des Moines",
           "url": "https://www.axios.com/local/des-moines/2025/10/15/first-bite-highland-underground"
+        }
+      ]
+    },
+    {
+      "id": "new-restaurant-the-empire-opens-in-downtown-des-moines-honors-city-s-history-who13-com-opened-2025-10-02",
+      "name": "New restaurant \u2018The Empire\u2019 opens in downtown Des Moines, honors city\u2019s history - WHO13.com",
+      "status": "opened",
+      "eventDate": "2025-10-02",
+      "sortDate": "2025-10-02",
+      "dateLabel": "Oct 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Downtown",
+      "story": "Imported from the reviewed lead queue. Source label: Metro openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro openings",
+          "url": ""
         }
       ]
     },
@@ -95,6 +536,90 @@
       ]
     },
     {
+      "id": "7-new-restaurants-in-the-des-moines-metro-you-should-try-right-now-the-des-moines-register-opened-2025-09-28",
+      "name": "7 new restaurants in the Des Moines metro you should try right now - The Des Moines Register",
+      "status": "opened",
+      "eventDate": "2025-09-28",
+      "sortDate": "2025-09-28",
+      "dateLabel": "Sep 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro openings",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "restaurant-chain-hip-in-the-90s-closes-store-doors-after-sudden-bankruptcy-the-sun-com-closed-2025-09-16",
+      "name": "Restaurant chain \u2018hip in the 90s\u2019 closes store doors after sudden bankruptcy - the-sun.com",
+      "status": "closed",
+      "eventDate": "2025-09-16",
+      "sortDate": "2025-09-16",
+      "dateLabel": "Sep 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "bar-louie-s-west-des-moines-location-closed-2025-09-16",
+      "name": "Bar Louie's West Des Moines location",
+      "status": "closed",
+      "eventDate": "2025-09-16",
+      "sortDate": "2025-09-16",
+      "dateLabel": "Sep 2025",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Category Pending",
+      "neighborhood": "West Des Moines",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "13-new-restaurants-opening-in-des-moines-this-fall-span-korean-fried-chicken-to-ice-cream-the-des-moines-register-opened-2025-09-16",
+      "name": "13 new restaurants opening in Des Moines this fall span Korean fried chicken to ice cream - The Des Moines Register",
+      "status": "opened",
+      "eventDate": "2025-09-16",
+      "sortDate": "2025-09-16",
+      "dateLabel": "Sep 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro openings",
+          "url": ""
+        }
+      ]
+    },
+    {
       "id": "americana-closure",
       "name": "Americana",
       "status": "closed",
@@ -120,6 +645,48 @@
       ]
     },
     {
+      "id": "why-des-moines-restaurant-americana-is-closed-2025-09-04",
+      "name": "Why Des Moines restaurant Americana is",
+      "status": "closed",
+      "eventDate": "2025-09-04",
+      "sortDate": "2025-09-04",
+      "dateLabel": "Sep 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro openings",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "des-moines-metro-restaurants-that-closed-2025-09-04",
+      "name": "Des Moines metro restaurants that",
+      "status": "closed",
+      "eventDate": "2025-09-04",
+      "sortDate": "2025-09-04",
+      "dateLabel": "Sep 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro openings",
+          "url": ""
+        }
+      ]
+    },
+    {
       "id": "ritual-cafe-closure",
       "name": "Ritual Cafe",
       "status": "closed",
@@ -137,6 +704,216 @@
         {
           "label": "Des Moines Register via Yahoo",
           "url": "https://www.yahoo.com/news/articles/lgbtq-friendly-coffee-shop-downtown-144214600.html"
+        }
+      ]
+    },
+    {
+      "id": "gran-ranchero-mexican-bar-grill-plans-grand-opened-2025-07-11",
+      "name": "Gran Ranchero Mexican Bar & Grill plans grand",
+      "status": "opened",
+      "eventDate": "2025-07-11",
+      "sortDate": "2025-07-11",
+      "dateLabel": "Jul 2025",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb openings",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "des-moines-pizza-pioneer-abbie-polito-dies-at-age-101-opened-restaurant-in-1952-the-des-moines-register-opened-2025-06-18",
+      "name": "Des Moines pizza pioneer Abbie Polito dies at age 101; opened restaurant in 1952 - The Des Moines Register",
+      "status": "opened",
+      "eventDate": "2025-06-18",
+      "sortDate": "2025-06-18",
+      "dateLabel": "Jun 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Pizza",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro openings",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "a-chinese-restaurant-is-closed-2025-06-12",
+      "name": "A Chinese restaurant is",
+      "status": "closed",
+      "eventDate": "2025-06-12",
+      "sortDate": "2025-06-12",
+      "dateLabel": "Jun 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Johnston",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "restaurant-with-best-burger-of-the-year-is-permanently-closing-men-s-journal-closed-2025-05-30",
+      "name": "Restaurant With 'Best Burger' of the Year Is Permanently Closing - Men's Journal",
+      "status": "closed",
+      "eventDate": "2025-05-30",
+      "sortDate": "2025-05-30",
+      "dateLabel": "May 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Burgers",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "the-most-exciting-new-restaurant-in-des-moines-opened-2025-05-28",
+      "name": "The most exciting new restaurant in Des Moines",
+      "status": "opened",
+      "eventDate": "2025-05-28",
+      "sortDate": "2025-05-28",
+      "dateLabel": "May 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro openings",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "months-after-johnson-s-corner-closure-new-diner-steps-in-to-take-its-place-the-coloradoan-closed-2025-05-21",
+      "name": "Months after Johnson's Corner closure, new diner steps in to take its place - The Coloradoan",
+      "status": "closed",
+      "eventDate": "2025-05-21",
+      "sortDate": "2025-05-21",
+      "dateLabel": "May 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "popular-cocktail-bar-closing-at-end-of-may-after-10-years-men-s-journal-closed-2025-05-20",
+      "name": "Popular Cocktail Bar Closing at End of May After 10 Years - Men's Journal",
+      "status": "closed",
+      "eventDate": "2025-05-20",
+      "sortDate": "2025-05-20",
+      "dateLabel": "May 2025",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "the-renaissance-des-moines-savery-hotel-will-debut-a-new-restaurant-downtown-in-may-the-des-moines-register-opened-2025-05-13",
+      "name": "The Renaissance Des Moines Savery Hotel will debut a new restaurant downtown in May - The Des Moines Register",
+      "status": "opened",
+      "eventDate": "2025-05-13",
+      "sortDate": "2025-05-13",
+      "dateLabel": "May 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Downtown",
+      "story": "Imported from the reviewed lead queue. Source label: Metro openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro openings",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "the-hottest-new-restaurants-in-des-moines-offer-turkish-delight-pho-and-more-the-des-moines-register-opened-2025-04-30",
+      "name": "The hottest new restaurants in Des Moines offer Turkish delight, pho and more - The Des Moines Register",
+      "status": "opened",
+      "eventDate": "2025-04-30",
+      "sortDate": "2025-04-30",
+      "dateLabel": "Apr 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb openings",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "clive-collective-announces-five-new-restaurant-concepts-arizona-foothills-magazine-opened-2025-04-29",
+      "name": "Clive Collective Announces Five New Restaurant Concepts - Arizona Foothills Magazine",
+      "status": "opened",
+      "eventDate": "2025-04-29",
+      "sortDate": "2025-04-29",
+      "dateLabel": "Apr 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb openings",
+          "url": ""
         }
       ]
     },
@@ -162,6 +939,216 @@
         {
           "label": "Axios Des Moines",
           "url": "https://www.axios.com/local/des-moines/2025/02/05/fongs-pizza-moving-former-peace-tree-brewing-location"
+        }
+      ]
+    },
+    {
+      "id": "the-12-hottest-new-restaurants-in-des-moines-march-2025-the-des-moines-register-opened-2025-03-28",
+      "name": "The 12 hottest new restaurants in Des Moines \u2014 March 2025 - The Des Moines Register",
+      "status": "opened",
+      "eventDate": "2025-03-28",
+      "sortDate": "2025-03-28",
+      "dateLabel": "Mar 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb openings",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "bar-louie-closed-2025-03-28",
+      "name": "Bar Louie",
+      "status": "closed",
+      "eventDate": "2025-03-28",
+      "sortDate": "2025-03-28",
+      "dateLabel": "Mar 2025",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "ankeny-lands-a-new-restaurant-specializing-in-burgers-wings-and-beers-find-out-more-the-des-moines-register-opened-2025-03-24",
+      "name": "Ankeny lands a new restaurant specializing in burgers, wings and beers. Find out more: - The Des Moines Register",
+      "status": "opened",
+      "eventDate": "2025-03-24",
+      "sortDate": "2025-03-24",
+      "dateLabel": "Mar 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Burgers",
+      "neighborhood": "Ankeny",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb openings",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "the-hottest-new-restaurants-in-the-des-moines-metro-february-2025-edition-the-des-moines-register-opened-2025-02-28",
+      "name": "The hottest new restaurants in the Des Moines metro, February 2025 edition - The Des Moines Register",
+      "status": "opened",
+      "eventDate": "2025-02-28",
+      "sortDate": "2025-02-28",
+      "dateLabel": "Feb 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb openings",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "happy-joe-s-plans-for-comeback-after-closures-bankruptcy-axios-closed-2025-02-14",
+      "name": "Happy Joe's plans for comeback after closures, bankruptcy - Axios",
+      "status": "closed",
+      "eventDate": "2025-02-14",
+      "sortDate": "2025-02-14",
+      "dateLabel": "Feb 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "south-union-bread-caf-is-temporarily-closed-when-will-the-renovated-lunch-spot-return-the-des-moines-register-closed-2025-02-10",
+      "name": "South Union Bread Caf\u00e9 is temporarily closed. When will the renovated lunch spot return? - The Des Moines Register",
+      "status": "closed",
+      "eventDate": "2025-02-10",
+      "sortDate": "2025-02-10",
+      "dateLabel": "Feb 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "the-hottest-new-restaurants-in-the-des-moines-metro-january-2025-edition-the-des-moines-register-opened-2025-02-02",
+      "name": "The hottest new restaurants in the Des Moines metro, January 2025 edition - The Des Moines Register",
+      "status": "opened",
+      "eventDate": "2025-02-02",
+      "sortDate": "2025-02-02",
+      "dateLabel": "Feb 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb openings",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "northern-colorado-truck-stop-has-closed-2025-01-14",
+      "name": "Northern Colorado truck stop has",
+      "status": "closed",
+      "eventDate": "2025-01-14",
+      "sortDate": "2025-01-14",
+      "dateLabel": "Jan 2025",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "des-moines-thai-restaurant-closed-2024-12-23",
+      "name": "Des Moines Thai restaurant",
+      "status": "closed",
+      "eventDate": "2024-12-23",
+      "sortDate": "2024-12-23",
+      "dateLabel": "Dec 2024",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Thai",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "st-kilda-cafe-bakery-in-downtown-des-moines-closed-2024-12-20",
+      "name": "St. Kilda Cafe & Bakery in downtown Des Moines",
+      "status": "closed",
+      "eventDate": "2024-12-20",
+      "sortDate": "2024-12-20",
+      "dateLabel": "Dec 2024",
+      "datePrecision": "day",
+      "venueType": "cafe",
+      "venueTypeLabel": "Cafe",
+      "cuisine": "Cafe / Bakery",
+      "neighborhood": "Downtown",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
         }
       ]
     },
@@ -225,6 +1212,48 @@
         {
           "label": "Axios Des Moines",
           "url": "https://www.axios.com/local/des-moines/2024/10/31/early-bird-five-borough-bagels-open-des-moines"
+        }
+      ]
+    },
+    {
+      "id": "des-moines-zora-bar-auctioned-off-a-year-after-closed-2024-10-22",
+      "name": "Des Moines' Zora bar auctioned off a year after",
+      "status": "closed",
+      "eventDate": "2024-10-22",
+      "sortDate": "2024-10-22",
+      "dateLabel": "Oct 2024",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "will-any-arby-s-locations-in-iowa-close-after-a-franchisee-filed-for-bankruptcy-the-des-moines-register-closed-2024-07-01",
+      "name": "Will any Arby\u2019s locations in Iowa close after a franchisee filed for bankruptcy? - The Des Moines Register",
+      "status": "closed",
+      "eventDate": "2024-07-01",
+      "sortDate": "2024-07-01",
+      "dateLabel": "Jul 2024",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
         }
       ]
     },
@@ -397,6 +1426,174 @@
       ]
     },
     {
+      "id": "the-handlebar-in-dallas-center-reopening-under-new-chef-axios-opened-2024-04-11",
+      "name": "The Handlebar in Dallas Center reopening under new chef - Axios",
+      "status": "opened",
+      "eventDate": "2024-04-11",
+      "sortDate": "2024-04-11",
+      "dateLabel": "Apr 2024",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Official closure or move statements. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Official closure or move statements",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "zora-rooftop-bar-items-to-be-auctioned-off-kcci-closed-2024-03-11",
+      "name": "Zora Rooftop Bar items to be auctioned off - KCCI",
+      "status": "closed",
+      "eventDate": "2024-03-11",
+      "sortDate": "2024-03-11",
+      "dateLabel": "Mar 2024",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "meet-the-new-restaurant-opened-2024-02-27",
+      "name": "Meet the new restaurant",
+      "status": "opened",
+      "eventDate": "2024-02-27",
+      "sortDate": "2024-02-27",
+      "dateLabel": "Feb 2024",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "West Des Moines",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb openings",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "9-things-to-know-about-the-farm-to-table-restaurant-table-128-reopening-in-des-moines-the-des-moines-register-opened-2024-02-08",
+      "name": "9 things to know about the farm-to-table restaurant Table 128, reopening in Des Moines - The Des Moines Register",
+      "status": "opened",
+      "eventDate": "2024-02-08",
+      "sortDate": "2024-02-08",
+      "dateLabel": "Feb 2024",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "17-new-restaurants-that-recently-opened-in-the-des-moines-metro-here-s-where-to-go-the-des-moines-register-opened-2024-02-01",
+      "name": "17 new restaurants that recently opened in the Des Moines metro. Here's where to go. - The Des Moines Register",
+      "status": "opened",
+      "eventDate": "2024-02-01",
+      "sortDate": "2024-02-01",
+      "dateLabel": "Feb 2024",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb openings",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "look-back-at-16-restaurants-that-closed-2023-12-27",
+      "name": "Look back at 16 restaurants that",
+      "status": "closed",
+      "eventDate": "2023-12-27",
+      "sortDate": "2023-12-27",
+      "dateLabel": "Dec 2023",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "longtime-des-moines-bar-closed-2023-12-27",
+      "name": "Longtime Des Moines bar",
+      "status": "closed",
+      "eventDate": "2023-12-27",
+      "sortDate": "2023-12-27",
+      "dateLabel": "Dec 2023",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Metro closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Metro closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "ben-s-burgers-in-ankeny-is-closed-2023-12-18",
+      "name": "Ben's Burgers in Ankeny is",
+      "status": "closed",
+      "eventDate": "2023-12-18",
+      "sortDate": "2023-12-18",
+      "dateLabel": "Dec 2023",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Burgers",
+      "neighborhood": "Ankeny",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
       "id": "izumi-opening",
       "name": "Izumi Sushi & Hibachi",
       "status": "opened",
@@ -414,6 +1611,48 @@
         {
           "label": "Axios Des Moines",
           "url": "https://www.axios.com/local/des-moines/2024/01/10/first-bite-izumi-sushi-hibachi"
+        }
+      ]
+    },
+    {
+      "id": "waukee-s-kinship-brewing-in-foreclosure-has-closed-its-taproom-until-may-1-website-says-the-des-moines-register-closed-2023-12-04",
+      "name": "Waukee's Kinship Brewing, in foreclosure, has closed its taproom until May 1, website says - The Des Moines Register",
+      "status": "closed",
+      "eventDate": "2023-12-04",
+      "sortDate": "2023-12-04",
+      "dateLabel": "Dec 2023",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Brewery",
+      "neighborhood": "Waukee",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "waukee-brewery-enters-foreclosure-proceedings-kcci-closed-2023-11-20",
+      "name": "Waukee brewery enters foreclosure proceedings - KCCI",
+      "status": "closed",
+      "eventDate": "2023-11-20",
+      "sortDate": "2023-11-20",
+      "dateLabel": "Nov 2023",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Brewery",
+      "neighborhood": "Waukee",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb openings. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb openings",
+          "url": ""
         }
       ]
     },
@@ -456,6 +1695,27 @@
         {
           "label": "Axios Des Moines",
           "url": "https://www.axios.com/local/des-moines/2023/09/26/either-or-restaurant-opens-lua-brewing"
+        }
+      ]
+    },
+    {
+      "id": "a-popular-nc-brewery-has-closed-2023-08-01",
+      "name": "A popular NC brewery has",
+      "status": "closed",
+      "eventDate": "2023-08-01",
+      "sortDate": "2023-08-01",
+      "dateLabel": "Aug 2023",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Brewery",
+      "neighborhood": "Johnston",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
         }
       ]
     },
@@ -531,6 +1791,27 @@
       ]
     },
     {
+      "id": "gusto-pizza-closed-2023-02-09",
+      "name": "Gusto Pizza",
+      "status": "closed",
+      "eventDate": "2023-02-09",
+      "sortDate": "2023-02-09",
+      "dateLabel": "Feb 2023",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Pizza",
+      "neighborhood": "Waukee",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
       "id": "faustinos-opening",
       "name": "Faustinos Taqueria",
       "status": "opened",
@@ -577,6 +1858,27 @@
       ]
     },
     {
+      "id": "west-des-moines-is-now-permanently-closed-2023-01-18",
+      "name": "West Des Moines is now permanently",
+      "status": "closed",
+      "eventDate": "2023-01-18",
+      "sortDate": "2023-01-18",
+      "dateLabel": "Jan 2023",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "West Des Moines",
+      "story": "Imported from the reviewed lead queue. Source label: Official closure or move statements. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Official closure or move statements",
+          "url": ""
+        }
+      ]
+    },
+    {
       "id": "wahlburgers-jordan-creek-closure",
       "name": "Wahlburgers Jordan Creek",
       "status": "closed",
@@ -594,6 +1896,27 @@
         {
           "label": "Axios Des Moines",
           "url": "https://www.axios.com/local/des-moines/2023/12/19/restaurants-closed-list-spaghetti-works-wahlburgers"
+        }
+      ]
+    },
+    {
+      "id": "new-university-heights-restaurant-closed-2022-12-14",
+      "name": "New University Heights restaurant",
+      "status": "closed",
+      "eventDate": "2022-12-14",
+      "sortDate": "2022-12-14",
+      "dateLabel": "Dec 2022",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
         }
       ]
     },
@@ -661,6 +1984,27 @@
       ]
     },
     {
+      "id": "mistress-brewing-company-announces-closure-of-ankeny-taproom-weareiowa-com-closed-2022-11-01",
+      "name": "Mistress Brewing Company announces closure of Ankeny taproom - weareiowa.com",
+      "status": "closed",
+      "eventDate": "2022-11-01",
+      "sortDate": "2022-11-01",
+      "dateLabel": "Nov 2022",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Brewery",
+      "neighborhood": "Ankeny",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
       "id": "ninas-tacos-closure",
       "name": "Nina's Tacos",
       "status": "closed",
@@ -724,6 +2068,27 @@
         {
           "label": "Des Moines Register via AOL",
           "url": "https://www.aol.com/gusto-pizza-bar-ingersoll-avenue-214442799.html"
+        }
+      ]
+    },
+    {
+      "id": "captain-ankeny-s-pizza-pub-is-closing-its-doors-in-old-town-after-38-years-willamette-week-closed-2022-09-27",
+      "name": "Captain Ankeny\u2019s Pizza & Pub Is Closing Its Doors in Old Town After 38 Years - Willamette Week",
+      "status": "closed",
+      "eventDate": "2022-09-27",
+      "sortDate": "2022-09-27",
+      "dateLabel": "Sep 2022",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Pizza",
+      "neighborhood": "Ankeny",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
         }
       ]
     },
@@ -883,6 +2248,27 @@
       ]
     },
     {
+      "id": "the-community-pushed-us-to-closed-2022-02-11",
+      "name": "The community pushed us to",
+      "status": "closed",
+      "eventDate": "2022-02-11",
+      "sortDate": "2022-02-11",
+      "dateLabel": "Feb 2022",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Official closure or move statements. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Official closure or move statements",
+          "url": ""
+        }
+      ]
+    },
+    {
       "id": "503-opening",
       "name": "503 Cocktail Lab + Tasting Room",
       "status": "opened",
@@ -925,6 +2311,27 @@
         {
           "label": "Axios Des Moines",
           "url": "https://www.axios.com/local/des-moines/2022/01/26/mad-meatball-returns-to-des-moines"
+        }
+      ]
+    },
+    {
+      "id": "des-moines-historic-chuck-s-restaurant-ready-for-a-full-reopening-after-undergoing-1-4-million-renovation-the-des-moines-register-opened-2022-01-25",
+      "name": "Des Moines' historic Chuck's restaurant ready for a full reopening after undergoing $1.4 million renovation - The Des Moines Register",
+      "status": "opened",
+      "eventDate": "2022-01-25",
+      "sortDate": "2022-01-25",
+      "dateLabel": "Jan 2022",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Official closure or move statements. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Official closure or move statements",
+          "url": ""
         }
       ]
     },
@@ -1059,6 +2466,69 @@
       ]
     },
     {
+      "id": "this-nc-restaurant-rebuilt-after-2-fires-now-it-s-closing-for-good-after-40-years-news-observer-closed-2021-09-15",
+      "name": "This NC restaurant rebuilt after 2 fires. Now it\u2019s closing for good after 40+ years - News & Observer",
+      "status": "closed",
+      "eventDate": "2021-09-15",
+      "sortDate": "2021-09-15",
+      "dateLabel": "Sep 2021",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "johnston-county-bbq-joint-closed-2021-09-14",
+      "name": "Johnston County BBQ joint",
+      "status": "closed",
+      "eventDate": "2021-09-14",
+      "sortDate": "2021-09-14",
+      "dateLabel": "Sep 2021",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Barbecue",
+      "neighborhood": "Johnston",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "after-42-years-popular-johnston-county-restaurant-closing-joco-report-closed-2021-09-14",
+      "name": "After 42 Years, Popular Johnston County Restaurant Closing - JoCo Report",
+      "status": "closed",
+      "eventDate": "2021-09-14",
+      "sortDate": "2021-09-14",
+      "dateLabel": "Sep 2021",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Johnston",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
       "id": "dobre-opening",
       "name": "Dobre Tasting Room",
       "status": "opened",
@@ -1080,6 +2550,27 @@
         {
           "label": "Des Moines Register via AOL",
           "url": "https://www.aol.com/chef-lynn-pritchard-abruptly-closes-113119333.html"
+        }
+      ]
+    },
+    {
+      "id": "des-moines-steak-n-shake-restaurant-temporarily-closed-2021-04-22",
+      "name": "Des Moines Steak n' Shake restaurant temporarily",
+      "status": "closed",
+      "eventDate": "2021-04-22",
+      "sortDate": "2021-04-22",
+      "dateLabel": "Apr 2021",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Steakhouse",
+      "neighborhood": "West Des Moines",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
         }
       ]
     },
@@ -1122,6 +2613,48 @@
         {
           "label": "Axios Des Moines",
           "url": "https://www.axios.com/local/des-moines/2021/04/02/good-news-darling-des-moines-cocktail-bar"
+        }
+      ]
+    },
+    {
+      "id": "saints-pub-patio-s-inventory-set-for-auction-after-what-owner-had-said-was-temporary-closure-the-des-moines-register-closed-2021-02-22",
+      "name": "Saints Pub + Patio's inventory set for auction after what owner had said was temporary closure - The Des Moines Register",
+      "status": "closed",
+      "eventDate": "2021-02-22",
+      "sortDate": "2021-02-22",
+      "dateLabel": "Feb 2021",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Official closure or move statements. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Official closure or move statements",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "campus-thai-restaurant-with-daniel-johnston-s-hi-how-are-you-mural-closed-eater-austin-closed-2020-01-03",
+      "name": "Campus Thai Restaurant With Daniel Johnston\u2019s \u201cHi, How Are You\u201d Mural Closed - Eater Austin",
+      "status": "closed",
+      "eventDate": "2020-01-03",
+      "sortDate": "2020-01-03",
+      "dateLabel": "Jan 2020",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Thai",
+      "neighborhood": "Johnston",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
         }
       ]
     },
@@ -1172,6 +2705,384 @@
         {
           "label": "Axios Des Moines",
           "url": "https://www.axios.com/local/des-moines/2023/10/23/taco-casa-new-owners-mexican-food"
+        }
+      ]
+    },
+    {
+      "id": "mixed-wes-des-moines-is-closed-2019-10-28",
+      "name": "Mixed Wes Des Moines is",
+      "status": "closed",
+      "eventDate": "2019-10-28",
+      "sortDate": "2019-10-28",
+      "dateLabel": "Oct 2019",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "nomi-s-asian-cuisine-reopening-in-altoona-after-suv-drove-into-building-last-month-the-des-moines-register-opened-2019-09-11",
+      "name": "Nomi's Asian Cuisine reopening in Altoona after SUV drove into building last month - The Des Moines Register",
+      "status": "opened",
+      "eventDate": "2019-09-11",
+      "sortDate": "2019-09-11",
+      "dateLabel": "Sep 2019",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Official closure or move statements. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Official closure or move statements",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "with-a-fresh-look-and-perspective-des-moines-proof-restaurant-is-reopening-aug-31-the-des-moines-register-opened-2019-08-20",
+      "name": "With a fresh look and perspective, Des Moines' Proof Restaurant is reopening Aug. 31 - The Des Moines Register",
+      "status": "opened",
+      "eventDate": "2019-08-20",
+      "sortDate": "2019-08-20",
+      "dateLabel": "Aug 2019",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Official closure or move statements. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Official closure or move statements",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "centro-is-reopening-wednesday-after-opened-2019-07-30",
+      "name": "Centro is reopening Wednesday after",
+      "status": "opened",
+      "eventDate": "2019-07-30",
+      "sortDate": "2019-07-30",
+      "dateLabel": "Jul 2019",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Official closure or move statements. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Official closure or move statements",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "one-of-the-hardee-s-in-ankeny-has-closed-2019-04-15",
+      "name": "One of the Hardee's in Ankeny has",
+      "status": "closed",
+      "eventDate": "2019-04-15",
+      "sortDate": "2019-04-15",
+      "dateLabel": "Apr 2019",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Ankeny",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "des-moines-restaurants-now-closed-2019-04-01",
+      "name": "Des Moines restaurants now",
+      "status": "closed",
+      "eventDate": "2019-04-01",
+      "sortDate": "2019-04-01",
+      "dateLabel": "Apr 2019",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "popular-jordan-creek-restaurant-and-wine-bar-closed-2019-03-12",
+      "name": "Popular Jordan Creek restaurant and wine bar",
+      "status": "closed",
+      "eventDate": "2019-03-12",
+      "sortDate": "2019-03-12",
+      "dateLabel": "Mar 2019",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "shake-lab-is-closed-2019-01-28",
+      "name": "Shake Lab is",
+      "status": "closed",
+      "eventDate": "2019-01-28",
+      "sortDate": "2019-01-28",
+      "dateLabel": "Jan 2019",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Ankeny",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "cowboy-chicken-in-ankeny-has-closed-2018-12-10",
+      "name": "Cowboy Chicken in Ankeny has",
+      "status": "closed",
+      "eventDate": "2018-12-10",
+      "sortDate": "2018-12-10",
+      "dateLabel": "Dec 2018",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Ankeny",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "the-city-isn-t-progressing-the-daily-advertiser-lafayette-louisiana-closed-2018-08-23",
+      "name": "'The city isn't progressing' - The Daily Advertiser | Lafayette, Louisiana",
+      "status": "closed",
+      "eventDate": "2018-08-23",
+      "sortDate": "2018-08-23",
+      "dateLabel": "Aug 2018",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "urbandale-italian-restaurant-has-closed-2018-08-15",
+      "name": "Urbandale Italian restaurant has",
+      "status": "closed",
+      "eventDate": "2018-08-15",
+      "sortDate": "2018-08-15",
+      "dateLabel": "Aug 2018",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Urbandale",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "long-awaited-reopening-of-des-moines-restaurant-is-inching-ever-closer-the-des-moines-register-opened-2018-06-21",
+      "name": "Long awaited reopening of Des Moines restaurant is inching ever closer - The Des Moines Register",
+      "status": "opened",
+      "eventDate": "2018-06-21",
+      "sortDate": "2018-06-21",
+      "dateLabel": "Jun 2018",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Official closure or move statements. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Official closure or move statements",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "west-des-moines-burger-joint-closed-2018-04-09",
+      "name": "West Des Moines burger joint",
+      "status": "closed",
+      "eventDate": "2018-04-09",
+      "sortDate": "2018-04-09",
+      "dateLabel": "Apr 2018",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Burgers",
+      "neighborhood": "West Des Moines",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "man-who-was-executed-spent-last-day-with-his-children-principal-says-the-des-moines-register-closed-2017-04-24",
+      "name": "Man who was 'executed' spent last day with his children, principal says - The Des Moines Register",
+      "status": "closed",
+      "eventDate": "2017-04-24",
+      "sortDate": "2017-04-24",
+      "dateLabel": "Apr 2017",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Official closure or move statements. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Official closure or move statements",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "bear-restaurant-in-ankeny-closed-2016-07-19",
+      "name": "Bear Restaurant in Ankeny",
+      "status": "closed",
+      "eventDate": "2016-07-19",
+      "sortDate": "2016-07-19",
+      "dateLabel": "Jul 2016",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Ankeny",
+      "story": "Imported from the reviewed lead queue. Source label: Suburb closures. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Suburb closures",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "one-vegan-spot-out-one-reopening-the-des-moines-register-opened-2015-05-24",
+      "name": "One vegan spot out, one reopening - The Des Moines Register",
+      "status": "opened",
+      "eventDate": "2015-05-24",
+      "sortDate": "2015-05-24",
+      "dateLabel": "May 2015",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Official closure or move statements. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Official closure or move statements",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "overtime-in-urbandale-reopening-with-a-craft-beer-focus-the-des-moines-register-opened-2015-03-05",
+      "name": "Overtime in Urbandale reopening with a craft beer focus - The Des Moines Register",
+      "status": "opened",
+      "eventDate": "2015-03-05",
+      "sortDate": "2015-03-05",
+      "dateLabel": "Mar 2015",
+      "datePrecision": "day",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Urbandale",
+      "story": "Imported from the reviewed lead queue. Source label: Official closure or move statements. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Official closure or move statements",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "locust-tap-shut-down-city-says-bar-reopened-illegally-the-des-moines-register-opened-2014-12-01",
+      "name": "Locust Tap shut down; city says bar reopened illegally - The Des Moines Register",
+      "status": "opened",
+      "eventDate": "2014-12-01",
+      "sortDate": "2014-12-01",
+      "dateLabel": "Dec 2014",
+      "datePrecision": "day",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Imported from the reviewed lead queue. Source label: Official closure or move statements. Headline cleanup and deeper sourcing can be refined later.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Official closure or move statements",
+          "url": ""
         }
       ]
     }

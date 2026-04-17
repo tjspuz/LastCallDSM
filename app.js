@@ -158,12 +158,16 @@ function renderTimeline() {
         if (index > 0) {
           sourcesEl.appendChild(document.createTextNode(" • "));
         }
-        const link = document.createElement("a");
-        link.href = source.url;
-        link.target = "_blank";
-        link.rel = "noreferrer";
-        link.textContent = source.label;
-        sourcesEl.appendChild(link);
+        if (source.url) {
+          const link = document.createElement("a");
+          link.href = source.url;
+          link.target = "_blank";
+          link.rel = "noreferrer";
+          link.textContent = source.label;
+          sourcesEl.appendChild(link);
+        } else {
+          sourcesEl.appendChild(document.createTextNode(source.label));
+        }
       });
 
       statusBadge.textContent = titleCase(item.status);

@@ -66,7 +66,7 @@ def main() -> int:
 
         for source in item["sources"]:
             url = source.get("url", "")
-            if not (url.startswith("http://") or url.startswith("https://")):
+            if url and not (url.startswith("http://") or url.startswith("https://")):
                 errors.append(f"{item['id']}: invalid source url {url}")
 
         if prev_sort and prev_sort < item["sortDate"]:
