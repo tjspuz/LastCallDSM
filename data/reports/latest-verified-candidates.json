@@ -1,5 +1,55 @@
 [
   {
+    "id": "801-chophouse-des-moines-metro-closed-2026-04-17",
+    "name": "801 ChopHouse",
+    "status": "closed",
+    "eventDate": "2026-04-17",
+    "sortDate": "2026-04-17",
+    "dateLabel": "Apr 2026",
+    "datePrecision": "day",
+    "venueType": "bar",
+    "venueTypeLabel": "Bar",
+    "cuisine": "Steakhouse",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for 801 ChopHouse in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines distress signals",
+        "url": "https://www.reddit.com/r/desmoines/comments/1smqzws/801_chophouse_files_for_bankruptcy/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPamJ0TjBBTi05S0xTLWg0dWxabWpzTmE3QW9qN0Rla1I0RjZ1MUJIaGhUMDQ2NmNhd2psQ3owWFh4aWZrTkwtTnVzVnpUYlNVazFOejk1VmdiTWJJMWdUNXJydm4yLUxpWFQwVVI2WFNRUVRQT09wdnVwUWx6cTdxLWpmNVdkcll6TFdiMHY1NzJMNHFaLVRkanQwUzhqTjdGbmVKMm1zSXlHWWNIUDN4bExwblc4TC13Rkp1YVE0OWdzc01NWWpB?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "eddie-bauer-store-des-moines-metro-closed-2026-02-04",
+    "name": "Eddie Bauer store",
+    "status": "closed",
+    "eventDate": "2026-02-04",
+    "sortDate": "2026-02-04",
+    "dateLabel": "Feb 2026",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Eddie Bauer store in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines closing",
+        "url": "https://www.reddit.com/r/desmoines/comments/1qtxvti/eddie_bauer_store/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWWRjOV81a3pTT01pdkF0WC1LeWl1dXl5aFZnSmd4N3U3MHFKbE45NjBqYzE5bXBjZ01QTDFXZ3Y5dVU4OEhHemNvX0pXbk93SEp0MVE4bUx3dGU4a2ZjUjZmd2NrYWZ5YWU0enI1SVJiMHhRaXh0ZlFxT1FUeFFfcThwNFRDOXNXVTZyZm94RUIxTk9oa2fSAZsBQVVfeXFMT2FRSlQtUXpMWktoczhZVWVmNUU3bFZGOGJscWZqR2czV2hJaU1lb1R5N1lYVl9PS01QLWxYSlZYYlZKMzZ1TUVMdXE4ck9TQmR1ZXcza2JLcXYxRnVOV1NVMmRhMWNNTkV4SkNqcFNyVnZidGM5bGgwazd5bEUtaU4wVm9peDRuTEN1cGRfOGc2SktvWmIzTXV6TDA?oc=5"
+      }
+    ]
+  },
+  {
     "id": "django-des-moines-metro-closed-2026-01-28",
     "name": "Django",
     "status": "closed",
@@ -16,11 +66,86 @@
     "sources": [
       {
         "label": "Metro closures",
-        "url": ""
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFAyMWpZTkdGeVJnNmoyWTN1YXJwdEtoazhSaXJWNmVFU0pSOVc5b1FHcDM4bnpQb3hqdlRDNG55cmNaSzA4YkFlUVhBczF0YjFwaVJQcVFJWDJYOWZ2UkpVd0tUeGY0RTgxbDhiOERhd19RVWVQZXdMQ1Vpa0gxcDdCY0hpMFY0Y0p0ZFlZa28?oc=5"
       },
       {
         "label": "news.google.com",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFAyMWpZTkdGeVJnNmoyWTN1YXJwdEtoazhSaXJWNmVFU0pSOVc5b1FHcDM4bnpQb3hqdlRDNG55cmNaSzA4YkFlUVhBczF0YjFwaVJQcVFJWDJYOWZ2UkpVd0tUeGY0RTgxbDhiOERhd19RVWVQZXdMQ1Vpa0gxcDdCY0hpMFY0Y0p0ZFlZa28?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "the-last-pita-pit-des-moines-metro-closed-2026-01-22",
+    "name": "The last Pita Pit",
+    "status": "closed",
+    "eventDate": "2026-01-22",
+    "sortDate": "2026-01-22",
+    "dateLabel": "Jan 2026",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for The last Pita Pit in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Metro closures",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRlhRRjlmQU9pNHpIWVFyNlNWUWx5NlNXZDgyR1ZpbU82YlRneGxPMlBZZEJ4eWJzbk9semJORS13MkFONVBVRzF6amd3OXVsVE5oZjRGc3JtWF8yX2Fhdjl5SG00QmNzeGRaQW4zdWJzc0RUcU0xVW1YbFNBYmtaQlJCc1NQdTg5cW5faGN1bFRBd2I5WnJSbUhxWlhuTkNwWC12UzI0UTRDTG5LUHBnYTd6M096WGdQZVRIUFc5YkhLWUpK?oc=5"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRlhRRjlmQU9pNHpIWVFyNlNWUWx5NlNXZDgyR1ZpbU82YlRneGxPMlBZZEJ4eWJzbk9semJORS13MkFONVBVRzF6amd3OXVsVE5oZjRGc3JtWF8yX2Fhdjl5SG00QmNzeGRaQW4zdWJzc0RUcU0xVW1YbFNBYmtaQlJCc1NQdTg5cW5faGN1bFRBd2I5WnJSbUhxWlhuTkNwWC12UzI0UTRDTG5LUHBnYTd6M096WGdQZVRIUFc5YkhLWUpK?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "health-clinics-des-moines-metro-closed-2025-12-19",
+    "name": "Health clinics",
+    "status": "closed",
+    "eventDate": "2025-12-19",
+    "sortDate": "2025-12-19",
+    "dateLabel": "Dec 2025",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Health clinics in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines closing",
+        "url": "https://www.reddit.com/r/desmoines/comments/1qpwmgc/health_clinics_closed/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzgtVXpxdURUZTNEaFMwdkpQbS1QZlJ1Qm1DcS1jbEJGaklTWjVES3U2ZEJNV3kzNEVJUEJrbmpnODUzSmdnek01azc4OHJvT1VRUGJvelZ3TjhfbXRSLTNiWllxMHFqY2lrRDctd1oxZkUxUzV4b2FCVGhOY1hfbml6Mk9SZFNEaDJWbUp5MDk3ejdvdGhlN010aWVKSjdXbGk0VVd6UVdfT0RP?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "the-des-moines-register-ankeny-opened-2025-12-01",
+    "name": "The Des Moines Register",
+    "status": "opened",
+    "eventDate": "2025-12-01",
+    "sortDate": "2025-12-01",
+    "dateLabel": "Dec 2025",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Ankeny",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for The Des Moines Register in Ankeny. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Suburb openings",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWkp1aFFpODZmS09YV1h5Wm54cGJYMlVyN3Z3ZTA1RFpCNmpvUW0yNHUyaG5sTlJhM0RJalprNV9IRHM5NmJ2Z3hZRE50TlhDREdFMW5LYjdOcGdKRk9tcUNyTlE1S3NNU1RXN0ZITnNZWVcyQk81aTlWNFBhNEYwRURCRkhYYUhKbWtUREpjWVRRaTRKSTFBRnp4cER5VXN3S3ZYOUV5aU1wSnE4WElaUnVkXzJxYzBMbTU5ckliMUg3SHNsalFTYWY5Q2ZYdkE?oc=5"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZHJGUmRTaUluNWt3VmZyOFB2ZWV5UFo3cWxFZjhKeUpRN21UeUdMT3RqSl9PRldhWnMtR252c2Q3blljM2NQdkMxWjA3UWd0bWZlUGV2WmVhcjczNUM0QmhGaC1OOEVkR0piTTBnRXdTd2pGS2w3dERjV2ZOakdNbHVDLXItSVpLTlBJblFLS3BEbzBKZkpqbU9LcXBQVmoxU0FSWjBRQlZrTTJmR2V5OFVlTjJOQQ?oc=5"
       }
     ]
   },
@@ -41,11 +166,36 @@
     "sources": [
       {
         "label": "Metro closures",
-        "url": ""
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUUJwblFyNVdtLUtQWFhpNi1QWVU3UDNfdkFLRmJDWTRVc0g5X01yMWl1dVJIdmVnNTlCb0RuUTZFSHdfSXFjZmRVSEU3Y2xjRWx6SFdvQ09nbmdIc1VncklmeFo1MTh0U1hYVkt3bEJ2YlNRLUZtbVhlZUVjUWtLSnFjUU1xWXJINmdqUnZ3RFZLdjNtN1NuNVlkLUNPRm9qZm1UaVl3NlVTYkRVRWRmZkJ5SUFDX2V6YXJKcA?oc=5"
       },
       {
         "label": "news.google.com",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUUJwblFyNVdtLUtQWFhpNi1QWVU3UDNfdkFLRmJDWTRVc0g5X01yMWl1dVJIdmVnNTlCb0RuUTZFSHdfSXFjZmRVSEU3Y2xjRWx6SFdvQ09nbmdIc1VncklmeFo1MTh0U1hYVkt3bEJ2YlNRLUZtbVhlZUVjUWtLSnFjUU1xWXJINmdqUnZ3RFZLdjNtN1NuNVlkLUNPRm9qZm1UaVl3NlVTYkRVRWRmZkJ5SUFDX2V6YXJKcA?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "rhode-island-s-1st-ever-wingstop-throws-grand-opening-celebration-johnston-opened-2025-10-15",
+    "name": "Rhode Island's 1st Ever Wingstop Throws Grand Opening Celebration",
+    "status": "opened",
+    "eventDate": "2025-10-15",
+    "sortDate": "2025-10-15",
+    "dateLabel": "Oct 2025",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Johnston",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Rhode Island's 1st Ever Wingstop Throws Grand Opening Celebration in Johnston. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Suburb openings",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWUc5d0ZhVW9jWGlfSV8xNUZSVTQ3YVV1TndFMmZCV0k3bFZKdmt0aUtndGdfd09uX2lFbU01b2xRbUxlU2dYMzRidlctZmpqQ1JLX19pdzZDNXNPZHV1Z2ZzbXRBNURnd3Jfa3VnYkdveExFMzE1ZWZ2ZWpQYzJfdGVIWFNjNUkyQ0lQSmRYVUlvRWNDdXVxRUN1SndHYTducDVNYWdLdVd2ZTdocmpTcjQyNA?oc=5"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWUc5d0ZhVW9jWGlfSV8xNUZSVTQ3YVV1TndFMmZCV0k3bFZKdmt0aUtndGdfd09uX2lFbU01b2xRbUxlU2dYMzRidlctZmpqQ1JLX19pdzZDNXNPZHV1Z2ZzbXRBNURnd3Jfa3VnYkdveExFMzE1ZWZ2ZWpQYzJfdGVIWFNjNUkyQ0lQSmRYVUlvRWNDdXVxRUN1SndHYTducDVNYWdLdVd2ZTdocmpTcjQyNA?oc=5"
       }
     ]
   },
@@ -66,7 +216,7 @@
     "sources": [
       {
         "label": "Suburb closures",
-        "url": ""
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNTIwWlFOQkVNbVEwR2x2OUZZTzhtSHVlZDVJcVV2aG9zWkY2N0hFR3BPcGptbVNGS3N0Ukw4cmU2LWQ3ZEtaOFFuYnZCVUpkRExHSGYtZ2paVjN0RXFXcHo4cTUwcGFRRkUtQVBtOWJtUTBDYy1HWjF1Wmhxc181OVAzV0dCSHBfc3VzQVhSMUYwTGZkNDZYSTNUV0FneWRBdWFVU2RCTTBraXJ6Nm9xZFltb29RMGljLWUtTjJwYjI5ZHIzUWNwbjktc2ZRWHRWVUdmUHNhTklSM2ZVT0dlVXhYdnNpU04yYTNROFJhMDc?oc=5"
       },
       {
         "label": "news.google.com",
@@ -90,8 +240,8 @@
     "verificationLevel": "verified",
     "sources": [
       {
-        "label": "Suburb closures",
-        "url": ""
+        "label": "Metro closures",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS2dwU3QwbVA4SF80RFVKLWJwd3R2UnN0MEZqRzRYQ3IxY21wTDJYZGhnWThzcmNmalZwaGxfeDBnY3EyamtTZUNiTGRHQ2RJX2p2d25VZGhuTXFxSl82XzhkY1JPVFo1TVByMmQ5WEstRXN3c3d0T3Fwbjg1SENpbGVIa0pabUZxSEZNZWtRZ3lvYTZadDFpWnNETnRnZUNaN3BZX1g5VzltRzZTREd5U3JncG1IeFZxSjMxUGpGRTNBUjgtZmVNS0VlQXI5c0ZHektpMnBCbENSemN4X0E5VXJn?oc=5"
       },
       {
         "label": "news.google.com",
@@ -100,8 +250,33 @@
     ]
   },
   {
-    "id": "the-handlebar-in-dallas-center-des-moines-metro-opened-2024-04-11",
-    "name": "The Handlebar in Dallas Center",
+    "id": "chi-chi-s-des-moines-metro-closed-2024-12-04",
+    "name": "Chi Chi's",
+    "status": "closed",
+    "eventDate": "2024-12-04",
+    "sortDate": "2024-12-04",
+    "dateLabel": "Dec 2024",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Chi Chi's in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines historical closure thread",
+        "url": "https://www.reddit.com/r/desmoines/comments/1e3fpgm/what_store_or_restaurant_that_has_closed_do_you/ld920ay/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMlZxQzRWODVDanpPX2hKRU1qdDYxdHJveVNwTjRaSVRTTTVQY1pSemdoNFg4N2VJeElyR3ZDdmNSZGlHZkFCYnBNTDUyWWRLcWs5X3JIcWlteUsxaGRYalFGazNYSVJOY21LZnVQSk5pX1ZBTTV1blVUaW9QZlk4LVRLQlBZeUN6RkFtTkRWTC1CVEFYVGFOUTRsbnhTNERvQzVJbTlwZXBubXJhX0t4dENHUU1ubk55a2xvU0NJRFJVLVpCNHRYckpR?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "the-handlebar-des-moines-metro-opened-2024-04-11",
+    "name": "The Handlebar",
     "status": "opened",
     "eventDate": "2024-04-11",
     "sortDate": "2024-04-11",
@@ -111,12 +286,12 @@
     "venueTypeLabel": "Bar",
     "cuisine": "Category Pending",
     "neighborhood": "Des Moines Metro",
-    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for The Handlebar in Dallas Center in Des Moines Metro. Confirmation source: news.google.com.",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for The Handlebar in Des Moines Metro. Confirmation source: news.google.com.",
     "verificationLevel": "verified",
     "sources": [
       {
         "label": "Official closure or move statements",
-        "url": ""
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORWtpLTUtZzRqTkp4M2JVQ2lNZU84ZGtCaXNWNExDaXZ4cGpSTmZDYW1TUjE1OG1ocGFMYkh6aHY1TUhseVUwa0E5UWJQLWtMS2o5ZVpmS3VvQ1FRR00wUUpXY3k0cHgySXhWVWpnTzBHVVBSdk1UX3VMYjNOMzd1RFFmMkZ2OHJjSWNUTHRCcWN6REJkbXRJSTA4QjVJUW8tME1VTkMzTE5IR01NTTdZ?oc=5"
       },
       {
         "label": "news.google.com",
@@ -141,15 +316,102 @@
     "sources": [
       {
         "label": "Metro closures",
-        "url": ""
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSmpxal9rdGo4akdvTDBFRlBsOW8ybUp0S0Q5aVQ5LVQ4clhPVzhwd2xhV1JCaE9jZXZHZmlOdVVvMDA2YTVPSzRhVS0zeTl4MGE0NmdCQktsUlpRS1hRSUdMbUpxd3U3a1k1SF95cXh1SENfREJFVzFPclVDRWtDbEgzT19tcVFYNjJOTGNFYw?oc=5"
       },
       {
         "label": "news.google.com",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSmpxal9rdGo4akdvTDBFRlBsOW8ybUp0S0Q5aVQ5LVQ4clhPVzhwd2xhV1JCaE9jZXZHZmlOdVVvMDA2YTVPSzRhVS0zeTl4MGE0NmdCQktsUlpRS1hRSUdMbUpxd3U3a1k1SF95cXh1SENfREJFVzFPclVDRWtDbEgzT19tcVFYNjJOTGNFYw?oc=5"
       },
       {
+        "label": "Metro closures",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWFWUGZVR3J1S1hlQ2JXc2h1MzBBb2FjMFBCT0hxb1RMaEluVzlBX3VrX1UzTE93bGIxVGpab2U4N0NNSFFuSTlCTlpiOHhadF8zWEQ5am9XdV9tTHVmN0tybXM3ZVo5Qk5NQ3VfNUhWZ3RReG1DVDVjam1tdzRoRDNRV1k5RldsVTdlUw?oc=5"
+      },
+      {
         "label": "news.google.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWFWUGZVR3J1S1hlQ2JXc2h1MzBBb2FjMFBCT0hxb1RMaEluVzlBX3VrX1UzTE93bGIxVGpab2U4N0NNSFFuSTlCTlpiOHhadF8zWEQ5am9XdV9tTHVmN0tybXM3ZVo5Qk5NQ3VfNUhWZ3RReG1DVDVjam1tdzRoRDNRV1k5RldsVTdlUw?oc=5"
+      },
+      {
+        "label": "Metro closures",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTjd6UVJnV1M3N0JKd0YxMlpxTWNXTFJOUUZNQ0JIV1ZnNXFMeDQ2OXlZR05kd3c5Y0hZVjNMTXlqM3Vpcl82MXhhNmI2QXBwT2hsbHFHWmJhb3oyRTVsV0k3RW04bHJxNHlId3Z3cHNON3gyR0Q2aGlNNVMtcFl4ZTl6MzRCMG5pYk1jOUszZUxIWFltaGZrV0JHTHhFM0pWeTlINHd6ZnJnTHRoSkhxZzRoOW8wekFDMURVZEJtX2YzRFJlYzBzZ0xOam1ITE55MmE1UlVDUHlaQQ?oc=5"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTjd6UVJnV1M3N0JKd0YxMlpxTWNXTFJOUUZNQ0JIV1ZnNXFMeDQ2OXlZR05kd3c5Y0hZVjNMTXlqM3Vpcl82MXhhNmI2QXBwT2hsbHFHWmJhb3oyRTVsV0k3RW04bHJxNHlId3Z3cHNON3gyR0Q2aGlNNVMtcFl4ZTl6MzRCMG5pYk1jOUszZUxIWFltaGZrV0JHTHhFM0pWeTlINHd6ZnJnTHRoSkhxZzRoOW8wekFDMURVZEJtX2YzRFJlYzBzZ0xOam1ITE55MmE1UlVDUHlaQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "this-longtime-mediterranean-des-moines-metro-closed-2024-02-19",
+    "name": "This longtime Mediterranean",
+    "status": "closed",
+    "eventDate": "2024-02-19",
+    "sortDate": "2024-02-19",
+    "dateLabel": "Feb 2024",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for This longtime Mediterranean in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Suburb closures",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdExGRkVvOVJ0YVNYTlF6VUtfcEU5RnpVNHNBQm9Xd0ZuYmZrN0lCcTVQNXc3X25DSnNwTldpTlVMUjlieXRwMm8yQ1lScmxxbzNNSE1VbF9HTWdkUjY0N1BrMnFFOFZhZG9ZbzBoMEZFTms2dlRIMmZ2bkl5OXNGMXVFZDFJcTZkN21QUW83dUQyUzJDRnBTMFlRSmcwR1BCYVJOanhSYXBHR1oyVzFDRmZuZHF4VXM3M2kxLW9zT3pzYk5QUDBJ?oc=5"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdExGRkVvOVJ0YVNYTlF6VUtfcEU5RnpVNHNBQm9Xd0ZuYmZrN0lCcTVQNXc3X25DSnNwTldpTlVMUjlieXRwMm8yQ1lScmxxbzNNSE1VbF9HTWdkUjY0N1BrMnFFOFZhZG9ZbzBoMEZFTms2dlRIMmZ2bkl5OXNGMXVFZDFJcTZkN21QUW83dUQyUzJDRnBTMFlRSmcwR1BCYVJOanhSYXBHR1oyVzFDRmZuZHF4VXM3M2kxLW9zT3pzYk5QUDBJ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "ben-s-burgers-ankeny-closed-2023-12-18",
+    "name": "Ben's Burgers",
+    "status": "closed",
+    "eventDate": "2023-12-18",
+    "sortDate": "2023-12-18",
+    "dateLabel": "Dec 2023",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Burgers",
+    "neighborhood": "Ankeny",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Ben's Burgers in Ankeny. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Suburb closures",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVFJ3U1gzeHlRRmRXb1lIODdYOFlzN1d6VU52bVpkYXZrc2RPZ0J4QWFueGZ2eEVseFNVbkJlSjlwOXVxZDROZEk0SU9VeHRZcE5MZ0MzTjdMRmY2SzZHOHZhQVFjcmtqVHp3UWJ6V2VrZWI1ZWZLVnFuU1Ewd3JESDQ5djFacUlfQ1d0bU5yRWNQT0VNTEJ4REUta19NdlZ1eVh2QUh4T3BGbGVyYWRlcGZfd0RTLS1WeGJpZGE4SVRRLWs3Y1FibHpfVXpBdkdzRlB6Nm5zRkFZVWlRLUVDT2dkc0Y0dw?oc=5"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVFJ3U1gzeHlRRmRXb1lIODdYOFlzN1d6VU52bVpkYXZrc2RPZ0J4QWFueGZ2eEVseFNVbkJlSjlwOXVxZDROZEk0SU9VeHRZcE5MZ0MzTjdMRmY2SzZHOHZhQVFjcmtqVHp3UWJ6V2VrZWI1ZWZLVnFuU1Ewd3JESDQ5djFacUlfQ1d0bU5yRWNQT0VNTEJ4REUta19NdlZ1eVh2QUh4T3BGbGVyYWRlcGZfd0RTLS1WeGJpZGE4SVRRLWs3Y1FibHpfVXpBdkdzRlB6Nm5zRkFZVWlRLUVDT2dkc0Y0dw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "boston-market-des-moines-metro-closed-2023-12-12",
+    "name": "Boston Market",
+    "status": "closed",
+    "eventDate": "2023-12-12",
+    "sortDate": "2023-12-12",
+    "dateLabel": "Dec 2023",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Boston Market in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines historical closure thread",
+        "url": "https://www.reddit.com/r/desmoines/comments/1e3fpgm/what_store_or_restaurant_that_has_closed_do_you/ldhyirr/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSlh5UXRQN25tMGl6bnFlejVrQkpBYkNQRENsbDhkLW1LZ2VHSXVYcHl1TVNvS1NJNVNhNzNzVDVmb05STjk1WEFxbUI2VndqNjNhcGIxRWE2dFhrMXZJTmFLblVoanltWHEzYjAyNzIxV3JaSHFFVWhSRHRsTGtDNG5GeHpsa1FxUml4bnQxeHFsenFuNE4zb3RUeDlqUzZDdGc?oc=5"
       }
     ]
   },
@@ -170,11 +432,36 @@
     "sources": [
       {
         "label": "Suburb closures",
-        "url": ""
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxRlBWbDJHY016Rl9EbXJoc203R2NTN1RrNEl4UjlsS08tVkROcHdydG45QkVTUWRHRW4ya1FRZlZCZ1YtLU9BNXJuTFl3OUpFekpRUjBFYkVGWll3R05hcXRQandnbThfZ21BSnlOZ0ZqUzJYdWVuNWY4MzZrUQ?oc=5"
       },
       {
         "label": "news.google.com",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxRlBWbDJHY016Rl9EbXJoc203R2NTN1RrNEl4UjlsS08tVkROcHdydG45QkVTUWRHRW4ya1FRZlZCZ1YtLU9BNXJuTFl3OUpFekpRUjBFYkVGWll3R05hcXRQandnbThfZ21BSnlOZ0ZqUzJYdWVuNWY4MzZrUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "wahlburgers-west-des-moines-closed-2023-01-18",
+    "name": "Wahlburgers",
+    "status": "closed",
+    "eventDate": "2023-01-18",
+    "sortDate": "2023-01-18",
+    "dateLabel": "Jan 2023",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Burgers",
+    "neighborhood": "West Des Moines",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Wahlburgers in West Des Moines. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Official closure or move statements",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQakM5by1McFVRZHN2XzlGTU9OdnIyME1QMWJhMXhwRGFtRXI5aGdSVk1wc3JIMTJfM2FsbFBkLVpPQm0td2hJUlBXWVZpSUFnZ19lNFVEMnY4Vy1oUmh1clFCbDFYdXl0elhvZU9qcFhWcWNwOFpXZ1ZLSjJ4S1hFd1FLOW45LXdQdktpaktxaUFSbm1NT3FHLVY0cmFrMkNDbUo0WWtaYUY3VG9ZWjd2SC1hQy1tamRrR2RZWFVXQ09wTFZwSXUwWHF6a1A0UXRZQlNjOUUyVEoxYkdrVVFDTUV1UGRneXZhMnc?oc=5"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQakM5by1McFVRZHN2XzlGTU9OdnIyME1QMWJhMXhwRGFtRXI5aGdSVk1wc3JIMTJfM2FsbFBkLVpPQm0td2hJUlBXWVZpSUFnZ19lNFVEMnY4Vy1oUmh1clFCbDFYdXl0elhvZU9qcFhWcWNwOFpXZ1ZLSjJ4S1hFd1FLOW45LXdQdktpaktxaUFSbm1NT3FHLVY0cmFrMkNDbUo0WWtaYUY3VG9ZWjd2SC1hQy1tamRrR2RZWFVXQ09wTFZwSXUwWHF6a1A0UXRZQlNjOUUyVEoxYkdrVVFDTUV1UGRneXZhMnc?oc=5"
       }
     ]
   },
@@ -195,11 +482,261 @@
     "sources": [
       {
         "label": "Suburb closures",
-        "url": ""
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbVdPTG1XNGVTMHlVU3BjLWhMRGNjenRHOUxXa25uMExiZ3FZM0dCSjgxTzEtcENudzFaTDhIU2tUTTFaYUhjODBKX29xSjhULWxtekdXVEFqSFhOOXpwSXZPZzRNam0xazQtSXprczhpTm5LQlhILTRWT1BwYmxmdnFRZ2xiQjFoZzk0Mk4zRm5JaW9KS3dyVHVrdDM2Q1o1Si1nNzlGQWhzeHozNDVvTm9CNEtPSnhESEx3NzlMaENCbXhCNlJmdlhB?oc=5"
       },
       {
         "label": "news.google.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbVdPTG1XNGVTMHlVU3BjLWhMRGNjenRHOUxXa25uMExiZ3FZM0dCSjgxTzEtcENudzFaTDhIU2tUTTFaYUhjODBKX29xSjhULWxtekdXVEFqSFhOOXpwSXZPZzRNam0xazQtSXprczhpTm5LQlhILTRWT1BwYmxmdnFRZ2xiQjFoZzk0Mk4zRm5JaW9KS3dyVHVrdDM2Q1o1Si1nNzlGQWhzeHozNDVvTm9CNEtPSnhESEx3NzlMaENCbXhCNlJmdlhB?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "java-joes-des-moines-metro-closed-2022-01-21",
+    "name": "Java Joes",
+    "status": "closed",
+    "eventDate": "2022-01-21",
+    "sortDate": "2022-01-21",
+    "dateLabel": "Jan 2022",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Java Joes in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines historical closure thread",
+        "url": "https://www.reddit.com/r/desmoines/comments/1e3fpgm/what_store_or_restaurant_that_has_closed_do_you/ld86lqx/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdVpHdDF2OEJJVWFBU0ljdGQ0UjRaWVF6OXZxU05hZWYtc2pNbENLY0JZSlREODN4Z0s1em9xeDE3Um5iZFQzckFkbVpXbXRWVElVNDAtWlh2M2FGS1hEdlQyOVdlOFlySU1fNlk2RzdpeGVqbWNJRHBvWTNqbUI5LS1DU0ZnRThINkdmR1ZqOVZwemZwaGw4bFQwb3lwVkZIeklxUmVLQUVkNHdOOV9XVmZzek4xQXFkbl9SdVN5ZkdJREw3eTRGQVUzTHY?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "dirt-burger-des-moines-metro-closed-2022-01-09",
+    "name": "Dirt Burger!",
+    "status": "closed",
+    "eventDate": "2022-01-09",
+    "sortDate": "2022-01-09",
+    "dateLabel": "Jan 2022",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Burgers",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Dirt Burger! in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines historical closure thread",
+        "url": "https://www.reddit.com/r/desmoines/comments/1e3fpgm/what_store_or_restaurant_that_has_closed_do_you/ldavnwt/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNy1YR0FZYU1BTmN4TFRrM3pYNTJjRjhMaURJVVFMMDFzSUs3ZXlFWnR0RjdyN3VUVUFzZXp4enRWZDNfYTVzR0hyazJXYkN2aG5uWUV6M1dwOUJPZ0lkVDRCRzQ3a3F0MFl0ZEZjVWJkUFZxRy1VNnVJMWRmbWpTaGFjSF9qdVBINnNiZlF6cDgxUXF5a21GMDRWc0VhZzBMUTVkOEd3SXc5RWlfVnVYYUQxYnk1T1dOVG5LTkJ0RVUxNjJ3cnliUUxPbXI1eDFMSkdadXdtdXFTM3hRQnFHeWI0N19QXzNBcTFmM0pXQ2s0Mlk2U0xTb2NiWkNNbE0?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "disney-store-des-moines-metro-closed-2021-04-30",
+    "name": "Disney Store!",
+    "status": "closed",
+    "eventDate": "2021-04-30",
+    "sortDate": "2021-04-30",
+    "dateLabel": "Apr 2021",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Disney Store! in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines historical closure thread",
+        "url": "https://www.reddit.com/r/desmoines/comments/1e3fpgm/what_store_or_restaurant_that_has_closed_do_you/ld8rv48/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjRMS1NqMEUwcDFvTWVkVmVJWnpPNzBDY080NjZ5bzF2SUtoNXdXdTVaRzRtRC1odW8xNEtpd1JmWE8yZG11ZFQ0YlZXaHRHTF9vOFZ1TUJMZUdGYUdSOENrMjFOek84TDdOeWxTVUc1TWRGVG9fWmZIMVZPcktGc2h1T2xhN3JGZ2NkM1ZuVnlNV3B0UEJ3Rw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "store-badowers-des-moines-metro-closed-2021-02-26",
+    "name": "Store: Badowers",
+    "status": "closed",
+    "eventDate": "2021-02-26",
+    "sortDate": "2021-02-26",
+    "dateLabel": "Feb 2021",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Store: Badowers in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines historical closure thread",
+        "url": "https://www.reddit.com/r/desmoines/comments/1e3fpgm/what_store_or_restaurant_that_has_closed_do_you/ldb094e/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeGZfdGdXSnBJM3lTWHM2bFcwNzB1RWF0TFRKLW5xZFhrTk5YMWRZWWFVMTREWHlBU2c1QzVxMVMxREF2Z3Q4MjAyVU84TzN6ZUVDRU1SbW9rRXFKSHVYZzU2ZTJlYjROcEZRNFZreHVwNmkxZHI4Mkt1VllNaVBPZG5zRTAyX3ROZml2aGk2U1RBTkZRRXZvNlRBbjc3RVJtcU9mek56UVRXQklaMzV1R252cVBGUEN5OWhHZWJlY1JmVDVOdmhybGhpWDNPTURrZGs0YWV4MVM2endnX1NLb2NTNHpLRjFmSU90dU84THk?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "video-warehouse-des-moines-metro-closed-2020-12-21",
+    "name": "Video Warehouse",
+    "status": "closed",
+    "eventDate": "2020-12-21",
+    "sortDate": "2020-12-21",
+    "dateLabel": "Dec 2020",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Video Warehouse in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines historical closure thread",
+        "url": "https://www.reddit.com/r/desmoines/comments/1e3fpgm/what_store_or_restaurant_that_has_closed_do_you/ldb7mpo/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUE2d3hsWXcyeHlvcEcyS2l1X0dkb2phQU1MN2ZaOUVqN2ZaQWZkNktud0pjd2dnWkFEMi1seXR3X0gwZXpSN25FSGNFTDFHYUtlLUtvM2NBTk1vTGtLNHd6WGs1blZXN3FLcVZJc1B5c1VxYnJUSmVlajhUb0J5SzFTUHQ1SWl5NmZuRVlha1U3bDhNLXpKWjd2LUpWZm1IRXNyQWItVXhab0N0NnBzYUhrVFdsMTB3YkJSYTZwTnNNLUlUOWZR?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "vaudeville-mews-des-moines-metro-closed-2020-10-09",
+    "name": "Vaudeville Mews",
+    "status": "closed",
+    "eventDate": "2020-10-09",
+    "sortDate": "2020-10-09",
+    "dateLabel": "Oct 2020",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Vaudeville Mews in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines historical closure thread",
+        "url": "https://www.reddit.com/r/desmoines/comments/1e3fpgm/what_store_or_restaurant_that_has_closed_do_you/ld86lqx/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTGZ4VWhNVEl1dXV3YmU3bkJvbWthX3lpNU91Z04zUU9lQzFVWVVkVDBpYzBLeV94SUVOWElIMmlCSUxxQWQ0dmRwVjMzb1NSTFhoaFZybklqbFhPVDNWU0xUYS1qUnowVmJQaVdZR2dDSXNkM0ctOC1RZVhZS3o3NnpLSHQtOGF1YXZmUm9TbkQ1SFBvbWRVREpEVWI3bHBYRjFhYlpuUkJQS21TeEVXQjhjVTVGUEtadHNVaXdpbEk5dGtpdFJCak5VODVjbEVsTjBlV0M5VEJ5Um9MQTBVSGJqZ0tVempub3BJbHNSdDJrdw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "mural-johnston-closed-2020-01-03",
+    "name": "Mural",
+    "status": "closed",
+    "eventDate": "2020-01-03",
+    "sortDate": "2020-01-03",
+    "dateLabel": "Jan 2020",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Johnston",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Mural in Johnston. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Suburb closures",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMHM4RFRQWTloc2VJRGg0TlFqYXYtYnFmRDZvMFRkV2V2OXlVYWVVYkdzN0dEdzRwUU5TalZBNUJTNlFkb0pzQXNHN2dxcnFyWnZLbGRuTDRjVm53MlFaWk1mQTNnR1daWF9lQ2tEMTB0Mzk5ZmdoWC1rcmJMRFlwSXJWbWVPNVFWcDNuazJvUXpSODJOLU5ET1lEUDRwS0xBSGhWNUZNMVE5V3BOdERGVEEwbDRjcXdfZ3pXWEZZemx5Z1pVVDFEbEh0LTY3M3pVSlZoOFZLekg?oc=5"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMHM4RFRQWTloc2VJRGg0TlFqYXYtYnFmRDZvMFRkV2V2OXlVYWVVYkdzN0dEdzRwUU5TalZBNUJTNlFkb0pzQXNHN2dxcnFyWnZLbGRuTDRjVm53MlFaWk1mQTNnR1daWF9lQ2tEMTB0Mzk5ZmdoWC1rcmJMRFlwSXJWbWVPNVFWcDNuazJvUXpSODJOLU5ET1lEUDRwS0xBSGhWNUZNMVE5V3BOdERGVEEwbDRjcXdfZ3pXWEZZemx5Z1pVVDFEbEh0LTY3M3pVSlZoOFZLekg?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "chicago-dog-and-deli-des-moines-metro-closed-2019-12-03",
+    "name": "Chicago Dog and Deli",
+    "status": "closed",
+    "eventDate": "2019-12-03",
+    "sortDate": "2019-12-03",
+    "dateLabel": "Dec 2019",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Chicago Dog and Deli in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines historical closure thread",
+        "url": "https://www.reddit.com/r/desmoines/comments/1e3fpgm/what_store_or_restaurant_that_has_closed_do_you/ld8g7re/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSGswaUM0QXVwZnRDdFV1Z3JwS0RVLWgzZVctZ2xwOHRZc1dQbkswSmxsQ21FYWZvZUZVRDhfN1Bia00zaG56M1hheXN3cmJ1a3R2VUxtOGZmblNKUmRXUUVWT3NqM28tbDNGb1JKS1Q4Z1ZHeThHZE5zeUJpajFKeUZ4VXd4NW9LMTc5bW5zQ19BdDRjb254MEpDUjBZRDQ0Zmc0Nnh1ckVQd0g5WHZmY0JJR1BtdGxic3pxb0JvYnRsd0hKemh4MDEtbjR4Z3VNMWFvSXNLWVpJTWtaQ3B5SDl5aw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "chicago-dog-des-moines-metro-closed-2019-12-03",
+    "name": "Chicago Dog",
+    "status": "closed",
+    "eventDate": "2019-12-03",
+    "sortDate": "2019-12-03",
+    "dateLabel": "Dec 2019",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Chicago Dog in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines historical closure thread",
+        "url": "https://www.reddit.com/r/desmoines/comments/1e3fpgm/what_store_or_restaurant_that_has_closed_do_you/ldazkyp/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSGswaUM0QXVwZnRDdFV1Z3JwS0RVLWgzZVctZ2xwOHRZc1dQbkswSmxsQ21FYWZvZUZVRDhfN1Bia00zaG56M1hheXN3cmJ1a3R2VUxtOGZmblNKUmRXUUVWT3NqM28tbDNGb1JKS1Q4Z1ZHeThHZE5zeUJpajFKeUZ4VXd4NW9LMTc5bW5zQ19BdDRjb254MEpDUjBZRDQ0Zmc0Nnh1ckVQd0g5WHZmY0JJR1BtdGxic3pxb0JvYnRsd0hKemh4MDEtbjR4Z3VNMWFvSXNLWVpJTWtaQ3B5SDl5aw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "taco-hangover-des-moines-metro-closed-2019-09-16",
+    "name": "Taco Hangover",
+    "status": "closed",
+    "eventDate": "2019-09-16",
+    "sortDate": "2019-09-16",
+    "dateLabel": "Sep 2019",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Taco Hangover in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines historical closure thread",
+        "url": "https://www.reddit.com/r/desmoines/comments/1e3fpgm/what_store_or_restaurant_that_has_closed_do_you/ld7ynsz/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUUMyVjJzTTJUcDZJbVp6emtBZnplVVNOemk2eTllWklwZVEtU1hPd3o0ZnZNaGVtU2NqaTJnNDdGamViNi1KcFVvVGp2TDVWYmNQZ0lsM2UzRk8wcm5ob2xteEhXUGVFYXdoZjc2RWx1VFdIZDZCbTMybkcybWhvV2otM1VaOXR6MnU4WldDaUV4OW1ST1B3X250NmxTaDNkalBOcHl4azlsOUpJVmw4dHktZlQwUzZWWE80SHpUb29rT0FzbGdjeWNyRVdUNkpwSUxuS3N6UVVJS1Vyc3NESEhhZGJSb3dKbFJtb2pwQXdrc1NYWnhjZFRPbkZXc1VsUnJYR2lNRGF2cDJxUnZ2eA?oc=5"
       }
     ]
   },
@@ -220,11 +757,186 @@
     "sources": [
       {
         "label": "Official closure or move statements",
-        "url": ""
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQW45WmVackhKdmYyUVhwNjlOdHZacHpRQjBHcUQ3ZFU0ZzhWQlE2VHlKMXZkMGp0M3plbGhINlA2NjNIdkIySVdNRHQxZkVDQnNiUzBXRzM3ZkpyY2FGU2lHMVlDTHowYW4wLTI3QnpVWUNHZTVRa3U1WXNKcWJqTkxmTHkxd1hKdnlycUlUXy1naVpxZGRWdzFpaEc2VWlaZGYwOXpHbGhieEdqOVRZR1prN21aQnJ1RXZhMF8xWjAwOXd6bmFucTY3Q01tNUpTdFVTaGpNV000M2ZlbWdGVUtha2p6WEx5Mko0d21UNE5TZnJTOTdTcnVab3pfUGhtNEttWUV0dw?oc=5"
       },
       {
         "label": "news.google.com",
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQW45WmVackhKdmYyUVhwNjlOdHZacHpRQjBHcUQ3ZFU0ZzhWQlE2VHlKMXZkMGp0M3plbGhINlA2NjNIdkIySVdNRHQxZkVDQnNiUzBXRzM3ZkpyY2FGU2lHMVlDTHowYW4wLTI3QnpVWUNHZTVRa3U1WXNKcWJqTkxmTHkxd1hKdnlycUlUXy1naVpxZGRWdzFpaEc2VWlaZGYwOXpHbGhieEdqOVRZR1prN21aQnJ1RXZhMF8xWjAwOXd6bmFucTY3Q01tNUpTdFVTaGpNV000M2ZlbWdGVUtha2p6WEx5Mko0d21UNE5TZnJTOTdTcnVab3pfUGhtNEttWUV0dw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "reed-s-hollow-des-moines-metro-closed-2019-08-25",
+    "name": "Reed\u2019s Hollow",
+    "status": "closed",
+    "eventDate": "2019-08-25",
+    "sortDate": "2019-08-25",
+    "dateLabel": "Aug 2019",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Reed\u2019s Hollow in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines historical closure thread",
+        "url": "https://www.reddit.com/r/desmoines/comments/1e3fpgm/what_store_or_restaurant_that_has_closed_do_you/ld9m857/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd2pXS3JLMk5URmNJejk3SDlBaDE1aG1INmotLS1HSnFZZUJFZ0pvZVFFcUdlVTI0cnZNMTFTT3h0eU9QSG1CbnN1QUd1WC1zVnFKQVZJdFFCYTJNV2l2a1N6WHlfTS1aR0dvc2R6RlpfZUF1VDZnVkUzZ2hmV21pU1JfWkc1OVlQS3c2QzZ1NjlwbHJlY1ZaMnEycGFVWVJhVFVDM0hGWVBmQWlIM09xRDhPcHhHYzMtT3BqNnFLbXRQNDdFZlN1Vg?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "baru-66-des-moines-metro-closed-2019-06-26",
+    "name": "Baru 66",
+    "status": "closed",
+    "eventDate": "2019-06-26",
+    "sortDate": "2019-06-26",
+    "dateLabel": "Jun 2019",
+    "datePrecision": "day",
+    "venueType": "bar",
+    "venueTypeLabel": "Bar",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Baru 66 in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines historical closure thread",
+        "url": "https://www.reddit.com/r/desmoines/comments/1e3fpgm/what_store_or_restaurant_that_has_closed_do_you/ld7nfha/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQa1lSUGk2cnVhNFRrTGVUcG9oc1VXWHk1LTFPX09qWTlmdWtxRDZtLU5lMExYRjc4S0lhMkZVdU9UM0JjTUpXVkE0YzRWa0JLLVJoakRFVEl5aWVLYzR0eVJpaDVENHpLcHMtWE5UNm1Qd0xGcFJSNHNuVFVxSjR0cXN2NXY5eXpRcjhBM3BNMHNFQk8xaTF0M1E3MFl5aUxPMmRiZ2dTS3g3dy1iV21rSkRWc1dfZEFzdF9DVlIxaFNlUUNQbFFXR3lVaU0ybmdkX3ctVGQwZTN2d2tDMm9VUDg4cl9BLUdvWHFDVlRfeVRiMEQ4R3hSbzdkYnU1OUhSN2NxMjVpazdOZFB5UzIw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "fighting-burrito-des-moines-metro-closed-2019-05-14",
+    "name": "Fighting Burrito",
+    "status": "closed",
+    "eventDate": "2019-05-14",
+    "sortDate": "2019-05-14",
+    "dateLabel": "May 2019",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Fighting Burrito in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines historical closure thread",
+        "url": "https://www.reddit.com/r/desmoines/comments/1e3fpgm/what_store_or_restaurant_that_has_closed_do_you/ld8moqf/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQM19hX0xBR2ZzaEtXbC04QTF4ZUFJNDR5dWVVQnZXMDRDZlV0WkVBRDkzRS1NZE9aWUFHcE9WYUxrcUR5REZBcF9jNDEyZDhOOGVhdUhiR194anQ1VVp1R3AwWFpXTjJVZUg2aHNoSzZUVGZENXd1aDdObmRISHgxay1oUmRGbC1GV0FPTWtib0hFdG43a25sUmVLRm44NHdDc3lMT0R6cklmSEdic1YxVHIxT2IzTTkxeml4TFZGQ2FWT1Z3VTRkVHlmNnl1d29zMUkwTWx1TkxfMTRoaE0zX1lJejhJRDJYVVJkNVF0S1JaSU1vRTFYcnVyWVcxMm4xcmhtNll6ak1SRGVieVhaUw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "cowboy-chicken-ankeny-closed-2018-12-10",
+    "name": "Cowboy Chicken",
+    "status": "closed",
+    "eventDate": "2018-12-10",
+    "sortDate": "2018-12-10",
+    "dateLabel": "Dec 2018",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Ankeny",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Cowboy Chicken in Ankeny. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Suburb closures",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbW9FY0dlN2dGYmw3UjJVenJYRG5yZkhuekE5YWk4MHhNdTA2bVNzUDdadDNodXltWEFKby1OX2IzU2swdm9SY3NGeDNlVXJfLWNBQVJyNXFkbDdZZHlOR2I1bEFiTDJLalBQNTFUeGsyRERnNVNOemptaWhPMVI2VlYyODctWVNIc1Fic09vS2lEUmVIRWszMVROZk0wQWZfeUNrWHNUelU4Y3kwYm5kakNpdVRIbGdaM25EaG12eHR0U2pTY0s5REFNbjRNT3pJVHUya0l5cEg2LUtXUDl6MVp5OGZQanl3dzh1ekp2OWQ5VjA0Q0U1ZGowWjdRRmFtZXc?oc=5"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbW9FY0dlN2dGYmw3UjJVenJYRG5yZkhuekE5YWk4MHhNdTA2bVNzUDdadDNodXltWEFKby1OX2IzU2swdm9SY3NGeDNlVXJfLWNBQVJyNXFkbDdZZHlOR2I1bEFiTDJLalBQNTFUeGsyRERnNVNOemptaWhPMVI2VlYyODctWVNIc1Fic09vS2lEUmVIRWszMVROZk0wQWZfeUNrWHNUelU4Y3kwYm5kakNpdVRIbGdaM25EaG12eHR0U2pTY0s5REFNbjRNT3pJVHUya0l5cEg2LUtXUDl6MVp5OGZQanl3dzh1ekp2OWQ5VjA0Q0U1ZGowWjdRRmFtZXc?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "big-daddy-s-bbq-des-moines-metro-closed-2018-06-19",
+    "name": "Big Daddy's BBQ",
+    "status": "closed",
+    "eventDate": "2018-06-19",
+    "sortDate": "2018-06-19",
+    "dateLabel": "Jun 2018",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Barbecue",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Big Daddy's BBQ in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines historical closure thread",
+        "url": "https://www.reddit.com/r/desmoines/comments/1e3fpgm/what_store_or_restaurant_that_has_closed_do_you/ld811g7/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd0FxVTRlLW9NZE1wYXVvMVpXNFdzcFpzX0ZNR0JObE5VMnZuaTlaVFgyUV9BaXFITDd2Y051aWlqRkR5YXZ4YUtCZjBRYVl3NDlCdW1HM0ZaMnJ1bWxHQktUYWEycFJPV1RKajJXZnRFTkowdDRLcVdzUm11dWNVb1lfTU43TnoxOTBEZHdZRVE0UXdYVmJaTi1zQnVyX05QdFpZYUs5WF9tVTd0R0kxYjNWZi1HT1VzUFliQkFrRDJmLXc?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "something-italian-des-moines-metro-closed-2017-11-07",
+    "name": "Something Italian",
+    "status": "closed",
+    "eventDate": "2017-11-07",
+    "sortDate": "2017-11-07",
+    "dateLabel": "Nov 2017",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Something Italian in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines historical closure thread",
+        "url": "https://www.reddit.com/r/desmoines/comments/1e3fpgm/what_store_or_restaurant_that_has_closed_do_you/ldanuo8/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmg0OWVEd3BLNE1OSUVYaW9rZmtJbVpkSk16QllKQUxWWGJPX042Y2VsVWF2eXlDNnc2VFE3N3htXzFkaHpfbVE2TU1aNFBicUE3ZDc4bkduQ2UwblJsSXJPbWpDM1dBdUhsenN1a0kwRGVCejZqc2VDdlZZZF8wc3I1MEk4ZGo4bDM5WTlsM1N0ZHRJN21JamNCVVNQVlpGeEhpaDNUengxcmdUQ2NLSFcyTUNmSUppWEg3Ti1JeW9hM3B1YUhqbg?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "silent-auction-items-des-moines-metro-closed-2016-11-14",
+    "name": "Silent Auction Items",
+    "status": "closed",
+    "eventDate": "2016-11-14",
+    "sortDate": "2016-11-14",
+    "dateLabel": "Nov 2016",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Silent Auction Items in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines distress signals",
+        "url": "https://www.reddit.com/r/desmoines/comments/1qpqaud/silent_auction_items/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMS1meGdpR0FBTEJrMFgwWjQwWXVJN1RSMUZmeHhRVDZQOS1KcTI4UkEwbHdIZzZMV2NreUtRWkh5YUJVTVZha3NRS3REd1VtNnMzNG1QLUplaG9zRVNBTmJ3Vl9OM1J2X19BSElYMXRqVEFQdHJWd1kwLXpwX1M2R0VtYlZ5V3JvNFBRWXFHS2Q1eG0yTkc3Sm51NF9mdi1ScjZGWlhBcmY5NHZPQUFXVmMwY3BUaTlVTW1aUGVmSDNXR1lOWnJaeDhITjVEdW9NWjVpTzYyOW9xa2dpTmZ6eXJxVkh4UDg?oc=5"
       }
     ]
   },
@@ -245,11 +957,36 @@
     "sources": [
       {
         "label": "Suburb closures",
-        "url": ""
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXY0eFFPQXgzTXZSOFpyZEI5UG9HOTJJbDdkcnZVV3lJTEg2NjVNa1JLUTVlQ2tvbFNrSkVLVTRzcTZoZ1JWUEVqRVo1czRQaXJxdW5LWXpGZlAxNkZRc1RwT2R3b2dGVjZXZUx2dDZLU29YYTdIdW82cU9oUEN5ZlN4djZHejYxRy1xOG1ncXBRcTZiWU1rWVlhOEc2RVNoWXNfRTA4bko?oc=5"
       },
       {
         "label": "news.google.com",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXY0eFFPQXgzTXZSOFpyZEI5UG9HOTJJbDdkcnZVV3lJTEg2NjVNa1JLUTVlQ2tvbFNrSkVLVTRzcTZoZ1JWUEVqRVo1czRQaXJxdW5LWXpGZlAxNkZRc1RwT2R3b2dGVjZXZUx2dDZLU29YYTdIdW82cU9oUEN5ZlN4djZHejYxRy1xOG1ncXBRcTZiWU1rWVlhOEc2RVNoWXNfRTA4bko?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "louie-s-wine-dive-des-moines-metro-closed-2015-12-16",
+    "name": "Louie's Wine Dive",
+    "status": "closed",
+    "eventDate": "2015-12-16",
+    "sortDate": "2015-12-16",
+    "dateLabel": "Dec 2015",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Louie's Wine Dive in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines closing",
+        "url": "https://www.reddit.com/r/desmoines/comments/1sex260/looks_like_louies_wine_dive_on_university_is/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWWtraHZMMTZTaUVzajlOU1lrZUZiUlY1M1RlM3F0VHY4SmNRR0RfQVJuVWtiUm8yZkZ2QVJDUTQ0LVFMdllRSWpTNE5BM3JRbGdualFXTzNIbGlYcnE4emRKbkxpelRHSDBhaTdObThuT0taRUs5NTNObTlJc0R6TldLSlBRM3VSV3FweXJKa21qdnF6V0pRR0xBajhILWg2VUc4OTNsc05vaHBLeTJYM0t3SzY?oc=5"
       }
     ]
   },
@@ -270,11 +1007,36 @@
     "sources": [
       {
         "label": "Official closure or move statements",
-        "url": ""
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONFk5TTVPMFpOSVRTNmk2a1BhQVpCLTZ0ZnpBTXZKSEVrLWxrdzlvR3g5R1JhLXExRTZYMFVwajA0MnRBcTNDV2ppVmNNWmJNNm5vbjNVWGZtSVVNZ3Z2QmsxY3lUQzl3OTVPSmhxNjYtNnJuNGJ1MXF0RXdjcnZFd0dGSlY3X0MyVjNjdlRJekNDREdOaG8wbS0xWVIxbHlUWlpiUkZ3Z2VocElsNzM5dHk1LVNlcnplR1ppQ25oRHF4UDhCSmhzQlJyS0U?oc=5"
       },
       {
         "label": "news.google.com",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONFk5TTVPMFpOSVRTNmk2a1BhQVpCLTZ0ZnpBTXZKSEVrLWxrdzlvR3g5R1JhLXExRTZYMFVwajA0MnRBcTNDV2ppVmNNWmJNNm5vbjNVWGZtSVVNZ3Z2QmsxY3lUQzl3OTVPSmhxNjYtNnJuNGJ1MXF0RXdjcnZFd0dGSlY3X0MyVjNjdlRJekNDREdOaG8wbS0xWVIxbHlUWlpiUkZ3Z2VocElsNzM5dHk1LVNlcnplR1ppQ25oRHF4UDhCSmhzQlJyS0U?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "carlos-o-kelly-s-des-moines-metro-closed-2014-03-10",
+    "name": "Carlos O\u2019Kelly\u2019s",
+    "status": "closed",
+    "eventDate": "2014-03-10",
+    "sortDate": "2014-03-10",
+    "dateLabel": "Mar 2014",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Carlos O\u2019Kelly\u2019s in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "r/desmoines historical closure thread",
+        "url": "https://www.reddit.com/r/desmoines/comments/1e3fpgm/what_store_or_restaurant_that_has_closed_do_you/ld8gk0r/"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY00wZHFoYktueTZNOWx2SUZkQjl4Wm5CY204LW5DMzVwMHc0bTRxcHZIODhic0FQaE9OWDRCZ1UzTjRaRXFCYXJkcFdhRzNsRm5FeTlXc09ROXFZellNX0w2TElialpQbnFHNmNKTHVxbXhRYzhuSGoweWdHWHBYRUJuYjh3YW45WlpwSHdLMA?oc=5"
       }
     ]
   }

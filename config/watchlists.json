@@ -123,5 +123,15 @@
       "limit": 100,
       "focus": "moved"
     }
+  ],
+  "redditCommentThreads": [
+    {
+      "id": "reddit-historical-closures",
+      "label": "r/desmoines historical closure thread",
+      "url": "https://www.reddit.com/r/desmoines/comments/1e3fpgm/what_store_or_restaurant_that_has_closed_do_you/",
+      "defaultStatus": "closed",
+      "defaultArea": "Des Moines Metro",
+      "focus": "historical_backfill"
+    }
   ]
 }
