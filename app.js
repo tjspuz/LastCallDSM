@@ -23,9 +23,9 @@ const STATUS_LABELS = {
 };
 
 const ICONS = {
-  opened: "assets/open.png",
-  closed: "assets/closed.png",
-  lastcall: "assets/lastcall.png",
+  opened: "assets/open.svg",
+  closed: "assets/closed.svg",
+  lastcall: "assets/lastcall.svg",
 };
 
 function parseDate(value) {
