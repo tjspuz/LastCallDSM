@@ -1,104 +1,106 @@
-[
-    {
-        "name": "Django",
-        "summary": "A comfortable, no-attitude French brasserie that was a longtime staple of the downtown Des Moines dining scene for nearly two decades.",
-        "opened": "2008",
-        "closed": "April 2026"
-    },
-    {
-        "name": "Panka Peruvian",
-        "summary": "Authentic and elevated Peruvian cuisine that provided a warm, welcoming, and highly-rated space on Ingersoll Avenue.",
-        "opened": "2019",
-        "closed": "April 2026"
-    },
-    {
-        "name": "Americana",
-        "summary": "Iconic downtown spot known for its sprawling weekend bombshell brunch and expansive views of the Pappajohn Sculpture Park.",
-        "opened": "2011",
-        "closed": "February 2026"
-    },
-    {
-        "name": "Cactus Bob's BBQ Corral",
-        "summary": "Long-running neighborhood joint known for smoked meats, baked beans, and a laid-back, western-themed dining room.",
-        "opened": "2005",
-        "closed": "Late 2025"
-    },
-    {
-        "name": "Palms DSM",
-        "summary": "Upscale African-Caribbean style restaurant taking the metro by storm with dishes like braised oxtail and honey suya wings.",
-        "opened": "June 14, 2025",
-        "closed": ""
-    },
-    {
-        "name": "Scoops by Beth",
-        "summary": "Modern ice cream parlor in Highland Park offering inventive, small-batch flavors in a beautifully lit brick-and-mortar space.",
-        "opened": "February 21, 2026",
-        "closed": ""
-    },
-    {
-        "name": "Bar Martinez",
-        "summary": "Sophisticated lounge serving modern twists on classic cocktails in the historic Highland Park neighborhood.",
-        "opened": "February 3, 2026",
-        "closed": ""
-    },
-    {
-        "name": "Masao",
-        "summary": "Unique French-Japanese fusion spot in the East Village, offering a refined blend of sushi, plates, and pastries.",
-        "opened": "June 3, 2025",
-        "closed": ""
-    },
-    {
-        "name": "Lachele's Fine Foods and the Fitz",
-        "summary": "Retro-inspired eatery delivering highly updated, locally-sourced, and elevated takes on classic American diner fare.",
-        "opened": "February 27, 2025",
-        "closed": ""
-    },
-    {
-        "name": "Highland Underground",
-        "summary": "Groovy '70s-style lounge offering fondue and craft cocktails in a nostalgic, cozy basement setting.",
-        "opened": "October 15, 2025",
-        "closed": ""
-    },
-    {
-        "name": "Toyo Ramen & Japanese Street Foods",
-        "summary": "Fast-casual authentic Japanese ramen, gyoza, and donburi bowls in the District at Prairie Trail.",
-        "opened": "December 2025",
-        "closed": ""
-    },
-    {
-        "name": "Black Cat Ice Cream (Downtown)",
-        "summary": "Second location of the beloved handcrafted, small-batch artisanal ice cream shop utilizing grass-fed dairy and local ingredients.",
-        "opened": "December 2025",
-        "closed": ""
-    },
-    {
-        "name": "Kura Sushi",
-        "summary": "Interactive conveyor-belt sushi bar experience arriving at Jordan Creek Town Center.",
-        "opened": "Summer 2026",
-        "closed": ""
-    },
-    {
-        "name": "The Breakfast Club (Waukee)",
-        "summary": "Sweet and savory breakfast and brunch spot with a signature vintage comic book-themed d\u00e9cor expanding to Kettlestone Central.",
-        "opened": "Early 2026",
-        "closed": ""
-    },
-    {
-        "name": "Bubbies BBQ",
-        "summary": "Slow-smoked meats and all the fixings expanding the culinary scene in Pleasant Hill.",
-        "opened": "September 8, 2025",
-        "closed": ""
-    },
-    {
-        "name": "Table 128",
-        "summary": "Beloved elevated American dining that successfully reopened in a fresh downtown location after previously closing its West Des Moines spot.",
-        "opened": "May 3, 2024",
-        "closed": ""
-    },
-    {
-        "name": "Prime & Providence",
-        "summary": "Upscale dining experience focused on prime steaks, wood-fired dishes, and exceptional service in West Des Moines.",
-        "opened": "May 7, 2024",
-        "closed": ""
-    }
-]
+{
+    "data": [
+        {
+            "name": "Django",
+            "summary": "A comfortable, no-attitude French brasserie that was a longtime staple of the downtown Des Moines dining scene for nearly two decades.",
+            "opened": "2008",
+            "last_call": "April 2026"
+        },
+        {
+            "name": "Panka Peruvian",
+            "summary": "Authentic and elevated Peruvian cuisine that provided a warm, welcoming, and highly-rated space on Ingersoll Avenue.",
+            "opened": "2019",
+            "last_call": "April 2026"
+        },
+        {
+            "name": "Americana",
+            "summary": "Iconic downtown spot known for its sprawling weekend bombshell brunch and expansive views of the Pappajohn Sculpture Park.",
+            "opened": "2011",
+            "last_call": "February 2026"
+        },
+        {
+            "name": "Cactus Bob's BBQ Corral",
+            "summary": "Long-running neighborhood joint known for smoked meats, baked beans, and a laid-back, western-themed dining room.",
+            "opened": "2005",
+            "last_call": "Late 2025"
+        },
+        {
+            "name": "Palms DSM",
+            "summary": "Upscale African-Caribbean style restaurant taking the metro by storm with dishes like braised oxtail and honey suya wings.",
+            "opened": "June 14, 2025",
+            "last_call": ""
+        },
+        {
+            "name": "Scoops by Beth",
+            "summary": "Modern ice cream parlor in Highland Park offering inventive, small-batch flavors in a beautifully lit brick-and-mortar space.",
+            "opened": "February 21, 2026",
+            "last_call": ""
+        },
+        {
+            "name": "Bar Martinez",
+            "summary": "Sophisticated lounge serving modern twists on classic cocktails in the historic Highland Park neighborhood.",
+            "opened": "February 3, 2026",
+            "last_call": ""
+        },
+        {
+            "name": "Masao",
+            "summary": "Unique French-Japanese fusion spot in the East Village, offering a refined blend of sushi, plates, and pastries.",
+            "opened": "June 3, 2025",
+            "last_call": ""
+        },
+        {
+            "name": "Lachele's Fine Foods and the Fitz",
+            "summary": "Retro-inspired eatery delivering highly updated, locally-sourced, and elevated takes on classic American diner fare.",
+            "opened": "February 27, 2025",
+            "last_call": ""
+        },
+        {
+            "name": "Highland Underground",
+            "summary": "Groovy '70s-style lounge offering fondue and craft cocktails in a nostalgic, cozy basement setting.",
+            "opened": "October 15, 2025",
+            "last_call": ""
+        },
+        {
+            "name": "Toyo Ramen & Japanese Street Foods",
+            "summary": "Fast-casual authentic Japanese ramen, gyoza, and donburi bowls in the District at Prairie Trail.",
+            "opened": "December 2025",
+            "last_call": ""
+        },
+        {
+            "name": "Black Cat Ice Cream (Downtown)",
+            "summary": "Second location of the beloved handcrafted, small-batch artisanal ice cream shop utilizing grass-fed dairy and local ingredients.",
+            "opened": "December 2025",
+            "last_call": ""
+        },
+        {
+            "name": "Kura Sushi",
+            "summary": "Interactive conveyor-belt sushi bar experience arriving at Jordan Creek Town Center.",
+            "opened": "Summer 2026",
+            "last_call": ""
+        },
+        {
+            "name": "The Breakfast Club (Waukee)",
+            "summary": "Sweet and savory breakfast and brunch spot with a signature vintage comic book-themed d\u00e9cor expanding to Kettlestone Central.",
+            "opened": "Early 2026",
+            "last_call": ""
+        },
+        {
+            "name": "Bubbies BBQ",
+            "summary": "Slow-smoked meats and all the fixings expanding the culinary scene in Pleasant Hill.",
+            "opened": "September 8, 2025",
+            "last_call": ""
+        },
+        {
+            "name": "Table 128",
+            "summary": "Beloved elevated American dining that successfully reopened in a fresh downtown location after previously closing its West Des Moines spot.",
+            "opened": "May 3, 2024",
+            "last_call": ""
+        },
+        {
+            "name": "Prime & Providence",
+            "summary": "Upscale dining experience focused on prime steaks, wood-fired dishes, and exceptional service in West Des Moines.",
+            "opened": "May 7, 2024",
+            "last_call": ""
+        }
+    ]
+}
