@@ -148,15 +148,6 @@ function buildRange(item) {
   return item.dateLabel || "";
 }
 
-function buildKicker(item) {
-  const parts = [];
-  if (item.neighborhood) {
-    parts.push(item.neighborhood);
-  }
-  parts.push(STATUS_LABELS[item.status] || item.status);
-  return parts.join(" / ");
-}
-
 function buildDescription(item) {
   let description = normalizeSpaces(item.publicDescription || item.story || "");
 
@@ -243,6 +234,20 @@ function syncControlValues() {
   areaFilter.value = state.neighborhood;
 }
 
+function setFilterValue(filterName, value) {
+  if (filterName === "status") {
+    state.status = value;
+  }
+  if (filterName === "type") {
+    state.venueType = value;
+  }
+  if (filterName === "area") {
+    state.neighborhood = value;
+  }
+  syncControlValues();
+  renderTimeline();
+}
+
 function filteredItems() {
   return state.items.filter((item) => {
     if (state.status !== "all" && item.status !== state.status) {
@@ -304,15 +309,34 @@ function renderTimeline() {
     const fragment = template.content.cloneNode(true);
     const icon = fragment.querySelector('[data-field="icon"]');
     const nameLink = fragment.querySelector('[data-field="name-link"]');
+    const statusChip = fragment.querySelector('[data-field="status-chip"]');
+    const typeChip = fragment.querySelector('[data-field="type-chip"]');
+    const areaChip = fragment.querySelector('[data-field="area-chip"]');
 
     icon.src = iconForItem(item.status);
     fragment.querySelector('[data-field="range"]').textContent = buildRange(item);
-    fragment.querySelector('[data-field="type"]').textContent = item.venueTypeLabel;
-    fragment.querySelector('[data-field="kicker"]').textContent = buildKicker(item);
     fragment.querySelector('[data-field="name"]').textContent = item.name;
     fragment.querySelector('[data-field="description"]').textContent = buildDescription(item);
     nameLink.href = buildMapUrl(item);
     nameLink.setAttribute("aria-label", `Open directions for ${item.name}`);
+
+    statusChip.textContent = (STATUS_LABELS[item.status] || item.status).toUpperCase();
+    statusChip.setAttribute("aria-label", `Filter status by ${STATUS_LABELS[item.status] || item.status}`);
+    statusChip.addEventListener("click", () => {
+      setFilterValue("status", item.status);
+    });
+
+    typeChip.textContent = item.venueTypeLabel.toUpperCase();
+    typeChip.setAttribute("aria-label", `Filter type by ${item.venueTypeLabel}`);
+    typeChip.addEventListener("click", () => {
+      setFilterValue("type", item.venueType);
+    });
+
+    areaChip.textContent = item.neighborhood.toUpperCase();
+    areaChip.setAttribute("aria-label", `Filter area by ${item.neighborhood}`);
+    areaChip.addEventListener("click", () => {
+      setFilterValue("area", item.neighborhood);
+    });
 
     timelineEl.appendChild(fragment);
   });
@@ -352,38 +376,20 @@ function bindEvents() {
     renderTimeline();
   };
 
-  const updateStatus = (value) => {
-    state.status = value;
-    syncControlValues();
-    renderTimeline();
-  };
-
-  const updateType = (value) => {
-    state.venueType = value;
-    syncControlValues();
-    renderTimeline();
-  };
-
-  const updateArea = (value) => {
-    state.neighborhood = value;
-    syncControlValues();
-    renderTimeline();
-  };
-
   searchInput.addEventListener("input", (event) => {
     updateSearch(event.target.value);
   });
 
   statusFilter.addEventListener("change", (event) => {
-    updateStatus(event.target.value);
+    setFilterValue("status", event.target.value);
   });
 
   typeFilter.addEventListener("change", (event) => {
-    updateType(event.target.value);
+    setFilterValue("type", event.target.value);
   });
 
   areaFilter.addEventListener("change", (event) => {
-    updateArea(event.target.value);
+    setFilterValue("area", event.target.value);
   });
 
   if (themeToggle) {
