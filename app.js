@@ -248,6 +248,20 @@ function setFilterValue(filterName, value) {
   renderTimeline();
 }
 
+function toggleFilterValue(filterName, value) {
+  if (filterName === "status") {
+    setFilterValue("status", state.status === value ? "all" : value);
+    return;
+  }
+  if (filterName === "type") {
+    setFilterValue("type", state.venueType === value ? "all" : value);
+    return;
+  }
+  if (filterName === "area") {
+    setFilterValue("area", state.neighborhood === value ? "all" : value);
+  }
+}
+
 function filteredItems() {
   return state.items.filter((item) => {
     if (state.status !== "all" && item.status !== state.status) {
@@ -322,20 +336,29 @@ function renderTimeline() {
 
     statusChip.textContent = (STATUS_LABELS[item.status] || item.status).toUpperCase();
     statusChip.setAttribute("aria-label", `Filter status by ${STATUS_LABELS[item.status] || item.status}`);
+    const statusSelected = state.status === item.status;
+    statusChip.classList.toggle("is-active", statusSelected);
+    statusChip.setAttribute("aria-pressed", String(statusSelected));
     statusChip.addEventListener("click", () => {
-      setFilterValue("status", item.status);
+      toggleFilterValue("status", item.status);
     });
 
     typeChip.textContent = item.venueTypeLabel.toUpperCase();
     typeChip.setAttribute("aria-label", `Filter type by ${item.venueTypeLabel}`);
+    const typeSelected = state.venueType === item.venueType;
+    typeChip.classList.toggle("is-active", typeSelected);
+    typeChip.setAttribute("aria-pressed", String(typeSelected));
     typeChip.addEventListener("click", () => {
-      setFilterValue("type", item.venueType);
+      toggleFilterValue("type", item.venueType);
     });
 
     areaChip.textContent = item.neighborhood.toUpperCase();
     areaChip.setAttribute("aria-label", `Filter area by ${item.neighborhood}`);
+    const areaSelected = state.neighborhood === item.neighborhood;
+    areaChip.classList.toggle("is-active", areaSelected);
+    areaChip.setAttribute("aria-pressed", String(areaSelected));
     areaChip.addEventListener("click", () => {
-      setFilterValue("area", item.neighborhood);
+      toggleFilterValue("area", item.neighborhood);
     });
 
     timelineEl.appendChild(fragment);
