@@ -251,13 +251,13 @@ async function loadData() {
     typeFilter,
     venueTypes,
     Object.fromEntries(state.items.map((item) => [item.venueType, item.venueTypeLabel])),
-    "All types",
+    "All",
   );
   populateSelect(
     areaFilter,
     neighborhoods,
     Object.fromEntries(state.items.map((item) => [item.neighborhood, item.neighborhood])),
-    "All areas",
+    "All",
   );
 
   syncControlValues();
