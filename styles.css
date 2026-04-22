@@ -116,11 +116,6 @@ h1 {
   gap: 0.45rem;
 }
 
-.mobile-actions,
-.mobile-panel-shell {
-  display: none;
-}
-
 .toolbar-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -137,6 +132,10 @@ h1 {
 .toolbar-label {
   font-size: 0.8rem;
   color: var(--muted);
+}
+
+.toolbar-label-desktop {
+  display: inline;
 }
 
 .search-input,
@@ -320,48 +319,34 @@ h1 {
     margin-bottom: 1.5rem;
   }
 
-  .toolbar > .toolbar-search,
-  .toolbar > .toolbar-grid {
+  .toolbar-search {
+    gap: 0;
+  }
+
+  .toolbar-label-desktop {
     display: none;
   }
 
-  .mobile-actions {
-    display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 0.55rem;
+  .search-input,
+  .filter-select {
+    min-height: 2.9rem;
   }
 
-  .mobile-action-button {
-    min-height: 2.7rem;
-    border: 1px solid var(--line);
-    border-radius: 999px;
-    background: rgba(255, 255, 255, 0.84);
-    color: var(--text);
-    font: inherit;
-    font-size: 0.86rem;
-    box-shadow: var(--shadow);
+  .search-input {
+    padding-inline: 0.9rem;
   }
 
-  .mobile-action-button.is-active {
-    border-color: var(--line-strong);
-    background: var(--panel);
+  .toolbar-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.6rem;
   }
 
-  .mobile-panel-shell {
-    display: block;
-    padding: 0.9rem;
-    border: 1px solid var(--line);
-    border-radius: 1rem;
-    background: rgba(255, 255, 255, 0.84);
-    box-shadow: var(--shadow);
+  .filter-field {
+    gap: 0.35rem;
   }
 
-  .mobile-panel-field {
-    display: none;
-  }
-
-  .mobile-panel-field.is-active {
-    display: grid;
+  .filter-field .toolbar-label {
+    font-size: 0.74rem;
   }
 
   .toolbar-meta {

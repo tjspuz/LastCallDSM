@@ -27,33 +27,18 @@
       </header>
 
       <section class="toolbar" aria-label="Search and filters">
-        <div class="mobile-actions" aria-label="Mobile filters">
-          <button class="mobile-action-button is-active" type="button" data-panel-button="search">
-            Search
-          </button>
-          <button class="mobile-action-button" type="button" data-panel-button="status">
-            Status
-          </button>
-          <button class="mobile-action-button" type="button" data-panel-button="type">
-            Type
-          </button>
-          <button class="mobile-action-button" type="button" data-panel-button="area">
-            Area
-          </button>
-        </div>
+        <label class="toolbar-search" for="search">
+          <span class="toolbar-label toolbar-label-desktop">Search</span>
+          <input
+            id="search"
+            class="search-input"
+            type="search"
+            placeholder="Search by venue, neighborhood, source, or note"
+          />
+        </label>
 
-        <div class="mobile-panel-shell" data-mobile-shell>
-          <label class="toolbar-search mobile-panel-field is-active" for="search" data-mobile-panel="search">
-            <span class="toolbar-label">Search</span>
-            <input
-              id="search"
-              class="search-input"
-              type="search"
-              placeholder="Search by venue, neighborhood, source, or note"
-            />
-          </label>
-
-          <label class="filter-field mobile-panel-field" for="status-filter" data-mobile-panel="status">
+        <div class="toolbar-grid">
+          <label class="filter-field" for="status-filter">
             <span class="toolbar-label">Status</span>
             <select id="status-filter" class="filter-select">
               <option value="all">All records</option>
@@ -62,51 +47,15 @@
               <option value="opened">Opened</option>
             </select>
           </label>
-
-          <label class="filter-field mobile-panel-field" for="type-filter" data-mobile-panel="type">
+          <label class="filter-field" for="type-filter">
             <span class="toolbar-label">Type</span>
             <select id="type-filter" class="filter-select">
               <option value="all">All types</option>
             </select>
           </label>
-
-          <label class="filter-field mobile-panel-field" for="area-filter" data-mobile-panel="area">
+          <label class="filter-field" for="area-filter">
             <span class="toolbar-label">Area</span>
             <select id="area-filter" class="filter-select">
-              <option value="all">All areas</option>
-            </select>
-          </label>
-        </div>
-
-        <label class="toolbar-search" for="search">
-          <span class="toolbar-label">Search</span>
-          <input
-            id="search-desktop"
-            class="search-input"
-            type="search"
-            placeholder="Search by venue, neighborhood, source, or note"
-          />
-        </label>
-
-        <div class="toolbar-grid">
-          <label class="filter-field" for="status-filter-desktop">
-            <span class="toolbar-label">Status</span>
-            <select id="status-filter-desktop" class="filter-select">
-              <option value="all">All records</option>
-              <option value="lastcall">Last call</option>
-              <option value="closed">Closed</option>
-              <option value="opened">Opened</option>
-            </select>
-          </label>
-          <label class="filter-field" for="type-filter-desktop">
-            <span class="toolbar-label">Type</span>
-            <select id="type-filter-desktop" class="filter-select">
-              <option value="all">All types</option>
-            </select>
-          </label>
-          <label class="filter-field" for="area-filter-desktop">
-            <span class="toolbar-label">Area</span>
-            <select id="area-filter-desktop" class="filter-select">
               <option value="all">All areas</option>
             </select>
           </label>

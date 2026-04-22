@@ -1,15 +1,9 @@
 const timelineEl = document.getElementById("timeline");
 const template = document.getElementById("event-template");
 const searchInput = document.getElementById("search");
-const searchInputDesktop = document.getElementById("search-desktop");
 const statusFilter = document.getElementById("status-filter");
-const statusFilterDesktop = document.getElementById("status-filter-desktop");
 const typeFilter = document.getElementById("type-filter");
-const typeFilterDesktop = document.getElementById("type-filter-desktop");
 const areaFilter = document.getElementById("area-filter");
-const areaFilterDesktop = document.getElementById("area-filter-desktop");
-const panelButtons = document.querySelectorAll("[data-panel-button]");
-const mobilePanels = document.querySelectorAll("[data-mobile-panel]");
 const resultsCountEl = document.querySelector("[data-results-count]");
 
 const state = {
@@ -17,7 +11,6 @@ const state = {
   venueType: "all",
   neighborhood: "all",
   search: "",
-  activeMobilePanel: "search",
   items: [],
 };
 
@@ -172,25 +165,9 @@ function populateSelect(select, values, labels, allLabel) {
 
 function syncControlValues() {
   searchInput.value = state.search;
-  if (searchInputDesktop) {
-    searchInputDesktop.value = state.search;
-  }
   statusFilter.value = state.status;
-  statusFilterDesktop.value = state.status;
   typeFilter.value = state.venueType;
-  typeFilterDesktop.value = state.venueType;
   areaFilter.value = state.neighborhood;
-  areaFilterDesktop.value = state.neighborhood;
-}
-
-function setMobilePanel(panelName) {
-  state.activeMobilePanel = panelName;
-  panelButtons.forEach((button) => {
-    button.classList.toggle("is-active", button.dataset.panelButton === panelName);
-  });
-  mobilePanels.forEach((panel) => {
-    panel.classList.toggle("is-active", panel.dataset.mobilePanel === panelName);
-  });
 }
 
 function filteredItems() {
@@ -277,26 +254,13 @@ async function loadData() {
     "All types",
   );
   populateSelect(
-    typeFilterDesktop,
-    venueTypes,
-    Object.fromEntries(state.items.map((item) => [item.venueType, item.venueTypeLabel])),
-    "All types",
-  );
-  populateSelect(
     areaFilter,
-    neighborhoods,
-    Object.fromEntries(state.items.map((item) => [item.neighborhood, item.neighborhood])),
-    "All areas",
-  );
-  populateSelect(
-    areaFilterDesktop,
     neighborhoods,
     Object.fromEntries(state.items.map((item) => [item.neighborhood, item.neighborhood])),
     "All areas",
   );
 
   syncControlValues();
-  setMobilePanel(state.activeMobilePanel);
   renderTimeline();
 }
 
@@ -329,17 +293,7 @@ function bindEvents() {
     updateSearch(event.target.value);
   });
 
-  if (searchInputDesktop) {
-    searchInputDesktop.addEventListener("input", (event) => {
-      updateSearch(event.target.value);
-    });
-  }
-
   statusFilter.addEventListener("change", (event) => {
-    updateStatus(event.target.value);
-  });
-
-  statusFilterDesktop.addEventListener("change", (event) => {
     updateStatus(event.target.value);
   });
 
@@ -347,22 +301,8 @@ function bindEvents() {
     updateType(event.target.value);
   });
 
-  typeFilterDesktop.addEventListener("change", (event) => {
-    updateType(event.target.value);
-  });
-
   areaFilter.addEventListener("change", (event) => {
     updateArea(event.target.value);
-  });
-
-  areaFilterDesktop.addEventListener("change", (event) => {
-    updateArea(event.target.value);
-  });
-
-  panelButtons.forEach((button) => {
-    button.addEventListener("click", () => {
-      setMobilePanel(button.dataset.panelButton);
-    });
   });
 }
 
