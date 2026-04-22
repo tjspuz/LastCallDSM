@@ -1,18 +1,23 @@
 const timelineEl = document.getElementById("timeline");
 const template = document.getElementById("event-template");
 const searchInput = document.getElementById("search");
+const searchInputDesktop = document.getElementById("search-desktop");
 const statusFilter = document.getElementById("status-filter");
+const statusFilterDesktop = document.getElementById("status-filter-desktop");
 const typeFilter = document.getElementById("type-filter");
+const typeFilterDesktop = document.getElementById("type-filter-desktop");
 const areaFilter = document.getElementById("area-filter");
-const verificationFilter = document.getElementById("verification-filter");
+const areaFilterDesktop = document.getElementById("area-filter-desktop");
+const panelButtons = document.querySelectorAll("[data-panel-button]");
+const mobilePanels = document.querySelectorAll("[data-mobile-panel]");
 const resultsCountEl = document.querySelector("[data-results-count]");
 
 const state = {
   status: "all",
   venueType: "all",
   neighborhood: "all",
-  verificationLevel: "all",
   search: "",
+  activeMobilePanel: "search",
   items: [],
 };
 
@@ -165,6 +170,29 @@ function populateSelect(select, values, labels, allLabel) {
   });
 }
 
+function syncControlValues() {
+  searchInput.value = state.search;
+  if (searchInputDesktop) {
+    searchInputDesktop.value = state.search;
+  }
+  statusFilter.value = state.status;
+  statusFilterDesktop.value = state.status;
+  typeFilter.value = state.venueType;
+  typeFilterDesktop.value = state.venueType;
+  areaFilter.value = state.neighborhood;
+  areaFilterDesktop.value = state.neighborhood;
+}
+
+function setMobilePanel(panelName) {
+  state.activeMobilePanel = panelName;
+  panelButtons.forEach((button) => {
+    button.classList.toggle("is-active", button.dataset.panelButton === panelName);
+  });
+  mobilePanels.forEach((panel) => {
+    panel.classList.toggle("is-active", panel.dataset.mobilePanel === panelName);
+  });
+}
+
 function filteredItems() {
   return state.items.filter((item) => {
     if (state.status !== "all" && item.status !== state.status) {
@@ -176,13 +204,6 @@ function filteredItems() {
     }
 
     if (state.neighborhood !== "all" && item.neighborhood !== state.neighborhood) {
-      return false;
-    }
-
-    if (
-      state.verificationLevel !== "all" &&
-      item.verificationLevel !== state.verificationLevel
-    ) {
       return false;
     }
 
@@ -200,7 +221,6 @@ function filteredItems() {
       item.dateLabel,
       item.openedDate,
       item.closedDate,
-      item.verificationLevel,
       ...item.sources.map((source) => source.label),
     ]
       .filter(Boolean)
@@ -257,39 +277,92 @@ async function loadData() {
     "All types",
   );
   populateSelect(
+    typeFilterDesktop,
+    venueTypes,
+    Object.fromEntries(state.items.map((item) => [item.venueType, item.venueTypeLabel])),
+    "All types",
+  );
+  populateSelect(
     areaFilter,
     neighborhoods,
     Object.fromEntries(state.items.map((item) => [item.neighborhood, item.neighborhood])),
     "All areas",
   );
+  populateSelect(
+    areaFilterDesktop,
+    neighborhoods,
+    Object.fromEntries(state.items.map((item) => [item.neighborhood, item.neighborhood])),
+    "All areas",
+  );
 
+  syncControlValues();
+  setMobilePanel(state.activeMobilePanel);
   renderTimeline();
 }
 
 function bindEvents() {
-  searchInput.addEventListener("input", (event) => {
-    state.search = event.target.value.trim();
+  const updateSearch = (value) => {
+    state.search = value.trim();
+    syncControlValues();
     renderTimeline();
+  };
+
+  const updateStatus = (value) => {
+    state.status = value;
+    syncControlValues();
+    renderTimeline();
+  };
+
+  const updateType = (value) => {
+    state.venueType = value;
+    syncControlValues();
+    renderTimeline();
+  };
+
+  const updateArea = (value) => {
+    state.neighborhood = value;
+    syncControlValues();
+    renderTimeline();
+  };
+
+  searchInput.addEventListener("input", (event) => {
+    updateSearch(event.target.value);
   });
 
+  if (searchInputDesktop) {
+    searchInputDesktop.addEventListener("input", (event) => {
+      updateSearch(event.target.value);
+    });
+  }
+
   statusFilter.addEventListener("change", (event) => {
-    state.status = event.target.value;
-    renderTimeline();
+    updateStatus(event.target.value);
+  });
+
+  statusFilterDesktop.addEventListener("change", (event) => {
+    updateStatus(event.target.value);
   });
 
   typeFilter.addEventListener("change", (event) => {
-    state.venueType = event.target.value;
-    renderTimeline();
+    updateType(event.target.value);
+  });
+
+  typeFilterDesktop.addEventListener("change", (event) => {
+    updateType(event.target.value);
   });
 
   areaFilter.addEventListener("change", (event) => {
-    state.neighborhood = event.target.value;
-    renderTimeline();
+    updateArea(event.target.value);
   });
 
-  verificationFilter.addEventListener("change", (event) => {
-    state.verificationLevel = event.target.value;
-    renderTimeline();
+  areaFilterDesktop.addEventListener("change", (event) => {
+    updateArea(event.target.value);
+  });
+
+  panelButtons.forEach((button) => {
+    button.addEventListener("click", () => {
+      setMobilePanel(button.dataset.panelButton);
+    });
   });
 }
 

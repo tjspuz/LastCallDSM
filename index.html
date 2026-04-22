@@ -13,29 +13,47 @@
   <body>
     <main class="page-shell">
       <header class="masthead">
+        <div class="masthead-meta">
+          <p class="eyebrow">Des Moines restaurant archive</p>
+          <a class="utility-link" href="review.html">Review Queue</a>
+        </div>
         <div class="brand-lockup">
           <img class="brand-icon-image" src="assets/lastcall.svg" alt="" aria-hidden="true" />
           <h1>Last Call DSM</h1>
         </div>
         <p class="masthead-copy">
-          A running archive of Des Moines metro restaurants and bars, from new openings
-          to last-call announcements and permanent closures.
+          Tracking Des Moines metro openings, last calls, and closures.
         </p>
       </header>
 
       <section class="toolbar" aria-label="Search and filters">
-        <label class="toolbar-search" for="search">
-          <span class="toolbar-label">Search</span>
-          <input
-            id="search"
-            class="search-input"
-            type="search"
-            placeholder="Search by venue, neighborhood, source, or note"
-          />
-        </label>
+        <div class="mobile-actions" aria-label="Mobile filters">
+          <button class="mobile-action-button is-active" type="button" data-panel-button="search">
+            Search
+          </button>
+          <button class="mobile-action-button" type="button" data-panel-button="status">
+            Status
+          </button>
+          <button class="mobile-action-button" type="button" data-panel-button="type">
+            Type
+          </button>
+          <button class="mobile-action-button" type="button" data-panel-button="area">
+            Area
+          </button>
+        </div>
 
-        <div class="toolbar-grid">
-          <label class="filter-field" for="status-filter">
+        <div class="mobile-panel-shell" data-mobile-shell>
+          <label class="toolbar-search mobile-panel-field is-active" for="search" data-mobile-panel="search">
+            <span class="toolbar-label">Search</span>
+            <input
+              id="search"
+              class="search-input"
+              type="search"
+              placeholder="Search by venue, neighborhood, source, or note"
+            />
+          </label>
+
+          <label class="filter-field mobile-panel-field" for="status-filter" data-mobile-panel="status">
             <span class="toolbar-label">Status</span>
             <select id="status-filter" class="filter-select">
               <option value="all">All records</option>
@@ -44,31 +62,58 @@
               <option value="opened">Opened</option>
             </select>
           </label>
-          <label class="filter-field" for="type-filter">
+
+          <label class="filter-field mobile-panel-field" for="type-filter" data-mobile-panel="type">
             <span class="toolbar-label">Type</span>
             <select id="type-filter" class="filter-select">
               <option value="all">All types</option>
             </select>
           </label>
-          <label class="filter-field" for="area-filter">
+
+          <label class="filter-field mobile-panel-field" for="area-filter" data-mobile-panel="area">
             <span class="toolbar-label">Area</span>
             <select id="area-filter" class="filter-select">
               <option value="all">All areas</option>
             </select>
           </label>
-          <label class="filter-field" for="verification-filter">
-            <span class="toolbar-label">Verification</span>
-            <select id="verification-filter" class="filter-select">
+        </div>
+
+        <label class="toolbar-search" for="search">
+          <span class="toolbar-label">Search</span>
+          <input
+            id="search-desktop"
+            class="search-input"
+            type="search"
+            placeholder="Search by venue, neighborhood, source, or note"
+          />
+        </label>
+
+        <div class="toolbar-grid">
+          <label class="filter-field" for="status-filter-desktop">
+            <span class="toolbar-label">Status</span>
+            <select id="status-filter-desktop" class="filter-select">
               <option value="all">All records</option>
-              <option value="verified">Verified only</option>
-              <option value="review">Review only</option>
+              <option value="lastcall">Last call</option>
+              <option value="closed">Closed</option>
+              <option value="opened">Opened</option>
+            </select>
+          </label>
+          <label class="filter-field" for="type-filter-desktop">
+            <span class="toolbar-label">Type</span>
+            <select id="type-filter-desktop" class="filter-select">
+              <option value="all">All types</option>
+            </select>
+          </label>
+          <label class="filter-field" for="area-filter-desktop">
+            <span class="toolbar-label">Area</span>
+            <select id="area-filter-desktop" class="filter-select">
+              <option value="all">All areas</option>
             </select>
           </label>
         </div>
 
         <div class="toolbar-meta">
           <p class="results-copy"><span data-results-count>0 results</span></p>
-          <a class="utility-link" href="review.html">Review Queue</a>
         </div>
       </section>
 
