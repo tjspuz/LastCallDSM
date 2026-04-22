@@ -147,6 +147,30 @@ function buildDescription(item) {
   return description;
 }
 
+function buildMapUrl(item) {
+  if (item.mapUrl) {
+    return item.mapUrl;
+  }
+
+  const explicitAddress = [
+    item.addressLine1,
+    item.addressLine2,
+    item.city,
+    item.state,
+    item.postalCode,
+  ]
+    .filter(Boolean)
+    .join(", ");
+
+  const query =
+    item.mapQuery ||
+    item.address ||
+    explicitAddress ||
+    [item.name, item.neighborhood, "Iowa"].filter(Boolean).join(", ");
+
+  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
+}
+
 function populateSelect(select, values, labels, allLabel) {
   select.innerHTML = "";
 
@@ -191,6 +215,11 @@ function filteredItems() {
     const haystack = [
       item.name,
       item.neighborhood,
+      item.address,
+      item.addressLine1,
+      item.city,
+      item.state,
+      item.mapQuery,
       item.cuisine,
       item.story,
       item.publicDescription,
@@ -225,6 +254,7 @@ function renderTimeline() {
   items.forEach((item) => {
     const fragment = template.content.cloneNode(true);
     const icon = fragment.querySelector('[data-field="icon"]');
+    const nameLink = fragment.querySelector('[data-field="name-link"]');
 
     icon.src = ICONS[item.status] || ICONS.closed;
     fragment.querySelector('[data-field="range"]').textContent = buildRange(item);
@@ -232,6 +262,8 @@ function renderTimeline() {
     fragment.querySelector('[data-field="kicker"]').textContent = buildKicker(item);
     fragment.querySelector('[data-field="name"]').textContent = item.name;
     fragment.querySelector('[data-field="description"]').textContent = buildDescription(item);
+    nameLink.href = buildMapUrl(item);
+    nameLink.setAttribute("aria-label", `Open directions for ${item.name}`);
 
     timelineEl.appendChild(fragment);
   });
