@@ -302,6 +302,11 @@ h1 {
   color: var(--text);
 }
 
+.tile-chip.is-active {
+  color: var(--text);
+  font-weight: 700;
+}
+
 .tile-title {
   font-size: 1.06rem;
   line-height: 1.2;
