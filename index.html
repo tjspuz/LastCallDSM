@@ -13,16 +13,11 @@
   <body>
     <main class="page-shell">
       <header class="masthead">
-        <div class="masthead-meta">
-          <p class="eyebrow">Des Moines restaurant archive</p>
-          <a class="utility-link" href="review.html">Review Queue</a>
-        </div>
         <div class="brand-lockup">
-          <img class="brand-icon-image" src="assets/lastcall.svg" alt="" aria-hidden="true" />
           <h1>Last Call DSM</h1>
         </div>
         <p class="masthead-copy">
-          Tracking Des Moines metro openings, last calls, and closures.
+          Archiving Des Moines area openings, closures, and last calls. 
         </p>
       </header>
 
@@ -41,7 +36,7 @@
           <label class="filter-field" for="status-filter">
             <span class="toolbar-label">Status</span>
             <select id="status-filter" class="filter-select">
-              <option value="all">All records</option>
+              <option value="all">All</option>
               <option value="lastcall">Last call</option>
               <option value="closed">Closed</option>
               <option value="opened">Opened</option>
@@ -50,13 +45,13 @@
           <label class="filter-field" for="type-filter">
             <span class="toolbar-label">Type</span>
             <select id="type-filter" class="filter-select">
-              <option value="all">All types</option>
+              <option value="all">All</option>
             </select>
           </label>
           <label class="filter-field" for="area-filter">
             <span class="toolbar-label">Area</span>
             <select id="area-filter" class="filter-select">
-              <option value="all">All areas</option>
+              <option value="all">All</option>
             </select>
           </label>
         </div>
@@ -77,7 +72,11 @@
           </div>
           <div class="tile-main">
             <p class="tile-kicker" data-field="kicker"></p>
-            <h2 class="tile-title" data-field="name"></h2>
+            <h2 class="tile-title">
+              <a class="tile-title-link" data-field="name-link" target="_blank" rel="noreferrer">
+                <span data-field="name"></span>
+              </a>
+            </h2>
             <p class="tile-description" data-field="description"></p>
           </div>
         </article>

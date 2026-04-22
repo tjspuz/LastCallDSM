@@ -243,9 +243,18 @@ h1 {
   font-size: 1.06rem;
   line-height: 1.2;
   font-weight: 400;
+}
+
+.tile-title-link {
+  color: inherit;
   text-decoration-line: underline;
   text-decoration-style: dotted;
   text-underline-offset: 0.16em;
+}
+
+.tile-title-link:hover,
+.tile-title-link:focus-visible {
+  color: #000;
 }
 
 .tile-description {
