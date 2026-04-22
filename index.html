@@ -2,7 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#f5f4f1" />
+    <meta name="color-scheme" content="light dark" />
     <title>Last Call DSM</title>
     <meta
       name="description"
@@ -12,12 +14,34 @@
   </head>
   <body>
     <main class="page-shell">
+      <div class="topbar">
+        <button
+          class="theme-toggle"
+          type="button"
+          aria-label="Toggle dark mode"
+          title="Toggle dark mode"
+          data-theme-toggle
+        >
+          <svg class="theme-toggle-icon" viewBox="0 0 24 24" aria-hidden="true">
+            <path
+              d="M9.75 14.25h4.5m-3.75 3h3m-5-5.46a4.75 4.75 0 1 1 7 0c-.86.78-1.5 1.69-1.5 2.71h-4c0-1.02-.64-1.93-1.5-2.71Z"
+              fill="none"
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="1.7"
+            />
+          </svg>
+        </button>
+      </div>
+
       <header class="masthead">
         <div class="brand-lockup">
           <h1>Last Call DSM</h1>
         </div>
         <p class="masthead-copy">
-          Archiving Des Moines area openings, closures, and last calls. 
+          <span>Archiving Des Moines area restaurants and bars</span>
+          <span>Openings, Closures, and "Last Calls"</span>
         </p>
       </header>
 

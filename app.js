@@ -5,6 +5,14 @@ const statusFilter = document.getElementById("status-filter");
 const typeFilter = document.getElementById("type-filter");
 const areaFilter = document.getElementById("area-filter");
 const resultsCountEl = document.querySelector("[data-results-count]");
+const themeToggle = document.querySelector("[data-theme-toggle]");
+const themeColorMeta = document.querySelector('meta[name="theme-color"]');
+
+const THEME_STORAGE_KEY = "lastCallDSMTheme";
+const THEME_COLORS = {
+  light: "#f5f4f1",
+  dark: "#101110",
+};
 
 const state = {
   status: "all",
@@ -25,6 +33,32 @@ const ICONS = {
   closed: "assets/closed.svg",
   lastcall: "assets/lastcall.svg",
 };
+
+function getPreferredTheme() {
+  const stored = window.localStorage.getItem(THEME_STORAGE_KEY);
+  if (stored === "light" || stored === "dark") {
+    return stored;
+  }
+  return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+}
+
+function applyTheme(theme) {
+  document.documentElement.dataset.theme = theme;
+  window.localStorage.setItem(THEME_STORAGE_KEY, theme);
+  if (themeColorMeta) {
+    themeColorMeta.setAttribute("content", THEME_COLORS[theme]);
+  }
+  if (themeToggle) {
+    themeToggle.setAttribute(
+      "aria-label",
+      theme === "dark" ? "Switch to light mode" : "Switch to dark mode",
+    );
+    themeToggle.setAttribute(
+      "title",
+      theme === "dark" ? "Switch to light mode" : "Switch to dark mode",
+    );
+  }
+}
 
 function parseDate(value) {
   return new Date(`${value}T12:00:00`);
@@ -336,8 +370,17 @@ function bindEvents() {
   areaFilter.addEventListener("change", (event) => {
     updateArea(event.target.value);
   });
+
+  if (themeToggle) {
+    themeToggle.addEventListener("click", () => {
+      const nextTheme =
+        document.documentElement.dataset.theme === "dark" ? "light" : "dark";
+      applyTheme(nextTheme);
+    });
+  }
 }
 
+applyTheme(getPreferredTheme());
 bindEvents();
 loadData().catch((error) => {
   console.error(error);
