@@ -90,12 +90,15 @@
       <template id="event-template">
         <article class="tile-card">
           <div class="tile-marker">
-            <p class="tile-category" data-field="type"></p>
             <img class="tile-icon-image" data-field="icon" alt="" aria-hidden="true" />
             <p class="tile-range" data-field="range"></p>
           </div>
           <div class="tile-main">
-            <p class="tile-kicker" data-field="kicker"></p>
+            <div class="tile-kicker" data-field="kicker">
+              <button class="tile-chip" type="button" data-field="status-chip"></button>
+              <button class="tile-chip" type="button" data-field="type-chip"></button>
+              <button class="tile-chip" type="button" data-field="area-chip"></button>
+            </div>
             <h2 class="tile-title">
               <a class="tile-title-link" data-field="name-link" target="_blank" rel="noreferrer">
                 <span data-field="name"></span>
