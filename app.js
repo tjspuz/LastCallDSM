@@ -29,9 +29,16 @@ const STATUS_LABELS = {
 };
 
 const ICONS = {
-  opened: "assets/open.svg",
-  closed: "assets/closed.svg",
-  lastcall: "assets/lastcall.svg",
+  light: {
+    opened: "assets/open.svg",
+    closed: "assets/closed.svg",
+    lastcall: "assets/lastcall.svg",
+  },
+  dark: {
+    opened: "assets/openWHITE.svg",
+    closed: "assets/closedWHITE.svg",
+    lastcall: "assets/lastcallWHITE.svg",
+  },
 };
 
 function getPreferredTheme() {
@@ -58,6 +65,14 @@ function applyTheme(theme) {
       theme === "dark" ? "Switch to light mode" : "Switch to dark mode",
     );
   }
+  if (state.items.length) {
+    renderTimeline();
+  }
+}
+
+function iconForItem(status) {
+  const theme = document.documentElement.dataset.theme === "dark" ? "dark" : "light";
+  return ICONS[theme][status] || ICONS[theme].closed;
 }
 
 function parseDate(value) {
@@ -290,7 +305,7 @@ function renderTimeline() {
     const icon = fragment.querySelector('[data-field="icon"]');
     const nameLink = fragment.querySelector('[data-field="name-link"]');
 
-    icon.src = ICONS[item.status] || ICONS.closed;
+    icon.src = iconForItem(item.status);
     fragment.querySelector('[data-field="range"]').textContent = buildRange(item);
     fragment.querySelector('[data-field="type"]').textContent = item.venueTypeLabel;
     fragment.querySelector('[data-field="kicker"]').textContent = buildKicker(item);

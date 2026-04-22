@@ -7,6 +7,8 @@
   --muted: #77716a;
   --badge: #e8e5df;
   --shadow: 0 1px 0 rgba(19, 19, 19, 0.04);
+  --field-bg: #ffffff;
+  --field-placeholder: #8f8a82;
   --font-sans: Arial, Helvetica, sans-serif;
   --font-mono: "SFMono-Regular", Menlo, Consolas, monospace;
 }
@@ -20,6 +22,8 @@
   --muted: #b1aca2;
   --badge: #202321;
   --shadow: 0 1px 0 rgba(255, 255, 255, 0.03);
+  --field-bg: #191b1a;
+  --field-placeholder: #9d988f;
 }
 
 * {
@@ -194,7 +198,7 @@ h1 {
   min-height: 3rem;
   border: 1px solid var(--line);
   border-radius: 0.75rem;
-  background: rgba(255, 255, 255, 0.78);
+  background: var(--field-bg);
   box-shadow: var(--shadow);
   color: var(--text);
   font: inherit;
@@ -218,7 +222,7 @@ h1 {
 }
 
 .search-input::placeholder {
-  color: #aea9a1;
+  color: var(--field-placeholder);
 }
 
 .search-input:focus,
