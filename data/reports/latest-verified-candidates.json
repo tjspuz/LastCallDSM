@@ -1,76 +1,76 @@
 [
   {
-    "id": "another-potential-buyer-eyeing-long-downtown-closed-2026-06-10",
-    "name": "Another potential buyer eyeing long",
+    "id": "owner-of-popular-high-end-steakhouse-chain-des-moines-metro-closed-2026-04-17",
+    "name": "Owner of Popular High-End Steakhouse Chain",
     "status": "closed",
-    "eventDate": "2026-06-10",
-    "sortDate": "2026-06-10",
-    "dateLabel": "Jun 2026",
-    "datePrecision": "day",
-    "venueType": "restaurant",
-    "venueTypeLabel": "Restaurant",
-    "cuisine": "Category Pending",
-    "neighborhood": "Downtown",
-    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Another potential buyer eyeing long in Downtown. Confirmation source: news.google.com.",
-    "verificationLevel": "verified",
-    "sources": [
-      {
-        "label": "Metro openings",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUDFmUVVuOGVyTkM4clVobFNWTEFaS3Yxa3FLODhXS1Q0cU1CendlMkV3RXZXbDRyLWZCRldxbkNJRFhQMTU2aXNWT2o1MXhCeUtmYXVTdWw0WDdwLXY5Z3ZBWHdoZ0JRMFpyaXhmemdmNWtlNlAzTDRGV0tkWm9leW9BQWY5OVRLSzc0UzA5LVJuSkQ3SWFrd0kyVGF5NTVHY3ZWUlVOeTFBYkZIdWdPMlUxYWlhUFpod09IdG45RURQdVdaLWNYVnpOZkVUeDUzSE5jZlc5WTZ2LVlVWFhjS3V0RFFpZw?oc=5"
-      },
-      {
-        "label": "news.google.com",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUDFmUVVuOGVyTkM4clVobFNWTEFaS3Yxa3FLODhXS1Q0cU1CendlMkV3RXZXbDRyLWZCRldxbkNJRFhQMTU2aXNWT2o1MXhCeUtmYXVTdWw0WDdwLXY5Z3ZBWHdoZ0JRMFpyaXhmemdmNWtlNlAzTDRGV0tkWm9leW9BQWY5OVRLSzc0UzA5LVJuSkQ3SWFrd0kyVGF5NTVHY3ZWUlVOeTFBYkZIdWdPMlUxYWlhUFpod09IdG45RURQdVdaLWNYVnpOZkVUeDUzSE5jZlc5WTZ2LVlVWFhjS3V0RFFpZw?oc=5"
-      }
-    ]
-  },
-  {
-    "id": "a-new-des-moines-metro-opened-2026-06-03",
-    "name": "A new",
-    "status": "opened",
-    "eventDate": "2026-06-03",
-    "sortDate": "2026-06-03",
-    "dateLabel": "Jun 2026",
-    "datePrecision": "day",
-    "venueType": "restaurant",
-    "venueTypeLabel": "Restaurant",
-    "cuisine": "Category Pending",
-    "neighborhood": "Des Moines Metro",
-    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for A new in Des Moines Metro. Confirmation source: news.google.com.",
-    "verificationLevel": "verified",
-    "sources": [
-      {
-        "label": "Suburb openings",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5US1JHbWZZNm05VnRSN3FvbHZhczdzTU9SLTlQallqZUxxdVFta3RyUXp3cXE1Y19xdmwwQ3pPRTNxVUtNRU13ZVlFRTFyczQ5NHJOWllWM2tSb1JXenM5WkJ4MHVULWRmRFpJeHRkQUpnSW5OOWVV0gF3QVVfeXFMTzVGR2p1eUd1MXRELS0wZ040dlZtMkRlWWNJcTBPTk9BUDFXVHBJM0p3QThxZ2FDOS1xdE1WWkJYTVZqaDZNSGdRR1lBTWRFNUxlbklhMThCN09PTmEzWXpHT2ZCNF82R2NERVZaYm5wdC1ySVVwOHc?oc=5"
-      },
-      {
-        "label": "news.google.com",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3dTM25hb2pOUmxyZEE1SWJLMGYyakpzakRWVGFwdUxnZGFZV3ZGVkFQcHNTaWJsX0NPTTl0MDVEeFhHSmlETV9FRW1kN2FPWjl5aGZwaDhZSnp3Q3pRZDFzLXhCb3JtRlcySW9OOTdkSnlVcHVTdHhhNjROc0thZGJud3JwOUZPb2xYcTln?oc=5"
-      }
-    ]
-  },
-  {
-    "id": "nearly-80-hardee-s-des-moines-metro-closed-2026-04-29",
-    "name": "Nearly 80 Hardee's",
-    "status": "closed",
-    "eventDate": "2026-04-29",
-    "sortDate": "2026-04-29",
+    "eventDate": "2026-04-17",
+    "sortDate": "2026-04-17",
     "dateLabel": "Apr 2026",
     "datePrecision": "day",
     "venueType": "restaurant",
     "venueTypeLabel": "Restaurant",
-    "cuisine": "Category Pending",
+    "cuisine": "Steakhouse",
     "neighborhood": "Des Moines Metro",
-    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Nearly 80 Hardee's in Des Moines Metro. Confirmation source: news.google.com.",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Owner of Popular High-End Steakhouse Chain in Des Moines Metro. Confirmation source: news.google.com.",
     "verificationLevel": "verified",
     "sources": [
       {
         "label": "Metro closures",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORzdEeWVhWXBqaFJMWDlvbFIySVdrUkFDSmlXVDJNUW1jZ1lPYzlrV1FGbDYxcUpncWhWSWVkR3kyYXZkbkh4b3IwZjE1c3d5a1hWNUZ2UUZtQmh1dWVUVmo4T2hMNXViUDc5bnRPdDczSW5EVnlaZjR4T0hPYXpiTlgtMjJXaG12aHhpVjVaNk51TnpZVWlrTGxIR29qb01oMlBCbXdJOEdqVEt2UEZzcm4wS3Q0bkVSTXNZLWx5U0lPQXhTTTdn?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNREpwbDcyU1hiZE5FRlNQWGF2c1hhRUZMalVDUVJaOXVJSTNQaGhJbjhJRFJXNTg1VEhjYlhnU3ZOZnRiV24yQjcxcU52MHROYXR3MEhvUEg3dEhqYkhmUkMwNlBFSkRCT2NPbmNoektqTVJjU21PZDlLazVrTklLcEhqNm93UQ?oc=5"
       },
       {
         "label": "news.google.com",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORzdEeWVhWXBqaFJMWDlvbFIySVdrUkFDSmlXVDJNUW1jZ1lPYzlrV1FGbDYxcUpncWhWSWVkR3kyYXZkbkh4b3IwZjE1c3d5a1hWNUZ2UUZtQmh1dWVUVmo4T2hMNXViUDc5bnRPdDczSW5EVnlaZjR4T0hPYXpiTlgtMjJXaG12aHhpVjVaNk51TnpZVWlrTGxIR29qb01oMlBCbXdJOEdqVEt2UEZzcm4wS3Q0bkVSTXNZLWx5U0lPQXhTTTdn?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNREpwbDcyU1hiZE5FRlNQWGF2c1hhRUZMalVDUVJaOXVJSTNQaGhJbjhJRFJXNTg1VEhjYlhnU3ZOZnRiV24yQjcxcU52MHROYXR3MEhvUEg3dEhqYkhmUkMwNlBFSkRCT2NPbmNoektqTVJjU21PZDlLazVrTklLcEhqNm93UQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "upscale-steakhouse-chain-des-moines-metro-closed-2026-04-16",
+    "name": "Upscale steakhouse chain",
+    "status": "closed",
+    "eventDate": "2026-04-16",
+    "sortDate": "2026-04-16",
+    "dateLabel": "Apr 2026",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Steakhouse",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Upscale steakhouse chain in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Metro closures",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNjVSQTZnNWlWcEd1WlFpeVNRSmdPOHN1SzE2MjdBZzRWU0RLR3hMTTN0QV9uaFVscERoMW9JcEZzMWMzM1RqWk9oQlpqUWFZOXhVaVViQmloQzlTS0tZeHRPVWRpSTVBdTg3Znk1eXhIUWRmVURpZUN3Q0dNVnFmQVNjVVREWmVtMHFiMlhKa1lyQXpMeGtXWW9yeGMyNFdoOUg3MzNiU25GMUdqcXVaYll5bnlGU0dB?oc=5"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNGdFVlJZTjNTWHRsSjIxMHA4cG9BdjNzdnFpME5sWkJ0c3NLTmdGOXNYVkc1ZUI5YktWWnhaeV9KNWJyN21oY3FUWDBDRzRILWZFS1ZwbW5GaHhkMGp0amRMcEdUVlYtakNwUEZVMGlGNnpFdE9Ed2ZwYmJhdjBleHhNdVBaQnA0a01JS0lSREhTQmNFTy1pTEFZSXYwX2ZBMTZGdy1Tb2xDNUZBWGwySldjM1pPN3BtUmRB?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "hot-off-the-presses-des-moines-metro-closed-2026-03-18",
+    "name": "Hot off the Presses",
+    "status": "closed",
+    "eventDate": "2026-03-18",
+    "sortDate": "2026-03-18",
+    "dateLabel": "Mar 2026",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Hot off the Presses in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Metro closures",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWkk3Si1kZkRCQlRiOHZfdG5lYXRRYnppR0lwSnZ2R05xLVllRWItWGJtY2VPWUgzTmp4U01fU0hlS192ZjloNVQ1dDFjYkxXTlBxdmhlbWc1RUVRMXRGaTNHLUV5VFlVUzVLVE9Pd0kyd0hncDkxbXUxZTRZY3pOUzhyLVAzdDZpS0ZWTmswYnFHcUhHUFBCeExCOFJYYWJ3TW5SbGdaNEFtQmxhWlktZDlUOXI0Mk5DakE3c05rbFpSWlZlNkFrVmJ3NzktUGc4ZTZwdlk2YVQ?oc=5"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWkk3Si1kZkRCQlRiOHZfdG5lYXRRYnppR0lwSnZ2R05xLVllRWItWGJtY2VPWUgzTmp4U01fU0hlS192ZjloNVQ1dDFjYkxXTlBxdmhlbWc1RUVRMXRGaTNHLUV5VFlVUzVLVE9Pd0kyd0hncDkxbXUxZTRZY3pOUzhyLVAzdDZpS0ZWTmswYnFHcUhHUFBCeExCOFJYYWJ3TW5SbGdaNEFtQmxhWlktZDlUOXI0Mk5DakE3c05rbFpSWlZlNkFrVmJ3NzktUGc4ZTZwdlk2YVQ?oc=5"
       }
     ]
   },
@@ -190,7 +190,7 @@
     "verificationLevel": "verified",
     "sources": [
       {
-        "label": "Suburb closures",
+        "label": "Metro closures",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNTIwWlFOQkVNbVEwR2x2OUZZTzhtSHVlZDVJcVV2aG9zWkY2N0hFR3BPcGptbVNGS3N0Ukw4cmU2LWQ3ZEtaOFFuYnZCVUpkRExHSGYtZ2paVjN0RXFXcHo4cTUwcGFRRkUtQVBtOWJtUTBDYy1HWjF1Wmhxc181OVAzV0dCSHBfc3VzQVhSMUYwTGZkNDZYSTNUV0FneWRBdWFVU2RCTTBraXJ6Nm9xZFltb29RMGljLWUtTjJwYjI5ZHIzUWNwbjktc2ZRWHRWVUdmUHNhTklSM2ZVT0dlVXhYdnNpU04yYTNROFJhMDc?oc=5"
       },
       {
@@ -275,31 +275,6 @@
     ]
   },
   {
-    "id": "saturday-is-last-day-for-des-moines-des-moines-metro-closed-2024-06-22",
-    "name": "Saturday is last day for Des Moines",
-    "status": "closed",
-    "eventDate": "2024-06-22",
-    "sortDate": "2024-06-22",
-    "dateLabel": "Jun 2024",
-    "datePrecision": "day",
-    "venueType": "restaurant",
-    "venueTypeLabel": "Restaurant",
-    "cuisine": "Category Pending",
-    "neighborhood": "Des Moines Metro",
-    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Saturday is last day for Des Moines in Des Moines Metro. Confirmation source: news.google.com.",
-    "verificationLevel": "verified",
-    "sources": [
-      {
-        "label": "Metro closures",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObk9weDA2NUNaeWVzamY0UGZZS2ZlOWxSaEZnRjRCV1VhWXVwcmdYdk5FdFFXRWdRRmo2b1VacUlNcU43blBVMFVudFdtZVdaZi05WjhJQ0x2VWVhMk5iWk5NUUpVZDl1Q0Z4OHJRMy1XazhOQkNxTlI5YThwb29fNnVCazhuWjZTUlpPNXNIM1gzNGtDNUZVUllVVkwzN2xCTXlj?oc=5"
-      },
-      {
-        "label": "news.google.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObk9weDA2NUNaeWVzamY0UGZZS2ZlOWxSaEZnRjRCV1VhWXVwcmdYdk5FdFFXRWdRRmo2b1VacUlNcU43blBVMFVudFdtZVdaZi05WjhJQ0x2VWVhMk5iWk5NUUpVZDl1Q0Z4OHJRMy1XazhOQkNxTlI5YThwb29fNnVCazhuWjZTUlpPNXNIM1gzNGtDNUZVUllVVkwzN2xCTXlj?oc=5"
-      }
-    ]
-  },
-  {
     "id": "the-handlebar-des-moines-metro-opened-2024-04-11",
     "name": "The Handlebar",
     "status": "opened",
@@ -350,52 +325,52 @@
     ]
   },
   {
-    "id": "a-new-supper-club-inspired-des-moines-metro-opened-2024-02-15",
-    "name": "A New Supper Club-Inspired",
-    "status": "opened",
-    "eventDate": "2024-02-15",
-    "sortDate": "2024-02-15",
-    "dateLabel": "Feb 2024",
+    "id": "ben-s-burgers-ankeny-closed-2023-12-18",
+    "name": "Ben's Burgers",
+    "status": "closed",
+    "eventDate": "2023-12-18",
+    "sortDate": "2023-12-18",
+    "dateLabel": "Dec 2023",
     "datePrecision": "day",
     "venueType": "restaurant",
     "venueTypeLabel": "Restaurant",
-    "cuisine": "Category Pending",
-    "neighborhood": "Des Moines Metro",
-    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for A New Supper Club-Inspired in Des Moines Metro. Confirmation source: news.google.com.",
+    "cuisine": "Burgers",
+    "neighborhood": "Ankeny",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Ben's Burgers in Ankeny. Confirmation source: news.google.com.",
     "verificationLevel": "verified",
     "sources": [
       {
-        "label": "Suburb openings",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tUS1nR0IzNTF4UkxLaW84VHVkT2VVM0RMWUV1Ni1LWkh2VXFZejR3X21WS05kazZOaFBFdWRVWDhTYjcteWNhX2VDNktoMzlfX241N1k4dW9TallFc3l4bm5fd2NvblV4ZXBLeHBuU0FKTFZGQkhEWExjT2NvbE0?oc=5"
+        "label": "Suburb closures",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVFJ3U1gzeHlRRmRXb1lIODdYOFlzN1d6VU52bVpkYXZrc2RPZ0J4QWFueGZ2eEVseFNVbkJlSjlwOXVxZDROZEk0SU9VeHRZcE5MZ0MzTjdMRmY2SzZHOHZhQVFjcmtqVHp3UWJ6V2VrZWI1ZWZLVnFuU1Ewd3JESDQ5djFacUlfQ1d0bU5yRWNQT0VNTEJ4REUta19NdlZ1eVh2QUh4T3BGbGVyYWRlcGZfd0RTLS1WeGJpZGE4SVRRLWs3Y1FibHpfVXpBdkdzRlB6Nm5zRkFZVWlRLUVDT2dkc0Y0dw?oc=5"
       },
       {
         "label": "news.google.com",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tUS1nR0IzNTF4UkxLaW84VHVkT2VVM0RMWUV1Ni1LWkh2VXFZejR3X21WS05kazZOaFBFdWRVWDhTYjcteWNhX2VDNktoMzlfX241N1k4dW9TallFc3l4bm5fd2NvblV4ZXBLeHBuU0FKTFZGQkhEWExjT2NvbE0?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVFJ3U1gzeHlRRmRXb1lIODdYOFlzN1d6VU52bVpkYXZrc2RPZ0J4QWFueGZ2eEVseFNVbkJlSjlwOXVxZDROZEk0SU9VeHRZcE5MZ0MzTjdMRmY2SzZHOHZhQVFjcmtqVHp3UWJ6V2VrZWI1ZWZLVnFuU1Ewd3JESDQ5djFacUlfQ1d0bU5yRWNQT0VNTEJ4REUta19NdlZ1eVh2QUh4T3BGbGVyYWRlcGZfd0RTLS1WeGJpZGE4SVRRLWs3Y1FibHpfVXpBdkdzRlB6Nm5zRkFZVWlRLUVDT2dkc0Y0dw?oc=5"
       }
     ]
   },
   {
-    "id": "paesano-s-pizzeria-des-moines-metro-closed-2023-05-08",
-    "name": "Paesano's Pizzeria",
+    "id": "kinship-brewing-waukee-closed-2023-12-04",
+    "name": "Kinship Brewing",
     "status": "closed",
-    "eventDate": "2023-05-08",
-    "sortDate": "2023-05-08",
-    "dateLabel": "May 2023",
+    "eventDate": "2023-12-04",
+    "sortDate": "2023-12-04",
+    "dateLabel": "Dec 2023",
     "datePrecision": "day",
-    "venueType": "restaurant",
-    "venueTypeLabel": "Restaurant",
-    "cuisine": "Category Pending",
-    "neighborhood": "Des Moines Metro",
-    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Paesano's Pizzeria in Des Moines Metro. Confirmation source: news.google.com.",
+    "venueType": "bar",
+    "venueTypeLabel": "Bar",
+    "cuisine": "Brewery",
+    "neighborhood": "Waukee",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Kinship Brewing in Waukee. Confirmation source: news.google.com.",
     "verificationLevel": "verified",
     "sources": [
       {
-        "label": "Metro closures",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQckxDaDFIWU5FT0xCQ0lQODRzS0ozYnFiY0x6cFdUZm5hQlJzWW1hSWE3Z3BuSWVGMzRlcE11TGVsRFVQMFRJQlBTLUxnQWJNZ3hwanE4elJSVGZQcC1lakhPdzktQ0VndnhacV9wNEo4VVdUdHROaWM1cFVkRTJ2SmJBbFJMeERBc3RGM3lpVUtaMXB4X1JlaUZKOHFScGNGT1BKVzM4Zk9KOEJRYlhQZy1UZ2UteXdjQm5tYm9xNHVIS0RCNktKSTVZeEpMUUhHbnptWlFaeTI0N0JVdkVlSmN3?oc=5"
+        "label": "Suburb closures",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdTFDbWtvRkU2c25UNE1Xb0JtS05WQjNRMHZLNWRGdVJMQW1FcmthWHRvNU85dW51SUhCNTdlMkl0dUhFWHZsX2FrenBzdGhoVU9rcjBBMWhrS0x5dHFsbGwwcE1yQWNNRkhKV2JmVFFmN0I0V1lsNV9YRHR4MEx6WVkwVHN3ODd1N2M2ZnFXVnlDeUd2bW01UTMxRXZkX3Rlc2swbFhKalpqLXZoSXJXdV9fcXR5R1dUTDhwcnFKTmM1bUU1V3dNTkl5WU1OUHNjaEJLdGRFX05yTFlVQXZHUVdHTlVhR19B?oc=5"
       },
       {
         "label": "news.google.com",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQckxDaDFIWU5FT0xCQ0lQODRzS0ozYnFiY0x6cFdUZm5hQlJzWW1hSWE3Z3BuSWVGMzRlcE11TGVsRFVQMFRJQlBTLUxnQWJNZ3hwanE4elJSVGZQcC1lakhPdzktQ0VndnhacV9wNEo4VVdUdHROaWM1cFVkRTJ2SmJBbFJMeERBc3RGM3lpVUtaMXB4X1JlaUZKOHFScGNGT1BKVzM4Zk9KOEJRYlhQZy1UZ2UteXdjQm5tYm9xNHVIS0RCNktKSTVZeEpMUUhHbnptWlFaeTI0N0JVdkVlSmN3?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSERlc0xjSHB4LUI2TW0tRGRyOTlJSWJWeWliUUlfM1dmSi00NW5kV0Z4WFBjUERyVjY4Qm1PTHJza1NMRTFxdkIzTHl6UFpzdDdiZjZWWWpkajBXcGZYVHZaSzRCaFFjTkJDRTBuajBRSk02UUdnUHhCRTlvVnQ1OXk1dGpPVS1tZWx0YWtibThzcnlqZnpVQ3RpWXBZUFJRZ09GTTNxaTh0R0tfMVJHM0xwVjh4cW8wVzQxekJtTk1SdFVVSGxYTU9QN3JxT1Rrd2JZcUwyTkVfSk9MSmpUTGpheDk0QQ?oc=5"
       }
     ]
   },
@@ -415,7 +390,7 @@
     "verificationLevel": "verified",
     "sources": [
       {
-        "label": "Suburb closures",
+        "label": "Suburb openings",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEtyc1pjWEIya1Z3bk9Db3RxY192NVpYVERTRElUNFFnb2xPcV9VTlZqWUdYY0pJek5qNTNTZGYtMDZKdjAwekdMdW1aQ1ZFWTV0NFlhUlpVT1V3ajNJcFF3cmtoZkhFWXJkSWtMcmNpbTBZdFVWR0U4S1lfeWplZUUtVXVJdGZSbUN5LW1Rb0hmUQ?oc=5"
       },
       {
@@ -500,6 +475,31 @@
     ]
   },
   {
+    "id": "shake-announces-long-awaited-grand-west-des-moines-opened-2020-12-30",
+    "name": "Shake announces long-awaited grand",
+    "status": "opened",
+    "eventDate": "2020-12-30",
+    "sortDate": "2020-12-30",
+    "dateLabel": "Dec 2020",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "West Des Moines",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Shake announces long-awaited grand in West Des Moines. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Suburb openings",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcGNQeFhONElMM0JFUXFHc0FULWx3X05HXzhiYWt3V3FPSjRiazJhdFVJYVMzQThjZkRpQzFmbVRkZGVLU1VxWXd6UHhFaTB3SVVzUmx2NUVybENiZy1WdFVrRVZwbk9JZXhoWm5panhBcDZmN2Z3ZktQeV9uc1FicldUc1NxYThQUy16ZUdNWGZGZFhtejYweUtLMi16VFFGUmx2SXRQMkp3SXRqdXBuZ0J3?oc=5"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcGNQeFhONElMM0JFUXFHc0FULWx3X05HXzhiYWt3V3FPSjRiazJhdFVJYVMzQThjZkRpQzFmbVRkZGVLU1VxWXd6UHhFaTB3SVVzUmx2NUVybENiZy1WdFVrRVZwbk9JZXhoWm5panhBcDZmN2Z3ZktQeV9uc1FicldUc1NxYThQUy16ZUdNWGZGZFhtejYweUtLMi16VFFGUmx2SXRQMkp3SXRqdXBuZ0J3?oc=5"
+      }
+    ]
+  },
+  {
     "id": "iowa-bars-face-tough-decisions-as-coronavirus-spreads-among-under-40-crowd-des-moines-metro-opened-2020-07-10",
     "name": "Iowa bars face tough decisions as coronavirus spreads among under-40 crowd",
     "status": "opened",
@@ -565,7 +565,7 @@
     "verificationLevel": "verified",
     "sources": [
       {
-        "label": "Metro closures",
+        "label": "Suburb closures",
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMEZWZmdPZk96cVBOaU1MNmxZaC0zb1ZEeFpyeU1ESTJ2dHVGM1pvaGZwQ1ROa0QwaGZlTEVXRnNfYUJicmlxZ1Y4SWRhVHdld1FSRHFfZ3cyOFgxajFVRkJVeTR2d1M2N3lHVEtMVXlLLTdtaFE5NjEwZXhuTWtJV21Ubjg3Vmg1Rl85VEo1NHFYLWdqSzJBS2JwQUt3VTV4Z29BbjFJMHk5X0lZbzFUYXFDZm5uYWlhc2hxZVdUMmljbE9BV0lzYVlieFk4TzZuRFdWNHBENEJFTmJvN1VUXzlhcVp0LTB2LWlDY2h0aXhWbDc0ZHZBcGtlR3dIRmc5TUFrZTFDTnY?oc=5"
       },
       {
@@ -640,7 +640,7 @@
     "verificationLevel": "verified",
     "sources": [
       {
-        "label": "Axios Des Moines food coverage",
+        "label": "Metro closures",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZHpwa0JqQWkxZWNBbUQyNEYyU2hfbUxWMEtiNThRcVUycl9jV1ZSeVdwLVBPSTM2UFYxZ0xZTDVhNUtXdVBvOGROOGNhNno4STdGc05aeG4yb01PWVpJVW9LT1VkTlFwekVQRUdqZnB6b1otRHBmSjFtdUZod3Zudk53UUJKblE3MFpBYnBzWHcxaEVYcHBiWGdqbm9fWVhvN0hn?oc=5"
       },
       {

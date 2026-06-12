@@ -1,7 +1,88 @@
 {
-  "updatedAt": "2026-06-12T10:10:22+00:00",
+  "updatedAt": "2026-06-12T14:55:37+00:00",
   "city": "Des Moines Metro",
   "items": [
+    {
+      "id": "osm-node-3457801594",
+      "name": "1908 Draught House",
+      "status": "closed",
+      "eventDate": "2026-06-12",
+      "sortDate": "2026-06-12",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "1908 Draught House appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/3457801594"
+        }
+      ],
+      "publicDescription": "1908 Draught House appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "Des Moines Metro, IA",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-12",
+      "closedDatePrecision": "month"
+    },
+    {
+      "id": "osm-way-862140827",
+      "name": "1908 Draught House",
+      "status": "closed",
+      "eventDate": "2026-06-12",
+      "sortDate": "2026-06-12",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "American",
+      "neighborhood": "Des Moines Metro",
+      "story": "1908 Draught House appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/862140827"
+        }
+      ],
+      "publicDescription": "1908 Draught House appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "Des Moines Metro, IA",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-12",
+      "closedDatePrecision": "month"
+    },
+    {
+      "id": "osm-way-775634216",
+      "name": "804 Main Bar & Grill",
+      "status": "closed",
+      "eventDate": "2026-06-12",
+      "sortDate": "2026-06-12",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "804 Main Bar & Grill appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/775634216"
+        }
+      ],
+      "publicDescription": "804 Main Bar & Grill appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "Des Moines Metro, IA",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-12",
+      "closedDatePrecision": "month"
+    },
     {
       "id": "louie-s-wine-dive-des-moines-metro-closed-2015-12-16",
       "name": "Louie's Wine Dive",
@@ -3049,31 +3130,6 @@
       "descriptionSource": "enriched"
     },
     {
-      "id": "osm-node-3457801594",
-      "name": "1908 Draught House",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "bar",
-      "venueTypeLabel": "Bar",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines Metro",
-      "story": "A draught house in the Des Moines metro with more details to come.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/node/3457801594"
-        }
-      ],
-      "publicDescription": "A draught house in the Des Moines metro with more details to come.",
-      "firstSeen": "2026-06-11",
-      "address": "Des Moines Metro, IA",
-      "descriptionSource": "enriched"
-    },
-    {
       "id": "osm-way-279675433",
       "name": "1908 Draught House",
       "status": "opened",
@@ -3097,31 +3153,6 @@
       "firstSeen": "2026-06-11",
       "address": "196 50th Street, West Des Moines, IA, 50266",
       "website": "http://www.draughthouse1908.com/"
-    },
-    {
-      "id": "osm-way-862140827",
-      "name": "1908 Draught House",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "American",
-      "neighborhood": "Des Moines Metro",
-      "story": "An American eatery and draught house in the Des Moines metro.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/way/862140827"
-        }
-      ],
-      "publicDescription": "An American eatery and draught house in the Des Moines metro.",
-      "firstSeen": "2026-06-11",
-      "address": "Des Moines Metro, IA",
-      "descriptionSource": "enriched"
     },
     {
       "id": "osm-node-12639841101",
@@ -3275,31 +3306,6 @@
       "firstSeen": "2026-06-11",
       "address": "801 Grand Avenue, Des Moines, IA, 50309",
       "website": "https://801chophouse.com/des-moines/",
-      "descriptionSource": "enriched"
-    },
-    {
-      "id": "osm-way-775634216",
-      "name": "804 Main Bar & Grill",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines Metro",
-      "story": "A bar and grill in the Des Moines metro with more details to come.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/way/775634216"
-        }
-      ],
-      "publicDescription": "A bar and grill in the Des Moines metro with more details to come.",
-      "firstSeen": "2026-06-11",
-      "address": "Des Moines Metro, IA",
       "descriptionSource": "enriched"
     },
     {

@@ -806,5 +806,325 @@
     "businessStatus": "OPERATIONAL",
     "formattedAddress": "1501 E Euclid Ave, Des Moines, IA 50316, USA",
     "checkedAt": "2026-06-12T10:10:22+00:00"
+  },
+  {
+    "id": "osm-node-1029239536",
+    "name": "Abelardo's Mexican Restaurant",
+    "query": "Abelardo's Mexican Restaurant West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "5525 Mills Civic Pkwy #130, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-12T14:55:26+00:00"
+  },
+  {
+    "id": "osm-way-340561588",
+    "name": "Abelardo's Mexican Restaurant",
+    "query": "Abelardo's Mexican Restaurant Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "205 E 14th St, Des Moines, IA 50316, USA",
+    "checkedAt": "2026-06-12T14:55:26+00:00"
+  },
+  {
+    "id": "osm-node-1307333465",
+    "name": "Agave Grill",
+    "query": "Agave Grill Des Moines Metro Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "12931 University Ave, Clive, IA 50325, USA",
+    "checkedAt": "2026-06-12T14:55:26+00:00"
+  },
+  {
+    "id": "osm-way-779162473",
+    "name": "AJ's on East Court",
+    "query": "AJ's on East Court Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "419 E Court Ave, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T14:55:27+00:00"
+  },
+  {
+    "id": "osm-node-3658422292",
+    "name": "Akebono",
+    "query": "Akebono Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "215 10th St Ste 120, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T14:55:27+00:00"
+  },
+  {
+    "id": "osm-node-9663165605",
+    "name": "Al's Dairy Freeze",
+    "query": "Al's Dairy Freeze Grimes Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1220 NE Station Crossing Dr, Grimes, IA 50111, USA",
+    "checkedAt": "2026-06-12T14:55:27+00:00"
+  },
+  {
+    "id": "osm-way-1025937405",
+    "name": "Alba Restaurant",
+    "query": "Alba Restaurant Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "524 E 6th St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T14:55:27+00:00"
+  },
+  {
+    "id": "osm-node-1613816215",
+    "name": "All Pho You",
+    "query": "All Pho You Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "4120 University Ave, Des Moines, IA 50311, USA",
+    "checkedAt": "2026-06-12T14:55:28+00:00"
+  },
+  {
+    "id": "osm-node-9446408806",
+    "name": "Almost Famous Popcorn Company",
+    "query": "Almost Famous Popcorn Company Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1121 3rd St SE, Cedar Rapids, IA 52401, USA",
+    "checkedAt": "2026-06-12T14:55:28+00:00"
+  },
+  {
+    "id": "osm-node-9351683335",
+    "name": "Alohana Hawaiian Grill",
+    "query": "Alohana Hawaiian Grill Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "802 SE Oralabor Rd Ste 128, Ankeny, IA 50021, USA",
+    "checkedAt": "2026-06-12T14:55:28+00:00"
+  },
+  {
+    "id": "osm-node-6505167614",
+    "name": "Alpine Foods",
+    "query": "Alpine Foods Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2400 SE Mailwell Dr, Milwaukie, OR 97222, USA",
+    "checkedAt": "2026-06-12T14:55:28+00:00"
+  },
+  {
+    "id": "osm-way-152168786",
+    "name": "Alpine Tap Room",
+    "query": "Alpine Tap Room Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2720 Ingersoll Ave, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-12T14:55:29+00:00"
+  },
+  {
+    "id": "osm-node-11382126427",
+    "name": "Ambrosia Donuts",
+    "query": "Ambrosia Donuts Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "106 SW State St, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-12T14:55:29+00:00"
+  },
+  {
+    "id": "osm-way-103850391",
+    "name": "American Outlaws Bar",
+    "query": "American Outlaws Bar Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "214 3rd St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T14:55:29+00:00"
+  },
+  {
+    "id": "osm-way-223927539",
+    "name": "Amigo Mexican Restaurant",
+    "query": "Amigo Mexican Restaurant Johnston Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "8510 Birchwood Ct, Johnston, IA 50131, USA",
+    "checkedAt": "2026-06-12T14:55:29+00:00"
+  },
+  {
+    "id": "osm-node-12843867436",
+    "name": "Amigos Mexican Grill",
+    "query": "Amigos Mexican Grill Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "502 N Ankeny Blvd Ste 5, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-12T14:55:30+00:00"
+  },
+  {
+    "id": "osm-node-5489505357",
+    "name": "Angry Goldfish Pub & Eatery",
+    "query": "Angry Goldfish Pub & Eatery Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2301 SW 9th St, Des Moines, IA 50315, USA",
+    "checkedAt": "2026-06-12T14:55:30+00:00"
+  },
+  {
+    "id": "osm-node-438296163",
+    "name": "Ankeny Diner",
+    "query": "Ankeny Diner Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "133 SE Delaware Ave, Ankeny, IA 50021, USA",
+    "checkedAt": "2026-06-12T14:55:30+00:00"
+  },
+  {
+    "id": "osm-way-103850390",
+    "name": "Annie's Irish Pub",
+    "query": "Annie's Irish Pub Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "206 3rd St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T14:55:30+00:00"
+  },
+  {
+    "id": "osm-way-1137749029",
+    "name": "Aposto",
+    "query": "Aposto Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "644 18th St, Des Moines, IA 50314, USA",
+    "checkedAt": "2026-06-12T14:55:31+00:00"
+  },
+  {
+    "id": "osm-node-775408199",
+    "name": "Appare",
+    "query": "Appare Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "106 W Boston Ave, Indianola, IA 50125, USA",
+    "checkedAt": "2026-06-12T14:55:31+00:00"
+  },
+  {
+    "id": "osm-node-11646286142",
+    "name": "Arugula & Rye",
+    "query": "Arugula & Rye Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "5800 Fleur Dr, Des Moines, IA 50321, USA",
+    "checkedAt": "2026-06-12T14:55:31+00:00"
+  },
+  {
+    "id": "osm-node-1291264843",
+    "name": "Asian Buffet",
+    "query": "Asian Buffet Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1801 22nd St, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-12T14:55:31+00:00"
+  },
+  {
+    "id": "osm-node-1236836064",
+    "name": "Aura",
+    "query": "Aura Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "12851 University Ave #400, Clive, IA 50325, USA",
+    "checkedAt": "2026-06-12T14:55:32+00:00"
+  },
+  {
+    "id": "osm-node-3362649539",
+    "name": "B&C Sports Bar",
+    "query": "B&C Sports Bar West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "111 5th St, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-12T14:55:32+00:00"
+  },
+  {
+    "id": "osm-node-13858846806",
+    "name": "Baba\u2019s Buffalo",
+    "query": "Baba\u2019s Buffalo Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1101 Army Post Rd Sutie C-D, Des Moines, IA 50315, USA",
+    "checkedAt": "2026-06-12T14:55:32+00:00"
+  },
+  {
+    "id": "osm-way-145591213",
+    "name": "Babylon Grill",
+    "query": "Babylon Grill Des Moines Metro Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "2831 Douglas Ave, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-12T14:55:32+00:00"
+  },
+  {
+    "id": "osm-node-962016217",
+    "name": "Back Roads Lounge",
+    "query": "Back Roads Lounge Johnston Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "8460 Birchwood Ct Ste 900, Johnston, IA 50131, USA",
+    "checkedAt": "2026-06-12T14:55:33+00:00"
+  },
+  {
+    "id": "osm-node-11095072842",
+    "name": "Backpocket Pin & Pixel",
+    "query": "Backpocket Pin & Pixel Johnston Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "6205 Merle Hay Rd Ste 100, Johnston, IA 50131, USA",
+    "checkedAt": "2026-06-12T14:55:33+00:00"
+  },
+  {
+    "id": "osm-node-11382126429",
+    "name": "Backspin Indoor Golf and Bar",
+    "query": "Backspin Indoor Golf and Bar Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "106 SW State St, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-12T14:55:33+00:00"
+  },
+  {
+    "id": "osm-way-110354369",
+    "name": "Bakers Square",
+    "query": "Bakers Square Clive Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1310 NW 114th St, Clive, IA 50325, USA",
+    "checkedAt": "2026-06-12T14:55:33+00:00"
+  },
+  {
+    "id": "osm-node-1801778911",
+    "name": "Balkan Bar and Grill",
+    "query": "Balkan Bar and Grill Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2791 100th St, Urbandale, IA 50322, USA",
+    "checkedAt": "2026-06-12T14:55:34+00:00"
+  },
+  {
+    "id": "osm-node-1029247240",
+    "name": "Banana Leaf Asian Bistro",
+    "query": "Banana Leaf Asian Bistro West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "5515 Mills Civic Pkwy #140, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-12T14:55:34+00:00"
+  },
+  {
+    "id": "osm-node-2624275396",
+    "name": "Bandit Burrito",
+    "query": "Bandit Burrito Johnston Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "5340 Merle Hay Rd, Johnston, IA 50131, USA",
+    "checkedAt": "2026-06-12T14:55:34+00:00"
+  },
+  {
+    "id": "osm-way-160357969",
+    "name": "Baratta's",
+    "query": "Baratta's Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2320 S Union St, Des Moines, IA 50315, USA",
+    "checkedAt": "2026-06-12T14:55:35+00:00"
+  },
+  {
+    "id": "osm-node-4704758901",
+    "name": "Barn Town Brewing",
+    "query": "Barn Town Brewing West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "9500 University Ave Ste 1110, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-12T14:55:35+00:00"
+  },
+  {
+    "id": "osm-way-105679128",
+    "name": "Basic Bird",
+    "query": "Basic Bird Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2607 Beaver Ave, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-12T14:55:35+00:00"
+  },
+  {
+    "id": "osm-node-2106262201",
+    "name": "Bauder's & Donut King",
+    "query": "Bauder's & Donut King Des Moines Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "3802 Ingersoll Ave, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-12T14:55:36+00:00"
+  },
+  {
+    "id": "osm-node-4213098008",
+    "name": "BBQ",
+    "query": "BBQ Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "5055 NW 2nd St, Des Moines, IA 50313, USA",
+    "checkedAt": "2026-06-12T14:55:36+00:00"
+  },
+  {
+    "id": "osm-way-105678609",
+    "name": "Beaver Tap",
+    "query": "Beaver Tap Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "4050 Urbandale Ave, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-12T14:55:36+00:00"
   }
 ]

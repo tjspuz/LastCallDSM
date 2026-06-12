@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-12T10:10:11+00:00",
-  "leadCount": 140,
+  "generatedAt": "2026-06-12T14:55:26+00:00",
+  "leadCount": 136,
   "statusCounts": {
-    "closed": 73,
+    "closed": 72,
     "review": 25,
-    "opened": 41,
+    "opened": 38,
     "moved": 1
   },
   "sourceTypeCounts": {
     "reddit": 3,
-    "google_news": 137
+    "google_news": 133
   },
   "warnings": [
     "Reddit blocked source reddit-closing (closing); no JSON or RSS results returned.",
@@ -227,6 +227,27 @@
       ]
     },
     {
+      "fingerprint": "d413c6a8f36d13",
+      "source_id": "metro-closures",
+      "source_label": "Metro closures",
+      "source_type": "google_news",
+      "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+      "source_sort": "relevance",
+      "source_timeframe": "all",
+      "title": "Owner of Popular High-End Steakhouse Chain Files for Bankruptcy: What It Means for Locations Near You - People.com",
+      "summary": "Owner of Popular High-End Steakhouse Chain Files for Bankruptcy: What It Means for Locations Near You People.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNREpwbDcyU1hiZE5FRlNQWGF2c1hhRUZMalVDUVJaOXVJSTNQaGhJbjhJRFJXNTg1VEhjYlhnU3ZOZnRiV24yQjcxcU52MHROYXR3MEhvUEg3dEhqYkhmUkMwNlBFSkRCT2NPbmNoektqTVJjU21PZDlLazVrTklLcEhqNm93UQ?oc=5",
+      "published_at": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "status_guess": "closed",
+      "score": 8,
+      "venue_guess": "Owner of Popular High-End Steakhouse Chain",
+      "area_guess": "Des Moines Metro",
+      "matched_terms": [
+        "bankrupt",
+        "bankruptcy"
+      ]
+    },
+    {
       "fingerprint": "19752ca1a90a7f",
       "source_id": "metro-closures",
       "source_label": "Metro closures",
@@ -308,27 +329,6 @@
         "bankrupt",
         "bankruptcy",
         "closing"
-      ]
-    },
-    {
-      "fingerprint": "6bc01e414c963a",
-      "source_id": "suburb-closures",
-      "source_label": "Suburb closures",
-      "source_type": "google_news",
-      "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
-      "source_sort": "relevance",
-      "source_timeframe": "all",
-      "title": "Will any Arby\u2019s locations in Iowa close after a franchisee filed for bankruptcy? - The Des Moines Register",
-      "summary": "Will any Arby\u2019s locations in Iowa close after a franchisee filed for bankruptcy? The Des Moines Register",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRndueUdrTE1nXzFjUmRCM0Q1UG1iMmpwcDNQX1VsaEsxQ3EycGxoQlE0WnViQ0VKZDFjbVVoc2hlTENfcjdSLWlnRHYxbHR6dXVIc0ZEeFdXX0FJWG84UVJocktJMzd0WEJid2RaMEoxMHpaaWpydUxNOHZMMG5pYkdvZVdnajZtTklpUklON1ZLM2o0ZXR6bTNGb2NIZlF0cVVXTGpxNGMyQXZWLUZQZUpQWDdBdUxlekNXQ1JHVmJ5cXZGdFZqYjBqd1d1UXRaMm1KRGZSdmR4RmxCV0lKOURlRmxVbzhP?oc=5",
-      "published_at": "Mon, 01 Jul 2024 07:00:00 GMT",
-      "status_guess": "closed",
-      "score": 8,
-      "venue_guess": "Will any Arby\u2019s locations in Iowa close after a franchisee filed for bankruptcy? - The Des Moines Register",
-      "area_guess": "Des Moines Metro",
-      "matched_terms": [
-        "bankrupt",
-        "bankruptcy"
       ]
     }
   ]
