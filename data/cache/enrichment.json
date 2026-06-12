@@ -1,0 +1,3740 @@
+{
+  "osm-node-12647030420": {
+    "description": "A West Des Moines spot with details still in the works\u2014stay tuned for what's coming.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-12650708945": {
+    "description": "A Des Moines venue with more details to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-way-104273673": {
+    "description": "A Des Moines establishment with details still being gathered.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-way-849366366": {
+    "description": "A Des Moines venue with more details on the way.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-way-1250188091": {
+    "description": "A Des Moines saloon with details still to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-3457801594": {
+    "description": "A draught house in the Des Moines metro with more details to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-way-862140827": {
+    "description": "An American eatery and draught house in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-5012694222": {
+    "description": "A Des Moines craft and rooftop spot with details still to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-2186642581": {
+    "description": "A Clive brewery on the Clive Greenbelt Trail, known for handcrafting some of the best beer in Iowa.",
+    "snippet": "Centrally located in the Des Moines metro area and on the Clive Greenbelt Trail, 515 Brewing Company is known for handcrafting some of the best beer in Iowa.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-13569825807": {
+    "description": "A Van Meter venue with more details on the way.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-3036528743": {
+    "description": "A family-owned pizzeria on the Waukee side of West Des Moines, obsessed with building the best pizza.",
+    "snippet": "7 Stone Pizzeria is a family owned Waukee pizza restaurant on the Waukee side of West Des Moines. We are obsessed with building the best pizza. Taste matters!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-908575240": {
+    "description": "A steakhouse in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-way-775634216": {
+    "description": "A bar and grill in the Des Moines metro with more details to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-way-104273676": {
+    "description": "A sports bar in Des Moines' Historic East Village bringing a taste of the Chicago Bears to town.",
+    "snippet": "'85 Bar is a Sports Bar in Des Moines, Iowa that brings a taste of the Chicago Bears to Historic East Village in Des Moines.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-way-93016809": {
+    "description": "A Mexican restaurant in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-1029239536": {
+    "description": "A West Des Moines outpost of Abelardo's, serving vibrant, authentic Mexican cuisine with fresh ingredients.",
+    "snippet": "Abelardo's Mexican Food offers vibrant, authentic Mexican cuisine with a wide range of delicious options. With over 50 locations in Nebraska, Iowa, South Dakota, Kansas, Missouri, Oklahoma, and Illinois, our restaurants bring bold flavors and fresh ingredients to your neighborhood. Discover our menu, catering services, and franchise opportunities\u2014find an Abelardo\u2019s near you today!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-way-340561588": {
+    "description": "A Des Moines outpost of Abelardo's, serving vibrant, authentic Mexican cuisine with fresh ingredients.",
+    "snippet": "Abelardo's Mexican Food offers vibrant, authentic Mexican cuisine with a wide range of delicious options. With over 50 locations in Nebraska, Iowa, South Dakota, Kansas, Missouri, Oklahoma, and Illinois, our restaurants bring bold flavors and fresh ingredients to your neighborhood. Discover our menu, catering services, and franchise opportunities\u2014find an Abelardo\u2019s near you today!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-1307333465": {
+    "description": "A Mexican restaurant in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-way-779162473": {
+    "description": "Iowa's most awarded karaoke bar in Des Moines, with concert karaoke nightly from 7 p.m. to 1 a.m.",
+    "snippet": "AJ\u2019s on East Court is Iowa\u2019s most awarded karaoke bar. Concert karaoke nightly from 7 p.m. \u2013 1 a.m. Be Your Inner Rockstar Tonight!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-3658422292": {
+    "description": "A sushi restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-9663165605": {
+    "description": "A soft serve ice cream stop in Grimes, serving frozen treats on NE Station Crossing Dr.",
+    "snippet": "Soft Serve Ice Cream - Al's Dairy Freeze - 1220 NE Station Crossing Dr., Grimes, IA 50111",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-way-1025937405": {
+    "description": "A colorful, upscale American restaurant and wine bar in Des Moines, known for reclaimed doors hanging from the ceiling.",
+    "snippet": "Alba is a colorful, upscale American restaurant & wine bar with reclaimed doors hanging from the ceiling.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-1613816215": {
+    "description": "A Vietnamese restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-9446408806": {
+    "description": "A family-owned business offering gourmet popcorn, great for corporate gifts and treats for yourself and loved ones.",
+    "snippet": "Indulge in gourmet popcorn crafted with love by a family-owned business in Cedar Rapids, Iowa. Perfect for corporate gifts and as a treat for yourelf and your loved ones",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-9351683335": {
+    "description": "A Hawaiian grill serving island-style fare in Ankeny.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-6505167614": {
+    "description": "A food and drink spot in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-way-152168786": {
+    "description": "A tap room in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-11382126427": {
+    "description": "A donut shop in Ankeny.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-way-103850391": {
+    "description": "A bar in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-way-223927539": {
+    "description": "A Mexican restaurant in Johnston.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-12843867436": {
+    "description": "A Mexican grill in Ankeny.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-5489505357": {
+    "description": "A family-owned neighborhood pub in the Des Moines metro, serving elevated bar food and made-to-order burgers in a friendly, casual atmosphere.",
+    "snippet": "Family-owned neighborhood pub serving elevated bar food and made-to-order burgers with a friendly, casual atmosphere.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-438296163": {
+    "description": "A classic Ankeny diner serving homemade comfort food and all-day breakfast with a friendly, neighborhood atmosphere.",
+    "snippet": "Classic diner serving homemade comfort food and all-day breakfast with a friendly, neighborhood atmosphere.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-way-103850390": {
+    "description": "An Irish pub in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-way-1137749029": {
+    "description": "A restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-775408199": {
+    "description": "A Japanese restaurant in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-11646286142": {
+    "description": "A sandwich spot in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-1291264843": {
+    "description": "An Asian buffet in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-1236836064": {
+    "description": "A restaurant or bar in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:27+00:00"
+  },
+  "osm-node-3362649539": {
+    "description": "A sports bar in West Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13858846806": {
+    "description": "A Des Moines spot serving up its take on Buffalo-style fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-145591213": {
+    "description": "A Greek restaurant in the Des Moines metro serving Mediterranean grill fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-962016217": {
+    "description": "A laid-back lounge in Johnston for drinks and casual hangouts.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11095072842": {
+    "description": "A Johnston spot blending games and entertainment with a bar atmosphere.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11382126429": {
+    "description": "An Ankeny venue pairing indoor golf simulators with a full bar.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-110354369": {
+    "description": "A Clive American eatery serving all-day breakfast, lunch, and dinner, plus pies available whole or by the slice.",
+    "snippet": "The Clive, IA Bakers Square features all-day breakfast and your favorite lunch & dinner entrees. We also offer delicious pies, available whole or by the slice.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1801778911": {
+    "description": "A bar and grill in the Des Moines metro serving Balkan-inspired fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1029247240": {
+    "description": "A West Des Moines Asian bistro from the family behind Cool Basil and Thai Flavors.",
+    "snippet": "From the same family that owns Cool Basil and Thai Flavors, Banana Leaf continues the commitment to greatness",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2624275396": {
+    "description": "A Johnston spot serving up burritos and casual eats.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-160357969": {
+    "description": "A Des Moines Italian restaurant that's been part of the community for over 50 years, with partner venues and catering.",
+    "snippet": "Our location in Des Moines has been part of the community for over 50 years. The Baratta's family now includes a restaurant, partner venues, & catering!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4704758901": {
+    "description": "A West Des Moines craft brewery featuring award-winning beers, creative brunch, burgers, and sandwiches.",
+    "snippet": "West Des Moines craft brewery featuring award-winning beers, creative brunch, burgers & sandos. Private events, catering & merch available. Visit us today!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-105679128": {
+    "description": "A Des Moines spot serving Korean-inspired fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2106262201": {
+    "description": "A Des Moines stop for ice cream treats and classic donuts.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4213098008": {
+    "description": "A barbecue spot in the Des Moines metro serving smoked favorites.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-105678609": {
+    "description": "A casual Des Moines dive bar with all-day breakfast, sandwiches, burgers, house favorites like pork tenderloin, and local craft beers.",
+    "snippet": "All-day breakfast, sandwiches, and burgers, plus house favorites like pork tenderloin. Casual dive-bar vibe with a full bar and local craft beers.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-279484626": {
+    "description": "A Des Moines lounge for drinks and a relaxed night out.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-790684711": {
+    "description": "A Des Moines bar and entertainment spot.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5413265201": {
+    "description": "A locally owned West Des Moines taproom and gastropub, sister to WineStyles, with a family-friendly restaurant, lounge, patio, and event venue.",
+    "snippet": "Welcome To BeerStyles Taproom & Gastropub Locally owned and operated since July 2017, BeerStyles Taproom & Gastropub opened as a sister company to our popular wine boutique, WineStyles. Offering a compelling mix of social settings all under one roof \u2013 a family-friendly restaurant, taproom, lounge, patio, and event venue \u2013 our establishment is an anchor",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9446408724": {
+    "description": "A Des Moines bar and dining spot.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-439984515": {
+    "description": "An Ankeny sports pub and grill for game-day food, drinks, and casual fun.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-765282913": {
+    "description": "An American restaurant in Urbandale serving familiar grill and pub fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1193748773": {
+    "description": "A Mexican spot in Des Moines specializing in burritos and casual fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-102157399": {
+    "description": "An Italian restaurant in West Des Moines serving classic Italian dishes.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3362636193": {
+    "description": "A West Des Moines stop known for acai bowls and other light fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-152168496": {
+    "description": "A Des Moines pizzeria turning out pies for dine-in and carryout.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3447136598": {
+    "description": "A Des Moines ice cream shop serving scoops and frozen treats.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12655206407": {
+    "description": "A Des Moines eatery and gathering spot.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3364738805": {
+    "description": "A West Des Moines cocktail bodega for drinks and a relaxed bar scene.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4640651934": {
+    "description": "A Mexican cantina and grill in West Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5067636004": {
+    "description": "A casual West Des Moines spot for authentic Mexican fare, fresh street tacos, and house margaritas.",
+    "snippet": "Authentic Mexican flavors with fresh street tacos, house margaritas, and a casual dining atmosphere.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-440549594": {
+    "description": "An Ankeny coffee shop serving espresso drinks and a cozy place to sit.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-46979180": {
+    "description": "A bar and eatery serving food and drinks in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-790684717": {
+    "description": "A Des Moines sushi destination with traditional and creative maki, sashimi, and nigiri, known for its vegan maki.",
+    "snippet": "Sushi experts and newcomers: Blue Sushi Sake Grill is your sushi destination to enjoy old favorites or embark on a dining adventure. Our menu offers a diverse range of traditional and creative maki, sashimi and nigiri. Oh, and we're kinda famous for our vegan maki.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3260940230": {
+    "description": "A West Des Moines restaurant and gathering spot.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-616858348": {
+    "description": "A pizzeria serving pies across the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1685269911": {
+    "description": "A Des Moines metro restaurant and gathering spot.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12640647375": {
+    "description": "An Altoona rooftop American spot serving specialty cocktails and live music with a friendly neighborhood vibe.",
+    "snippet": "Since 2020, serving specialty cocktails and live music with a friendly neighborhood vibe.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-46979185": {
+    "description": "A beverage tent serving drinks in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1364440492": {
+    "description": "A neighborhood pub in Granger for drinks and good company.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1785509929": {
+    "description": "A Chinese buffet restaurant in Clive.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-10969677094": {
+    "description": "A Des Moines burger spot serving up classic patties and casual eats.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1193738598": {
+    "description": "A Des Moines restaurant offering regional fare in a relaxed setting.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-457725380": {
+    "description": "An American restaurant in Ankeny serving familiar favorites.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12872060529": {
+    "description": "A Des Moines cafe specializing in Indian cuisine and chai.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-617272789": {
+    "description": "An American cafe in Urbandale serving everyday comfort fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9459108637": {
+    "description": "A spot in the Des Moines metro; category and details still to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-37552967": {
+    "description": "A pizza place in Ankeny serving pies and casual fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2837091973": {
+    "description": "A Chinese restaurant in West Des Moines serving traditional dishes.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-37338087": {
+    "description": "An American restaurant in Des Moines offering casual fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-908378232": {
+    "description": "A spot in the Des Moines metro; category and details still to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-557509688": {
+    "description": "A Mexican restaurant in Altoona serving south-of-the-border favorites.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1364440497": {
+    "description": "A Mexican bar and grill in Granger serving food and drinks.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1229209611": {
+    "description": "A Des Moines metro stop for pizza and casual quick bites.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1240477156": {
+    "description": "A bar and grill in Urbandale; full details still to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-326316962": {
+    "description": "A West Des Moines spot on Grand; category and details still to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-38130977": {
+    "description": "A Mexican restaurant in Ankeny serving traditional dishes.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-10972426962": {
+    "description": "A Des Moines venue; category and details still to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-6812628123": {
+    "description": "A Waukee spot; category and details still to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-830971466": {
+    "description": "An Italian restaurant in Des Moines serving classic dishes.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-849629364": {
+    "description": "A Cuban-inspired Des Moines spot known for ceviche.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-10989354364": {
+    "description": "Des Moines' only combined coffee shop and cyclery, pouring locally roasted craft coffee and cold brew on tap alongside a full-service bike shop.",
+    "snippet": "Chain & Spoke is Des Moines, Iowa's only Coffee Shop and Cyclery. Offering high quality locally roasted craft coffee and cold brew on tap and a full service bike shop with options for personalized frame up builds, maintenance and a selection of high-quality and thoughtfully selected bicycles and accessories",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-765478883": {
+    "description": "A bar and grill serving the West Des Moines community.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13569827673": {
+    "description": "A neighborhood tap in Des Moines' SouthTown area.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-321535712": {
+    "description": "A West Des Moines spot for food and drinks.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-266069023": {
+    "description": "A locally owned fast-casual spot across the metro serving juicy fried chicken sandwiches, Nashville hot classics, and fresh milkshakes.",
+    "snippet": "Locally owned fast-casual restaurant across the Des Moines metro serving juicy fried chicken sandwiches, Nashville hot classics, and crave-worthy milkshakes made fresh daily.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13885870401": {
+    "description": "A sandwich shop in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3016598826": {
+    "description": "An American eatery in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12650699357": {
+    "description": "An American diner in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-289545137": {
+    "description": "A Des Moines steakhouse featuring prime rib, hand-cut steaks, seafood, pasta, ribs, chops, sandwiches, chicken, and a 40+ item salad bar.",
+    "snippet": "A Des Moines local restaurant featuring succulent prime rib, hand cut steaks, seafood, pasta, ribs, chops, sandwiches, chicken and a 40+ item salad bar!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5153112341": {
+    "description": "A Chinese restaurant in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2077032475": {
+    "description": "A Chinese restaurant in Clive.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2838838127": {
+    "description": "A Chinese restaurant in West Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-442329482": {
+    "description": "A Chinese restaurant in Ankeny.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-34072931": {
+    "description": "A casual eatery in Ankeny.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-105679746": {
+    "description": "An Italian restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-253180323": {
+    "description": "An Italian restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-161969991": {
+    "description": "A frozen custard shop serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2429489709": {
+    "description": "An American restaurant and lounge in Clive.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9443984781": {
+    "description": "A fine diner in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1024428535": {
+    "description": "A tequila-focused Des Moines cantina serving margaritas, tacos, and handcrafted cocktails in a lively neighborhood setting.",
+    "snippet": "Tequila-focused bar serving margaritas, tacos, and handcrafted cocktails in a lively neighborhood setting.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1029181982": {
+    "description": "A West Des Moines pizza spot welcoming dine-in guests and take-out orders alike.",
+    "snippet": "Stop in and stay or call for take-out ordering!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12995130149": {
+    "description": "A casual, family-owned Italian restaurant in Carlisle with a full-service bar, offering dine-in, carry-out, and curbside pickup.",
+    "snippet": "Come join us at our casual family owned Italian restaurant and full service bar! We offer dine-in, carry out or curbside pickup.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11646286132": {
+    "description": "A coffee shop and bar in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-329589025": {
+    "description": "A coffee shop in West Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11393215693": {
+    "description": "A concession stand in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2807770608": {
+    "description": "A Des Moines microbrewery with a warehouse-like tasting room pouring regular, seasonal, and experimental beers.",
+    "snippet": "Microbrewery featuring a warehouselike tasting room pouring regular, seasonal & experimental beer.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4213098004": {
+    "description": "A sweets and treats spot in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5373736147": {
+    "description": "An Asian restaurant in Altoona.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-105563324": {
+    "description": "A Thai restaurant serving freshly prepared platters in a friendly, welcoming atmosphere in the Des Moines metro.",
+    "snippet": "At Cool Basil, we strive to provide you with a great dining experience and freshly prepared platters delivered to your table by our friendly staff. Join us to enjoy good food, good folks and good times.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1235416493": {
+    "description": "A neighborhood tavern in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-107647159": {
+    "description": "An American restaurant in Clive.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-329511912": {
+    "description": "A West Des Moines spot serving upscale comfort food and award-winning craft cocktails, with scratch-made dishes and a relaxed patio.",
+    "snippet": "Upscale comfort food and award-winning craft cocktails, served lunch and dinner with scratch-made dishes and a relaxed patio atmosphere.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3363671967": {
+    "description": "A West Des Moines coffee shop roasting organic, fair-trade beans for great-tasting coffee with heart.",
+    "snippet": "Organic, fair trade, great tasting coffee with a heart.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-692892917": {
+    "description": "A Mexican cantina in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-110163442": {
+    "description": "A Clive local favorite since 1993 serving eclectic, casual Italian cuisine, run by the Renzo family since 2017.",
+    "snippet": "Since 1993, Cosi Cucina has been a local favorite for eclectic, casual Italian cuisine. When taken over by the Renzo family in 2017, owner Peter Renzo",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-132329830": {
+    "description": "A restaurant and bar in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-790684719": {
+    "description": "A Des Moines original since 1996 in the historic Saddlery Building, serving handcrafted beer and scratch-made food in a warm space.",
+    "snippet": "Welcome to Court Ave. Restaurant & Brewing Co.  \u2013 A Des Moines Original Since 1996\n\nLocated in the historic Saddlery Building, Court Ave Brewery has been serving handcrafted beer and scratch-made food for nearly three decades. Whether you're here for a pint, a meal, or a celebration, we offer a warm, inviting space for any occasion. Hosting an event? Our private spaces are perfect for gatherings of all sizes.\n\nJoin us for great beer, great food, and great company!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-767570390": {
+    "description": "An American cafe in West Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1568190870": {
+    "description": "An American cafe in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3031189166": {
+    "description": "An American cafe in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-223780446": {
+    "description": "A cozy American cafe in Johnston serving up casual, comfortable fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-442329369": {
+    "description": "A spot in the Des Moines metro, with details still to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1343989215": {
+    "description": "A tap and bar in the Des Moines metro, located in Cumming.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9459369204": {
+    "description": "A specialty coffee and local honey shop in the Historic East Village, attached to Raygun.",
+    "snippet": "Your go-to specialty coffee and local honey shop located in Des Moines, Iowa. Attached to Raygun in the Historic East Village.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9765893793": {
+    "description": "An eclectic 80s and 90s themed Des Moines pub with a lively bar, family dining area, and warm-weather rooftop seating.",
+    "snippet": "An eclectic 80s and 90s themed pub with a lively bar side, family dining area, and rooftop seating when the weather warms.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-446280581": {
+    "description": "A family-owned doughnut shop in Ankeny serving signature donuts, part of the Daylight Donut Flour Company tradition since 1954.",
+    "snippet": "Our Company Something to Crow About \u2013 Since 1954. Welcome to Daylight Donut Flour Company! Since 1954, our family-owned business has been spreading joy with our signature donut products and partnership opportunities. With a passion for quality and a commitment to making your taste buds...",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11347567171": {
+    "description": "A Johnston restaurant serving Thai and Japanese dishes in a buzzy setting with friendly service.",
+    "snippet": "Our beautiful restaurant has been specially designed for those who want to enjoy delicious Thai dishes and Japanese, with a buzzy vibe. Our services are friendly and top notch.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-765814633": {
+    "description": "A Des Moines metro spot, with more details to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-152168497": {
+    "description": "The Des Moines Yacht Club, a gathering spot in the metro area.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-6017113420": {
+    "description": "A Des Moines metro shop serving rolled ice cream and crepes.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1216900248": {
+    "description": "A central Iowa personal chef service offering fully customized meals to fit any taste, budget, or dietary need.",
+    "snippet": "Dinner Delights offers personal chef services in central Iowa to meet any budget or needs. Meal selections are fully-customized to your taste and dietary needs.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-115545503": {
+    "description": "An American eatery serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2837110559": {
+    "description": "An American restaurant in the Des Moines metro area.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4612184316": {
+    "description": "A steakhouse in the Des Moines metro area.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3457800792": {
+    "description": "A lounge in the Des Moines metro area.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-37552681": {
+    "description": "A bar and lounge in Ankeny.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-115387659": {
+    "description": "A doughnut shop in the Des Moines metro area.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12751840964": {
+    "description": "New York style thin crust pizza with a Midwest twist, with locations in Ankeny and Des Moines' Drake neighborhood.",
+    "snippet": "New York style thin crust pizza with a Midwest twist in Ankeny and the Drake neighborhood of Des Moines.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-10972426963": {
+    "description": "A pizzeria in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-765877728": {
+    "description": "A bar and grill in the Des Moines metro area.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-344548942": {
+    "description": "A classic American diner in Des Moines serving familiar favorites.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-105563760": {
+    "description": "A cozy Clive bar serving the greater Des Moines area, specializing in martinis, classic cocktails, and wine.",
+    "snippet": "Welcome to The Ducktail Lounge, a cozy bar nestled in Clive, IA, catering to the greater Des Moines area. Our specialty lies in crafting exquisite martinis, classic cocktails, wine, and a wi...",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-152168492": {
+    "description": "A Korean barbecue restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-6812628124": {
+    "description": "A breakfast spot in West Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13575424203": {
+    "description": "A modern take on the classic diner in Ankeny, offering chef-forward dishes and brunch-centric cocktails every day.",
+    "snippet": "Early Bird Brunch is a modern take on your classic diner. Whether you're an Early Bird or a Night Owl, our chef-forward, indulgent dishes, and brunch-centric cocktails will make you want to start your day or finish off your night. Join the Flock and experience the best brunch, everyday at Early Bird Brunch, not your everyday brunch, everyday!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5415384305": {
+    "description": "A West Des Moines eatery.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11173209411": {
+    "description": "A Thai restaurant in West Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-152292729": {
+    "description": "A Des Moines destination for Mediterranean-inspired cuisine focused on simple dishes made with local, quality ingredients.",
+    "snippet": "Eatery A is your Des Moines destination for Mediterranean-inspired cuisine. Perfecting simple dishes that focus on local, quality ingredients.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-448784096": {
+    "description": "A Mexican restaurant in Ankeny.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-971031741": {
+    "description": "A casual Des Moines spot serving comfort classics, pub favorites, and a huge craft beer selection.",
+    "snippet": "Casual spot serving comfort classics, pub favorites, and a huge craft beer selection.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1250176857": {
+    "description": "A Salvadoran restaurant in Des Moines.",
+    "snippet": "Jwtogel Come On hadir sebagai wadah aplikasi game angka online dengan informasi terlengkap, sistem modern, akses cepat, serta pengalaman bermain yang nyaman dan aman untuk semua pengguna setiap hari.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-8026295025": {
+    "description": "A Mexican restaurant in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-324138721": {
+    "description": "A Mexican restaurant in West Des Moines.",
+    "snippet": "i3-7100T,4G,INTEGRATED,500GB,WIN10PRO&OFFEDU,No Monitor",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-266069024": {
+    "description": "A Mexican restaurant in Johnston.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-8026271479": {
+    "description": "A Mexican restaurant in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-38224582": {
+    "description": "A Mexican restaurant in Ankeny.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-297192449": {
+    "description": "A Mexican restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11125132305": {
+    "description": "A Mexican restaurant in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3329454744": {
+    "description": "A Mexican spot in West Des Moines known for burritos.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-110621291": {
+    "description": "A Mexican restaurant in Clive.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-132329831": {
+    "description": "A spot in the Des Moines metro, with category details still to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-34926599": {
+    "description": "A Des Moines eatery whose menu and category details are still being confirmed.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9446408725": {
+    "description": "A Des Moines establishment with details still to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2327803472": {
+    "description": "A lounge in the Des Moines metro, with more details to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-766164988": {
+    "description": "A bar and grill in the Des Moines metro, with more details to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-102680791": {
+    "description": "A Des Moines craft brewery on Walnut St pairing award-winning beer with a scratch kitchen of burgers, Tursi classics, and weekend brunch.",
+    "snippet": "GABF & World Beer Cup Gold Medal craft beer paired with scratch kitchen food. Burgers, Tursi Classics, weekend brunch & more. Dine in or order delivery. 1514 Walnut St, Des Moines.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3655799025": {
+    "description": "A spot in the Des Moines metro, with category details still to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-765102997": {
+    "description": "A Des Moines pizza joint.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9359464341": {
+    "description": "A brewery in Polk City, with more details to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-6017113308": {
+    "description": "A spot in the Des Moines metro, with category details still to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-10969677091": {
+    "description": "A Mexican restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13725755093": {
+    "description": "A Mexican restaurant in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11082229500": {
+    "description": "A Mexican restaurant in Ankeny.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-325657500": {
+    "description": "A West Des Moines Mexican restaurant known across Central Iowa for authentic tacos, sizzling fajitas, and margaritas.",
+    "snippet": "Experience the best Mexican food in Central Iowa at Fiesta Mexican Restaurant! Voted a top spot for authentic tacos, sizzling fajitas, and the best margaritas in Des Moines, West Des Moines, Adel, Pleasant Hill, Altoona, Waukee. Whether you\u2019re searching for \"Mexican food near me,\" \"to",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-6699415951": {
+    "description": "An Ankeny steakhouse serving hand-butchered steaks aged a minimum of 21 days for quality.",
+    "snippet": "Filet Steakhouse offers the finest hand butchered steaks- guaranteed to be aged a minimum of 21 days for the very best quality. Visit us in Ankeny, Iowa today!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1029790605": {
+    "description": "A West Des Moines American grill serving lunch, dinner, and Happy Hour specials.",
+    "snippet": "Discover mouthwatering dishes at Fire Creek Grill in West Des Moines, IA. Join us for lunch, dinner, or Happy Hour specials today!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4624183790": {
+    "description": "A West Des Moines American restaurant serving hand-cut steaks, fresh seafood, and more from a scratch kitchen over wood fire.",
+    "snippet": "Firebirds Wood Fired Grill is an American restaurant in West Des Moines, IA serving hand-cut steaks, fresh seafood & more from a scratch kitchen.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-37552649": {
+    "description": "A brewery in Ankeny, with more details to come.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1204946491": {
+    "description": "A sandwich spot in Carlisle.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1160596306": {
+    "description": "An American eatery in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4612178681": {
+    "description": "Ankeny Mediterranean bistro known for paella, with vegan, vegetarian, and gluten-free options; voted #1 Healthiest Restaurant by the Ankeny Chamber.",
+    "snippet": "Home of the paella, Flavory Bistro features Mediterranean cuisine with vegan, vegetarian, and gluten-free options. Voted #1 Healthiest Restaurant by Ankeny Chamber.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-47010539": {
+    "description": "A pancake house and eatery in Altoona serving breakfast favorites and casual fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11265341255": {
+    "description": "A brewhouse in the Des Moines metro pairing house-brewed beer with a movie-theater experience.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-105428647": {
+    "description": "A Des Moines metro spot serving regional cuisine in a relaxed setting.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-617266363": {
+    "description": "An American bar and grill in the Des Moines metro serving casual fare and drinks.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-10815749062": {
+    "description": "An Irish pub, bar and grill in Bondurant inviting guests to enjoy a drink and a bite.",
+    "snippet": "Come enjoy a drink with us at Founders Irish Pub, Bar and Grill, Bondurant Iowa!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5415384268": {
+    "description": "A West Des Moines spot offering fresh, fit meals for health-minded diners.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5415591292": {
+    "description": "An Urbandale spot offering fresh, fit meals for health-minded diners.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5198478156": {
+    "description": "A Mediterranean quick-serve spot in the Des Moines metro serving fresh, fast fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9981837216": {
+    "description": "A Des Moines eatery serving natural food from Iowa farms alongside beers, wines, and original cocktails.",
+    "snippet": "Fresko offers natural food from the bounty of Iowa farms whenever possible along with a splendid assortment of beers, wines, and original cocktails. Visit us at our Des Moines, IA location.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1613816213": {
+    "description": "A Des Moines coffee shop serving brewed coffee and caf\u00e9 fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-765338157": {
+    "description": "A West Des Moines coffee shop with over 20 years of fresh, high-quality coffee beans for wholesale and retail.",
+    "snippet": "For over 20 years, we've provided coffee bean offerings for both wholesale solutions and retail locations. The Freshest Coffee, The Highest Quality",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1077924061": {
+    "description": "A Friedrichs Coffee location serving fresh coffee in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11646286140": {
+    "description": "A Friedrichs Coffee outpost at the Des Moines airport serving coffee, blended drinks, breakfast sandwiches, and bakery items.",
+    "snippet": "DSM AIRPORTC Concourse Breakfast Sandwiches & BakeryBlended Drinks & SmoothiesCoffee Breakfast Sandwiches & Bakery Available until 10:00am EGG & CHEESE $5.99on English Muffin or Croissant EGG & CHEESE $6.99w/bacon, turkey sausage, sausage or ham on English Muffin or Croissant BAGELS $3.67with Cream Cheese on plain, blueberry & everything MUFFINS $3.50chocolate chip, blueberry, banana nut & [\u2026]",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11082137616": {
+    "description": "An Ankeny superfood caf\u00e9 serving healthy bowls and smoothies featuring acai, pitaya, and kale.",
+    "snippet": "Frutta Bowls is the fastest growing superfood caf\u00e9, serving a variety of healthy options such as bowls and smoothies featuring acai, pitaya, and kale.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4484363659": {
+    "description": "An Ankeny taco shop serving Baja-style tacos, breakfast tacos, burritos, and other Mexican eats, plus beer and margaritas.",
+    "snippet": "Visit your local Fuzzy's Taco Shop to enjoy Baja-style tacos, breakfast tacos & burritos all day, other Mexican eats, plus beer & margaritas. Check your local Fuzzy's for happy hour pricing, online ordering and catering where available.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5012694220": {
+    "description": "A Des Moines taco shop serving Baja-style tacos and Mexican favorites.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-329385035": {
+    "description": "A West Des Moines neighborhood pub serving chef-driven, scratch-made dishes with 8 beers on tap and weekend breakfast and brunch.",
+    "snippet": "Neighborhood pub serving chef-driven, scratch-made dishes with 8 beers on tap and weekend breakfast and brunch.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11265341253": {
+    "description": "A Des Moines family destination combining a sports bar, restaurant, bowling alley, and arcade under one roof.",
+    "snippet": "Discover Gameday, the ultimate family restaurant, sports bar, bowling alley, and arcade in Des Moines! Enjoy delicious food, drinks, and fun for all ages under one roof.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11082137615": {
+    "description": "An Ankeny Mediterranean spot serving fresh pitas, salads, gyros, and bowls.",
+    "snippet": "Eat better at Garbanzo. Enjoy fresh ingredients and vibrant flavors in pitas, salads, gyros, and bowls at your local Garbanzo Mediterranean restaurant near me.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3468208126": {
+    "description": "A caf\u00e9 in the Des Moines metro offering a casual spot for a bite or coffee.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4640651933": {
+    "description": "A West Des Moines grill with a health-minded approach to casual eats.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12640647376": {
+    "description": "A Mexican taco shop in Altoona serving up casual south-of-the-border fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-324139881": {
+    "description": "An American restaurant in West Des Moines where reservations are welcome for a sit-down meal.",
+    "snippet": "Reserve your table, we look forward to seeing you....",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-35105774": {
+    "description": "A casual spot in Ankeny for food and drinks.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1216889633": {
+    "description": "A Des Moines eatery offering a casual neighborhood dining experience.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-6017113306": {
+    "description": "A Japanese spot in West Des Moines known for teriyaki dishes.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-6017113307": {
+    "description": "A West Des Moines spot serving wok-fired Japanese and Asian fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-765949837": {
+    "description": "A coffee spot in the Des Moines metro for a casual cup and a relaxed atmosphere.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1216900238": {
+    "description": "A local coffee shop and roastery in Des Moines, with three locations across Des Moines, Windsor Heights, and West Des Moines.",
+    "snippet": "Local Coffee Shop and Roastery in Des Moines Iowa | Three Locations in Des Moines, Windsor Heights, and West Des Moines",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3269852738": {
+    "description": "A West Des Moines location of the local coffee shop and roastery Grounds For Celebration.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3260940179": {
+    "description": "A West Des Moines spot serving food and drinks in a casual setting.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-114744534": {
+    "description": "A West Des Moines venue offering casual food and drinks.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-6699502718": {
+    "description": "A tavern in Ankeny pouring drinks in a laid-back neighborhood setting.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-152424029": {
+    "description": "A lounge in the Des Moines metro for drinks and a relaxed night out.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-37481943": {
+    "description": "A Mexican restaurant in Ankeny serving familiar south-of-the-border favorites.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-47010540": {
+    "description": "A Mexican restaurant in the Des Moines metro offering classic Mexican fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1393164415": {
+    "description": "A Mexican restaurant in the Des Moines metro serving traditional Mexican dishes.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2697974494": {
+    "description": "A pizza spot in West Des Moines serving pies in a casual setting.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-148284729": {
+    "description": "A Mexican restaurant in the Des Moines metro offering classic Mexican fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3283286377": {
+    "description": "An American grill in West Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5415411751": {
+    "description": "A West Des Moines spot serving ramen and sushi.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-297196741": {
+    "description": "A Des Moines deli known for sandwiches.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-961866245": {
+    "description": "A pizza place serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-152168784": {
+    "description": "An American restaurant in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13261673981": {
+    "description": "A Waukee outpost of Hawaiian Bros Island Grill, serving generous portions of island-inspired fare.",
+    "snippet": "Come visit Hawaiian Bros at our Waukee, Iowa location for generous portions of island-inspired fare.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-329511911": {
+    "description": "A West Des Moines spot serving Chinese cuisine with a lounge.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-790684713": {
+    "description": "A Des Moines metro venue.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-790684705": {
+    "description": "A Des Moines bier hall recreating an old-world German atmosphere with imported German biers on tap and authentic German fare.",
+    "snippet": "The Hessen Haus perfectly recreates the authentic atmosphere of an old-world German bier hall. The imported German biers on tap, authentic German fare on the menu, and traditional bier hall ...",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-102128492": {
+    "description": "A West Des Moines spot offering a Chinese buffet, hibachi, and sushi.",
+    "snippet": "Hibachi Grill & Supreme Buffet is the top sushi restaurant serving the West Des Moines, IA area. Visit our Chinese buffet and hibachi restaurant today!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-108063361": {
+    "description": "A soft-serve ice cream shop in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5457751680": {
+    "description": "A Mexican bar and grill in Ankeny.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-971031740": {
+    "description": "A 1960s-style corner tavern from local owners Full Court Press, complete with a Formica bar top, vintage wallpaper, and retro fixtures.",
+    "snippet": "A 1960\u2032s style corner tavern opened by local owners, Full Court Press, complete with a Formica bar top, vintage wallpaper, wood paneling, retro light fixtures and vintage Miller beer promo...",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13389060820": {
+    "description": "A West Des Moines shop serving premium homemade ice cream, crafted locally in Central Iowa.",
+    "snippet": "Home Sweet Cone is your local Central Iowa shop for premium-quality, thoughtfully crafted homemade ice cream.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9538510212": {
+    "description": "An American restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9538510210": {
+    "description": "A Des Moines venue.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-8863441040": {
+    "description": "A coffee shop in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1478662348": {
+    "description": "A Chinese restaurant serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13725755094": {
+    "description": "A Mediterranean grill in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1942240347": {
+    "description": "A Des Moines metro spot known for sandwiches.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3123314919": {
+    "description": "A playful donut shop serving up fresh, colorful confections in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3349077945": {
+    "description": "A casual American caf\u00e9 tucked inside a West Des Moines Hy-Vee, handy for a quick bite.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4212704034": {
+    "description": null,
+    "snippet": null,
+    "source": "none",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-93016815": {
+    "description": "An Indian restaurant in Des Moines serving the cuisine's familiar spices and flavors.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-65057105": {
+    "description": "A neighborhood spot along Ingersoll in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1036880349": {
+    "description": "A Chinese buffet in Des Moines offering a spread of made-to-order favorites.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-392187335": {
+    "description": "A Des Moines steakhouse established in 1982 by Henry Schnieder, known for huge choice cuts cooked over charcoal and great sides.",
+    "snippet": "The Iowa Beef Steakhouse was established in 1982 by Henry Schnieder.  Iowa Beef Steakhouse is known for serving huge choice cuts of steak cooked over charcoal, fantastic sides & offering...",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-360216873": {
+    "description": "An Iowa craft beer tent serving local brews around the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1100731753": {
+    "description": "An Iowa sweet corn stand in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-115406164": {
+    "description": "An international restaurant and bar in the Des Moines metro serving a globe-spanning menu.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3013682912": {
+    "description": "An Asian restaurant in West Des Moines serving wok-fired favorites.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11571531392": {
+    "description": "A Mexican restaurant in Des Moines serving south-of-the-border classics.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11358720601": {
+    "description": "A neighborhood pub in Ankeny for drinks and casual gatherings.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-46979182": {
+    "description": "A Des Moines metro spot with a Mexican-inspired name and casual vibe.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-765131242": {
+    "description": "A local watering hole in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3320196094": {
+    "description": "A casual spot in West Des Moines for food and drinks.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-155923333": {
+    "description": "A longtime Des Moines steakhouse serving hearty classic cuts.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-85298868": {
+    "description": "An Altoona outpost of the local Jethro's BBQ family, serving barbecue favorites.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3036528752": {
+    "description": "A West Des Moines Jethro's BBQ serving barbecue alongside a jambalaya twist.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-102128414": {
+    "description": "A West Des Moines Jethro's BBQ known for its bacon-themed take on barbecue fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2053681445": {
+    "description": "A Jethro's BBQ location in Ankeny serving barbecue and sandwiches in a casual setting.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-884912818": {
+    "description": "The Southside outpost of the local Jethro's BBQ chain, dishing up barbecue favorites in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1685268568": {
+    "description": "A Des Moines Thai restaurant offering classic Thai dishes and flavors.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4103953467": {
+    "description": "A neighborhood pub in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1310802959": {
+    "description": "A Des Moines metro steakhouse specializing in steak and prime rib.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12995130108": {
+    "description": "A pizza spot in Carlisle serving up pies and other favorites.",
+    "snippet": "Nikmati pengalaman seru di VIRALSLOT, tempat kami menawarkan permainan yang sesuai dengan selera Anda, minimal deposit hanya 5000 di situs link Viral Slot terbaru 2026.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-790684714": {
+    "description": "A Des Moines bar and gathering spot.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-790684710": {
+    "description": "A bar in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12900682901": {
+    "description": "An American restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11580931972": {
+    "description": "A Des Moines taco truck serving Mexican fare on the go.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-6017113372": {
+    "description": "A West Des Moines juice bar offering fresh juices and smoothies.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1178706031": {
+    "description": "An ice cream shop in the Des Moines metro scooping up frozen treats.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-108534252": {
+    "description": "A Des Moines metro eatery and local hangout.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12650699353": {
+    "description": "A coffee shop in Des Moines serving coffee and espresso drinks.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13121679850": {
+    "description": "A bar and gathering spot in Waukee.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-777562316": {
+    "description": "Elkhart's favorite sports bar, known for food, cold drinks, late nights, patios, and game-day energy.",
+    "snippet": "Great food, cold drinks, and late nights at Kippy\u2019s Place, Elkhart\u2019s favorite sports bar with patios and game-day energy.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-6017112666": {
+    "description": "A West Des Moines spot offering all-you-can-eat Korean BBQ and hot pot.",
+    "snippet": "Visit us at KPOT West Des Moines, IA today for all-you-can-eat Korean BBQ and hot pot!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5198478151": {
+    "description": "A smokehouse in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-325348434": {
+    "description": "A West Des Moines coffee shop serving coffee and espresso drinks.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13841165302": {
+    "description": "A Salvadoran restaurant in the Des Moines metro serving El Salvadorian cuisine.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1014473425": {
+    "description": "A now-closed eatery in Polk City.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-107437952": {
+    "description": "A Mexican restaurant serving the Des Moines area.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-760431230": {
+    "description": "A Mexican restaurant serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13786718601": {
+    "description": "A combined Mexican market and restaurant in Urbandale, offering groceries alongside sit-down fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11167332953": {
+    "description": "A Mexican restaurant serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-152168779": {
+    "description": "A casual, family-friendly neighborhood spot in Des Moines known for signature smash burgers, sandwiches, and vegan options.",
+    "snippet": "Signature smash burgers, sandwiches, and vegan options served in a casual, family-friendly neighborhood spot.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12663690079": {
+    "description": "A casual, family-friendly Des Moines spot serving signature smash burgers, sandwiches, and vegan options, paired with The Fitz.",
+    "snippet": "Signature smash burgers, sandwiches, and vegan options served in a casual, family-friendly neighborhood spot.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3329454778": {
+    "description": "A West Des Moines spot with its category still to be determined.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-10812168853": {
+    "description": "For over 69 years, Tursi's Latin King has stood as a hallmark of quality traditional Italian dining in Des Moines.",
+    "snippet": "For over 69 years Tursi's Latin King Restaurant has stood as a hallmark of quality traditional Italian dining in Des Moines, IA.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-110353889": {
+    "description": "A seafood restaurant in West Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1041717684": {
+    "description": "A Chinese restaurant in Des Moines specializing in barbecue.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-37965263": {
+    "description": "A pizza spot in Ankeny.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9836652220": {
+    "description": "A specialty coffee shop and third-wave roaster in Grimes off Hwy 141, serving lattes, espresso, cold brew, matcha, and more in a hip space.",
+    "snippet": "Specialty Coffee Shop and Roastery In Grimes / Des Moines Suburb off Hwy 141. Premium Coffee, Third Wave, Local Roaster with Hip Space Serving Latte, Espresso, Cold Brew, Flat White, Matcha, Chai, Filter Coffee",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9624482544": {
+    "description": "A Mexican restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1072033261": {
+    "description": "A Des Moines spot serving burgers and ice cream.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-104273659": {
+    "description": "A Des Moines bar and pool spot where you can find leagues, tournaments, and a place to play.",
+    "snippet": "Search for pool rooms nearby, find discounts, tournaments or a league on the app and Go Play Pool!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1072046558": {
+    "description": "A Mexican restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5198478154": {
+    "description": "A Mexican restaurant serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-297961628": {
+    "description": "A coffee bar and lounge in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12691115339": {
+    "description": "An award-winning Des Moines brewpub offering handcrafted beers and scratch-made smashburgers with a dog-friendly patio and warm neighborhood vibe.",
+    "snippet": "Award-winning brewpub offering handcrafted beers and scratch-made smashburgers with a dog-friendly patio and a warm neighborhood vibe.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-104273680": {
+    "description": "An Italian restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-152167074": {
+    "description": "A Southeast Asian eatery in Des Moines with a vibrant atmosphere and bold flavors.",
+    "snippet": "Southeast Asian eatery in Des Moines with a vibrant atmosphere and bold flavors.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-760856439": {
+    "description": "A coffee spot serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-284162433": {
+    "description": null,
+    "snippet": null,
+    "source": "none",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1615178110": {
+    "description": "A deli in Des Moines serving sandwiches.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-6892912469": {
+    "description": "An Ankeny Irish pub serving scratch-made Irish fare and American favorites with local ingredients, plus handcrafted cocktails.",
+    "snippet": "Scratch-made Irish fare and American favorites made with local ingredients, plus handcrafted cocktails and a welcoming pub atmosphere.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13728752801": {
+    "description": "A bar and eatery in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9351683332": {
+    "description": "An Ankeny burger spot serving the original Maid-Rite secret recipe with 100% fresh ground local Iowa beef, never frozen.",
+    "snippet": "Serving the Original MAID RITE Secret Recipe! 100% Fresh Ground Local Iowa Beef \u2013 Never Frozen. No Preservatives. Pure and Simple. Taste the Magic of MAID-RITE!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-7236129457": {
+    "description": "A Maid-Rite location in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-615102064": {
+    "description": "An American spot in the Des Moines metro serving Maid-Rite sandwiches and broasted chicken.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-6806305912": {
+    "description": "A family-owned cafe serving fresh salads, sandwiches, and wraps plus made-from-scratch cookies, cakes, and cinnamon rolls.",
+    "snippet": "Family-owned cafe serving fresh salads, sandwiches, and wraps plus made-from-scratch cookies, cakes, and cinnamon rolls.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3658422294": {
+    "description": "A welcoming Des Moines spot serving vibrant Latin flavors and hosting events in the heart of the city.",
+    "snippet": "Experience vibrant Latin flavors at Malo Des Moines, a welcoming spot for exceptional cuisine and events. Visit us for a bold dining experience in the heart of Des Moines.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1224838871": {
+    "description": "A restaurant in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3458664923": {
+    "description": "A Chinese restaurant and sushi bar in Clive.",
+    "snippet": "Tinggalkan situs amatir. Di RIMBASLOT, Fat Tony menggaransi setiap kemenangan Togel Online & Toto Slot Anda dibayar lunas. Akses VVIP untuk Togel Hongkong & data HK Pools tercepat. Bukan sekadar janji hoki, ini kawasan elit untuk pemain yang cari bukti dan kepastian.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5538878694": {
+    "description": "A Chinese noodle house in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-115543858": {
+    "description": "A vape lounge in Windsor Heights.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-93016820": {
+    "description": "A restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2892426643": {
+    "description": "An Italian restaurant in Johnston known for pizza.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2560559522": {
+    "description": "An American grille in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2280216609": {
+    "description": "A coffee shop in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-989008208": {
+    "description": "A casual diner serving up classic fare in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-325927339": {
+    "description": "A West Des Moines supper club dishing out American classics in a relaxed setting.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1256741962": {
+    "description": "A Mexican restaurant bringing familiar south-of-the-border favorites to Clive.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-615102059": {
+    "description": "A neighborhood bar and grill serving American fare and drinks in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-760856434": {
+    "description": "A family-owned and operated spot in Grimes serving Italian grinders since 2018.",
+    "snippet": "Family owned and operated since 2018.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-110354372": {
+    "description": "A Mexican restaurant offering traditional dishes in Clive.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1785494036": {
+    "description": "A West Des Moines restaurant featuring Ecuadorian cuisine.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1216904867": {
+    "description": "A welcoming Des Moines pizzeria good for lunch, dinner, or late-night beers and pizza by the slice.",
+    "snippet": "Whether you join us for lunch, dinner or meet your friends for late night beers and pizza by the slice, you are always welcome at Michael\u2019s.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-10969677092": {
+    "description": "An Italian restaurant serving classic dishes in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-809101085": {
+    "description": "A spot in the Des Moines metro for food and drinks.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5198478157": {
+    "description": "An Irish pub pouring pints and good cheer in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4213098011": {
+    "description": "A treat shop serving up mini donuts in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-765877667": {
+    "description": "A casual gathering spot in Clive for food and drinks.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-329481183": {
+    "description": "A West Des Moines spot specializing in sausages.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4704753092": {
+    "description": "A sandwich shop in West Des Moines.",
+    "snippet": "Ingatbola88 adalah portal resmi untuk akses slot online dan link alternatif autentik, menawarkan informasi stabil, mudah dijangkau, dan aman di berbagai perangkat",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11082137605": {
+    "description": "A sushi bar and Japanese grill serving rolls and grilled fare in Ankeny.",
+    "snippet": "MIZU SUSHI BAR & JAPANESE GRILL (ANKENY)",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9351683333": {
+    "description": "A Mexican restaurant in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-989051520": {
+    "description": "A Mexican restaurant serving traditional favorites in Altoona.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1785509930": {
+    "description": "A Mexican restaurant serving traditional favorites in Clive.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3013682916": {
+    "description": "A Mexican restaurant serving traditional favorites in West Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12995130083": {
+    "description": "A coffee shop serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1167377851": {
+    "description": "A Des Moines tavern serving American fare, inviting guests to enjoy great food and good habits.",
+    "snippet": "Come enjoy great food and good habits with us!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-107561714": {
+    "description": "A Chinese restaurant serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2102323894": {
+    "description": "A neighborhood tavern in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-82479654": {
+    "description": "A one-of-a-kind Des Moines bar and grill serving hearty breakfasts and American fare with food, fun, and drinks.",
+    "snippet": "At Mullets, we deliver a one-of-a-kind bar and grill experience like no other. From hearty breakfasts, Mullets is your ultimate destination for great food, fun, and drinks!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1199705091": {
+    "description": "A bar and grill serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-617504053": {
+    "description": "An American grill serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-765949841": {
+    "description": "An American restaurant in Windsor Heights.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-110163441": {
+    "description": "A Mexican restaurant in Clive.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-54179669": {
+    "description": "A Mexican restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1676124267": {
+    "description": "An Indian restaurant serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-54179661": {
+    "description": "An American Chinese buffet in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-568405113": {
+    "description": "A Clive bar and grill serving made-from-scratch food in a cozy, country club environment.",
+    "snippet": "MADE FROM SCRATCH FOOD IN A COZY, COUNTRY CLUB ENVIRONMENT",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2896479798": {
+    "description": "A West Des Moines spot known for tenderloins.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-104273661": {
+    "description": "A Des Moines cocktail bar offering crafted cocktails and vibrant nightlife.",
+    "snippet": "Discover crafted cocktails and vibrant nightlife at Nightingale Cocktail in Des Moines. Embrace the #NightingaleLife and redefine your evenings with us.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-151560593": {
+    "description": "In business since 1946, one of Des Moines' most popular Italian restaurants, serving lunch and dinner by reservation.",
+    "snippet": "In business since 1946, Noah\u2019s Ark Restaurant is one of Des Moines\u2019 most popular Italian restaurants. Make a reservation for lunch or dinner today!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11082137659": {
+    "description": "An Italian restaurant in Ankeny serving pizza and pasta.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9406540285": {
+    "description": "A pizza spot in Ankeny.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1789522883": {
+    "description": "A pizza spot serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2663549581": {
+    "description": "A West Des Moines pizza place offering fresh ingredients, fast delivery, and local favorites like specialty pizzas and breadsticks.",
+    "snippet": "Looking for the best pizza delivery? NorthernLights Pizza serves up fresh ingredients, fast delivery & local favorites like Specialty Pizzas, BreadSticks & more",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-615452026": {
+    "description": "A Mexican restaurant serving the Johnston community.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3132099654": {
+    "description": "A Thai restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3037635114": {
+    "description": "A Japanese steakhouse in West Des Moines where teppanyaki chefs put on one of the metro's most entertaining dinners, flying shrimp and all.",
+    "snippet": "As long as you're not afraid of meeting new people, a man with a big knife, or flying shrimp, the chefs of Ohana Steakhouse will serve up one of the most entertaining dinners in Des Moi...",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-6017113376": {
+    "description": "A sushi spot in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-442303010": {
+    "description": "A grill restaurant serving Ankeny.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-166244213": {
+    "description": "A Mexican restaurant in Des Moines serving authentic platters that draw diners from across the metro and suburbs.",
+    "snippet": "Old West Mexican serves the most delicious Mexican dishes. Des Moines, West Des Moines, Johnston, Ankeny, Urbandale, Clive, Waulkee, and other suburbs come to enjoy an authentic Mexican platter.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-156269911": {
+    "description": "An authentic Greek restaurant on East Grand Avenue in Des Moines, established in 1988.",
+    "snippet": "\u2014 EST. 1988 \u2014\r\n\r\nOLYMPIC FLAME\r\nAuthentic Greek Restaurant\r\n514 E Grand Ave.\r\nDes Moines, Iowa\r\n\r\n515-243-4361",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-849366496": {
+    "description": "A Lebanese restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-6577807658": {
+    "description": "A bar and eatery in Ankeny.",
+    "snippet": "The Operating Room Main Page",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-6505167548": {
+    "description": "A saloon in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-205963664": {
+    "description": "A bar and eatery in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-765877696": {
+    "description": "A bar and grille in Clive.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-8931874912": {
+    "description": "A Des Moines eatery.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-65057106": {
+    "description": "A deli and market that's been the Des Moines metro's home for handcrafted sandwiches, soups, and fresh salads for three decades.",
+    "snippet": "Palmer's Deli & Market \r\nGreat Food. Great Health. Great Life.\r\nPalmer\u2019s Deli & Market has been the Des Moines metro\u2019s home for handcrafted sandwiches, tasty soups, and fresh salads for three decades. Try one of our specialty items, or we\u2019ll build your favorite sandwich or salad for you! Visit one of",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-767577394": {
+    "description": "A West Des Moines deli and market known for handcrafted sandwiches, soups, and fresh salads, a metro staple for three decades.",
+    "snippet": "Palmer's Deli & Market \r\nGreat Food. Great Health. Great Life.\r\nPalmer\u2019s Deli & Market has been the Des Moines metro\u2019s home for handcrafted sandwiches, tasty soups, and fresh salads for three decades. Try one of our specialty items, or we\u2019ll build your favorite sandwich or salad for you! Visit one of",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1789522896": {
+    "description": "A Palmer's Deli & Market location serving sandwiches, soups, and salads in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-757642837": {
+    "description": "A Mexican restaurant in Urbandale.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-962001780": {
+    "description": "A Mexican restaurant in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1029890865": {
+    "description": "A Mexican restaurant in West Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4804886641": {
+    "description": "A Mexican restaurant in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-760856436": {
+    "description": "A Mexican grill in Grimes serving build-your-own burritos and other Tex-Mex favorites.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-440549691": {
+    "description": "A Chinese restaurant in Ankeny serving familiar takeout and dine-in favorites.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9359464340": {
+    "description": "A pizzeria in Polk City serving up pies and other casual fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4624250198": {
+    "description": "An Indian restaurant in West Des Moines specializing in biryani and traditional dishes.",
+    "snippet": "Link deposit 5000 merupakan official resmi slot qris yang sekarang ini sedang tren digunakan pemain bet kecil 100, 300, 400, 800 perak dengan bantuan slot deposit qris serta akses mudah dan cepat, membuat situs deposit 5000 via qris menjadi salah satu yang terbaik buat kamu wajib coba dengan bet kecil.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1372424436": {
+    "description": "A laid-back Des Moines pizza spot pairing cold drinks with hot slices, plus sausages and slaw.",
+    "snippet": "Reconnect with the simple joy of a cold drink and a hot slice of pizza, or sausages and slaw. Everything is curated for you to enjoy, so what are you waiting for?",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3363671971": {
+    "description": "A sandwich cafe in West Des Moines serving casual lunch fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-148284559": {
+    "description": "A spot in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2181953613": {
+    "description": "An American grill in the Des Moines metro serving cheesesteaks and other casual fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4702867017": {
+    "description": "A cafe in West Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3201063015": {
+    "description": "An Indian grill in West Des Moines specializing in biryani and traditional dishes.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-411557945": {
+    "description": "A spot in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9552395476": {
+    "description": "A Vietnamese restaurant in Des Moines serving pho and other traditional dishes.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-8232176286": {
+    "description": "A locally owned Vietnamese restaurant and bar in Des Moines serving traditional Asian food and bubble tea in a modern, fun setting.",
+    "snippet": "Locally owned restaurant and bar serving freshly cooked traditional Asian food and bubble tea in a modern, fun setting.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9293744070": {
+    "description": "A Vietnamese restaurant in Waukee serving pho and other traditional dishes.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2697097683": {
+    "description": "A Chinese restaurant in Clive serving familiar Asian favorites.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1304133794": {
+    "description": "A cafe in Urbandale.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2663556297": {
+    "description": "A deli in West Des Moines serving sandwiches and casual lunch fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-414746074": {
+    "description": "A pub in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-65068141": {
+    "description": "A Des Moines pub with a patio for drinks and casual gatherings.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9459368886": {
+    "description": "A Des Moines bookstore and coffee shop pairing books with a cup of coffee.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-93015205": {
+    "description": "A neighborhood pub in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1014473412": {
+    "description": "A local pub serving the Polk City community.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11646286139": {
+    "description": "An American restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-37552778": {
+    "description": "An Italian restaurant in Ankeny.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9836652218": {
+    "description": "A clean, friendly neighborhood bar in Grimes known for quality food.",
+    "snippet": "Clean, friendly, quality food,",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-8001946397": {
+    "description": "A bar and eatery in Grimes.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12621769080": {
+    "description": "A West Des Moines steakhouse serving classic and contemporary American cuisine made with fresh ingredients in a warm dining room.",
+    "snippet": "Classic and contemporary American cuisine made with fresh ingredients and expert preparation in a warm, welcoming dining room.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13759218233": {
+    "description": "A Mexican restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9459369203": {
+    "description": "An international restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-156269915": {
+    "description": "A Des Moines bar and deli serving up sandwiches.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9459368956": {
+    "description": "A breakfast spot in Des Moines.",
+    "snippet": "Site will be available soon. Thank you for your patience!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-628225101": {
+    "description": "An Italian restaurant in Ankeny.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12644576640": {
+    "description": "A Mexican restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-561663199": {
+    "description": "An Urbandale-area indoor golf range, restaurant and event center offering dinner reservations and indoor golf tee times for groups and teams.",
+    "snippet": "Range Grill + Golf is an Indoor golf range, restaurant and event center located in Des Moines, Iowa. Dinner reservations and indoor golf tee times can be made for individuals, families corporate events and teams.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-411557928": {
+    "description": "A Des Moines metro spot serving burgers, pizza and beer in a beer garden setting.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-261801457": {
+    "description": "A brewing company in Bondurant.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1198801688": {
+    "description": "A bar and eatery in Des Moines.",
+    "snippet": "HOKI22 hadir dengan link gacor rekomendasi game online mobile, Menyediakan berbagai jenis permainan lengkap dengan fitur gampang maxwin milliaran rupiah setiap hari nya.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1236777147": {
+    "description": "A Clive pizzeria offering affordable Italian-American cuisine with an extensive selection of fresh, traditional Italian dishes.",
+    "snippet": "Offering affordable Italian-American cuisine, the RedRossa Italian Grille has an extensive selection of fresh, flavorful, traditional Italian dishes.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-617504055": {
+    "description": "An American bar and grill in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11214386844": {
+    "description": "A bar and eatery in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2286348540": {
+    "description": "A restaurant and gathering spot near the Drake University neighborhood in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1014473419": {
+    "description": "A coffee shop in Polk City pouring espresso drinks and offering a cozy spot to linger.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-507085003": {
+    "description": "A Mexican restaurant in Des Moines serving cantina-style fare and drinks.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4213098014": {
+    "description": "A pizza spot in the Des Moines metro turning out pies for dine-in and takeout.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-8232176285": {
+    "description": "A Des Moines eatery and gathering place rounding out the local dining scene.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11580931966": {
+    "description": "An Asian restaurant in Des Moines serving wok-fired dishes in a casual setting.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5012696293": {
+    "description": "A board game bar and cafe in Des Moines billed as the place to play, with unique events and experiences.",
+    "snippet": "The Rook Room is Des Moines' best pop-up board game bar and cafe - providing unique, memorable experiences and events. The Rook Room is THE place to play!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3031189164": {
+    "description": "A sports bar and grill in the Des Moines metro pairing game-day viewing with pub food and drinks.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-693415869": {
+    "description": "ROOTS 95 Craft Kitchen & Bar on Chambery Blvd. in Johnston, founded by Arturo Mora, focuses on artisanal cooking with fresh ingredients.",
+    "snippet": "Welcome to ROOTS 95 Craft Kitchen & Bar, a culinary gem on Chambery Blvd. Founded by Arturo Mora, this restaurant is a haven for artisanal cooking, where dishes are crafted using fresh, ...",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-53333666": {
+    "description": "A homey cafe in the Des Moines metro serving everyday comfort fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3026519405": {
+    "description": "A grill in the Des Moines metro serving up a casual menu for local diners.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11282349128": {
+    "description": "A full-service West Des Moines kitchen serving breakfast, lunch, and dinner with fresh-baked pastries, Counter Culture coffee, and a full bar.",
+    "snippet": "Full-service kitchen serving breakfast, lunch, and dinner with fresh-baked pastries, Counter Culture coffee, and a full bar.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5198478153": {
+    "description": "A neighborhood pub and patio in the Des Moines metro for drinks and casual bites.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-152168493": {
+    "description": "A relaxed Des Moines sushi lounge serving fresh sushi and Japanese dishes, with a private room for groups and attentive service.",
+    "snippet": "Fresh sushi and Japanese dishes in a relaxed lounge with a private room for groups and friendly, attentive service.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3283286378": {
+    "description": "A sushi restaurant in West Des Moines serving fresh rolls and Japanese fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2575278413": {
+    "description": "A pizza spot in the Des Moines metro serving pies and casual fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-989078110": {
+    "description": "A neighborhood bar and grill in Altoona pairing drinks with casual pub food.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1029083812": {
+    "description": "A West Des Moines Japanese restaurant serving fresh sushi alongside teppanyaki grills and hibachi dinners.",
+    "snippet": "Japanese restaurant serving the freshest sushi in West Des Moines, dazzling teppanyaki grills and chefs serving up delcious hibachi dinners.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9446408805": {
+    "description": "A bakery in Des Moines turning out fresh-baked goods for the neighborhood.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-7220654296": {
+    "description": "A men's grooming spot offering premium haircuts and barber services along with scotch, part of the Des Moines metro scene.",
+    "snippet": "Scissors & Scotch offers premium men's haircuts & barber services. Our highly trained barbers and men\u2019s hair stylists provide the best barber shop experience in  Ankeny, IA.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4640657570": {
+    "description": "A West Des Moines coffee shop serving 100% Arabica coffee, part of the Scooter's chain known for drive-thru convenience.",
+    "snippet": "Shop our 100% Arabica coffee products. Find your nearest location. Browse the menu and featured products. Learn more about us and catch up with us on our blog.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-253816690": {
+    "description": "A Scooter's coffee location in the Des Moines metro, known for its 100% Arabica coffee and quick service.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-8430437734": {
+    "description": "A Des Moines metro spot serving Scooter's signature 100% Arabica coffee, with a menu of featured drinks and products.",
+    "snippet": "Shop our 100% Arabica coffee products. Find your nearest location. Browse the menu and featured products. Learn more about us and catch up with us on our blog.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12625165158": {
+    "description": "An Italian restaurant in Altoona serving up classic dishes for the local crowd.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-104247086": {
+    "description": "A Des Moines establishment known as Secret Admirer.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1240486360": {
+    "description": "A Chinese restaurant in Des Moines offering classic dishes for dine-in or takeout.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5624672014": {
+    "description": "A Chinese restaurant in Waukee serving traditional favorites.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-790684706": {
+    "description": "A Des Moines spot known to locals as Shorty's.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1029247243": {
+    "description": "A West Des Moines establishment called Shotgun Betty's.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9836402906": {
+    "description": "An Ankeny Thai restaurant offering a fresh, authentic menu meant to capture the essence of Thailand, paired with tea.",
+    "snippet": "Thai Table is the perfect spot for a truly unique, fresh, and healthy Thai experience. Here you can sip tea while browsing our delectable menu of the finest Thai foods. Our goal is to create food that captures the essence of Thailand, which is why you are sure to receive an authentic Thai experience through our flavorf",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9698125380": {
+    "description": "An Ankeny Thai restaurant whose menu blends traditional and innovative dishes rooted in centuries of family cooking.",
+    "snippet": "Our menu reflects centuries of family cooking, offering traditional and innovative dishes, skillfully cooked to perfection. Every single item we serve is carefully prepared to dazzle your senses, so browse our site and book your table today.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1240494509": {
+    "description": "A small Des Moines restaurant, also known as J. Benjamin's, serving American and Italian fare from a big menu.",
+    "snippet": "Simon's is a local Des Moines restaurant also known as J. Benjamin's. Small Italian restaurant with a big menu in Des Moines, Iowa.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-878063940": {
+    "description": "The Des Moines taproom of SingleSpeed Brewing Co., pouring craft beer in the metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-166244224": {
+    "description": "An American restaurant in Des Moines serving familiar favorites to the local crowd.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-103427236": {
+    "description": "A Des Moines shop specializing in the regional favorite, the breaded tenderloin.",
+    "snippet": "Gali lebih dalam dan temukan harta karun berisi jackpot terbesar abad ini! gas138: Rejeki nomplok turun, cukup rebahan langsung sultan! Tarik lunas hari ini",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-37606649": {
+    "description": "A Des Moines barbecue joint, Smokey D's BBQ, known for its smoked meats.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11019005159": {
+    "description": "A Des Moines metro location of Smokey Row, the local coffee shop chain.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11019005204": {
+    "description": "A West Des Moines location of Smokey Row, the popular local coffee shop.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11019005225": {
+    "description": "A Des Moines metro outpost of Smokey Row coffee shop.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12901752371": {
+    "description": "A Grimes location of Smokey Row, the local coffee shop chain.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-852225453": {
+    "description": "A coffee shop in Ankeny pouring espresso drinks and brewed coffee in a relaxed neighborhood setting.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9044719317": {
+    "description": "A Smokey Row Coffee location in the Des Moines metro serving up espresso, coffee, and a comfortable spot to sit.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-273896251": {
+    "description": "A Des Moines coffee shop from the Smokey Row Coffee family, offering brewed coffee and espresso drinks.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-261801449": {
+    "description": "A coffee shop in the Des Moines metro pouring espresso and brewed coffee in a laid-back atmosphere.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-480040502": {
+    "description": "A family-friendly Saylorville Italian spot serving pizza and pasta by the pan, with carry-out available.",
+    "snippet": "Italian restaurant. Pizza. Pasta by the pan. Family-friendly atmosphere. Visit us or call to place a carry-out order.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-736254740": {
+    "description": "An American restaurant in Ankeny serving a casual menu for the neighborhood.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-908568516": {
+    "description": "A bread cafe in Des Moines offering baked goods and cafe fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12657952398": {
+    "description": "A sports bar and grill in Altoona serving food and drinks with games on the screens.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1228059221": {
+    "description": "A Des Moines seafood bar and grill serving fresh seafood in a lively setting.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-38224306": {
+    "description": "An Ankeny bar and grill known for burgers, connected to the Sports Page Grill and Brickhouse Tavern.",
+    "snippet": "Learn more about the Sports Page Grill and Brickhouse Tavern, two restaurants in Indianola, IA. View menus & discover catering services by viewing the website.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-152290463": {
+    "description": "A casual, relaxed spot on Ingersoll Avenue in Des Moines serving food and drinks.",
+    "snippet": "Welcome to Star Bar Des Moines! Locared on Ingersol Ave. Come taste some of Des Moines best food & drinks in a casual, relaxed atmosphere.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-617510805": {
+    "description": "An American restaurant in the Des Moines metro serving a casual local menu.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-134493876": {
+    "description": "A bar and eatery in the Des Moines metro offering drinks in a casual setting.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1250176902": {
+    "description": "A Des Moines spot for food and drinks with a friendly, casual vibe.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-642418179": {
+    "description": "A student dining center in the Des Moines metro serving campus meals.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4213098016": {
+    "description": "A sandwich shop in the Des Moines metro serving subs and quick bites.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-326001356": {
+    "description": "An Irish pub in West Des Moines pouring pints in a welcoming atmosphere.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1478662350": {
+    "description": "A lounge in the Des Moines metro offering drinks in a casual setting.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2650537627": {
+    "description": "A Clive bistro and bar serving modern American cuisine with seasonal, locally sourced ingredients alongside curated cocktails and wines.",
+    "snippet": "Experience one of the best restaurants in Des Moines at Table 128. Savor modern American cuisine made with seasonal, locally sourced ingredients, paired with curated cocktails and wines. Perfect for locals and travelers\u2014reserve your table today!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-66860074": {
+    "description": "A Mexican restaurant in Des Moines serving tacos and familiar favorites.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-414680997": {
+    "description": "A Mexican spot serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-319610754": {
+    "description": "A Des Moines Mexican eatery offering online ordering for its taco-focused menu.",
+    "snippet": "Online ordering menu for Tacos la Familia .",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3023700709": {
+    "description": "A Mexican restaurant at 1305 University Ave in Des Moines, known for low prices and prompt, friendly service.",
+    "snippet": "Welcome to Tacos Mariana's - 1305 University Ave, Des Moines, IA. Low prices, excellent and prompt service. We are waiting for you!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-775407580": {
+    "description": "A Japanese steakhouse serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1072094013": {
+    "description": "A neighborhood pub in Clive.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11580931971": {
+    "description": "A Mexican taqueria in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1590167619": {
+    "description": "An African restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2284288850": {
+    "description": "A Chinese restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1817732964": {
+    "description": "A West Des Moines pizzeria specializing in New York-style pizza baked in a very hot oven for a crispy crust.",
+    "snippet": "New York-style pizza is unique in several ways. First, it is cooked in a very hot oven, usually at a temperature of around 550 degrees Fahrenheit, which creates the perfect crispy crust. Sec...",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-765814630": {
+    "description": "A Mexican restaurant serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-107693569": {
+    "description": "A family-owned Des Moines Mexican restaurant known for its famous handmade flour taco and recipes served for over 50 years.",
+    "snippet": "Home of the FAMOUS handmade Flour Taco. Food made fresh daily. We are a family owned Mexican restaurant serving family recipes for over 50 years, with locations in Des Moines, Ankeny and Urbandale. Nada es imposible!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-467821884": {
+    "description": "A family-owned Mexican restaurant in West Des Moines, home of the famous handmade flour taco and recipes served for over 50 years.",
+    "snippet": "Home of the FAMOUS handmade Flour Taco. Food made fresh daily. We are a family owned Mexican restaurant serving family recipes for over 50 years, with locations in Des Moines, Ankeny and Urbandale. Nada es imposible!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-718883476": {
+    "description": "A family-owned Des Moines Mexican restaurant known for its famous handmade flour taco and recipes served for over 50 years.",
+    "snippet": "Home of the FAMOUS handmade Flour Taco. Food made fresh daily. We are a family owned Mexican restaurant serving family recipes for over 50 years, with locations in Des Moines, Ankeny and Urbandale. Nada es imposible!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1013618051": {
+    "description": "A Mexican restaurant in Ankeny.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-6699444007": {
+    "description": "An upscale restaurant offering inventive American dishes with global flair, prime steaks, from-scratch entrees, specialty cocktails and fine wines.",
+    "snippet": "Omaha, Nebraska | Upscale restaurant atmosphere offering inventive American dishes with global flair. Prime steaks, from-scratch entrees, specialty cocktails and fine wines.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-110353624": {
+    "description": "A pizza and pasta grill in West Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-152292668": {
+    "description": "An American eatery in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-775407581": {
+    "description": "A Coney Island-style American spot serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5369172396": {
+    "description": "A Chinese restaurant in Altoona serving teriyaki and more.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-10969677090": {
+    "description": "An Asian restaurant in Des Moines serving teriyaki and Chinese fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-10989354365": {
+    "description": "An Ingersoll-area Thai spot serving authentic, made-to-order dishes where guests choose their own spice level.",
+    "snippet": "We welcome you to our page and invite you to come to our place and taste our authentic Thai cuisine. When dining in our restaurant, the spice level and food preparation is left to the choice of the guest with extremely few exceptions. Unlike commercially prepared food, Thai dishes are prepared fresh and require a skilled and patient hand to season and cook the ingredients in the proper sequence.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9836842745": {
+    "description": "A Des Moines Thai restaurant offering authentic, freshly prepared cuisine with spice levels left up to each guest.",
+    "snippet": "We welcome you to our page and invite you to come to our place and taste our authentic Thai cuisine. When dining in our restaurant, the spice level and food preparation is left to the choice of the guest with extremely few exceptions. Unlike commercially prepared food, Thai dishes are prepared fresh and require a skilled and patient hand to season and cook the ingredients in the proper sequence.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-135363837": {
+    "description": "A bar in Urbandale.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-736254741": {
+    "description": "A neighborhood tap and bar in Ankeny.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-688264021": {
+    "description": "A family-friendly West Des Moines roadhouse serving fried and Nashville hot chicken, crispy sandwiches, and pizza.",
+    "snippet": "Family-friendly roadhouse serving fried and Nashville hot chicken, crispy sandwiches, and pizza.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1852219668": {
+    "description": "A casual eatery in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2837097110": {
+    "description": "A family-friendly West Des Moines sports bar serving made-to-order burgers, wings, steaks and daily specials since 2012, with plenty of TVs.",
+    "snippet": "Since 2012, serving made-to-order burgers, wings, steaks and daily specials in a family-friendly sports bar with plenty of TVs.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2793902416": {
+    "description": "An American restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-887225143": {
+    "description": "A lounge in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-790684715": {
+    "description": "A bar and grill in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-790684712": {
+    "description": "A bar and gathering spot in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1852220681": {
+    "description": "A bar and eatery in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1255701815": {
+    "description": "A bar in Clive.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3283286379": {
+    "description": "A Greek restaurant in West Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12686464471": {
+    "description": "A Mediterranean restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-297961626": {
+    "description": "A lounge in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-414746082": {
+    "description": "A casual eatery in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-8231774521": {
+    "description": "A bar and venue in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1157819825": {
+    "description": "A bar and eatery in Elkhart.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-849629374": {
+    "description": "A Des Moines taproom celebrating the diversity, creativity and excellence of Iowa beer, with a nod to the state's farms, small towns and cities.",
+    "snippet": "The Iowa Taproom supports the growing tradition of diversity, creativity and excellence in Iowa beer. We also celebrate all of Iowa, from the farms to small towns and larger cities. We salut...",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1029181992": {
+    "description": "A pub and bar tucked into West Glen Town Center in West Des Moines.",
+    "snippet": "The Irish is a pub and bar in West Des Moines, Iowa. It's located in the West Glen Town Center.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13121679854": {
+    "description": "A bar and gathering spot in Waukee.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3106260427": {
+    "description": "A bar in West Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1231515514": {
+    "description": "A bohemian-style martini bar in downtown Des Moines with classic cocktails, Iowa craft beer on tap, and a rotating monthly local art exhibit.",
+    "snippet": "Bohemian style martini bar in downtown Des Moines, with classic cocktails, Iowa craft beer on tap and a new, local art exhibit on our walls each month.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5413265198": {
+    "description": "A bar in West Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13575424236": {
+    "description": "An Ankeny eatery promising a bold flock of flavors that fight back, putting a spirited spin on mealtime.",
+    "snippet": "Buckle up, Des Moines! The Ornery Chicken isn't your ordinary backyard bird. We're shaking up your mealtime with a flock of flavors that fight back.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-53270254": {
+    "description": "An American restaurant in Clive.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-279677471": {
+    "description": "A locally owned bar and grille in the heart of West Des Moines aiming to feel like a home away from home.",
+    "snippet": "Located in the vibrant heart of West Des Moines, The Pelican Post is a locally owned bar and grille that offers more than just a night out\u2014it\u2019s a place where you can truly feel at home....",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12428743021": {
+    "description": "A billiard club in Clive.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-9459703213": {
+    "description": "A craft cocktail bar on the sixth floor of the AC Hotel in downtown Des Moines, with views overlooking downtown.",
+    "snippet": "The Republic On Grand is on the sixth floor of the AC Hotel in downtown Des Moines which offers craft cocktails overlooking downtown.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-765919526": {
+    "description": "A bar in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-790684718": {
+    "description": "Downtown Des Moines' premier British pub, serving English dishes, British beers, and an extensive Scotch list.",
+    "snippet": "As Downtown Des Moines\u2019 premier British Pub, the Royal Mile features a menu of favorite English dishes, British beers, and an extensive Scotch list. Enjoy a pint of bitter with your Poutin...",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-155910639": {
+    "description": "A Des Moines spot serving high-quality bar food, local brews, and a lively game-day atmosphere since 2019.",
+    "snippet": "Since 2019, serving high-quality bar food, local brews, and a lively game-day atmosphere with friendly staff.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-103850392": {
+    "description": "A bar in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-329509739": {
+    "description": "An Italian spot in West Des Moines serving pizza and pasta.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-8232237936": {
+    "description": "A bar in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5752764393": {
+    "description": "A whiskey bar and bourbon grill in Ankeny.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2581771650": {
+    "description": "An American restaurant and wine destination in West Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4896361282": {
+    "description": "An American sports bar and grill in Ankeny.",
+    "snippet": "\u6211\u7231\u7535\u5f71\u7f51 - \u6700\u65b0\u514d\u8d39\u7535\u5f71\uff0c\u70ed\u95e8\u7535\u5f71\u5728\u7ebf\u89c2\u770b\u3002\u624b\u8d26\u5f71\u5f55\uff0c\u6bcf\u4e00\u9875\u90fd\u662f\u79c1\u4eba\u63a8\u8350\u3002",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2838852426": {
+    "description": "A coffee bar serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-7906144117": {
+    "description": "A neighborhood tavern in Des Moines serving drinks in a casual, easygoing setting.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13298422578": {
+    "description": "A laid-back lounge in Urbandale offering drinks and a relaxed place to gather.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1178705978": {
+    "description": "An Ankeny breakfast spot known for bagels and morning bites.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1029232247": {
+    "description": "A West Des Moines spot serving drinks in a casual setting.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1193748764": {
+    "description": "A drinks-and-gathering spot serving the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1178705933": {
+    "description": "A Des Moines metro shop specializing in topped doughnuts.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-732596268": {
+    "description": "A golf club in the Des Moines metro with a clubhouse for dining and drinks.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-37552652": {
+    "description": "An Ankeny tap house with locally sourced fare, craft beer, and a lively patio great for post-ride lunches or after-work drinks.",
+    "snippet": "Locally sourced fare, craft beer on tap, and a lively patio perfect for post-ride lunches or after-work drinks.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-329589023": {
+    "description": "A West Des Moines Mexican restaurant serving familiar favorites in a welcoming setting.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-66860078": {
+    "description": "A Des Moines tap house pouring beers in a neighborhood atmosphere.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-692685280": {
+    "description": "A Johnston spot offering food and drinks in a casual setting.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-249548860": {
+    "description": "A casual-yet-upscale Johnston steakhouse with handcrafted drinks, fresh ingredients, and a welcoming neighborhood atmosphere.",
+    "snippet": "Casual yet upscale steakhouse with handcrafted drinks, fresh ingredients, and a welcoming neighborhood atmosphere.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-507085004": {
+    "description": "A Des Moines neighborhood tavern serving made-to-order pizzas, a wide tap beer selection, and hearty breakfast and brunch options.",
+    "snippet": "Neighborhood tavern serving made-to-order pizzas, a wide tap beer selection, and hearty breakfast and brunch options.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1199678794": {
+    "description": "A Chinese restaurant in Urbandale serving classic dishes.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1676143533": {
+    "description": "A south-side Des Moines Chinese restaurant serving classic dishes.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5198478160": {
+    "description": "A Waukee-area Chinese restaurant serving classic dishes in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3044965369": {
+    "description": "A Peruvian restaurant in the Des Moines metro serving traditional dishes.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13730008802": {
+    "description": "An American restaurant in the Des Moines metro serving Southern-style kitchen fare.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11360401897": {
+    "description": "An Ankeny coffee shop serving coffee drinks and a place to linger.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-448197608": {
+    "description": "An Urbandale coffee shop pouring coffee drinks in a relaxed setting.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1042980242": {
+    "description": "East Village brewery housed in the beautifully restored Central Oil Works warehouse, a nearly 150-year-old building in the heart of Des Moines.",
+    "snippet": "Nestled in the heart of Des Moines\u2019 historic East Village, Twisted Vine Brewery calls the beautifully restored Central Oil Works warehouse home. This nearly 150-year-old building has been ...",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5369023909": {
+    "description": "An American grill in Altoona that pairs casual food with a bowling and entertainment atmosphere.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-148911000": {
+    "description": "A cafe in Des Moines serving coffee and casual bites.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1296908042": {
+    "description": "A neighborhood tap and bar in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-2793902414": {
+    "description": "A Des Moines spot known for arcade games and drinks in a fun, casual setting.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-37552654": {
+    "description": "An Ankeny burger spot at 302 SW Maple Street, open Monday through Saturday.",
+    "snippet": "302 SW Maple Street | (515) 964-1800 | Open Monday\u2013Saturday",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-10220736644": {
+    "description": "Modern Ankeny taproom with 30+ rotating craft beers, a large patio, live music, and a family-friendly vibe.",
+    "snippet": "Modern taproom with 30+ rotating craft beers, a large patio, live music, and a family-friendly vibe.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1029799888": {
+    "description": "Locally owned, family-run West Des Moines restaurant and market serving New American cuisine in a warm, modern setting.",
+    "snippet": "We are a locally owned-and-operated, family restaurant and market featuring warm, modern d\u00e9cor and New American Cuisine. The menu offers a great selection of distinctive starters, hearty sa...",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-168942872": {
+    "description": "A grill serving casual fare in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-102680790": {
+    "description": "An American kitchen and bar in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13733767702": {
+    "description": "A coffeehouse and kitchen in the Des Moines metro serving coffee and food.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-839803047": {
+    "description": "A local eatery in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-132329832": {
+    "description": "A sports bar and grill in the Des Moines metro, good for catching a game over food and drinks.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-6017113305": {
+    "description": "An Italian quick-service spot in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4702867019": {
+    "description": "A West Des Moines venue for food and drinks.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-189476529": {
+    "description": "A Mexican restaurant in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-303486839": {
+    "description": "A Mexican restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1231525986": {
+    "description": "A sushi restaurant in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13090785533": {
+    "description": "A Des Moines-metro coffee and espresso bar with a factory retail outlet.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-13389060819": {
+    "description": "West Des Moines spot established in 2011, serving fresh sushi and Asian fusion dishes with a friendly neighborhood approach.",
+    "snippet": "Established in 2011, serving fresh sushi and Asian fusion dishes made with quality ingredients and a friendly neighborhood approach.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-82658789": {
+    "description": "An Asian restaurant in Johnston.",
+    "snippet": "This website is for sale! healthhousefoods.com is your first and best source for all of the information you\u2019re looking for. From general topics to more of what you would expect to find here, healthhousefoods.com has it all. We hope you find what you are searching for!",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-93016802": {
+    "description": "A sushi spot in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3037635106": {
+    "description": "A family-owned seafood market in West Des Moines, bringing quality seafood to the Des Moines area since 1984.",
+    "snippet": "Waterfront has been a family-owned business in West Des Moines since 1984. Our family wanted to bring quality seafood to the Des Moines area and this idea began",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-45583156": {
+    "description": "A seafood market and restaurant in Ankeny, part of the family-owned business that's served the Des Moines area since 1984.",
+    "snippet": "Waterfront has been a family-owned business in West Des Moines since 1984. Our family wanted to bring quality seafood to the Des Moines area and this idea began",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-1205366464": {
+    "description": "A bar and grill in Polk City.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-765922769": {
+    "description": "A cozy small-town cafe in Des Moines serving home-style breakfast and hearty brunches with large portions and friendly service.",
+    "snippet": "Cozy small-town caf\u00e9 serving home-style breakfast and hearty brunches with large portions and friendly, personal service.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1615178074": {
+    "description": "A lounge in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-152293040": {
+    "description": "A pub in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-286529030": {
+    "description": "A pub and rooftop grill in West Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-10969677093": {
+    "description": "An American eatery in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-5457753721": {
+    "description": "A sports bar and restaurant in Ankeny serving up drinks and American fare.",
+    "snippet": "Come enjoy a drink with us at our Sports Bar & Restaurant, Ankeny, Iowa",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-446592008": {
+    "description": "A pizza pub in Ankeny serving signature pizzas and classic pub favorites like wings, mozzarella sticks, and cheese curds.",
+    "snippet": "Wig And Pen Pizza Pub in Iowa City, IA serves signature pizzas and classic pub favorites. Try the Union Jack, Taco Deluxe, Spicy Hawaiian, Chicken Bacon Ranch, or Margherita, plus Wing Zings, mozzarella sticks, jalape\u00f1o poppers, and crispy cheese curds for an easy meal with friends.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3363671965": {
+    "description": "A public house in West Des Moines offering shared plates of hearty pub classics paired with a cocktail program.",
+    "snippet": "The shared plates at Winchester are designed to pair well with our cocktail program while giving you snacking options. Our menu features hearty pub classics and guest favorites, crafted to b...",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-4103953477": {
+    "description": "A Chinese restaurant in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1686486782": {
+    "description": "A music and entertainment venue in Des Moines.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-37552655": {
+    "description": "A full-service bar and burger joint in the heart of Uptown Ankeny, known for food, drinks, and good company.",
+    "snippet": "Located in the Heart of Uptown Ankeny, IA. Full service bar, with awesome food, drinks, and friends.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-34082175": {
+    "description": "A Greek grill and vineyard in Ankeny.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1236777153": {
+    "description": "A fast-casual cafe in Clive serving fresh, made-to-order noodle, rice, soup, and salad bowls.",
+    "snippet": "z\u2019mariks is designed to be a fast, casual restaurant that offers fresh, made-to-order noodle, rice, soup and salad bowls served to your table within minutes.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-12506697086": {
+    "description": "An Indian restaurant in the Des Moines metro.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-way-152167073": {
+    "description": "A Des Moines coffee shop offering coffee beans for in-store pickup and shipping.",
+    "snippet": "Order coffee beans from Zanzibar's Coffee Adventure in Des Moines! In-store pick up and shipping are currently available.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-11382252512": {
+    "description": "Ankeny coffee shop serving quality, hand-picked beans alongside the fast, friendly service regulars rely on.",
+    "snippet": "Enjoying an exceptional cup of coffee goes beyond taking the first sip. For us, the experience not only starts with choosing to use quality, hand-picked beans, it\u2019s also about providing fast and friendly service you can rely on.",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-1685280609": {
+    "description": "A Des Moines spot serving up burgers and fried chicken.",
+    "snippet": null,
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  },
+  "osm-node-3408040273": {
+    "description": "Thai restaurant on University Avenue in Clive, just behind Granite City, dishing out authentic Thai cuisine.",
+    "snippet": "Zuzap Thai Restaurant is located on University Avenue in Clive IA - right behind Granite City, the restaurant dishes out authentic Thai cuisines that will",
+    "source": "claude",
+    "fetchedAt": "2026-06-12T03:11:28+00:00"
+  }
+}

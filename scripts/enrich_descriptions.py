@@ -103,6 +103,11 @@ def clamp(text: str) -> str:
 
 
 def fetch_site_description(url: str) -> str | None:
+    # OSM website tags can carry whitespace/control characters; one bad URL
+    # must never kill the whole run, so sanitize and catch everything.
+    url = "".join(url.split())
+    if not url:
+        return None
     if not url.startswith(("http://", "https://")):
         url = f"https://{url}"
     if any(host in url.lower() for host in SOCIAL_HOSTS):
@@ -111,7 +116,7 @@ def fetch_site_description(url: str) -> str | None:
         request = Request(url, headers={"User-Agent": USER_AGENT, "Accept": "text/html"})
         with urlopen(request, timeout=12) as response:
             html = response.read(400_000).decode("utf-8", errors="replace")
-    except (HTTPError, URLError, TimeoutError, ValueError, OSError):
+    except Exception:  # noqa: BLE001 - any fetch failure just means no snippet
         return None
 
     for pattern in META_DESCRIPTION_PATTERNS:
