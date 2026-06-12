@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-12T14:55:26+00:00",
-  "leadCount": 136,
+  "generatedAt": "2026-06-12T20:08:47+00:00",
+  "leadCount": 138,
   "statusCounts": {
     "closed": 72,
-    "review": 25,
-    "opened": 38,
+    "review": 24,
+    "opened": 41,
     "moved": 1
   },
   "sourceTypeCounts": {
     "reddit": 3,
-    "google_news": 133
+    "google_news": 135
   },
   "warnings": [
     "Reddit blocked source reddit-closing (closing); no JSON or RSS results returned.",
@@ -227,49 +227,6 @@
       ]
     },
     {
-      "fingerprint": "d413c6a8f36d13",
-      "source_id": "metro-closures",
-      "source_label": "Metro closures",
-      "source_type": "google_news",
-      "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
-      "source_sort": "relevance",
-      "source_timeframe": "all",
-      "title": "Owner of Popular High-End Steakhouse Chain Files for Bankruptcy: What It Means for Locations Near You - People.com",
-      "summary": "Owner of Popular High-End Steakhouse Chain Files for Bankruptcy: What It Means for Locations Near You People.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNREpwbDcyU1hiZE5FRlNQWGF2c1hhRUZMalVDUVJaOXVJSTNQaGhJbjhJRFJXNTg1VEhjYlhnU3ZOZnRiV24yQjcxcU52MHROYXR3MEhvUEg3dEhqYkhmUkMwNlBFSkRCT2NPbmNoektqTVJjU21PZDlLazVrTklLcEhqNm93UQ?oc=5",
-      "published_at": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "status_guess": "closed",
-      "score": 8,
-      "venue_guess": "Owner of Popular High-End Steakhouse Chain",
-      "area_guess": "Des Moines Metro",
-      "matched_terms": [
-        "bankrupt",
-        "bankruptcy"
-      ]
-    },
-    {
-      "fingerprint": "19752ca1a90a7f",
-      "source_id": "metro-closures",
-      "source_label": "Metro closures",
-      "source_type": "google_news",
-      "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
-      "source_sort": "relevance",
-      "source_timeframe": "all",
-      "title": "Popular steakhouse chain's owners file bankruptcy. Do closures loom? - USA Today",
-      "summary": "Popular steakhouse chain's owners file bankruptcy. Do closures loom? USA Today",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNFNTSDVyTUtlRTJURnN0VWJlT3hSaFNKZzd5eEpqbU0zMW9RWG9GaXlTcy1hblVPa2tQTkpIdE1QOEtVTWpXSnJ1NmpUUmlnVGJfWnFsWTZJalVLX3huZGx6M19LRkdkXzlvdzNzSzlsSXhYUFVuSmlfbzhOTTJEY24yNG9mRVFRTm9oN041SUZHRWhCSjJzMlB6Yw?oc=5",
-      "published_at": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "status_guess": "closed",
-      "score": 11,
-      "venue_guess": "Popular steakhouse chain's owners file bankruptcy. Do closures loom? - USA Today",
-      "area_guess": "Des Moines Metro",
-      "matched_terms": [
-        "bankrupt",
-        "bankruptcy",
-        "closure"
-      ]
-    },
-    {
       "fingerprint": "5fcf7207f64bf4",
       "source_id": "metro-closures",
       "source_label": "Metro closures",
@@ -310,6 +267,26 @@
       ]
     },
     {
+      "fingerprint": "a9af5a635556f0",
+      "source_id": "suburb-closures",
+      "source_label": "Suburb closures",
+      "source_type": "google_news",
+      "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
+      "source_sort": "relevance",
+      "source_timeframe": "all",
+      "title": "Cozy Asian eatery in West Des Moines serving Lao and Thai food closing after seven years - The Des Moines Register",
+      "summary": "Cozy Asian eatery in West Des Moines serving Lao and Thai food closing after seven years The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONmZNampXMVUtVEdlVGpCcXc1Z2swdTJnRWdoR2ZHaFhMU1VCSlppcXd4eFRpdURkaENpN3dKVnA4QUN1NDhwVjZYVzdrMHFBZ09XUmQyLUg3aUpDLVVaMG9RRkVKb0tyZzUxWWtZZmUxNmhtUXM1VXkyNk9PaUVwV1dPQkJiZGNLVzZUSVNtX1g5QU9xb2ZJU1VFZF9ybHBZRzZVOTZoLUdCbF9NMV9UbG9RczI5U2hKamJXWXJaN1ZRTlFCbHFiU29GQ3dsLVFKRHAyeC1BTWtfeGFIX0xNZHR3S0ROZ1Q5ck9yZkxPT1JScDBYVFJpYjJoLThCOGlyNGVtOURYRFlJbGM?oc=5",
+      "published_at": "Fri, 26 Oct 2018 07:00:00 GMT",
+      "status_guess": "closed",
+      "score": 3,
+      "venue_guess": "ozy Asian eatery",
+      "area_guess": "West Des Moines",
+      "matched_terms": [
+        "closing"
+      ]
+    },
+    {
       "fingerprint": "cdfc3eb2465527",
       "source_id": "metro-closures",
       "source_label": "Metro closures",
@@ -329,6 +306,27 @@
         "bankrupt",
         "bankruptcy",
         "closing"
+      ]
+    },
+    {
+      "fingerprint": "e6eefc8e431221",
+      "source_id": "suburb-closures",
+      "source_label": "Suburb closures",
+      "source_type": "google_news",
+      "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
+      "source_sort": "relevance",
+      "source_timeframe": "all",
+      "title": "Waukee's Kinship Brewing, in foreclosure, has closed its taproom until May 1, website says - The Des Moines Register",
+      "summary": "Waukee's Kinship Brewing, in foreclosure, has closed its taproom until May 1, website says The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSERlc0xjSHB4LUI2TW0tRGRyOTlJSWJWeWliUUlfM1dmSi00NW5kV0Z4WFBjUERyVjY4Qm1PTHJza1NMRTFxdkIzTHl6UFpzdDdiZjZWWWpkajBXcGZYVHZaSzRCaFFjTkJDRTBuajBRSk02UUdnUHhCRTlvVnQ1OXk1dGpPVS1tZWx0YWtibThzcnlqZnpVQ3RpWXBZUFJRZ09GTTNxaTh0R0tfMVJHM0xwVjh4cW8wVzQxekJtTk1SdFVVSGxYTU9QN3JxT1Rrd2JZcUwyTkVfSk9MSmpUTGpheDk0QQ?oc=5",
+      "published_at": "Mon, 04 Dec 2023 08:00:00 GMT",
+      "status_guess": "closed",
+      "score": 6,
+      "venue_guess": "has",
+      "area_guess": "Waukee",
+      "matched_terms": [
+        "closed",
+        "closure"
       ]
     }
   ]

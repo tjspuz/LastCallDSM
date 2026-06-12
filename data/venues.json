@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T14:55:37+00:00",
+  "updatedAt": "2026-06-12T20:08:57+00:00",
   "city": "Des Moines Metro",
   "items": [
     {
@@ -79,6 +79,87 @@
       "publicDescription": "804 Main Bar & Grill appears to have closed; Google Places now reports it permanently closed.",
       "firstSeen": "2026-06-11",
       "address": "Des Moines Metro, IA",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-12",
+      "closedDatePrecision": "month"
+    },
+    {
+      "id": "osm-node-1307333465",
+      "name": "Agave Grill",
+      "status": "closed",
+      "eventDate": "2026-06-12",
+      "sortDate": "2026-06-12",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Mexican",
+      "neighborhood": "Des Moines Metro",
+      "story": "Agave Grill appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/1307333465"
+        }
+      ],
+      "publicDescription": "Agave Grill appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "Des Moines Metro, IA",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-12",
+      "closedDatePrecision": "month"
+    },
+    {
+      "id": "osm-way-145591213",
+      "name": "Babylon Grill",
+      "status": "closed",
+      "eventDate": "2026-06-12",
+      "sortDate": "2026-06-12",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Greek",
+      "neighborhood": "Des Moines Metro",
+      "story": "Babylon Grill appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/145591213"
+        }
+      ],
+      "publicDescription": "Babylon Grill appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "2831 Douglas Avenue, Des Moines Metro, IA, 50310",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-12",
+      "closedDatePrecision": "month"
+    },
+    {
+      "id": "osm-node-2106262201",
+      "name": "Bauder's & Donut King",
+      "status": "closed",
+      "eventDate": "2026-06-12",
+      "sortDate": "2026-06-12",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Donut",
+      "neighborhood": "Des Moines",
+      "story": "Bauder's & Donut King appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/2106262201"
+        }
+      ],
+      "publicDescription": "Bauder's & Donut King appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "3802 Ingersoll Avenue, Des Moines, IA, 50312",
       "descriptionSource": "enriched",
       "closedDate": "2026-06-12",
       "closedDatePrecision": "month"
@@ -3412,31 +3493,6 @@
       "descriptionSource": "enriched"
     },
     {
-      "id": "osm-node-1307333465",
-      "name": "Agave Grill",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Mexican",
-      "neighborhood": "Des Moines Metro",
-      "story": "A Mexican restaurant in the Des Moines metro.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/node/1307333465"
-        }
-      ],
-      "publicDescription": "A Mexican restaurant in the Des Moines metro.",
-      "firstSeen": "2026-06-11",
-      "address": "Des Moines Metro, IA",
-      "descriptionSource": "enriched"
-    },
-    {
       "id": "osm-way-779162473",
       "name": "AJ's on East Court",
       "status": "opened",
@@ -4022,31 +4078,6 @@
       "descriptionSource": "enriched"
     },
     {
-      "id": "osm-way-145591213",
-      "name": "Babylon Grill",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Greek",
-      "neighborhood": "Des Moines Metro",
-      "story": "A Greek restaurant in the Des Moines metro serving Mediterranean grill fare.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/way/145591213"
-        }
-      ],
-      "publicDescription": "A Greek restaurant in the Des Moines metro serving Mediterranean grill fare.",
-      "firstSeen": "2026-06-11",
-      "address": "2831 Douglas Avenue, Des Moines Metro, IA, 50310",
-      "descriptionSource": "enriched"
-    },
-    {
       "id": "osm-node-962016217",
       "name": "Back Roads Lounge",
       "status": "opened",
@@ -4298,31 +4329,6 @@
       "publicDescription": "A Des Moines spot serving Korean-inspired fare.",
       "firstSeen": "2026-06-11",
       "address": "2607 Beaver Avenue, Des Moines, IA, 50310",
-      "descriptionSource": "enriched"
-    },
-    {
-      "id": "osm-node-2106262201",
-      "name": "Bauder's & Donut King",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Donut",
-      "neighborhood": "Des Moines",
-      "story": "A Des Moines stop for ice cream treats and classic donuts.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/node/2106262201"
-        }
-      ],
-      "publicDescription": "A Des Moines stop for ice cream treats and classic donuts.",
-      "firstSeen": "2026-06-11",
-      "address": "3802 Ingersoll Avenue, Des Moines, IA, 50312",
       "descriptionSource": "enriched"
     },
     {

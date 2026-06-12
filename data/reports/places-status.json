@@ -1126,5 +1126,325 @@
     "businessStatus": "OPERATIONAL",
     "formattedAddress": "4050 Urbandale Ave, Des Moines, IA 50310, USA",
     "checkedAt": "2026-06-12T14:55:36+00:00"
+  },
+  {
+    "id": "osm-way-279484626",
+    "name": "Beechwood Lounge",
+    "query": "Beechwood Lounge Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "416 E Walnut St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T20:08:47+00:00"
+  },
+  {
+    "id": "osm-node-790684711",
+    "name": "Beer Can Alley",
+    "query": "Beer Can Alley Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1109 4th St, Sioux City, IA 51101, USA",
+    "checkedAt": "2026-06-12T20:08:47+00:00"
+  },
+  {
+    "id": "osm-node-5413265201",
+    "name": "BeerStyles",
+    "query": "BeerStyles West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "5513 Mills Civic Pkwy, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-12T20:08:47+00:00"
+  },
+  {
+    "id": "osm-node-9446408724",
+    "name": "Bellhop",
+    "query": "Bellhop Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "440 E Grand Ave, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T20:08:48+00:00"
+  },
+  {
+    "id": "osm-node-439984515",
+    "name": "Benchwarmers Sports Pub and Grill",
+    "query": "Benchwarmers Sports Pub and Grill Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "705 S Ankeny Blvd, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-12T20:08:48+00:00"
+  },
+  {
+    "id": "osm-node-765282913",
+    "name": "Bennigan's",
+    "query": "Bennigan's Urbandale Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "4800 Merle Hay Rd, Urbandale, IA 50322, USA",
+    "checkedAt": "2026-06-12T20:08:48+00:00"
+  },
+  {
+    "id": "osm-node-1193748773",
+    "name": "Bernardo's Burritos",
+    "query": "Bernardo's Burritos Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "214 4th St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T20:08:48+00:00"
+  },
+  {
+    "id": "osm-way-102157399",
+    "name": "Biaggi's",
+    "query": "Biaggi's West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "5990 University Ave, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-12T20:08:49+00:00"
+  },
+  {
+    "id": "osm-node-3362636193",
+    "name": "Big Acai Bowl",
+    "query": "Big Acai Bowl West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "117 5th St, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-12T20:08:49+00:00"
+  },
+  {
+    "id": "osm-way-152168496",
+    "name": "Big Tomato Pizza Company",
+    "query": "Big Tomato Pizza Company Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2613 Ingersoll Ave, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-12T20:08:49+00:00"
+  },
+  {
+    "id": "osm-node-3447136598",
+    "name": "Black Cat Ice Cream",
+    "query": "Black Cat Ice Cream Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1301 Locust St Ste D, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T20:08:49+00:00"
+  },
+  {
+    "id": "osm-node-12655206407",
+    "name": "Black Sheep",
+    "query": "Black Sheep Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "223 E Walnut St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T20:08:50+00:00"
+  },
+  {
+    "id": "osm-node-3364738805",
+    "name": "Blind Pig Cocktail Bodega",
+    "query": "Blind Pig Cocktail Bodega West Des Moines Iowa",
+    "businessStatus": "CLOSED_TEMPORARILY",
+    "formattedAddress": "222 1/2 5th St, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-12T20:08:50+00:00"
+  },
+  {
+    "id": "osm-node-4640651934",
+    "name": "Blu Toro Cantina & Grill",
+    "query": "Blu Toro Cantina & Grill West Des Moines Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "5585 Mills Civic Pkwy Ste 110, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-12T20:08:50+00:00"
+  },
+  {
+    "id": "osm-node-5067636004",
+    "name": "Blue Agave",
+    "query": "Blue Agave West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "9500 SE University Ave Suite 2108, Waukee, IA 50263, USA",
+    "checkedAt": "2026-06-12T20:08:51+00:00"
+  },
+  {
+    "id": "osm-node-440549594",
+    "name": "Blue Bean",
+    "query": "Blue Bean Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "110 N Ankeny Blvd Ste 200, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-12T20:08:51+00:00"
+  },
+  {
+    "id": "osm-way-46979180",
+    "name": "Blue Ribbon Bar & Eatery",
+    "query": "Blue Ribbon Bar & Eatery Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3000 E Grand Ave, Des Moines, IA 50317, USA",
+    "checkedAt": "2026-06-12T20:08:51+00:00"
+  },
+  {
+    "id": "osm-node-790684717",
+    "name": "Blue Sushi Sake Grill",
+    "query": "Blue Sushi Sake Grill Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "316 Court Ave, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T20:08:51+00:00"
+  },
+  {
+    "id": "osm-node-3260940230",
+    "name": "Bradley's",
+    "query": "Bradley's West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1300 50th St Ste 203, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-12T20:08:52+00:00"
+  },
+  {
+    "id": "osm-way-616858348",
+    "name": "Breadeux Pizza",
+    "query": "Breadeux Pizza Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "4830 Maple Dr Ste 2, Pleasant Hill, IA 50327, USA",
+    "checkedAt": "2026-06-12T20:08:52+00:00"
+  },
+  {
+    "id": "osm-node-1685269911",
+    "name": "Brecks",
+    "query": "Brecks Des Moines Metro Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "207 4th St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T20:08:52+00:00"
+  },
+  {
+    "id": "osm-node-12640647375",
+    "name": "Brick & Ivy Rooftop",
+    "query": "Brick & Ivy Rooftop Altoona Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "400 34th Ave SW, Altoona, IA 50009, USA",
+    "checkedAt": "2026-06-12T20:08:52+00:00"
+  },
+  {
+    "id": "osm-way-46979185",
+    "name": "Bud Tent",
+    "query": "Bud Tent Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "Pavilion, 3000 E Grand Ave, Des Moines, IA 50317, USA",
+    "checkedAt": "2026-06-12T20:08:52+00:00"
+  },
+  {
+    "id": "osm-way-1364440492",
+    "name": "Bud's Pub",
+    "query": "Bud's Pub Granger Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1912 Main St, Granger, IA 50109, USA",
+    "checkedAt": "2026-06-12T20:08:53+00:00"
+  },
+  {
+    "id": "osm-node-1785509929",
+    "name": "Buffet City",
+    "query": "Buffet City Clive Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "8801 University Ave, Clive, IA 50325, USA",
+    "checkedAt": "2026-06-12T20:08:53+00:00"
+  },
+  {
+    "id": "osm-node-10969677094",
+    "name": "Burger Shop",
+    "query": "Burger Shop Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "700 Locust St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T20:08:53+00:00"
+  },
+  {
+    "id": "osm-node-1193738598",
+    "name": "Buzzard Billy's",
+    "query": "Buzzard Billy's Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "615 3rd St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T20:08:53+00:00"
+  },
+  {
+    "id": "osm-node-457725380",
+    "name": "Cabaret Ankeny",
+    "query": "Cabaret Ankeny Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2785 N Ankeny Blvd, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-12T20:08:54+00:00"
+  },
+  {
+    "id": "osm-node-12872060529",
+    "name": "Cafe Chai",
+    "query": "Cafe Chai Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1315 31st St Ste 3, Des Moines, IA 50311, USA",
+    "checkedAt": "2026-06-12T20:08:54+00:00"
+  },
+  {
+    "id": "osm-way-617272789",
+    "name": "Cafe on Douglas",
+    "query": "Cafe on Douglas Urbandale Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "14200 Douglas Pkwy, Urbandale, IA 50323, USA",
+    "checkedAt": "2026-06-12T20:08:54+00:00"
+  },
+  {
+    "id": "osm-node-9459108637",
+    "name": "Cafe X",
+    "query": "Cafe X Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2006 S Ankeny Blvd Bldg 5, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-12T20:08:54+00:00"
+  },
+  {
+    "id": "osm-way-37552967",
+    "name": "California Pizza",
+    "query": "California Pizza Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2405 SW White Birch Dr Ste 100, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-12T20:08:55+00:00"
+  },
+  {
+    "id": "osm-node-2837091973",
+    "name": "Canton Chinese Cuisine",
+    "query": "Canton Chinese Cuisine West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "5923 Ashworth Rd, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-12T20:08:55+00:00"
+  },
+  {
+    "id": "osm-way-37338087",
+    "name": "Captain Roy's",
+    "query": "Captain Roy's Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1900 Saylor Rd, Des Moines, IA 50313, USA",
+    "checkedAt": "2026-06-12T20:08:55+00:00"
+  },
+  {
+    "id": "osm-node-908378232",
+    "name": "Carl's Place",
+    "query": "Carl's Place Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1620 Woodland Ave, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T20:08:55+00:00"
+  },
+  {
+    "id": "osm-way-557509688",
+    "name": "Casa Agave",
+    "query": "Casa Agave Altoona Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3131 8th St SW, Altoona, IA 50009, USA",
+    "checkedAt": "2026-06-12T20:08:56+00:00"
+  },
+  {
+    "id": "osm-way-1364440497",
+    "name": "Casa Amigos Bar & Grill",
+    "query": "Casa Amigos Bar & Grill Granger Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1902 Main St, Granger, IA 50109, USA",
+    "checkedAt": "2026-06-12T20:08:56+00:00"
+  },
+  {
+    "id": "osm-way-1229209611",
+    "name": "Casey's",
+    "query": "Casey's Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3501 E 14th St, Des Moines, IA 50316, USA",
+    "checkedAt": "2026-06-12T20:08:56+00:00"
+  },
+  {
+    "id": "osm-node-1240477156",
+    "name": "Castaways Bar & Grill",
+    "query": "Castaways Bar & Grill Urbandale Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1315 S Tomahawk Ave, Tomahawk, WI 54487, USA",
+    "checkedAt": "2026-06-12T20:08:57+00:00"
+  },
+  {
+    "id": "osm-way-326316962",
+    "name": "Cattoors on Grand",
+    "query": "Cattoors on Grand West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1306 Grand Ave, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-12T20:08:57+00:00"
   }
 ]
