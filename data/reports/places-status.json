@@ -1,1 +1,322 @@
-[]
+[
+  {
+    "id": "louie-s-wine-dive-des-moines-metro-closed-2015-12-16",
+    "name": "Louie's Wine Dive",
+    "query": "Louie's Wine Dive Drake Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "6701 W 119th St, Overland Park, KS 66209, USA",
+    "checkedAt": "2026-06-12T03:48:35+00:00"
+  },
+  {
+    "id": "the-breakfast-club-waukee-opened-2026-05-01",
+    "name": "The Breakfast Club (Waukee)",
+    "query": "The Breakfast Club (Waukee) Waukee Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2285 Grand Prairie Pkwy Ste 180, Waukee, IA 50263, USA",
+    "checkedAt": "2026-06-12T03:48:35+00:00"
+  },
+  {
+    "id": "bonchon-west-des-moines-opened-2026-04-29",
+    "name": "Bonchon",
+    "query": "Bonchon West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "6880 EP True Pkwy Unit 104, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-12T03:48:36+00:00"
+  },
+  {
+    "id": "cups-and-cones-cumming-opened-2026-04-06",
+    "name": "Cups & Cones Ice Cream Shoppe",
+    "query": "Cups & Cones Ice Cream Shoppe Cumming Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1107 S 44th St Suite 113, Cumming, IA 50061, USA",
+    "checkedAt": "2026-06-12T03:48:36+00:00"
+  },
+  {
+    "id": "panka-peruvian-stayed-open-2026",
+    "name": "Panka Peruvian",
+    "query": "Panka Peruvian Ingersoll Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2708 Ingersoll Ave Ste 200, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-12T03:48:36+00:00"
+  },
+  {
+    "id": "false-nine-social-club-opening",
+    "name": "False Nine Social Club",
+    "query": "False Nine Social Club West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "206 5th St, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-12T03:48:36+00:00"
+  },
+  {
+    "id": "django-des-moines-metro-closed-2026-01-28",
+    "name": "Django",
+    "query": "Django Downtown Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "1420 Locust St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:48:37+00:00"
+  },
+  {
+    "id": "the-last-pita-pit-des-moines-metro-closed-2026-01-22",
+    "name": "The last Pita Pit",
+    "query": "The last Pita Pit Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1700 W 1st St Ste C, Cedar Falls, IA 50613, USA",
+    "checkedAt": "2026-06-12T03:48:37+00:00"
+  },
+  {
+    "id": "desi-fresh-opening",
+    "name": "Desi Fresh",
+    "query": "Desi Fresh Waukee Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1475 SE Bishop DR Waukee, Waukee, IA 50263, USA",
+    "checkedAt": "2026-06-12T03:48:37+00:00"
+  },
+  {
+    "id": "the-atlas-room-west-des-moines-opened-2026-03-01",
+    "name": "The Atlas Room",
+    "query": "The Atlas Room West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "7001 Westown Pkwy Ste 120, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-12T03:48:37+00:00"
+  },
+  {
+    "id": "scoops-by-beth-opening",
+    "name": "Scoops by Beth",
+    "query": "Scoops by Beth Highland Park Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "523 Euclid Ave, Des Moines, IA 50313, USA",
+    "checkedAt": "2026-06-12T03:48:37+00:00"
+  },
+  {
+    "id": "ocha-downtown-opening",
+    "name": "Ocha Bubble Tea & Dessert Cafe",
+    "query": "Ocha Bubble Tea & Dessert Cafe Court Avenue Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "221 4th St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:48:38+00:00"
+  },
+  {
+    "id": "bar-martinez-opening",
+    "name": "Bar Martinez",
+    "query": "Bar Martinez Highland Park Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "515 Euclid Ave, Des Moines, IA 50313, USA",
+    "checkedAt": "2026-06-12T03:48:38+00:00"
+  },
+  {
+    "id": "toyo-ramen-opening",
+    "name": "Toyo Ramen & Japanese Street Food",
+    "query": "Toyo Ramen & Japanese Street Food Prairie Trail Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1615 SW Main St #106, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-12T03:48:38+00:00"
+  },
+  {
+    "id": "heroics-opening",
+    "name": "Heroics Sports Lounge",
+    "query": "Heroics Sports Lounge Ingersoll Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2005 Ingersoll Ave Ste 101, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:48:38+00:00"
+  },
+  {
+    "id": "chi-chi-s-des-moines-metro-closed-2024-12-04",
+    "name": "Chi Chi's",
+    "query": "Chi Chi's Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1602 West End Blvd, Minneapolis, MN 55416, USA",
+    "checkedAt": "2026-06-12T03:48:39+00:00"
+  },
+  {
+    "id": "chicago-dog-and-deli-des-moines-metro-closed-2019-12-03",
+    "name": "Chicago Dog and Deli",
+    "query": "Chicago Dog and Deli Des Moines Metro Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "523 Euclid Ave, Des Moines, IA 50313, USA",
+    "checkedAt": "2026-06-12T03:48:39+00:00"
+  },
+  {
+    "id": "pagliai-s-pizza-johnston-closed-2025-11-10",
+    "name": "Pagliai's Pizza",
+    "query": "Pagliai's Pizza Johnston Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "5312 Merle Hay Rd, Johnston, IA 50131, USA",
+    "checkedAt": "2026-06-12T03:48:39+00:00"
+  },
+  {
+    "id": "highland-underground-opening",
+    "name": "Highland Underground",
+    "query": "Highland Underground Highland Park Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3614 6th Ave Suite 100, Des Moines, IA 50313, USA",
+    "checkedAt": "2026-06-12T03:48:39+00:00"
+  },
+  {
+    "id": "haiku-closure",
+    "name": "Haiku",
+    "query": "Haiku Drake Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "1315 31st St Ste# D, Des Moines, IA 50311, USA",
+    "checkedAt": "2026-06-12T03:48:39+00:00"
+  },
+  {
+    "id": "bubbies-bbq-opening",
+    "name": "Bubbies BBQ",
+    "query": "Bubbies BBQ Pleasant Hill Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1225 Copper Creek Dr Ste E1, Pleasant Hill, IA 50327, USA",
+    "checkedAt": "2026-06-12T03:48:40+00:00"
+  },
+  {
+    "id": "americana-closure",
+    "name": "Americana",
+    "query": "Americana Western Gateway Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1205 Locust St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:48:40+00:00"
+  },
+  {
+    "id": "ritual-cafe-closure",
+    "name": "Ritual Cafe",
+    "query": "Ritual Cafe Western Gateway Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "High St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:48:40+00:00"
+  },
+  {
+    "id": "masao-opening",
+    "name": "Masao",
+    "query": "Masao East Village Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "512 E Grand Ave, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:48:40+00:00"
+  },
+  {
+    "id": "palms-dsm-opening",
+    "name": "Palms DSM",
+    "query": "Palms DSM Ingersoll Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1905 Ingersoll Ave, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:48:40+00:00"
+  },
+  {
+    "id": "bar-louie-s-west-des-moines-west-des-moines-closed-2025-09-16",
+    "name": "Bar Louie's West Des Moines",
+    "query": "Bar Louie's West Des Moines West Des Moines Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "7105 Mills Civic Parkway, Jordan Creek Pkwy Town Center, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-12T03:48:41+00:00"
+  },
+  {
+    "id": "fongs-east-village-opening",
+    "name": "Fong's Pizza",
+    "query": "Fong's Pizza East Village Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "317 E Court Ave, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:48:41+00:00"
+  },
+  {
+    "id": "lacheles-fitz-opening",
+    "name": "Lachele's Fine Foods and The Fitz",
+    "query": "Lachele's Fine Foods and The Fitz Highland Park Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3621 6th Ave, Des Moines, IA 50313, USA",
+    "checkedAt": "2026-06-12T03:48:41+00:00"
+  },
+  {
+    "id": "osm-node-12647030419",
+    "name": "Tom Archer's",
+    "query": "Tom Archer's West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "West Restaurant, 301 Ashworth Rd, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-12T03:48:41+00:00"
+  },
+  {
+    "id": "osm-node-12647030420",
+    "name": "Work In Progress",
+    "query": "Work In Progress West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "East Bar, 301 Ashworth Rd Basement, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-12T03:48:41+00:00"
+  },
+  {
+    "id": "st-kilda-cafe-bakery-downtown-closed-2024-12-20",
+    "name": "St. Kilda Cafe & Bakery",
+    "query": "St. Kilda Cafe & Bakery Downtown Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "300 SW 5th St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:48:42+00:00"
+  },
+  {
+    "id": "flora-opening",
+    "name": "Flora",
+    "query": "Flora Botanical Garden Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "909 Robert D. Ray Dr, Des Moines, IA 50316, USA",
+    "checkedAt": "2026-06-12T03:48:42+00:00"
+  },
+  {
+    "id": "cowboy-mexican-opening",
+    "name": "Cowboy Mexican Bar & Grill",
+    "query": "Cowboy Mexican Bar & Grill Highland Park Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1234 E Euclid Ave, Des Moines, IA 50316, USA",
+    "checkedAt": "2026-06-12T03:48:42+00:00"
+  },
+  {
+    "id": "osm-node-12650708945",
+    "name": "The Contrary",
+    "query": "The Contrary Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "503 E Locust St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:48:42+00:00"
+  },
+  {
+    "id": "early-bird-east-village-opening",
+    "name": "Early Bird East Village",
+    "query": "Early Bird East Village East Village Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "401 E Court Ave, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:48:43+00:00"
+  },
+  {
+    "id": "osm-way-104273673",
+    "name": "The Lamp",
+    "query": "The Lamp Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "418 E 5th St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:48:43+00:00"
+  },
+  {
+    "id": "bussin-eggroll-opening",
+    "name": "Bussin' Eggroll and Rice Co.",
+    "query": "Bussin' Eggroll and Rice Co. Downtown Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "604 Locust St Ste 104, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:48:43+00:00"
+  },
+  {
+    "id": "luddys-tavern-closure",
+    "name": "Luddy's Tavern",
+    "query": "Luddy's Tavern Ankeny Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "106 SW State St #100, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-12T03:48:43+00:00"
+  },
+  {
+    "id": "tacos-tequila-la-cava-closure",
+    "name": "Tacos & Tequila La Cava",
+    "query": "Tacos & Tequila La Cava Ankeny Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "2010 SE Delaware Ave Ste 230, Ankeny, IA 50021, USA",
+    "checkedAt": "2026-06-12T03:48:43+00:00"
+  },
+  {
+    "id": "whiskey-house-closure",
+    "name": "Whiskey House",
+    "query": "Whiskey House Ankeny Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "2510 SW White Birch Dr, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-12T03:48:44+00:00"
+  }
+]
