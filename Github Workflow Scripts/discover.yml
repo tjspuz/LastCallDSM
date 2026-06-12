@@ -1,15 +1,16 @@
-name: Collect Leads
+name: Discover Open Venues
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    # Weekly, Monday 09:10 UTC — Overpass etiquette: don't hammer the API.
+    - cron: "10 9 * * 1"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  collect:
+  discover:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,38 +26,32 @@ jobs:
         run: |
           pip install anthropic
 
-      - name: Collect raw leads
-        env:
-          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+      - name: Refresh open-venue catalog from OpenStreetMap
         run: |
-          python3 scripts/collect.py --verify-places
+          python3 scripts/discover_open_venues.py
 
       - name: Apply status lifecycle transitions
         run: |
           python3 scripts/update_statuses.py
 
-      - name: Rebuild verified public timeline
-        run: |
-          python3 scripts/rebuild_verified_timeline.py
-
       - name: Enrich venue descriptions
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          python3 scripts/enrich_descriptions.py --limit 40
+          python3 scripts/enrich_descriptions.py --limit 80
 
       - name: Audit published data
         run: |
           python3 scripts/audit_data.py
 
-      - name: Commit updated reports
+      - name: Commit catalog updates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/cache data/reports data/venues.json
           if git diff --cached --quiet; then
-            echo "No report changes."
+            echo "No catalog changes."
             exit 0
           fi
-          git commit -m "chore: refresh leads, statuses, and descriptions"
+          git commit -m "chore: refresh open-venue catalog"
           git push

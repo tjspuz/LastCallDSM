@@ -1,5 +1,30 @@
 # Data Strategy
 
+## Pipeline architecture (June 2026 revision)
+
+```
+OSM Overpass ──► discover_open_venues.py ──► open-venue directory in venues.json
+Google News RSS ─┐
+r/desmoines ─────┼─► collect.py ──► lead reports (review queue)
+dsm Magazine /   │
+Axios queries ───┘
+Google Places ──► places-status.json ──► update_statuses.py ──► auto lastcall→closed,
+                                                                reopen/closure drift flags
+Venue websites ─► enrich_descriptions.py ──► polished publicDescription
+                  (+ optional Claude API polish via ANTHROPIC_API_KEY)
+```
+
+Status lifecycle rules:
+
+- `lastcall` auto-promotes to `closed` the day after its `closedDate` passes.
+- Google Places drift must persist for 2 consecutive runs before action
+  (filters one-off wrong-place matches). Catalog records (`osm-` ids,
+  `verificationLevel: review`) are flipped automatically; curated records are
+  only flagged in `data/reports/status-changes.json` for human confirmation —
+  a reopening ("closed" → "opened") always warrants a second source.
+- Venues that disappear from OSM are reported in
+  `data/reports/catalog-changes.json` as closure leads, not deleted.
+
 ## Source tiers
 
 ### Tier 1: Verification and operational truth

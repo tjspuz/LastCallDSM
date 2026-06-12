@@ -4,8 +4,17 @@
 
 It is intentionally split into two parts:
 
-1. A public-facing static site that shows only curated venue records.
-2. A Python lead collector that gathers raw signals from Google News RSS queries, `r/desmoines`, and optional Google Places verification without auto-publishing rumors.
+1. A public-facing static site that shows curated venue records plus a metro-wide directory of every open restaurant, bar, and cafe.
+2. An autonomous Python pipeline that gathers raw signals (Google News RSS, `r/desmoines`, OpenStreetMap, Google Places, venue websites), manages venue status lifecycles, and enriches descriptions — without auto-publishing rumors.
+
+## Autonomous pipeline
+
+The pipeline runs on GitHub Actions and has four stages:
+
+1. **Discover** (`scripts/discover_open_venues.py`, weekly): queries the OpenStreetMap Overpass API for every named restaurant/bar/cafe/pub in the metro bounding box, dedupes against curated records, and merges open venues into `data/venues.json` as a directory (they sort below dated news events and display as "Open"). National chains are excluded by default (`--include-chains` to keep them). Venues that disappear from OSM are flagged in `data/reports/catalog-changes.json` as closure leads — never silently deleted.
+2. **Collect** (`scripts/collect.py`, every 6 hours): Google News RSS + Reddit lead collection with keyword scoring, plus optional Google Places `businessStatus` verification of every published record.
+3. **Lifecycle** (`scripts/update_statuses.py`, every run): auto-promotes `lastcall` records to `closed` once their final day passes; tracks Google Places drift (a closed venue reporting OPERATIONAL = possible reopening, an open one reporting CLOSED_PERMANENTLY = possible closure) across consecutive runs in `places-status-history.json`. Machine-generated catalog records are flipped automatically after two consistent observations; curated records are flagged for human review in `data/reports/status-changes.json`.
+4. **Enrich** (`scripts/enrich_descriptions.py`, batched): pulls each venue's own website meta description, composes a clean one-liner (clamped to the UI's 175-char clip), and — when `ANTHROPIC_API_KEY` is set — polishes batches into consistent editorial blurbs with the Claude API. Fully functional without any key; results cached in `data/cache/enrichment.json`.
 
 ## Why this is stronger than the original outline
 
@@ -20,12 +29,16 @@ It is intentionally split into two parts:
 
 - `index.html`, `styles.css`, `app.js`: static site
 - `review.html`, `review.css`, `review.js`: editorial review queue
-- `data/venues.json`: curated venue history shown on the site
+- `data/venues.json`: curated venue history + open-venue directory shown on the site
 - `config/watchlists.json`: Google News and Reddit watch queries
 - `scripts/collect.py`: lead collector and optional Google Places verifier
+- `scripts/discover_open_venues.py`: OpenStreetMap metro-wide open-venue discovery
+- `scripts/update_statuses.py`: status lifecycle engine (lastcall→closed, reopen/closure drift)
+- `scripts/enrich_descriptions.py`: description enrichment (website metadata + optional Claude polish)
 - `docs/data-strategy.md`: source evaluation and backfill strategy
 - `docs/backfill-2020-2022.md`: notes from the deeper pandemic and post-pandemic history pass
-- `.github/workflows/collect.yml`: scheduled collection workflow
+- `.github/workflows/collect.yml`: 6-hourly collection + lifecycle + enrichment workflow
+- `.github/workflows/discover.yml`: weekly OSM catalog refresh workflow
 
 ## Local development
 
