@@ -1,23 +1,86 @@
 {
-  "generatedAt": "2026-06-12T03:51:46+00:00",
+  "generatedAt": "2026-06-12T10:10:22+00:00",
   "changes": [
     {
       "id": "americana-closure",
       "name": "Americana",
       "transition": "possible-reopening",
-      "reason": "Google Places businessStatus=OPERATIONAL for 2 consecutive runs",
+      "reason": "Google Places businessStatus=OPERATIONAL for 3 consecutive runs",
       "applied": false
     },
     {
       "id": "ritual-cafe-closure",
       "name": "Ritual Cafe",
       "transition": "possible-reopening",
-      "reason": "Google Places businessStatus=OPERATIONAL for 2 consecutive runs",
+      "reason": "Google Places businessStatus=OPERATIONAL for 3 consecutive runs",
       "applied": false
     },
     {
       "id": "bussin-eggroll-opening",
       "name": "Bussin' Eggroll and Rice Co.",
+      "transition": "possible-closure",
+      "reason": "Google Places businessStatus=CLOSED_PERMANENTLY for 3 consecutive runs",
+      "applied": false
+    },
+    {
+      "id": "spaghetti-works-closure",
+      "name": "Spaghetti Works",
+      "transition": "possible-reopening",
+      "reason": "Google Places businessStatus=OPERATIONAL for 2 consecutive runs",
+      "applied": false
+    },
+    {
+      "id": "maxies-closure",
+      "name": "Maxie's Restaurant & Lounge",
+      "transition": "possible-reopening",
+      "reason": "Google Places businessStatus=OPERATIONAL for 2 consecutive runs",
+      "applied": false
+    },
+    {
+      "id": "1717-brewing-closure",
+      "name": "1717 Brewing Co.",
+      "transition": "possible-reopening",
+      "reason": "Google Places businessStatus=OPERATIONAL for 2 consecutive runs",
+      "applied": false
+    },
+    {
+      "id": "gusto-ingersoll-reopening",
+      "name": "Gusto Pizza Ingersoll Relaunch",
+      "transition": "possible-closure",
+      "reason": "Google Places businessStatus=CLOSED_PERMANENTLY for 2 consecutive runs",
+      "applied": false
+    },
+    {
+      "id": "rice-bowl-closure",
+      "name": "Rice Bowl",
+      "transition": "possible-reopening",
+      "reason": "Google Places businessStatus=OPERATIONAL for 2 consecutive runs",
+      "applied": false
+    },
+    {
+      "id": "gusto-wdm-closure",
+      "name": "Gusto Pizza West Des Moines",
+      "transition": "possible-reopening",
+      "reason": "Google Places businessStatus=OPERATIONAL for 2 consecutive runs",
+      "applied": false
+    },
+    {
+      "id": "503-opening",
+      "name": "503 Cocktail Lab + Tasting Room",
+      "transition": "possible-closure",
+      "reason": "Google Places businessStatus=CLOSED_PERMANENTLY for 2 consecutive runs",
+      "applied": false
+    },
+    {
+      "id": "java-joes-closure",
+      "name": "Java Joe's",
+      "transition": "possible-reopening",
+      "reason": "Google Places businessStatus=OPERATIONAL for 2 consecutive runs",
+      "applied": false
+    },
+    {
+      "id": "dobre-opening",
+      "name": "Dobre Tasting Room",
       "transition": "possible-closure",
       "reason": "Google Places businessStatus=CLOSED_PERMANENTLY for 2 consecutive runs",
       "applied": false

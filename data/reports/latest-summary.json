@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-12T03:51:35+00:00",
-  "leadCount": 143,
+  "generatedAt": "2026-06-12T10:10:11+00:00",
+  "leadCount": 140,
   "statusCounts": {
-    "closed": 76,
-    "review": 24,
-    "opened": 42,
+    "closed": 73,
+    "review": 25,
+    "opened": 41,
     "moved": 1
   },
   "sourceTypeCounts": {
     "reddit": 3,
-    "google_news": 140
+    "google_news": 137
   },
   "warnings": [
     "Reddit blocked source reddit-closing (closing); no JSON or RSS results returned.",
@@ -185,26 +185,6 @@
       ]
     },
     {
-      "fingerprint": "d02cd6bd13db0f",
-      "source_id": "metro-closures",
-      "source_label": "Metro closures",
-      "source_type": "google_news",
-      "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
-      "source_sort": "relevance",
-      "source_timeframe": "all",
-      "title": "Popular downtown restaurant closing today - KCCI",
-      "summary": "Popular downtown restaurant closing today KCCI",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeDRySHZ6Y3pDcHZ1YzJ3c25ySktGUGtXVEYxek9tTzkwZUgxLUFBMDVTMFBNQktvcTdUVU05TFdic3NxY2lpWXpJVUhwaDEyeHNYSFlGQk1ybjZLYUV2V29FZ2Z5dmpOVThMMUpjdW9IU3ZLYmFnQ3ZnNVRHM2c2YTRVZDg?oc=5",
-      "published_at": "Fri, 14 Aug 2015 07:00:00 GMT",
-      "status_guess": "closed",
-      "score": 5,
-      "venue_guess": "Popular downtown",
-      "area_guess": "Downtown",
-      "matched_terms": [
-        "closing"
-      ]
-    },
-    {
       "fingerprint": "111ff3471b94a4",
       "source_id": "metro-closures",
       "source_label": "Metro closures",
@@ -247,31 +227,33 @@
       ]
     },
     {
-      "fingerprint": "99323497549708",
+      "fingerprint": "19752ca1a90a7f",
       "source_id": "metro-closures",
       "source_label": "Metro closures",
       "source_type": "google_news",
       "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
       "source_sort": "relevance",
       "source_timeframe": "all",
-      "title": "Southern-inspired Des Moines restaurant is closing - The Des Moines Register",
-      "summary": "Southern-inspired Des Moines restaurant is closing The Des Moines Register",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb191Y2xYRFhMVlRZLS00blhZZGFvbU0zVWpSQlZsZVFvcnJJNTVibUJqb2gzQnVVOFY5NGNrSXh4d1dEWjM3RUdfd01WNzhUV2x5eHktaVZXdnltRFctWTVzNGVJR2VrV0c3bFBjd1NQbG9jOU1ZdUxHSE9yRHlZUjJIUnRoSGJ6aF95VWdEclB3ejh0VF9sRGdodUl4cExEMXNqb3ZEd2pqZXRuUWFkWHg4eW54ejZibkludjNSOHE?oc=5",
-      "published_at": "Fri, 17 Feb 2017 08:00:00 GMT",
+      "title": "Popular steakhouse chain's owners file bankruptcy. Do closures loom? - USA Today",
+      "summary": "Popular steakhouse chain's owners file bankruptcy. Do closures loom? USA Today",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNFNTSDVyTUtlRTJURnN0VWJlT3hSaFNKZzd5eEpqbU0zMW9RWG9GaXlTcy1hblVPa2tQTkpIdE1QOEtVTWpXSnJ1NmpUUmlnVGJfWnFsWTZJalVLX3huZGx6M19LRkdkXzlvdzNzSzlsSXhYUFVuSmlfbzhOTTJEY24yNG9mRVFRTm9oN041SUZHRWhCSjJzMlB6Yw?oc=5",
+      "published_at": "Fri, 17 Apr 2026 07:00:00 GMT",
       "status_guess": "closed",
-      "score": 5,
-      "venue_guess": "Southern-inspired Des Moines restaurant is",
+      "score": 11,
+      "venue_guess": "Popular steakhouse chain's owners file bankruptcy. Do closures loom? - USA Today",
       "area_guess": "Des Moines Metro",
       "matched_terms": [
-        "closing"
+        "bankrupt",
+        "bankruptcy",
+        "closure"
       ]
     },
     {
-      "fingerprint": "aecfa248ea2ed5",
-      "source_id": "suburb-openings",
-      "source_label": "Suburb openings",
+      "fingerprint": "5fcf7207f64bf4",
+      "source_id": "metro-closures",
+      "source_label": "Metro closures",
       "source_type": "google_news",
-      "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (opened OR opening OR reopening)",
+      "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
       "source_sort": "relevance",
       "source_timeframe": "all",
       "title": "Award-winning brewery closing after 12 years of beer. Here's when: - The Des Moines Register",
@@ -307,23 +289,46 @@
       ]
     },
     {
-      "fingerprint": "a9af5a635556f0",
+      "fingerprint": "cdfc3eb2465527",
+      "source_id": "metro-closures",
+      "source_label": "Metro closures",
+      "source_type": "google_news",
+      "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+      "source_sort": "relevance",
+      "source_timeframe": "all",
+      "title": "Bar Louie is closing locations after filing for bankruptcy. Will Jordan Creek's close? - The Des Moines Register",
+      "summary": "Bar Louie is closing locations after filing for bankruptcy. Will Jordan Creek's close? The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUmFqVUhpVnFWY0I5S3o0dnYyNkVaTlJocURJNWlVUHdpZ2JsbG92R1hudUcwQlZaSjd3MjBOcDZCNk0zWEtuRFk1MUY3ZDlrM3diNVVyMGdUMUNfWWFYSU81dk56Tk1qMXFhUlBuOXVpemFGSnJPYlh0eHo2VUl2TDQzcGNzUHA0RmlXajFoTWxtSk5sLXVaaDNQT2tvTW5xaG42aDlzSjJtTnM3TGc2YUxwazVfaGtKZklQaXNVUUJsWHpnN3JybU03VnJnQjJOVzg4UEhNWnVYSUpBZWRlVmFWbXE0YjVURmVxQkR3SU9ONUNFOF9idDUyZVVEWWpYWS00?oc=5",
+      "published_at": "Fri, 28 Mar 2025 07:00:00 GMT",
+      "status_guess": "closed",
+      "score": 13,
+      "venue_guess": "Bar Louie is",
+      "area_guess": "Des Moines Metro",
+      "matched_terms": [
+        "bankrupt",
+        "bankruptcy",
+        "closing"
+      ]
+    },
+    {
+      "fingerprint": "6bc01e414c963a",
       "source_id": "suburb-closures",
       "source_label": "Suburb closures",
       "source_type": "google_news",
       "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
       "source_sort": "relevance",
       "source_timeframe": "all",
-      "title": "Cozy Asian eatery in West Des Moines serving Lao and Thai food closing after seven years - The Des Moines Register",
-      "summary": "Cozy Asian eatery in West Des Moines serving Lao and Thai food closing after seven years The Des Moines Register",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONmZNampXMVUtVEdlVGpCcXc1Z2swdTJnRWdoR2ZHaFhMU1VCSlppcXd4eFRpdURkaENpN3dKVnA4QUN1NDhwVjZYVzdrMHFBZ09XUmQyLUg3aUpDLVVaMG9RRkVKb0tyZzUxWWtZZmUxNmhtUXM1VXkyNk9PaUVwV1dPQkJiZGNLVzZUSVNtX1g5QU9xb2ZJU1VFZF9ybHBZRzZVOTZoLUdCbF9NMV9UbG9RczI5U2hKamJXWXJaN1ZRTlFCbHFiU29GQ3dsLVFKRHAyeC1BTWtfeGFIX0xNZHR3S0ROZ1Q5ck9yZkxPT1JScDBYVFJpYjJoLThCOGlyNGVtOURYRFlJbGM?oc=5",
-      "published_at": "Fri, 26 Oct 2018 07:00:00 GMT",
+      "title": "Will any Arby\u2019s locations in Iowa close after a franchisee filed for bankruptcy? - The Des Moines Register",
+      "summary": "Will any Arby\u2019s locations in Iowa close after a franchisee filed for bankruptcy? The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRndueUdrTE1nXzFjUmRCM0Q1UG1iMmpwcDNQX1VsaEsxQ3EycGxoQlE0WnViQ0VKZDFjbVVoc2hlTENfcjdSLWlnRHYxbHR6dXVIc0ZEeFdXX0FJWG84UVJocktJMzd0WEJid2RaMEoxMHpaaWpydUxNOHZMMG5pYkdvZVdnajZtTklpUklON1ZLM2o0ZXR6bTNGb2NIZlF0cVVXTGpxNGMyQXZWLUZQZUpQWDdBdUxlekNXQ1JHVmJ5cXZGdFZqYjBqd1d1UXRaMm1KRGZSdmR4RmxCV0lKOURlRmxVbzhP?oc=5",
+      "published_at": "Mon, 01 Jul 2024 07:00:00 GMT",
       "status_guess": "closed",
-      "score": 3,
-      "venue_guess": "ozy Asian eatery",
-      "area_guess": "West Des Moines",
+      "score": 8,
+      "venue_guess": "Will any Arby\u2019s locations in Iowa close after a franchisee filed for bankruptcy? - The Des Moines Register",
+      "area_guess": "Des Moines Metro",
       "matched_terms": [
-        "closing"
+        "bankrupt",
+        "bankruptcy"
       ]
     }
   ]
