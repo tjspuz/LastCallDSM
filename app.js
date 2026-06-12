@@ -141,7 +141,9 @@ function buildRange(item) {
     return `Closes ${formatShortDate(closedDate, closedPrecision)}`;
   }
 
-  if (closedDate) {
+  // An open venue has no closing date to show; eventDate may be a directory
+  // sort placeholder (1900-01-01), so fall through to the label instead.
+  if (closedDate && item.status !== "opened") {
     return formatShortDate(closedDate, closedPrecision);
   }
 

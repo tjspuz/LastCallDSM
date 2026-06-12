@@ -756,14 +756,36 @@ def build_closure_report(leads: Iterable[Lead]) -> list[Lead]:
     return sort_leads_for_report(closure_like)
 
 
+PLACES_BATCH_SIZE = 40  # 40/run x 4 runs/day ~ 4.8K calls/month, inside the
+                        # Places Text Search free tier; full catalog sweep ~5 days
+PLACES_CURSOR_PATH = REPORTS_DIR / "places-cursor.json"
+
+
 def verify_places() -> list[dict[str, Any]]:
+    """Check a rotating batch of venues against Google Places businessStatus.
+
+    Results merge into the existing places-status.json (keyed by venue id) so
+    update_statuses.py always sees the latest observation for every venue,
+    while each run only spends PLACES_BATCH_SIZE API calls.
+    """
     api_key = os.environ.get("GOOGLE_PLACES_API_KEY")
     if not api_key:
         return []
 
     venues = load_json(VENUES_PATH)["items"]
-    results: list[dict[str, Any]] = []
-    for venue in venues:
+    existing = {
+        row["id"]: row
+        for row in (load_json(REPORTS_DIR / "places-status.json") if (REPORTS_DIR / "places-status.json").exists() else [])
+    }
+    cursor = 0
+    if PLACES_CURSOR_PATH.exists():
+        cursor = load_json(PLACES_CURSOR_PATH).get("cursor", 0) % max(len(venues), 1)
+
+    batch = venues[cursor : cursor + PLACES_BATCH_SIZE]
+    if len(batch) < PLACES_BATCH_SIZE:
+        batch += venues[: PLACES_BATCH_SIZE - len(batch)]
+
+    for venue in batch:
         query = f'{venue["name"]} {venue["neighborhood"]} Iowa'
         request_body = json.dumps({"textQuery": query}).encode("utf-8")
         request = Request(
@@ -777,20 +799,30 @@ def verify_places() -> list[dict[str, Any]]:
                 "X-Goog-FieldMask": "places.displayName,places.formattedAddress,places.businessStatus",
             },
         )
-        with urlopen(request, timeout=25) as response:
-            payload = json.loads(response.read().decode("utf-8"))
+        try:
+            with urlopen(request, timeout=25) as response:
+                payload = json.loads(response.read().decode("utf-8"))
+        except Exception:  # noqa: BLE001 - one bad lookup shouldn't kill the run
+            continue
 
         place = payload.get("places", [{}])[0]
-        results.append(
-            {
-                "id": venue["id"],
-                "name": venue["name"],
-                "query": query,
-                "businessStatus": place.get("businessStatus"),
-                "formattedAddress": place.get("formattedAddress"),
-            }
-        )
-    return results
+        existing[venue["id"]] = {
+            "id": venue["id"],
+            "name": venue["name"],
+            "query": query,
+            "businessStatus": place.get("businessStatus"),
+            "formattedAddress": place.get("formattedAddress"),
+            "checkedAt": now_iso(),
+        }
+
+    save_json(
+        PLACES_CURSOR_PATH,
+        {"cursor": (cursor + PLACES_BATCH_SIZE) % max(len(venues), 1), "updatedAt": now_iso()},
+    )
+
+    # Drop rows for venues no longer in the dataset.
+    venue_ids = {venue["id"] for venue in venues}
+    return [row for row in existing.values() if row["id"] in venue_ids]
 
 
 def build_summary(leads: list[Lead], warnings: list[str] | None = None) -> dict[str, Any]:

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T03:11:28+00:00",
+  "updatedAt": "2026-06-12T03:32:23+00:00",
   "city": "Des Moines Metro",
   "items": [
     {
@@ -116,9 +116,9 @@
       "publicDescription": "An ice cream shop in Cumming's Middlebrook development, opened April 6, 2026."
     },
     {
-      "id": "panka-peruvian-closure",
+      "id": "panka-peruvian-stayed-open-2026",
       "name": "Panka Peruvian",
-      "status": "closed",
+      "status": "opened",
       "eventDate": "2026-04-01",
       "sortDate": "2026-04-01",
       "dateLabel": "Apr 2026",
@@ -127,19 +127,21 @@
       "venueTypeLabel": "Restaurant",
       "cuisine": "Peruvian",
       "neighborhood": "Ingersoll",
-      "story": "Panka Peruvian announced it would close in early April after nearly seven years on Ingersoll, where it built a loyal following for its warm hospitality and Peruvian cooking.",
+      "story": "Panka announced it would close in early April 2026 after seven years on Ingersoll -- but the Peruvian restaurant stayed open and continues serving dinner and weekend brunch.",
       "verificationLevel": "verified",
       "sources": [
         {
           "label": "KCCI",
           "url": "https://www.kcci.com/article/panka-peruvian-restaurant-in-des-moines-to-close-in-april/70260705"
+        },
+        {
+          "label": "Panka",
+          "url": "https://pankadsm.com/"
         }
       ],
       "openedDate": "2019-02-01",
       "openedDatePrecision": "month",
-      "closedDate": "2026-04-01",
-      "closedDatePrecision": "month",
-      "publicDescription": "Known for elevated Peruvian dishes and a warm Ingersoll dining room, Panka closed in early April 2026 after nearly seven years."
+      "publicDescription": "Panka announced it would close in early April 2026 after seven years on Ingersoll -- but the Peruvian restaurant stayed open and continues serving dinner and weekend brun"
     },
     {
       "id": "false-nine-social-club-opening",
@@ -1517,32 +1519,6 @@
       "publicDescription": "Zora closed amid escalating city scrutiny, nuisance complaints, and litigation tied to safety and operating issues"
     },
     {
-      "id": "maxies-closure",
-      "name": "Maxie's Restaurant & Lounge",
-      "status": "closed",
-      "eventDate": "2023-03-20",
-      "sortDate": "2023-03-20",
-      "dateLabel": "Mar 20, 2023",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Classic American",
-      "neighborhood": "West Des Moines",
-      "story": "One of the metro's oldest restaurants closed after 56 years when its owner faced health issues and a sale failed to materialize in time.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Axios Des Moines",
-          "url": "https://www.axios.com/local/des-moines/2023/01/13/west-des-moines-maxies-permanently-closing"
-        }
-      ],
-      "openedDate": "1967-01-01",
-      "openedDatePrecision": "year",
-      "closedDate": "2023-03-20",
-      "closedDatePrecision": "day",
-      "publicDescription": "One of the metro's oldest restaurants closed after 56 years when its owner faced health issues and a sale failed to materialize in time"
-    },
-    {
       "id": "spaghetti-works-closure",
       "name": "Spaghetti Works",
       "status": "closed",
@@ -1571,6 +1547,36 @@
       "closedDate": "2023-03-20",
       "closedDatePrecision": "day",
       "publicDescription": "The longtime Court Avenue institution closed in March 2023 after failing to recover from pandemic-era losses"
+    },
+    {
+      "id": "maxies-supper-club-reopened-2023-03",
+      "name": "Maxie's Supper Club",
+      "status": "opened",
+      "eventDate": "2023-03-01",
+      "sortDate": "2023-03-01",
+      "dateLabel": "Mar 2023",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Supper Club",
+      "neighborhood": "West Des Moines",
+      "story": "Maxie's reopened in March 2023 as Maxie's Supper Club under new owner Anna Suttie, keeping the Grand Avenue institution's signature dishes with an elevated menu.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Business Record",
+          "url": "https://www.businessrecord.com/maxies-restaurant-reopening-in-march-under-new-ownership/"
+        },
+        {
+          "label": "Maxie's Supper Club",
+          "url": "https://www.maxieswdsm.com/"
+        }
+      ],
+      "publicDescription": "Maxie's reopened in March 2023 as Maxie's Supper Club under new owner Anna Suttie, keeping the Grand Avenue institution's signature dishes with an elevated menu.",
+      "address": "1311 Grand Avenue, West Des Moines, IA, 50265",
+      "website": "https://www.maxieswdsm.com/",
+      "openedDate": "2023-03-01",
+      "openedDatePrecision": "month"
     },
     {
       "id": "gusto-pizza-waukee-closed-2023-02-09",
@@ -1627,6 +1633,36 @@
       "closedDate": null,
       "closedDatePrecision": null,
       "publicDescription": "Faustinos opened in Franklin Plaza with Guerrero-rooted recipes and quickly became a local taco favorite"
+    },
+    {
+      "id": "maxies-closure",
+      "name": "Maxie's Restaurant & Lounge",
+      "status": "closed",
+      "eventDate": "2023-02-01",
+      "sortDate": "2023-02-01",
+      "dateLabel": "Feb 2023",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Classic American",
+      "neighborhood": "West Des Moines",
+      "story": "One of the metro's oldest restaurants closed in February 2023 after 56 years -- then reopened a month later as Maxie's Supper Club under new owner Anna Suttie.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Axios Des Moines",
+          "url": "https://www.axios.com/local/des-moines/2023/01/13/west-des-moines-maxies-permanently-closing"
+        },
+        {
+          "label": "Business Record",
+          "url": "https://www.businessrecord.com/maxies-restaurant-reopening-in-march-under-new-ownership/"
+        }
+      ],
+      "openedDate": "1967-01-01",
+      "openedDatePrecision": "year",
+      "closedDate": "2023-02-01",
+      "closedDatePrecision": "month",
+      "publicDescription": "One of the metro's oldest restaurants closed in February 2023 after 56 years -- then reopened a month later as Maxie's Supper Club under new owner Anna Suttie."
     },
     {
       "id": "homegrown-opening",
@@ -2719,6 +2755,36 @@
       "closedDate": "2019-05-14",
       "closedDatePrecision": "day",
       "publicDescription": "Fighting Burrito closed in May 14, 2019 after a run in Des Moines Metro."
+    },
+    {
+      "id": "clydes-fine-diner-east-village",
+      "name": "Clyde's Fine Diner",
+      "status": "opened",
+      "eventDate": "2019-01-01",
+      "sortDate": "2019-01-01",
+      "dateLabel": "2019",
+      "datePrecision": "year",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "New American",
+      "neighborhood": "East Village",
+      "story": "Clyde's Fine Diner pairs chef-driven comfort food -- burgers, crudo, agnolotti -- with serious cocktails in the East Village.",
+      "verificationLevel": "verified",
+      "sources": [
+        {
+          "label": "Clyde's Fine Diner",
+          "url": "https://www.clydesfinediner.com/"
+        },
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/9443984781"
+        }
+      ],
+      "publicDescription": "Clyde's Fine Diner pairs chef-driven comfort food -- burgers, crudo, agnolotti -- with serious cocktails in the East Village.",
+      "address": "111 East Grand Avenue, Des Moines, IA, 50309",
+      "website": "https://www.clydesfinediner.com/",
+      "openedDate": "2019-01-01",
+      "openedDatePrecision": "year"
     },
     {
       "id": "cowboy-chicken-ankeny-closed-2018-12-10",
@@ -5912,32 +5978,6 @@
       "firstSeen": "2026-06-11",
       "address": "13435 University Avenue, Clive, IA, 50325",
       "website": "https://www.clubcardining.com/",
-      "descriptionSource": "enriched"
-    },
-    {
-      "id": "osm-node-9443984781",
-      "name": "Clyde's Fine Diner",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines",
-      "story": "A fine diner in Des Moines.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/node/9443984781"
-        }
-      ],
-      "publicDescription": "A fine diner in Des Moines.",
-      "firstSeen": "2026-06-11",
-      "address": "111 East Grand Avenue, Des Moines, IA, 50309",
-      "website": "https://www.clydesfinediner.com/",
       "descriptionSource": "enriched"
     },
     {
@@ -11609,32 +11649,6 @@
       "publicDescription": "A casual diner serving up classic fare in the Des Moines metro.",
       "firstSeen": "2026-06-11",
       "address": "Des Moines Metro, IA",
-      "descriptionSource": "enriched"
-    },
-    {
-      "id": "osm-way-325927339",
-      "name": "Maxie's Supper Club",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "American",
-      "neighborhood": "West Des Moines",
-      "story": "A West Des Moines supper club dishing out American classics in a relaxed setting.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/way/325927339"
-        }
-      ],
-      "publicDescription": "A West Des Moines supper club dishing out American classics in a relaxed setting.",
-      "firstSeen": "2026-06-11",
-      "address": "1311 Grand Avenue, West Des Moines, IA, 50265",
-      "website": "https://www.maxieswdsm.com/",
       "descriptionSource": "enriched"
     },
     {
