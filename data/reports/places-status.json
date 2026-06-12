@@ -56,14 +56,6 @@
     "checkedAt": "2026-06-12T03:48:37+00:00"
   },
   {
-    "id": "the-last-pita-pit-des-moines-metro-closed-2026-01-22",
-    "name": "The last Pita Pit",
-    "query": "The last Pita Pit Des Moines Metro Iowa",
-    "businessStatus": "OPERATIONAL",
-    "formattedAddress": "1700 W 1st St Ste C, Cedar Falls, IA 50613, USA",
-    "checkedAt": "2026-06-12T03:48:37+00:00"
-  },
-  {
     "id": "desi-fresh-opening",
     "name": "Desi Fresh",
     "query": "Desi Fresh Waukee Iowa",
@@ -118,30 +110,6 @@
     "businessStatus": "OPERATIONAL",
     "formattedAddress": "2005 Ingersoll Ave Ste 101, Des Moines, IA 50309, USA",
     "checkedAt": "2026-06-12T03:48:38+00:00"
-  },
-  {
-    "id": "chi-chi-s-des-moines-metro-closed-2024-12-04",
-    "name": "Chi Chi's",
-    "query": "Chi Chi's Des Moines Metro Iowa",
-    "businessStatus": "OPERATIONAL",
-    "formattedAddress": "1602 West End Blvd, Minneapolis, MN 55416, USA",
-    "checkedAt": "2026-06-12T03:48:39+00:00"
-  },
-  {
-    "id": "chicago-dog-and-deli-des-moines-metro-closed-2019-12-03",
-    "name": "Chicago Dog and Deli",
-    "query": "Chicago Dog and Deli Des Moines Metro Iowa",
-    "businessStatus": "CLOSED_PERMANENTLY",
-    "formattedAddress": "523 Euclid Ave, Des Moines, IA 50313, USA",
-    "checkedAt": "2026-06-12T03:48:39+00:00"
-  },
-  {
-    "id": "pagliai-s-pizza-johnston-closed-2025-11-10",
-    "name": "Pagliai's Pizza",
-    "query": "Pagliai's Pizza Johnston Iowa",
-    "businessStatus": "OPERATIONAL",
-    "formattedAddress": "5312 Merle Hay Rd, Johnston, IA 50131, USA",
-    "checkedAt": "2026-06-12T03:48:39+00:00"
   },
   {
     "id": "highland-underground-opening",
@@ -200,14 +168,6 @@
     "checkedAt": "2026-06-12T03:48:40+00:00"
   },
   {
-    "id": "bar-louie-s-west-des-moines-west-des-moines-closed-2025-09-16",
-    "name": "Bar Louie's West Des Moines",
-    "query": "Bar Louie's West Des Moines West Des Moines Iowa",
-    "businessStatus": "CLOSED_PERMANENTLY",
-    "formattedAddress": "7105 Mills Civic Parkway, Jordan Creek Pkwy Town Center, West Des Moines, IA 50266, USA",
-    "checkedAt": "2026-06-12T03:48:41+00:00"
-  },
-  {
     "id": "fongs-east-village-opening",
     "name": "Fong's Pizza",
     "query": "Fong's Pizza East Village Iowa",
@@ -238,14 +198,6 @@
     "businessStatus": "OPERATIONAL",
     "formattedAddress": "East Bar, 301 Ashworth Rd Basement, West Des Moines, IA 50265, USA",
     "checkedAt": "2026-06-12T03:48:41+00:00"
-  },
-  {
-    "id": "st-kilda-cafe-bakery-downtown-closed-2024-12-20",
-    "name": "St. Kilda Cafe & Bakery",
-    "query": "St. Kilda Cafe & Bakery Downtown Iowa",
-    "businessStatus": "CLOSED_PERMANENTLY",
-    "formattedAddress": "300 SW 5th St, Des Moines, IA 50309, USA",
-    "checkedAt": "2026-06-12T03:48:42+00:00"
   },
   {
     "id": "flora-opening",
@@ -318,5 +270,325 @@
     "businessStatus": "CLOSED_PERMANENTLY",
     "formattedAddress": "2510 SW White Birch Dr, Ankeny, IA 50023, USA",
     "checkedAt": "2026-06-12T03:48:44+00:00"
+  },
+  {
+    "id": "oak-park-opening",
+    "name": "Oak Park",
+    "query": "Oak Park Ingersoll Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3901 Ingersoll Ave, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-12T03:51:36+00:00"
+  },
+  {
+    "id": "either-or-opening",
+    "name": "Either/Or",
+    "query": "Either/Or West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "6222 Grand Ave, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-12T03:51:36+00:00"
+  },
+  {
+    "id": "zora-closure",
+    "name": "Zora",
+    "query": "Zora Ingersoll Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "2120 Ingersoll Ave, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-12T03:51:36+00:00"
+  },
+  {
+    "id": "spaghetti-works-closure",
+    "name": "Spaghetti Works",
+    "query": "Spaghetti Works Court Avenue Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "309 Court Ave, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:51:36+00:00"
+  },
+  {
+    "id": "maxies-supper-club-reopened-2023-03",
+    "name": "Maxie's Supper Club",
+    "query": "Maxie's Supper Club West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1311 Grand Ave, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-12T03:51:37+00:00"
+  },
+  {
+    "id": "maxies-closure",
+    "name": "Maxie's Restaurant & Lounge",
+    "query": "Maxie's Restaurant & Lounge West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1311 Grand Ave, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-12T03:51:37+00:00"
+  },
+  {
+    "id": "faustinos-opening",
+    "name": "Faustinos Taqueria",
+    "query": "Faustinos Taqueria Franklin Avenue Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "4944 Franklin Ave Ste I, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-12T03:51:37+00:00"
+  },
+  {
+    "id": "homegrown-opening",
+    "name": "HomeGrown",
+    "query": "HomeGrown Sherman Hill Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "555 17th St Ste 102, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:51:37+00:00"
+  },
+  {
+    "id": "wahlburgers-jordan-creek-closure",
+    "name": "Wahlburgers Jordan Creek",
+    "query": "Wahlburgers Jordan Creek West Des Moines Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "7105 Mills Civic Pkwy #160, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-12T03:51:38+00:00"
+  },
+  {
+    "id": "coopers-hawk-opening",
+    "name": "Cooper's Hawk Winery & Restaurant",
+    "query": "Cooper's Hawk Winery & Restaurant Clive Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "12801 University Ave, Clive, IA 50325, USA",
+    "checkedAt": "2026-06-12T03:51:38+00:00"
+  },
+  {
+    "id": "1717-brewing-closure",
+    "name": "1717 Brewing Co.",
+    "query": "1717 Brewing Co. Market District Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "112 SE 4th St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:51:38+00:00"
+  },
+  {
+    "id": "osm-way-849366366",
+    "name": "Northern Vessel",
+    "query": "Northern Vessel Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1201 Keosauqua Way, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:51:38+00:00"
+  },
+  {
+    "id": "proof-closure",
+    "name": "Proof",
+    "query": "Proof Downtown Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "1301 Locust St C, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:51:39+00:00"
+  },
+  {
+    "id": "ninas-tacos-closure",
+    "name": "Nina's Tacos",
+    "query": "Nina's Tacos South Side Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1969 DeKalb Ave B, Sycamore, IL 60178, USA",
+    "checkedAt": "2026-06-12T03:51:39+00:00"
+  },
+  {
+    "id": "gusto-ingersoll-reopening",
+    "name": "Gusto Pizza Ingersoll Relaunch",
+    "query": "Gusto Pizza Ingersoll Relaunch Ingersoll Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "2301 Ingersoll Ave, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-12T03:51:39+00:00"
+  },
+  {
+    "id": "home-touch-kitchen-opening",
+    "name": "Home Touch Kitchen",
+    "query": "Home Touch Kitchen East Village Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "suite D, 1552 E Grand Ave Ste D, Des Moines, IA 50316, USA",
+    "checkedAt": "2026-06-12T03:51:39+00:00"
+  },
+  {
+    "id": "big-grove-opening",
+    "name": "Big Grove Brewery & Taproom",
+    "query": "Big Grove Brewery & Taproom Sherman Hill Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "555 17th St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:51:40+00:00"
+  },
+  {
+    "id": "chicken-shack-opening",
+    "name": "The Chicken Shack",
+    "query": "The Chicken Shack Highland Park Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "4221 SE Orilla Rd A, West Des Moines, IA 50061, USA",
+    "checkedAt": "2026-06-12T03:51:40+00:00"
+  },
+  {
+    "id": "continental-reopening",
+    "name": "The Continental",
+    "query": "The Continental East Village Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "407 E 5th St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:51:40+00:00"
+  },
+  {
+    "id": "rice-bowl-closure",
+    "name": "Rice Bowl",
+    "query": "Rice Bowl Beaverdale Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "4050 Urbandale Ave, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-12T03:51:40+00:00"
+  },
+  {
+    "id": "casa-cancun-opening",
+    "name": "Casa Cancun Mexican Bar & Grill",
+    "query": "Casa Cancun Mexican Bar & Grill South Side Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3855 121st St, Urbandale, IA 50323, USA",
+    "checkedAt": "2026-06-12T03:51:41+00:00"
+  },
+  {
+    "id": "gusto-wdm-closure",
+    "name": "Gusto Pizza West Des Moines",
+    "query": "Gusto Pizza West Des Moines West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "120 Jordan Creek Pkwy, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-12T03:51:41+00:00"
+  },
+  {
+    "id": "tupelo-honey-opening",
+    "name": "Tupelo Honey",
+    "query": "Tupelo Honey Downtown Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "665 Grand Ave Ste 100, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:51:41+00:00"
+  },
+  {
+    "id": "503-opening",
+    "name": "503 Cocktail Lab + Tasting Room",
+    "query": "503 Cocktail Lab + Tasting Room East Village Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "503 E Locust St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:51:42+00:00"
+  },
+  {
+    "id": "mad-meatball-reopening",
+    "name": "Mad Meatball",
+    "query": "Mad Meatball Gray's Station Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "210 SW 11th St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:51:42+00:00"
+  },
+  {
+    "id": "ricochet-opening",
+    "name": "Ricochet",
+    "query": "Ricochet Court Avenue Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "400 Locust St Ste 105, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:51:42+00:00"
+  },
+  {
+    "id": "hobnob-opening",
+    "name": "Hobnob Coffee and Wine Bar",
+    "query": "Hobnob Coffee and Wine Bar Downtown Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1000 Walnut St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:51:42+00:00"
+  },
+  {
+    "id": "java-joes-closure",
+    "name": "Java Joe's",
+    "query": "Java Joe's Downtown Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "211 1/2 E Washington St, Iowa City, IA 52240, USA",
+    "checkedAt": "2026-06-12T03:51:43+00:00"
+  },
+  {
+    "id": "proudfoot-bird-opening",
+    "name": "Proudfoot & Bird",
+    "query": "Proudfoot & Bird Downtown Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1000 Walnut St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:51:43+00:00"
+  },
+  {
+    "id": "alleged-lees-opening",
+    "name": "Alleged Lee's",
+    "query": "Alleged Lee's East Village Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "510 E Grand Ave, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:51:43+00:00"
+  },
+  {
+    "id": "new-northwestern-opening",
+    "name": "The New Northwestern",
+    "query": "The New Northwestern East Village Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "321 E Walnut St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:51:43+00:00"
+  },
+  {
+    "id": "dobre-opening",
+    "name": "Dobre Tasting Room",
+    "query": "Dobre Tasting Room East Village Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "503 E Locust St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:51:44+00:00"
+  },
+  {
+    "id": "tako-opening",
+    "name": "TaKo",
+    "query": "TaKo West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "5962 Ashworth Rd, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-12T03:51:44+00:00"
+  },
+  {
+    "id": "good-news-darling-opening",
+    "name": "Good News, Darling",
+    "query": "Good News, Darling Downtown Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "717 Locust St Unit 103, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:51:44+00:00"
+  },
+  {
+    "id": "riccellis-closure",
+    "name": "Riccelli's Italian Restaurant",
+    "query": "Riccelli's Italian Restaurant South Side Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "3803 Indianola Ave, Des Moines, IA 50320, USA",
+    "checkedAt": "2026-06-12T03:51:44+00:00"
+  },
+  {
+    "id": "george-the-chili-king-closure",
+    "name": "George the Chili King",
+    "query": "George the Chili King Merle Hay Iowa",
+    "businessStatus": "CLOSED_TEMPORARILY",
+    "formattedAddress": "5722 Hickman Rd, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-12T03:51:45+00:00"
+  },
+  {
+    "id": "clydes-fine-diner-east-village",
+    "name": "Clyde's Fine Diner",
+    "query": "Clyde's Fine Diner East Village Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "111 E Grand Ave Ste 111, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:51:45+00:00"
+  },
+  {
+    "id": "osm-way-166244216",
+    "name": "Francie's Bar & Grill",
+    "query": "Francie's Bar & Grill Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2100 Wakonda View Dr, Des Moines, IA 50321, USA",
+    "checkedAt": "2026-06-12T03:51:45+00:00"
+  },
+  {
+    "id": "osm-node-3408040273",
+    "name": "Zuzap Thai Cuisine",
+    "query": "Zuzap Thai Cuisine Clive Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "12871 University Ave #100, Clive, IA 50325, USA",
+    "checkedAt": "2026-06-12T03:51:45+00:00"
+  },
+  {
+    "id": "osm-node-1685280609",
+    "name": "Zombie Burger + Bird",
+    "query": "Zombie Burger + Bird Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "300 E Grand Ave, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-12T03:51:46+00:00"
   }
 ]

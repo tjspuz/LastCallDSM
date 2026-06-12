@@ -1,4 +1,26 @@
 {
-  "generatedAt": "2026-06-12T03:48:44+00:00",
-  "changes": []
+  "generatedAt": "2026-06-12T03:51:46+00:00",
+  "changes": [
+    {
+      "id": "americana-closure",
+      "name": "Americana",
+      "transition": "possible-reopening",
+      "reason": "Google Places businessStatus=OPERATIONAL for 2 consecutive runs",
+      "applied": false
+    },
+    {
+      "id": "ritual-cafe-closure",
+      "name": "Ritual Cafe",
+      "transition": "possible-reopening",
+      "reason": "Google Places businessStatus=OPERATIONAL for 2 consecutive runs",
+      "applied": false
+    },
+    {
+      "id": "bussin-eggroll-opening",
+      "name": "Bussin' Eggroll and Rice Co.",
+      "transition": "possible-closure",
+      "reason": "Google Places businessStatus=CLOSED_PERMANENTLY for 2 consecutive runs",
+      "applied": false
+    }
+  ]
 }

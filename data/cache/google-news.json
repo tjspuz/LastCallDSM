@@ -202,26 +202,6 @@
     ]
   },
   {
-    "fingerprint": "2410bf0231fb07",
-    "source_id": "metro-openings",
-    "source_label": "Metro openings",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (opened OR opening OR \"soft opening\" OR \"grand opening\" OR reopening)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Conveyor belt sushi restaurant opening in West Des Moines - Axios",
-    "summary": "Conveyor belt sushi restaurant opening in West Des Moines Axios",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMm5uUVBZSk9wTVY1VnRqeVlHTUZrYTREVUtRVjdybTlQT20wc005eEdqWDhuWTE3OWlnTHJBQ0NMZmtDcWw0Zkt4MEwwaWhuZzZ3LTdYOTFGYTM1LURCNlVQdk01YjM5cS1ySXRFenliZGRsaDV1ek4wZDdDZDl3YVFoTkNjMWZPVFYxZzdLanE2NmRGT2FEYmNuSUw3cUdIazlFb2lpM3I?oc=5",
-    "published_at": "Tue, 04 Nov 2025 08:00:00 GMT",
-    "status_guess": "review",
-    "score": 4,
-    "venue_guess": "Conveyor belt sushi",
-    "area_guess": "West Des Moines",
-    "matched_terms": [
-      "opening"
-    ]
-  },
-  {
     "fingerprint": "d67e21a3884c37",
     "source_id": "metro-openings",
     "source_label": "Metro openings",
@@ -237,6 +217,26 @@
     "score": 4,
     "venue_guess": "Barista's Bouquet",
     "area_guess": "Urbandale",
+    "matched_terms": [
+      "opening"
+    ]
+  },
+  {
+    "fingerprint": "2410bf0231fb07",
+    "source_id": "metro-openings",
+    "source_label": "Metro openings",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (opened OR opening OR \"soft opening\" OR \"grand opening\" OR reopening)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Conveyor belt sushi restaurant opening in West Des Moines - Axios",
+    "summary": "Conveyor belt sushi restaurant opening in West Des Moines Axios",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMm5uUVBZSk9wTVY1VnRqeVlHTUZrYTREVUtRVjdybTlQT20wc005eEdqWDhuWTE3OWlnTHJBQ0NMZmtDcWw0Zkt4MEwwaWhuZzZ3LTdYOTFGYTM1LURCNlVQdk01YjM5cS1ySXRFenliZGRsaDV1ek4wZDdDZDl3YVFoTkNjMWZPVFYxZzdLanE2NmRGT2FEYmNuSUw3cUdIazlFb2lpM3I?oc=5",
+    "published_at": "Tue, 04 Nov 2025 08:00:00 GMT",
+    "status_guess": "review",
+    "score": 4,
+    "venue_guess": "Conveyor belt sushi",
+    "area_guess": "West Des Moines",
     "matched_terms": [
       "opening"
     ]
@@ -424,26 +424,6 @@
     ]
   },
   {
-    "fingerprint": "50ab9733f03345",
-    "source_id": "metro-openings",
-    "source_label": "Metro openings",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (opened OR opening OR \"soft opening\" OR \"grand opening\" OR reopening)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "From Lachele's to Sunset Lounge: The 12 hottest new restaurants in Des Moines \u2014 March 2025 - The Des Moines Register",
-    "summary": "From Lachele's to Sunset Lounge: The 12 hottest new restaurants in Des Moines \u2014 March 2025 The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWEZWNGNqVF8tZFhjVU90ajVxR28zZXVjR2RDVGdDeTlra09GRUhuVzB6QmhGZ25EekhiVnRXMl9wREJ6YVplS0hsZ1hDWENwT1dER2gzRkt6c3Zibi12bXRtcW04SUVoR3BEb3hEUHk4TU1kTjhkVDdodEtTNWJsa3kwemhzV0RXaTFYbm42MUJSRk9TNS1KVjJ6dGpSMHZQSGN3ekppblJPMmV0elpaYXdhdzhXeVZFQ2dCbFNiTnVBdm9kd21zR2VxZTZwQ2JFR053SnFTM2RFT1JyYTN6emxfNGplcGFwX1E?oc=5",
-    "published_at": "Fri, 28 Mar 2025 07:00:00 GMT",
-    "status_guess": "opened",
-    "score": 5,
-    "venue_guess": "The 12 hottest new restaurants in Des Moines \u2014 March 2025 - The Des Moines Register",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "new restaurant"
-    ]
-  },
-  {
     "fingerprint": "a159a96de493c0",
     "source_id": "metro-openings",
     "source_label": "Metro openings",
@@ -464,23 +444,23 @@
     ]
   },
   {
-    "fingerprint": "413611cff6890f",
+    "fingerprint": "50ab9733f03345",
     "source_id": "metro-openings",
     "source_label": "Metro openings",
     "source_type": "google_news",
     "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (opened OR opening OR \"soft opening\" OR \"grand opening\" OR reopening)",
     "source_sort": "relevance",
     "source_timeframe": "all",
-    "title": "Pin High Sports Bar opening in Norwalk - Business Record",
-    "summary": "Pin High Sports Bar opening in Norwalk Business Record",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqd0RPMGxZUUNRTjF4T21LT1BoOTdHWWc0bDJjbDM2U3RHQWJpTUZROVluSDIyaFVuTU9HZ3pxOXo2ZEpvRHNNSV82YmdZZ1ZreXpGVmNyLXR2R3hJV0ljZnZBV2c3RFhvLVozUWxaZ3hPN0lWREVHZmlR?oc=5",
-    "published_at": "Wed, 18 Jun 2025 07:00:00 GMT",
-    "status_guess": "review",
-    "score": 4,
-    "venue_guess": "Pin High Sports",
+    "title": "From Lachele's to Sunset Lounge: The 12 hottest new restaurants in Des Moines \u2014 March 2025 - The Des Moines Register",
+    "summary": "From Lachele's to Sunset Lounge: The 12 hottest new restaurants in Des Moines \u2014 March 2025 The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWEZWNGNqVF8tZFhjVU90ajVxR28zZXVjR2RDVGdDeTlra09GRUhuVzB6QmhGZ25EekhiVnRXMl9wREJ6YVplS0hsZ1hDWENwT1dER2gzRkt6c3Zibi12bXRtcW04SUVoR3BEb3hEUHk4TU1kTjhkVDdodEtTNWJsa3kwemhzV0RXaTFYbm42MUJSRk9TNS1KVjJ6dGpSMHZQSGN3ekppblJPMmV0elpaYXdhdzhXeVZFQ2dCbFNiTnVBdm9kd21zR2VxZTZwQ2JFR053SnFTM2RFT1JyYTN6emxfNGplcGFwX1E?oc=5",
+    "published_at": "Fri, 28 Mar 2025 07:00:00 GMT",
+    "status_guess": "opened",
+    "score": 5,
+    "venue_guess": "The 12 hottest new restaurants in Des Moines \u2014 March 2025 - The Des Moines Register",
     "area_guess": "Des Moines Metro",
     "matched_terms": [
-      "opening"
+      "new restaurant"
     ]
   },
   {
@@ -501,6 +481,67 @@
     "area_guess": "Des Moines Metro",
     "matched_terms": [
       "grand opening",
+      "opening"
+    ]
+  },
+  {
+    "fingerprint": "ff67dfd239b649",
+    "source_id": "metro-openings",
+    "source_label": "Metro openings",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (opened OR opening OR \"soft opening\" OR \"grand opening\" OR reopening)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "New Korean BBQ restaurant opening soon in Des Moines - Axios",
+    "summary": "New Korean BBQ restaurant opening soon in Des Moines Axios",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRzZZWlplQU94YlFDNkRYdFBBdFdMQmdlb2R4YVdnUkNfR29Rd0RtQnZXM0h2YkhTLXBVb0k5NlFOY0RROXBXQ0FCQ1lnYW5LejZSRnVMbTJBSDVsc1RfSTNoaXAzV0NVZkVwZk0wUllxWWpiVERtcFZJQno4LURNb0VMUFBZWUZGVkhYZ2hwNjJWczBxX0Z3?oc=5",
+    "published_at": "Tue, 22 Nov 2022 08:00:00 GMT",
+    "status_guess": "opened",
+    "score": 7,
+    "venue_guess": "New Korean BBQ",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "opening",
+      "opening soon"
+    ]
+  },
+  {
+    "fingerprint": "484e512ad62c9a",
+    "source_id": "metro-openings",
+    "source_label": "Metro openings",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (opened OR opening OR \"soft opening\" OR \"grand opening\" OR reopening)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Big Grove Brewery confirms Des Moines expansion plan, aims for 2022 opening in former Crescent Chevrolet building - The Des Moines Register",
+    "summary": "Big Grove Brewery confirms Des Moines expansion plan, aims for 2022 opening in former Crescent Chevrolet building The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUXZhaTd0UEZ1aXgwZlpYYVcyYXlZcEdWU1c0RWtaZUNwT0l0RlcwbFNta1ZmTUI4THVyMmRRZmhEZzNjM3JmaVNmcDBCTGpnVU5DS0haU0dDczhuaTJabXBLeEgwcEctNDQwSHV3cnVBazlYZVV1cERkdVZHVDZoOWNkZkNCVmFpSGZERVc5UGo2a2c0T3N2TnpudjB2ckstZ1I4ZDA3TU5KcFFQUEFEYWdUZDFoeUlUYkIxbHg5bngzZnpQdDE5RnNmVFJmdXR3bjBJYUtvZzcyUXlSaHY5T0VDY3FQSXV4cHlDWXpKSQ?oc=5",
+    "published_at": "Wed, 07 Jul 2021 07:00:00 GMT",
+    "status_guess": "review",
+    "score": 4,
+    "venue_guess": "Big Grove Brewery confirms Des Moines expansion plan, aims for 2022 opening",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "opening"
+    ]
+  },
+  {
+    "fingerprint": "35a12fee48c655",
+    "source_id": "metro-openings",
+    "source_label": "Metro openings",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (opened OR opening OR \"soft opening\" OR \"grand opening\" OR reopening)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "'Putting the passion on the plate': Des Moines restaurant opening new location - weareiowa.com",
+    "summary": "'Putting the passion on the plate': Des Moines restaurant opening new location weareiowa.com",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNENaMUVrR1k4X25IY3pfREd3T3NwNDVZTzhZdWdZZTlkYXo4c2h0QkFnTWhDdWwwLW16bFkwbkhVcEcxdGotaWpmaFF3eE1mMWM2S3lacWJodGY3NFV0MXBHeEN0Zk95S0xTSTlERnJQdmZkdkd1QU5uemIwM3k3MTd3Sm9WNjdtbEtRS1k4XzRRaFRKWExiOFR6YzRKRkx1cmZ6WXlKbDk5dm5nRmNmNVhUYmFNSTk5Uk9qYVh1aDBKdFlqWHQzX1dLRlhVclZPNHVkaFRB?oc=5",
+    "published_at": "Tue, 02 Jan 2024 08:00:00 GMT",
+    "status_guess": "review",
+    "score": 4,
+    "venue_guess": "Des Moines",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
       "opening"
     ]
   },
@@ -565,26 +606,6 @@
     ]
   },
   {
-    "fingerprint": "813bde53c6967a",
-    "source_id": "metro-closures",
-    "source_label": "Metro closures",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Django closing highlights financial strain on Iowa restaurants - KCCI",
-    "summary": "Django closing highlights financial strain on Iowa restaurants KCCI",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFAyMWpZTkdGeVJnNmoyWTN1YXJwdEtoazhSaXJWNmVFU0pSOVc5b1FHcDM4bnpQb3hqdlRDNG55cmNaSzA4YkFlUVhBczF0YjFwaVJQcVFJWDJYOWZ2UkpVd0tUeGY0RTgxbDhiOERhd19RVWVQZXdMQ1Vpa0gxcDdCY0hpMFY0Y0p0ZFlZa28?oc=5",
-    "published_at": "Wed, 28 Jan 2026 08:00:00 GMT",
-    "status_guess": "closed",
-    "score": 5,
-    "venue_guess": "Django",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "closing"
-    ]
-  },
-  {
     "fingerprint": "29b9a08d9a5132",
     "source_id": "metro-closures",
     "source_label": "Metro closures",
@@ -602,168 +623,6 @@
     "area_guess": "Des Moines Metro",
     "matched_terms": [
       "closing"
-    ]
-  },
-  {
-    "fingerprint": "35b78cfd59a360",
-    "source_id": "metro-closures",
-    "source_label": "Metro closures",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Nearly 80 Hardee's closed in 2025. How many locations did Iowa lose? - The Des Moines Register",
-    "summary": "Nearly 80 Hardee's closed in 2025. How many locations did Iowa lose? The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORzdEeWVhWXBqaFJMWDlvbFIySVdrUkFDSmlXVDJNUW1jZ1lPYzlrV1FGbDYxcUpncWhWSWVkR3kyYXZkbkh4b3IwZjE1c3d5a1hWNUZ2UUZtQmh1dWVUVmo4T2hMNXViUDc5bnRPdDczSW5EVnlaZjR4T0hPYXpiTlgtMjJXaG12aHhpVjVaNk51TnpZVWlrTGxIR29qb01oMlBCbXdJOEdqVEt2UEZzcm4wS3Q0bkVSTXNZLWx5U0lPQXhTTTdn?oc=5",
-    "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
-    "status_guess": "closed",
-    "score": 3,
-    "venue_guess": "Nearly 80 Hardee's",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "closed"
-    ]
-  },
-  {
-    "fingerprint": "7bce6471a4dd94",
-    "source_id": "metro-closures",
-    "source_label": "Metro closures",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Pizza Hut closing hundreds of restaurants. Will Iowa locations close? - The Des Moines Register",
-    "summary": "Pizza Hut closing hundreds of restaurants. Will Iowa locations close? The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHFsd0pKQnUtT0F1blRCWFppSC1fOTVkbWdVb1F4d3otaW8ydXg3dko2S2Z5MThLNUdmdjFLUF9sTmpVTVNZUDlQcVMxOXJQQ2dzSXJFZ0VLV2ZqRTVNdzhDZmFfdHlGejQ3b3VMbndVVkRFNTlUTk1rdnd3WkxHTkNTMEhjc0dReXJialIwZlJ2TGhrNVpCR3doalpBWDVLb3o3T0lOb1lGMk5VeGk5eVRaNUxVTm5DQXRaSk9ZN0NrVlE?oc=5",
-    "published_at": "Fri, 06 Feb 2026 08:00:00 GMT",
-    "status_guess": "closed",
-    "score": 5,
-    "venue_guess": "Pizza Hut",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "closing"
-    ]
-  },
-  {
-    "fingerprint": "277922816aeeda",
-    "source_id": "metro-closures",
-    "source_label": "Metro closures",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "The last Pita Pit location in the Des Moines metro is closing - The Des Moines Register",
-    "summary": "The last Pita Pit location in the Des Moines metro is closing The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRlhRRjlmQU9pNHpIWVFyNlNWUWx5NlNXZDgyR1ZpbU82YlRneGxPMlBZZEJ4eWJzbk9semJORS13MkFONVBVRzF6amd3OXVsVE5oZjRGc3JtWF8yX2Fhdjl5SG00QmNzeGRaQW4zdWJzc0RUcU0xVW1YbFNBYmtaQlJCc1NQdTg5cW5faGN1bFRBd2I5WnJSbUhxWlhuTkNwWC12UzI0UTRDTG5LUHBnYTd6M096WGdQZVRIUFc5YkhLWUpK?oc=5",
-    "published_at": "Thu, 22 Jan 2026 08:00:00 GMT",
-    "status_guess": "closed",
-    "score": 3,
-    "venue_guess": "The last Pita Pit location",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "closing"
-    ]
-  },
-  {
-    "fingerprint": "7dd58133d07141",
-    "source_id": "metro-closures",
-    "source_label": "Metro closures",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Django, French\u2011Inspired Des Moines Restaurant, Closing After 18 Years - newsradio 1040 who",
-    "summary": "Django, French\u2011Inspired Des Moines Restaurant, Closing After 18 Years newsradio 1040 who",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHBza2Y1ME1ETjlaZldKQ2pGWW56SU5IWHlFWWgyWkhQQVNQOEUtNXh1d3MyZmYzcjZDLVJhclo3RVJuSHBFUGpUSTlKQ3JER0dHZXR6S3JPdGUyQWhsQ0lDTHNqa21xcnRXTm9TOGJ5QXpYaXo4eVhDUm9MMVBweHBvM09kU09HSWJkUWVTZkZvSm13TERnWE41ekRkdHlJY3pneFFaZHF4UUZCTXFUVHE5bEbSAbwBQVVfeXFMT2hzdHpEOVJSVjBJeFMteG1SSDJKb0dHakNMTWJQZEctUlZWeHlzdVpXZ0lOSU5WajNTWDd5VFJ1UmNlZVg0Yll4NlNDeTh6N0xrSGNjYkJ5a1MwREhXLUhlR21FM3lNcGFzVjQtRTZBMG9zbmpYUngwZU8tZDF2NXM1cUZhUjlYOXZOVDBLMDFhMGl3MlVyQS16VmhJUDdTZzA4Y0RqOGxQYnNPSDRMTTlUR2ZwUW1FeUxlN1Q?oc=5",
-    "published_at": "Wed, 28 Jan 2026 08:00:00 GMT",
-    "status_guess": "closed",
-    "score": 5,
-    "venue_guess": "Django, French\u2011Inspired Des Moines Restaurant,",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "closing"
-    ]
-  },
-  {
-    "fingerprint": "19752ca1a90a7f",
-    "source_id": "metro-closures",
-    "source_label": "Metro closures",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Popular steakhouse chain's owners file bankruptcy. Do closures loom? - USA Today",
-    "summary": "Popular steakhouse chain's owners file bankruptcy. Do closures loom? USA Today",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNFNTSDVyTUtlRTJURnN0VWJlT3hSaFNKZzd5eEpqbU0zMW9RWG9GaXlTcy1hblVPa2tQTkpIdE1QOEtVTWpXSnJ1NmpUUmlnVGJfWnFsWTZJalVLX3huZGx6M19LRkdkXzlvdzNzSzlsSXhYUFVuSmlfbzhOTTJEY24yNG9mRVFRTm9oN041SUZHRWhCSjJzMlB6Yw?oc=5",
-    "published_at": "Fri, 17 Apr 2026 07:00:00 GMT",
-    "status_guess": "closed",
-    "score": 11,
-    "venue_guess": "Popular steakhouse chain's owners file bankruptcy. Do closures loom? - USA Today",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "bankrupt",
-      "bankruptcy",
-      "closure"
-    ]
-  },
-  {
-    "fingerprint": "cf3e4c5c7559e9",
-    "source_id": "metro-closures",
-    "source_label": "Metro closures",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "UPDATE: Last four Marco\u2019s Pizza locations in Iowa closed - Corridor Business Journal",
-    "summary": "UPDATE: Last four Marco\u2019s Pizza locations in Iowa closed Corridor Business Journal",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03NUR5a3pkVVZKTjdVM2ZUdlBTQUNYMk1hdHVSSS1rclZJUDdJaE9rbFNSZmI0aTh5VE1qT3lUQktmdFl4OFZ1aE5hVkJabTJXenVPMGZFR3dDaGlvWGl3NUxuenBTRUZaMzFzTHh0ZHlwVDA0NkIzSkZtSQ?oc=5",
-    "published_at": "Wed, 07 Jan 2026 08:00:00 GMT",
-    "status_guess": "closed",
-    "score": 3,
-    "venue_guess": "Last four Marco\u2019s Pizza locations",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "closed"
-    ]
-  },
-  {
-    "fingerprint": "5fcf7207f64bf4",
-    "source_id": "metro-closures",
-    "source_label": "Metro closures",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Award-winning brewery closing after 12 years of beer. Here's when: - The Des Moines Register",
-    "summary": "Award-winning brewery closing after 12 years of beer. Here's when: The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdmJpMGZWTHE0YXhIYjM0cmVucy1zazJCZnV4SFEtempCQjNTSENITnlXeHdXV3JGQXVGQUJDRmF3NFdGVjVXN3RGTTFiak1odmF6LUZLR3dQMkRMLTVQVG1UWnZJd2trakY5ZGxxNEtqbmNBVmJpVWVsVjk1U1A0NUxuRkE5QU45RDFyZHhoNWpWUnBKZDRTcE53Y2VCcjNVemhoamo1SWY5YVpDaGlfYXlvUURMeEdmSUE?oc=5",
-    "published_at": "Fri, 19 Dec 2025 08:00:00 GMT",
-    "status_guess": "closed",
-    "score": 5,
-    "venue_guess": "Award-winning",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "closing"
-    ]
-  },
-  {
-    "fingerprint": "fb92386d5a48fc",
-    "source_id": "metro-closures",
-    "source_label": "Metro closures",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "26 beloved Des Moines metro restaurants that closed in 2025 - The Des Moines Register",
-    "summary": "26 beloved Des Moines metro restaurants that closed in 2025 The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnVRREc4X1REeXRsRTBmczlSV2pGX053YVRUVkpzVk9UcHdLVUZqZmlSd0k2UkpKWE96TzFXVVc1anF3c0ZjRjl5bUpPYWhQOVpoSkxqUzJMUHJhdFdaa003VmRCOWtRQ2lqXzloMFhWT29EWjMxUjJMT2JGeWlMM0tKUkdiekl2U2FoejBuXzlVNE43bUx5Tl9LdmRvYmFWdWpPb1RoWTdIZ0Y5MWhXY3J0YmN3bjhfbUdxSQ?oc=5",
-    "published_at": "Thu, 04 Sep 2025 07:00:00 GMT",
-    "status_guess": "closed",
-    "score": 5,
-    "venue_guess": "26 beloved Des Moines metro restaurants that",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "closed"
     ]
   },
   {
@@ -787,63 +646,83 @@
     ]
   },
   {
-    "fingerprint": "a79bb719f7f3a5",
+    "fingerprint": "fb92386d5a48fc",
     "source_id": "metro-closures",
     "source_label": "Metro closures",
     "source_type": "google_news",
     "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
     "source_sort": "relevance",
     "source_timeframe": "all",
-    "title": "Popular Des Moines brunch spot closing its doors after 14 years - weareiowa.com",
-    "summary": "Popular Des Moines brunch spot closing its doors after 14 years weareiowa.com",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRENQUm1kY29ZM3Bwd3Qza0FTODJxSmFGUk1tckgtbEVLSEE4alFIVy1TRHVkSVIybWppZXY0dG5send3WUlfeUswZ3dQOGM5NkdxZUZEVUJFMWFvT3B4TVhSTHZHTTBsN0pWcEZZLUJmUTliX2hRanVpOS1DZzZRUWNMOFFObDVHdFNkWnMxM05hZ0xoSXpybnNTa2VyZ3Z3ZWptcm1vRkE4S0ZjeU1pVGw5WG1EYVBVbW5KX21sXzJydw?oc=5",
-    "published_at": "Thu, 21 Aug 2025 07:00:00 GMT",
+    "title": "26 beloved Des Moines metro restaurants that closed in 2025 - The Des Moines Register",
+    "summary": "26 beloved Des Moines metro restaurants that closed in 2025 The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnVRREc4X1REeXRsRTBmczlSV2pGX053YVRUVkpzVk9UcHdLVUZqZmlSd0k2UkpKWE96TzFXVVc1anF3c0ZjRjl5bUpPYWhQOVpoSkxqUzJMUHJhdFdaa003VmRCOWtRQ2lqXzloMFhWT29EWjMxUjJMT2JGeWlMM0tKUkdiekl2U2FoejBuXzlVNE43bUx5Tl9LdmRvYmFWdWpPb1RoWTdIZ0Y5MWhXY3J0YmN3bjhfbUdxSQ?oc=5",
+    "published_at": "Thu, 04 Sep 2025 07:00:00 GMT",
     "status_guess": "closed",
-    "score": 3,
-    "venue_guess": "Popular Des Moines brunch spot",
+    "score": 5,
+    "venue_guess": "26 beloved Des Moines metro restaurants that",
     "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "closing"
-    ]
-  },
-  {
-    "fingerprint": "5b139e54b06ab8",
-    "source_id": "metro-closures",
-    "source_label": "Metro closures",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Pagliai's Pizza in Johnston closed after allegedly drunk driver crashes into shop - The Des Moines Register",
-    "summary": "Pagliai's Pizza in Johnston closed after allegedly drunk driver crashes into shop The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUUJwblFyNVdtLUtQWFhpNi1QWVU3UDNfdkFLRmJDWTRVc0g5X01yMWl1dVJIdmVnNTlCb0RuUTZFSHdfSXFjZmRVSEU3Y2xjRWx6SFdvQ09nbmdIc1VncklmeFo1MTh0U1hYVkt3bEJ2YlNRLUZtbVhlZUVjUWtLSnFjUU1xWXJINmdqUnZ3RFZLdjNtN1NuNVlkLUNPRm9qZm1UaVl3NlVTYkRVRWRmZkJ5SUFDX2V6YXJKcA?oc=5",
-    "published_at": "Mon, 10 Nov 2025 08:00:00 GMT",
-    "status_guess": "closed",
-    "score": 3,
-    "venue_guess": "Pagliai's Pizza",
-    "area_guess": "Johnston",
     "matched_terms": [
       "closed"
     ]
   },
   {
-    "fingerprint": "36ba682774ad73",
+    "fingerprint": "277922816aeeda",
     "source_id": "metro-closures",
     "source_label": "Metro closures",
     "source_type": "google_news",
     "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
     "source_sort": "relevance",
     "source_timeframe": "all",
-    "title": "Lefty\u2019s Live Music, Des Moines\u2019 home for eclectic sounds, closing soon - The Des Moines Register",
-    "summary": "Lefty\u2019s Live Music, Des Moines\u2019 home for eclectic sounds, closing soon The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdy1NcjV0MmpyU1VrRk9FdWVhQVM5SU1BYUY1NnBJM2thcWxwWmQ4Sm1PVFpWbUE2QXBJU3pNaUliUUdPYmNqTlZtcEdfUEtxTnlDekgzSldTckUwempHd194YThOd2J0QnRWaU1KZ0tsSTA0U25sSTRsSmhCM0VMeUx1Y1g4VE9qTE1EMU1GNkg1WFJQekhva0hyVkxnZ0o1ZDFteERxTDN3dU5Ka00yNkg5YndjV1B4NmVDVA?oc=5",
-    "published_at": "Thu, 13 Nov 2025 08:00:00 GMT",
+    "title": "The last Pita Pit location in the Des Moines metro is closing - The Des Moines Register",
+    "summary": "The last Pita Pit location in the Des Moines metro is closing The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRlhRRjlmQU9pNHpIWVFyNlNWUWx5NlNXZDgyR1ZpbU82YlRneGxPMlBZZEJ4eWJzbk9semJORS13MkFONVBVRzF6amd3OXVsVE5oZjRGc3JtWF8yX2Fhdjl5SG00QmNzeGRaQW4zdWJzc0RUcU0xVW1YbFNBYmtaQlJCc1NQdTg5cW5faGN1bFRBd2I5WnJSbUhxWlhuTkNwWC12UzI0UTRDTG5LUHBnYTd6M096WGdQZVRIUFc5YkhLWUpK?oc=5",
+    "published_at": "Thu, 22 Jan 2026 08:00:00 GMT",
     "status_guess": "closed",
     "score": 3,
-    "venue_guess": "Lefty\u2019s Live Music, Des Moines\u2019 home for eclectic sounds,",
+    "venue_guess": "The last Pita Pit location",
     "area_guess": "Des Moines Metro",
     "matched_terms": [
       "closing"
+    ]
+  },
+  {
+    "fingerprint": "7bce6471a4dd94",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Pizza Hut closing hundreds of restaurants. Will Iowa locations close? - The Des Moines Register",
+    "summary": "Pizza Hut closing hundreds of restaurants. Will Iowa locations close? The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHFsd0pKQnUtT0F1blRCWFppSC1fOTVkbWdVb1F4d3otaW8ydXg3dko2S2Z5MThLNUdmdjFLUF9sTmpVTVNZUDlQcVMxOXJQQ2dzSXJFZ0VLV2ZqRTVNdzhDZmFfdHlGejQ3b3VMbndVVkRFNTlUTk1rdnd3WkxHTkNTMEhjc0dReXJialIwZlJ2TGhrNVpCR3doalpBWDVLb3o3T0lOb1lGMk5VeGk5eVRaNUxVTm5DQXRaSk9ZN0NrVlE?oc=5",
+    "published_at": "Fri, 06 Feb 2026 08:00:00 GMT",
+    "status_guess": "closed",
+    "score": 5,
+    "venue_guess": "Pizza Hut",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "2662f45dcefc90",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Des Moines pizza pioneer Abbie Polito dies at age 101; opened restaurant in 1952 - The Des Moines Register",
+    "summary": "Des Moines pizza pioneer Abbie Polito dies at age 101; opened restaurant in 1952 The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc3huSEpHRWYwbzFJNkdQNl9OVi1qdUx6eWVocWdPZDAzVjZOalN2N2FJbWRnOUV5ZVV0MklMajk2MHROVmVwd2xwcW04c3FTN1F3UG9BeF9kSjlCUkw3c05seEJlaWlwbmdoQV9QbUJ1aWVyZm1UT3NOZmRYOC05aERTeVpIR1RJS3B5b0hxSmVzdVVvY0Y3S2lSeXFqb0FmWi1nMTREMFR0aUxhc1JCLXJxY3o1QjdiaWU5MVFuTTFXYTQxb2QyTzJVOA?oc=5",
+    "published_at": "Wed, 18 Jun 2025 07:00:00 GMT",
+    "status_guess": "opened",
+    "score": 5,
+    "venue_guess": "Des Moines pizza pioneer Abbie Polito dies at age 101;",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "opened"
     ]
   },
   {
@@ -972,26 +851,6 @@
     ]
   },
   {
-    "fingerprint": "57a2003bf0342f",
-    "source_id": "metro-closures",
-    "source_label": "Metro closures",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Gusto Pizza Co. closing a West Des Moines location; owners will open tequila and taco bar - The Des Moines Register",
-    "summary": "Gusto Pizza Co. closing a West Des Moines location; owners will open tequila and taco bar The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMEZWZmdPZk96cVBOaU1MNmxZaC0zb1ZEeFpyeU1ESTJ2dHVGM1pvaGZwQ1ROa0QwaGZlTEVXRnNfYUJicmlxZ1Y4SWRhVHdld1FSRHFfZ3cyOFgxajFVRkJVeTR2d1M2N3lHVEtMVXlLLTdtaFE5NjEwZXhuTWtJV21Ubjg3Vmg1Rl85VEo1NHFYLWdqSzJBS2JwQUt3VTV4Z29BbjFJMHk5X0lZbzFUYXFDZm5uYWlhc2hxZVdUMmljbE9BV0lzYVlieFk4TzZuRFdWNHBENEJFTmJvN1VUXzlhcVp0LTB2LWlDY2h0aXhWbDc0ZHZBcGtlR3dIRmc5TUFrZTFDTnY?oc=5",
-    "published_at": "Mon, 05 Aug 2019 07:00:00 GMT",
-    "status_guess": "closed",
-    "score": 5,
-    "venue_guess": "Gusto Pizza Co",
-    "area_guess": "West Des Moines",
-    "matched_terms": [
-      "closing"
-    ]
-  },
-  {
     "fingerprint": "4f6524ee502b1a",
     "source_id": "metro-closures",
     "source_label": "Metro closures",
@@ -1007,6 +866,47 @@
     "score": 3,
     "venue_guess": "Paesano's Pizzeria",
     "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "a19364c77db4c0",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Latest on Peace Tree's closure: Saturday is last day for Des Moines taproom - KCCI",
+    "summary": "Latest on Peace Tree's closure: Saturday is last day for Des Moines taproom KCCI",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObk9weDA2NUNaeWVzamY0UGZZS2ZlOWxSaEZnRjRCV1VhWXVwcmdYdk5FdFFXRWdRRmo2b1VacUlNcU43blBVMFVudFdtZVdaZi05WjhJQ0x2VWVhMk5iWk5NUUpVZDl1Q0Z4OHJRMy1XazhOQkNxTlI5YThwb29fNnVCazhuWjZTUlpPNXNIM1gzNGtDNUZVUllVVkwzN2xCTXlj?oc=5",
+    "published_at": "Sat, 22 Jun 2024 07:00:00 GMT",
+    "status_guess": "closed",
+    "score": 7,
+    "venue_guess": "Saturday is last day for Des Moines taproom - KCCI",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closure",
+      "last day"
+    ]
+  },
+  {
+    "fingerprint": "57a2003bf0342f",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Gusto Pizza Co. closing a West Des Moines location; owners will open tequila and taco bar - The Des Moines Register",
+    "summary": "Gusto Pizza Co. closing a West Des Moines location; owners will open tequila and taco bar The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMEZWZmdPZk96cVBOaU1MNmxZaC0zb1ZEeFpyeU1ESTJ2dHVGM1pvaGZwQ1ROa0QwaGZlTEVXRnNfYUJicmlxZ1Y4SWRhVHdld1FSRHFfZ3cyOFgxajFVRkJVeTR2d1M2N3lHVEtMVXlLLTdtaFE5NjEwZXhuTWtJV21Ubjg3Vmg1Rl85VEo1NHFYLWdqSzJBS2JwQUt3VTV4Z29BbjFJMHk5X0lZbzFUYXFDZm5uYWlhc2hxZVdUMmljbE9BV0lzYVlieFk4TzZuRFdWNHBENEJFTmJvN1VUXzlhcVp0LTB2LWlDY2h0aXhWbDc0ZHZBcGtlR3dIRmc5TUFrZTFDTnY?oc=5",
+    "published_at": "Mon, 05 Aug 2019 07:00:00 GMT",
+    "status_guess": "closed",
+    "score": 5,
+    "venue_guess": "Gusto Pizza Co",
+    "area_guess": "West Des Moines",
     "matched_terms": [
       "closing"
     ]
@@ -1032,104 +932,385 @@
     ]
   },
   {
-    "fingerprint": "a19364c77db4c0",
+    "fingerprint": "305aa7dc88dc4e",
     "source_id": "metro-closures",
     "source_label": "Metro closures",
     "source_type": "google_news",
     "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
     "source_sort": "relevance",
     "source_timeframe": "all",
-    "title": "Latest on Peace Tree's closure: Saturday is last day for Des Moines taproom - KCCI",
-    "summary": "Latest on Peace Tree's closure: Saturday is last day for Des Moines taproom KCCI",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObk9weDA2NUNaeWVzamY0UGZZS2ZlOWxSaEZnRjRCV1VhWXVwcmdYdk5FdFFXRWdRRmo2b1VacUlNcU43blBVMFVudFdtZVdaZi05WjhJQ0x2VWVhMk5iWk5NUUpVZDl1Q0Z4OHJRMy1XazhOQkNxTlI5YThwb29fNnVCazhuWjZTUlpPNXNIM1gzNGtDNUZVUllVVkwzN2xCTXlj?oc=5",
-    "published_at": "Sat, 22 Jun 2024 07:00:00 GMT",
-    "status_guess": "closed",
-    "score": 7,
-    "venue_guess": "Saturday is last day for Des Moines taproom - KCCI",
+    "title": "5 new restaurants to try in the Des Moines skywalk, plus what else has changed - The Des Moines Register",
+    "summary": "5 new restaurants to try in the Des Moines skywalk, plus what else has changed The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOcnR1bHlWaGxtZnA0dEVQZEN5cHR5czRfVkFzUWgzRExwNmVzN290NWNLTXNBZ0NtemU0VVU3Q2xkWXVITkxGaVRtbTJ6RXctTHlyNzRYTzZ2dXd5OVFWODd0R2JDV1QyalpTSmloZHNXNGRnZjFQS3RpeVY3NXc2ckVyeXFPcnJESkl4TEJDelN4U3VLNmtBU2tQbGlDVFNtbFBGZU9KdkJybmVaYm00eGVua0VVUnlaNFVCQVJfRHktUmZWWFJXUlFfMFZuY2txRHNxYWpIVGRJZ1pDRHZ1bjFfRzJ5d2ZBTTJvWXRmRzZRM0w3d1ZtU2FEdDF0SkJCRDhtVzlR?oc=5",
+    "published_at": "Fri, 06 Aug 2021 07:00:00 GMT",
+    "status_guess": "opened",
+    "score": 5,
+    "venue_guess": "5 new restaurants to try in the Des Moines skywalk, plus what else",
     "area_guess": "Des Moines Metro",
     "matched_terms": [
-      "closure",
-      "last day"
+      "new restaurant"
     ]
   },
   {
-    "fingerprint": "ee52c2f9b5da65",
+    "fingerprint": "ae2c788b2c519d",
     "source_id": "metro-closures",
     "source_label": "Metro closures",
     "source_type": "google_news",
     "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
     "source_sort": "relevance",
     "source_timeframe": "all",
-    "title": "Des Moines said goodbye to some beloved restaurants and caf\u00e9s in 2021. Here are 5 of the saddest closings. - The Des Moines Register",
-    "summary": "Des Moines said goodbye to some beloved restaurants and caf\u00e9s in 2021. Here are 5 of the saddest closings. The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcjJsOS1UaTBGamIycDdvV1JHNnI1Y0REekg3djN6RzJOaG5QaXFDVzh6UURoSllQcnQ2dTJOODhJVURJM05PQVpqc3I2YzhZbDA1SVJpNi1lWkZhQXpUV0hCck0tbTBLOGQtSnhXSXZPVXJkREZ4OUZzNUZkNlRHS2VVQUs0azJpYTJzcV82WGgyazFLR3hkYk9Tb2VoT1hpS2cxQW1FSEJsSUY0MG5OR0JUX0pUU24wSHV3MFR3WFFqSFpsUDJQZWZ4X1dteU0xbC04V083ZFMyQUhiNUpmRlg3RTVEWUFEWC1yVVp4bjJxYnhfT2VRR05B?oc=5",
-    "published_at": "Thu, 30 Dec 2021 08:00:00 GMT",
+    "title": "Closing of Orlondo's on the Great Western Trail leaves void on south side of Des Moines - The Des Moines Register",
+    "summary": "Closing of Orlondo's on the Great Western Trail leaves void on south side of Des Moines The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPdmxXYXB2TTYwMWs3YkpLdnBLZU4wOXhRVHlYSlVXTHNGR3NuQjBISjl6Q1Rmc3N1bDZCOU9od2pTa2NQWElreXRYaGUtSWpEWWxvMTcxbDRuT2ZfMk5nVDNod3dBd2Z2NTB1S3d4MTNDeG0zaVhYdzJuV2tUMDE1cjBWUEotbFJEajh5cHZwbDZpemdCSXRsZTFzamF0YzFPNU1pdF9iWFVNNGY0eEJoR253LWdEZGZLSGxaS2RLWC1QRkpHWkloYy0yS0V4RENteV9XaUh3THVxNFIxV1ZscjQ1MnhlUjVONDZ1N011QlVzQ2J6V2dFRThhOFpzaHIxTm9BVnNxTDBIQ0lySzdwaGdNakxIUQ?oc=5",
+    "published_at": "Thu, 01 Aug 2019 07:00:00 GMT",
     "status_guess": "closed",
-    "score": 5,
-    "venue_guess": "Des Moines said goodbye to some beloved restaurants and caf\u00e9s",
+    "score": 3,
+    "venue_guess": "Closing of Orlondo's",
     "area_guess": "Des Moines Metro",
     "matched_terms": [
       "closing"
     ]
   },
   {
-    "fingerprint": "6632b102b44dbd",
+    "fingerprint": "900f1feaf33b0e",
     "source_id": "metro-closures",
     "source_label": "Metro closures",
     "source_type": "google_news",
     "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
     "source_sort": "relevance",
     "source_timeframe": "all",
-    "title": "Des Moines bar that blamed violence for closure sued for allegedly over-serving shooter - The Des Moines Register",
-    "summary": "Des Moines bar that blamed violence for closure sued for allegedly over-serving shooter The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPcXVIOVJHMmtmZ3BLdUVSb3Noc2t5VjRWX19nZnlYSDR4a1JuRk5URFNELXZFeHJnMlI5RnAtUkg3VTMyMDY1WHdrbnlsbE1Ebk9YU0p5ZFYtaVZVNmpuTV83d3FDSjFtc2NnQU9WRGpPQTdxTF95cUw1WjZZeWxMeFQ5dWlCdWpLOFhmT3pPZUt2V2pXWjRkVzd3c21TQURZYUxDdEVqMzRKdkViX2JkSjFkZ01UVjhDMGVrb0VrLXlWN2dzbDdFZV9HU0hJcmhDNnM3N19tbUktckJNTjRQN1lIV0Z5eFhZY05QUmJfdk80VVJwOFZrTkhYVkU4OUFVbGw5dmx2d2JGQjZT?oc=5",
-    "published_at": "Thu, 25 Jan 2024 08:00:00 GMT",
+    "title": "'It really could be just about anything': Former Ingersoll bar heading to auction after foreclosure - KCCI",
+    "summary": "'It really could be just about anything': Former Ingersoll bar heading to auction after foreclosure KCCI",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTUxidjVfZnYzQkZUUFh5b3BLZWJENzJnTE55MGhub2t3UHJ2V09zM3hNanNhYXBzZkRSMTNKclVBQ1NjZ09WY0RYRFE0Wm4zamtJS2xLbXVNN3NCUkptaG0xSmRVU3ZMRXR2TUhCN3kxOXFfV3FFeUNTcmNXZjBPaWNUTGFhWTQ1cnFJQl9oSlZPS2tWYm1BUEhQOVY3elFLdURPR3J1ZVNkVUVHc3NPWUJKZUMyMnpVcmpqdTQ0OXdON3RVamV3SEQxdlAzeWc?oc=5",
+    "published_at": "Sat, 14 Sep 2024 07:00:00 GMT",
     "status_guess": "closed",
-    "score": 5,
-    "venue_guess": "Des Moines bar that blamed violence for closure sued for allegedly over-serving shooter - The Des Moines Register",
-    "area_guess": "Des Moines Metro",
+    "score": 8,
+    "venue_guess": "Former Ingersoll bar heading to auction after foreclosure - KCCI",
+    "area_guess": "Ingersoll",
     "matched_terms": [
+      "auction",
       "closure"
     ]
   },
   {
-    "fingerprint": "2662f45dcefc90",
+    "fingerprint": "3df72c57f53e67",
     "source_id": "metro-closures",
     "source_label": "Metro closures",
     "source_type": "google_news",
     "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
     "source_sort": "relevance",
     "source_timeframe": "all",
-    "title": "Des Moines pizza pioneer Abbie Polito dies at age 101; opened restaurant in 1952 - The Des Moines Register",
-    "summary": "Des Moines pizza pioneer Abbie Polito dies at age 101; opened restaurant in 1952 The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc3huSEpHRWYwbzFJNkdQNl9OVi1qdUx6eWVocWdPZDAzVjZOalN2N2FJbWRnOUV5ZVV0MklMajk2MHROVmVwd2xwcW04c3FTN1F3UG9BeF9kSjlCUkw3c05seEJlaWlwbmdoQV9QbUJ1aWVyZm1UT3NOZmRYOC05aERTeVpIR1RJS3B5b0hxSmVzdVVvY0Y3S2lSeXFqb0FmWi1nMTREMFR0aUxhc1JCLXJxY3o1QjdiaWU5MVFuTTFXYTQxb2QyTzJVOA?oc=5",
-    "published_at": "Wed, 18 Jun 2025 07:00:00 GMT",
-    "status_guess": "opened",
-    "score": 5,
-    "venue_guess": "Des Moines pizza pioneer Abbie Polito dies at age 101;",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "opened"
-    ]
-  },
-  {
-    "fingerprint": "41d08a37911fcf",
-    "source_id": "metro-closures",
-    "source_label": "Metro closures",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "This longtime Mediterranean restaurant closed in Clive. It plans to find a new home. - The Des Moines Register",
-    "summary": "This longtime Mediterranean restaurant closed in Clive. It plans to find a new home. The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdExGRkVvOVJ0YVNYTlF6VUtfcEU5RnpVNHNBQm9Xd0ZuYmZrN0lCcTVQNXc3X25DSnNwTldpTlVMUjlieXRwMm8yQ1lScmxxbzNNSE1VbF9HTWdkUjY0N1BrMnFFOFZhZG9ZbzBoMEZFTms2dlRIMmZ2bkl5OXNGMXVFZDFJcTZkN21QUW83dUQyUzJDRnBTMFlRSmcwR1BCYVJOanhSYXBHR1oyVzFDRmZuZHF4VXM3M2kxLW9zT3pzYk5QUDBJ?oc=5",
-    "published_at": "Mon, 19 Feb 2024 08:00:00 GMT",
+    "title": "Gone but not forgotten: 41 popular Des Moines restaurants now closed - The Des Moines Register",
+    "summary": "Gone but not forgotten: 41 popular Des Moines restaurants now closed The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQRzY1WjRIQk80SWphOGVFcFBrSkdod2pCOF9Bd1F5WEthWW9mOHVwSXBJRFE2bHJIa2FRMGJkQldnS1Z6YzRQdUQtVnRGTGZBQlZ5QVZFQ2ZLal9mX19QRHZqSHE2UDB6SHFDUHZtTVo5dzZrT0Z5VkVOQndYeHVnX21EcTBQQzluV2FYYldlcmdPaERKVVB5N3RxN2M5ZlJsTVphZDFNNFhseUdLS0dxSDFLSW1VZEswZkdvdWNVVUZLZHVjanh2eUxCc2RmV2JZd1ROV1Q2bkZSd2I2eFhpeWVNNnBsV210eGdTb2VtaVUzQmVwQU1rb2JTNFdteHFaUTd4SzEwTWhBQWlCOV85Q3htbUVnVDZCV3I2dGZ3?oc=5",
+    "published_at": "Mon, 01 Apr 2019 07:00:00 GMT",
     "status_guess": "closed",
     "score": 5,
-    "venue_guess": "This longtime Mediterranean",
+    "venue_guess": "41 popular Des Moines restaurants now",
     "area_guess": "Des Moines Metro",
     "matched_terms": [
       "closed"
+    ]
+  },
+  {
+    "fingerprint": "aa5d960b01b7bd",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Red Lobster is closing nearly 90 locations. Which in Iowa have closed? - The Des Moines Register",
+    "summary": "Red Lobster is closing nearly 90 locations. Which in Iowa have closed? The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbEZPbUZiUE1zLVZZc3pNRUQwR192WXNOcGlHWGw5dlNFVUsxeEt3VnFwZjB1elMwNzVyUEpSSE9yd0FfVjhNOGk2Rk9FakRzSFNXRjZqMEF1N0FBbzlmU0lNSmxJUXRqN0hFWVZXOFFFaV9uTUhVQTd4RVk4b3BSSjNLekpSSFFoenoxNy13bnR6ZWlDeDk2azI3c2tGT3RKT1V5SWxENE1SRXVrbUlIUU5nZERKRWFZV1FGcWhLWk9GNHExa3RhSHhVOHVfdHhhcjBHTlZjOW53OXBpTXhIR0g1UlIyclBQc0o4?oc=5",
+    "published_at": "Tue, 14 May 2024 07:00:00 GMT",
+    "status_guess": "closed",
+    "score": 6,
+    "venue_guess": "Red Lobster is",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed",
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "7f5af603e2e48c",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Is Red Lobster closing more restaurants in Iowa? Here's which restaurant is on the list - The Des Moines Register",
+    "summary": "Is Red Lobster closing more restaurants in Iowa? Here's which restaurant is on the list The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPelFIUmpoMjF2YW9VM20wUXR2SXQ2QXFIUkdEOWFHRC00d18zdExlejh2UVhmRFBTbklTM1N5NkhUX3VTakxFWFphRkNycnVNM1dodUpjV0w0SmlEdFhCdC1ZdzNid2RTYUpvZEw1RTFELXNiWEY2NWFpbmExNmg2UWhPeVlSVFFmY3h5aktIQ2FQZ1B0M2J3YllOVks3NTdkYkJsU2kzYjZKcFRhUERNcTB4S2UyczJzb09QVU52ZkVMS0hoQ0ltOGhrVmRrN2UwcDdjUDhLNA?oc=5",
+    "published_at": "Thu, 06 Jun 2024 07:00:00 GMT",
+    "status_guess": "closed",
+    "score": 5,
+    "venue_guess": "Is Red Lobster",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "0c91802c6516dc",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Popular restaurant on the bike trail in Des Moines is closing after 41 years in operation - The Des Moines Register",
+    "summary": "Popular restaurant on the bike trail in Des Moines is closing after 41 years in operation The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPR0FFOWszRzhreXpNS1FxNFF2MHk1Q1o5b0FDcUI4aDJWRnRZUGVrRnZ1QWZjdVVCTi16OVNjc2NHZGJMTzUxYzFBaHplVThWd1g2QmFnVHFOMUt0WDZ0OWRlZXdzaFBNaGYzYzVPa0luclRic2V5bHhTUHBSQTh6TWMxazY1bFlDaV9mX3QyREc4T1VpYnZpeWNxSl9oek9wS21TQW5nQUFGck0wc2dRcWRKV2NPUmRGajI0TG9mSnlvOV9Qam1jejh1MFpON2MteXIyd0pZTjhuUDNDbUNLV2hHa3M5NlBWTnJ6ZURrOVAyZzNBblR3cUxxZ2dxa2hyYk10MVdjanZXMDQ?oc=5",
+    "published_at": "Tue, 02 Jul 2019 07:00:00 GMT",
+    "status_guess": "closed",
+    "score": 5,
+    "venue_guess": "Popular",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "65d953e01e24ad",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Spaghetti Works says closing Des Moines location was months in the making - weareiowa.com",
+    "summary": "Spaghetti Works says closing Des Moines location was months in the making weareiowa.com",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdnBsN2lrdHJYYTZaYW5Lb1AzcHNaNXgxSi1QbE01dHJ1LVZQWGlqSEp1ajBaZ2ktaGJJZE9YVnBSNjluTS1nZWJSQ1ctY0d4WTRGR1ZzSVVlczFBYlA4OTlWVGF0SFlLSDYyMEJ1NENqdVh5MFBIaDZWYUpybTBkMGMwSGJJTWh1QXhsV0x6dUNuU3pQaHB3UnQ2TjZ5aEFGQ3JSNVJCRV9XODdEV1lfa0FKU1h4bXVLS0VqTEtVazUyWWJRSjZwZXl1OS1wamZxLUJRS0RFbWo2dzJiTUlPTzZPNFp1Zw?oc=5",
+    "published_at": "Mon, 27 Mar 2023 07:00:00 GMT",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Spaghetti Works says",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "99323497549708",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Southern-inspired Des Moines restaurant is closing - The Des Moines Register",
+    "summary": "Southern-inspired Des Moines restaurant is closing The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb191Y2xYRFhMVlRZLS00blhZZGFvbU0zVWpSQlZsZVFvcnJJNTVibUJqb2gzQnVVOFY5NGNrSXh4d1dEWjM3RUdfd01WNzhUV2x5eHktaVZXdnltRFctWTVzNGVJR2VrV0c3bFBjd1NQbG9jOU1ZdUxHSE9yRHlZUjJIUnRoSGJ6aF95VWdEclB3ejh0VF9sRGdodUl4cExEMXNqb3ZEd2pqZXRuUWFkWHg4eW54ejZibkludjNSOHE?oc=5",
+    "published_at": "Fri, 17 Feb 2017 08:00:00 GMT",
+    "status_guess": "closed",
+    "score": 5,
+    "venue_guess": "Southern-inspired Des Moines restaurant is",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "9294bfdf22cbef",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "After 42 years, this pizza and pasta joint on Des Moines' East Side is closing its doors - The Des Moines Register",
+    "summary": "After 42 years, this pizza and pasta joint on Des Moines' East Side is closing its doors The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRHZjdjhmWnQ5bEpfY1M2Tkc5SGxtc2dFVVVlVWd6MnRsQ2pCSDN1TGNPcG9tRURRYXlnWFZ2MTg4aWFNLUtZRkRBRkdGb2EzV0xkVG9xUy01MUNCQTVoTVdTSnVGaDBlalpSblVqS01UYVlpNWJxLVVjSlcyNm1DVXEyTmlzX0JpOVVwVld0SjZ1Z082YXBRNWxqbnlYdVY5QUdHbDNTRDlmcWFRcGt1dVhabHZzWkhkQl9oTzJoa1BPbXk1OHVqQmFBOHBkeW05NnRBNkhIcWlqRG9aalg5aDA1aldDcEVEdVNlVm9GVTRpMXI0ZjlGczhick81eEhibG84TWQ2NENqczYwSDZ3?oc=5",
+    "published_at": "Wed, 05 Dec 2018 08:00:00 GMT",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "this pizza and pasta joint",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "79076e51b848c9",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "After 26 years, this Ingersoll restaurant serving wings, nachos and beer is closing - The Des Moines Register",
+    "summary": "After 26 years, this Ingersoll restaurant serving wings, nachos and beer is closing The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSU1Lbm15QWthRFdKc0FVbTAwaDEtVnI1VVQwZVRtSjFWTDJ5OGMtUDlBeVZfNVFRT3YyUllvcEJWWEpFRFBkb3RnSFhHNEZoT3dsOUZaaVdBdm96alRtNlMyQzFxN18wMzhaM2k4S0tDNU5uRnhZcVpmeHpuTW9aUWFsQS1yc0JoM0xHOHBmdU9yUW5CcWVIbGdrSVB1cm43VjVDcWo2aXlKczVnSkhyTmlXTFJuUFhYYjJrczZrUUZNRHk2a2poMzVjZzFHUUhVQXdTYlA0SmF1RnNpNVMzb2tYTjdpaWxtRlZnSzg2ZkZCQ0ctMXVYSVA1dlJ5a1UtbnVUVktkTmoxWF8xenNZ?oc=5",
+    "published_at": "Mon, 13 May 2019 07:00:00 GMT",
+    "status_guess": "closed",
+    "score": 5,
+    "venue_guess": "nachos and beer is",
+    "area_guess": "Ingersoll",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "c95548bb155272",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Longtime pasta, sandwich and pizza shop on Des Moines' south side is closing - The Des Moines Register",
+    "summary": "Longtime pasta, sandwich and pizza shop on Des Moines' south side is closing The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQclI5ZTItdGJDYUlCRkhMcHcwbTNZNy1wS3lJUDFnMGhKVXVCSlAzZUhZWkJhdlREa25XSGY3aGdPaExsVHRXaXZrcHJpc2hha28zaWZkRjNpYW9FREgxNXdMUXpUbGxlUWM1NFo1Y0s2bDFtdWR5c0RDb2RlNm83OUZick0yODZZSlR6SWhPanBTNW1qN0tKQnZOZjlaakdVNTNvTXRXS1NWSUYya1ZHYURNSmg2VDl3REhCdVNJUFByZHBGXzNiQVA1c01GU0IyYW91MmpYM1dHeXltOHdJU3NlMi1qNFVsRU50T05SWXZWc0dWek8xNkt6SDN6RDQ5YmNSZy1ENWZQOEllLWc?oc=5",
+    "published_at": "Tue, 28 May 2019 07:00:00 GMT",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "sandwich and pizza shop",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "7a959d6a220fc5",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Chinese restaurant relocating to Capital Square; Kaleidoscope demo plans remain unclear - The Des Moines Register",
+    "summary": "Chinese restaurant relocating to Capital Square; Kaleidoscope demo plans remain unclear The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNeFJUT2tWckdweFN4ZXlQSldNcUMwbW0xX1UwUVJkcXhwNE51N1FRU0ZXRkprb3E2NTh3Y0hhMHA2aGJ1NmNJT04xM0pUcmVNcUxnbGYtNS1HLW5pN1E5alZSRWpGcS01bTRkTUZmR3NqVDZ6RUlMbHAzM2wzOENVYU1zc21KUjBMOVJiOUxqeTUtMVhBSlBMb2M3Tk5ha0hSMnJPVEdsai1XV0JEYWp6TWFZVHJtM2FrTUZfMUhlUmh4dnhIdHVKRkJ6SHpQbmpqaklXR0t4bGdYLWxjLWVlWVF1VXFzR0tHdUVETUtwaTNTSEZuVU5DVlpPZEJUc2hmbFB2MXB5SS02Z1BGVE5scXhaSFFZVjNyNHc?oc=5",
+    "published_at": "Tue, 02 Apr 2019 07:00:00 GMT",
+    "status_guess": "moved",
+    "score": 4,
+    "venue_guess": "Chinese",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "relocating"
+    ]
+  },
+  {
+    "fingerprint": "905c43dac5da28",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "West Des Moines burger joint closing this month - The Des Moines Register",
+    "summary": "West Des Moines burger joint closing this month The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOYUJla2xzY0pyMHRDN1FtU2pVNldiZTU2Zzk5R0xIejVLLVJHeU5pQnduUHBDTkxZbE82dmVmZndZWldHWTVRY0dWY3laX1dJOXVQVkdJVFRYQjZwN0VwOE9mVTBHd2VDcWUyanFqSU83Q3Bjell5Zi13ZVRtSXVqT0RYV3h6NW1Bcms1M2NrdEIwWmtkMk45MXNhSEpva3BLWkZkc0lCWmlIMktJSE9wUzZISHo3OU5hX0cwUjdfSml6SWYtdjZVbXoyRFROZHlNVFdhSG11NnJ4ekUtazh3Z09tVm1IZi13ZGIySkxvT0dVNmdOQzdsSElDbGZJTkloNGc?oc=5",
+    "published_at": "Mon, 09 Apr 2018 07:00:00 GMT",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "West Des Moines burger joint",
+    "area_guess": "West Des Moines",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "3e0b92ce6568f3",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Orlondo's closing leaves void in Des Moines cycling community - The Des Moines Register",
+    "summary": "Orlondo's closing leaves void in Des Moines cycling community The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOb29qMV8yT2VRREF0U1JGNHNMRzdEbVY1Z3o3SnRaeVh6cGFMbE1ZaGcyQmpVTldMNEpranpOMjZ1Rm5XN0w0cnMySV9ld1dINGFlYVZRN1R5cEYxQWtSNGgzVHBwTVhwYnZRUmJ5VVlNYWVKZTkwb3FxbTZzMEtBX2hBR3NtWkJaWUU0T2ZId2w5a2FkYVhaQ0JRTFpBbG5UdzIxNGc0Wk5FX2NaLTVCbVRjZTB2TDV2Qldvd0xlRWNqaV8xRmRSZXg3R3BIQU9ncFRoU0UwUjZxVllULXBvd05TSkM3ZV9iZ3lRNFJyVU9mZVlha3dIZnVJZmVmeWRVSHZCVkQ5Ukl1Z0tUTXFZ?oc=5",
+    "published_at": "Mon, 12 Aug 2019 07:00:00 GMT",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Orlondo's",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "942ecf7bc69850",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Sir's Kitchen is closing its doors after almost a year of bringing soul food to the east side - The Des Moines Register",
+    "summary": "Sir's Kitchen is closing its doors after almost a year of bringing soul food to the east side The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVTNkanQzQTZCSlUydUtJYzJJbEZFZVl1c1FzU0g1T003cGFsWDRIX3VGQ080RHJfUnBlOTBCYlFGTU9xekNhc3Y4MUJnOXZ3al93N2dpTkt0c0lRSGx4X3M4dy1OSnhUVjZPUk1wRmhMT0dUamZRM21GckM2ZGlHN0ZReGVGVGNZdUI5ckJMTFZwRzJpVFVZS18yUjlrN0w1bm04aVZVQk9yeDNOUzVDRGNZRHY0ZnVyM1hCOHFSSk1LUGcyOFktQWhpOVVCaGRJTUVGdWU1VW5BSEhleldfcmdwY0l3ZzY5LXVzZ2VQYk5hSGhXN2Z4ZlhPWW5kZkRjX2o1WUJLejA?oc=5",
+    "published_at": "Wed, 24 Jul 2019 07:00:00 GMT",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Sir's Kitchen is",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "8c4f4302984e60",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Mimi's Cafe in West Des Moines has closed - The Des Moines Register",
+    "summary": "Mimi's Cafe in West Des Moines has closed The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbm81ZUlnMzR3WVFYQUtUU0JidDJ6T2xDSnJsYTJsVTNsYS1fZzFxcDhycFBLZ05KdTF1MzlNQ0oyM19HR2RUSFFDYmNaZUhIRlhSelZNZVBRaWRVM3p1N09fUHdEUEcxTEVPdlhoM1YxVjdqQzZoTzhveEw5ZkhpNEZxWGFtemRaeEtMeHZZOTBTWDdma2dReDRtYjV4a1JERnRaOHlVR20xaEpLeHFaZ2FB?oc=5",
+    "published_at": "Wed, 28 May 2014 07:00:00 GMT",
+    "status_guess": "closed",
+    "score": 5,
+    "venue_guess": "Mimi's",
+    "area_guess": "West Des Moines",
+    "matched_terms": [
+      "closed"
+    ]
+  },
+  {
+    "fingerprint": "d02cd6bd13db0f",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Popular downtown restaurant closing today - KCCI",
+    "summary": "Popular downtown restaurant closing today KCCI",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeDRySHZ6Y3pDcHZ1YzJ3c25ySktGUGtXVEYxek9tTzkwZUgxLUFBMDVTMFBNQktvcTdUVU05TFdic3NxY2lpWXpJVUhwaDEyeHNYSFlGQk1ybjZLYUV2V29FZ2Z5dmpOVThMMUpjdW9IU3ZLYmFnQ3ZnNVRHM2c2YTRVZDg?oc=5",
+    "published_at": "Fri, 14 Aug 2015 07:00:00 GMT",
+    "status_guess": "closed",
+    "score": 5,
+    "venue_guess": "Popular downtown",
+    "area_guess": "Downtown",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "2d1d002b005dc5",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "RedBrick Pizza in danger of closing its doors - The Des Moines Register",
+    "summary": "RedBrick Pizza in danger of closing its doors The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM1hDclNDSll1TmNmQVNCSHJxT0hMajBvaF9hSmRsZS02LXo0SW1fSDlxa3A1bmVTMHVWTEltSXNWQllwbTJTS3lPU1F6djVqZjFTZlF0Nlo3ZVVYckJtSHQtSlFoRHZvTW1iYzFmeWx1M2FKcG5ZRGZ3QVJISVVFLS1xZ0hpeUVhdU45NURpdDdSSURTd3lob2ZYdzFfTmFFc2o5eXRzd3lSQUlBLWNQbVc4NGRySXVseWRtbThR?oc=5",
+    "published_at": "Sat, 10 Dec 2016 08:00:00 GMT",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "RedBrick Pizza",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
     ]
   },
   {
@@ -1862,46 +2043,6 @@
     ]
   },
   {
-    "fingerprint": "c029de706f1c89",
-    "source_id": "suburb-closures",
-    "source_label": "Suburb closures",
-    "source_type": "google_news",
-    "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Popular Clive restaurant closing in July - Business Record",
-    "summary": "Popular Clive restaurant closing in July Business Record",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zQTF1Yzd4aDVCb1lPaThGMWw3ZEpBYjFMalFSejJxUFc2MVBDLXFvanJsLTdsYmI5d0x3MFVjVkUxU3ZjSWJVSEVaVzNDYjlsdF82aVRkMFFIcEpfRjdNbnVFc19vR0lFWHh5dWtaWG93Wm5JZVIwcDl6MEQ?oc=5",
-    "published_at": "Thu, 09 Feb 2023 19:40:12 GMT",
-    "status_guess": "closed",
-    "score": 5,
-    "venue_guess": "Popular Clive",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "closing"
-    ]
-  },
-  {
-    "fingerprint": "2aefcee3ca3f8e",
-    "source_id": "suburb-closures",
-    "source_label": "Suburb closures",
-    "source_type": "google_news",
-    "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Gusto Pizza closing its Waukee restaurant - Business Record",
-    "summary": "Gusto Pizza closing its Waukee restaurant Business Record",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxRlBWbDJHY016Rl9EbXJoc203R2NTN1RrNEl4UjlsS08tVkROcHdydG45QkVTUWRHRW4ya1FRZlZCZ1YtLU9BNXJuTFl3OUpFekpRUjBFYkVGWll3R05hcXRQandnbThfZ21BSnlOZ0ZqUzJYdWVuNWY4MzZrUQ?oc=5",
-    "published_at": "Thu, 09 Feb 2023 16:22:08 GMT",
-    "status_guess": "closed",
-    "score": 5,
-    "venue_guess": "Gusto Pizza",
-    "area_guess": "Waukee",
-    "matched_terms": [
-      "closing"
-    ]
-  },
-  {
     "fingerprint": "0685361196a39d",
     "source_id": "suburb-closures",
     "source_label": "Suburb closures",
@@ -1983,26 +2124,6 @@
     ]
   },
   {
-    "fingerprint": "a1d289962a501f",
-    "source_id": "suburb-closures",
-    "source_label": "Suburb closures",
-    "source_type": "google_news",
-    "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "10 exciting restaurant and bar openings to anticipate in the Des Moines metro this summer - The Des Moines Register",
-    "summary": "10 exciting restaurant and bar openings to anticipate in the Des Moines metro this summer The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOejVOc245eWttcGZtQTRRTGZWSEFFWXdyTkRGR1ZNZXFOYmU1MFItNXlhLTlZTjdIZlBBYWJJRWZ2ZVZ2dVRrYW9hc0x3RElzTnhHZjc0WmpYM1JyRzktQ3AzM1hYdVhzQVd1X0FmenlNUEVjcEJfN3g5cG1yM184NUxUVWstanhxZmFOakROR2NITGJjOC1GR0tvYms5RVkwRDBET2o4WVJBc09LY1hpR1VfZ3d0N1AycGZwR2JCenlhV1YyeFRqRkhR?oc=5",
-    "published_at": "Mon, 16 Jun 2025 07:00:00 GMT",
-    "status_guess": "review",
-    "score": 4,
-    "venue_guess": "10 exciting restaurant and bar openings to anticipate",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "opening"
-    ]
-  },
-  {
     "fingerprint": "8906c3a234142b",
     "source_id": "suburb-closures",
     "source_label": "Suburb closures",
@@ -2021,26 +2142,6 @@
     "matched_terms": [
       "bankrupt",
       "bankruptcy",
-      "closing"
-    ]
-  },
-  {
-    "fingerprint": "6f9b8e6b1cd0d0",
-    "source_id": "suburb-closures",
-    "source_label": "Suburb closures",
-    "source_type": "google_news",
-    "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "\u2018We\u2019ve been very blessed\u2019 \u2013 Beloved Johnston County restaurant closing after 40+ years - CBS17.com",
-    "summary": "\u2018We\u2019ve been very blessed\u2019 \u2013 Beloved Johnston County restaurant closing after 40+ years CBS17.com",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUGZuTEdOUzhodm16MkswSmlZV1V1MkVVdENlOFRxSGlIcFhmbkwwOFNjX1VfS1ZPbVR1Vjk1YWgzMUVCc2pkYkpOaWVGYmhWMTVZTmt2V0F2aEdRQXpKQ1pYS0gzdlZLTXBvRG5ZcENHR1pDS1JZTEF0UWtMdFhhWjV4aEpZaWFXYXlCb0w4VTRNQXIxMnE3VzdRel9uWEZrdUhmWDRkR1VZQzZha2J3X0hXVWVTd1YxcG84eUpsR0NFam81M0VEdHBQYVZlb2h0TWRqZ3VxWdIB3AFBVV95cUxNMlZ4bmpuY2FXUjR5WDlHaDFQWnJHUG84cXVqLU03RnBxeTlxMHdkWHkwcTNrU3Jva1Qzck4ydnRBc0JoLWtFODlTOHpqZEllbEVtQTlQSHN1OWdBTnFnRU9KVkpVN1BfQzRSVGE4Z2k4TlFxTWc4TVY5aTllTlBVWDQ3UUtZUE40SVhQTjJMWWh5ZDN4Y3c0OUlvNzNPWGd5Ti1sUlpmX1NGYVlnOFJXdTNaUk94REdSdXc4by13UU5HUUZma0loVnduVUxvcFlQMFRNend5aGVuVHhN?oc=5",
-    "published_at": "Wed, 15 Sep 2021 07:00:00 GMT",
-    "status_guess": "closed",
-    "score": 5,
-    "venue_guess": "Beloved Johnston County",
-    "area_guess": "Johnston",
-    "matched_terms": [
       "closing"
     ]
   },
@@ -2185,27 +2286,6 @@
     ]
   },
   {
-    "fingerprint": "490ecb29322cbf",
-    "source_id": "suburb-closures",
-    "source_label": "Suburb closures",
-    "source_type": "google_news",
-    "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "9 things to know about the farm-to-table restaurant Table 128, reopening in Des Moines - The Des Moines Register",
-    "summary": "9 things to know about the farm-to-table restaurant Table 128, reopening in Des Moines The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLU82U1NDVGJnSTE1TndwbVgwNjRSWWg3a2Y2UjhiQjZmTlIySzRodFdHd1A1VEZ3bUdVSm8tM2dSQ0ZMSkE3VW9NVlBuUW5mbHhwNC0xU2N1eU5ma0tIQ0FrZXlORXVvSUxPUmdoTnUtLUk2aXd4VU9nMmpfVHgzMFRfYnEyc2pPWmtyQllTWi1OSC1icG9OTnozZzlQNS1XZy04QkluSFRDc2kxcmdoXzFabDBhamt6eFVQazVkZVBSRjZ2bGJLUV93WUxna1VpS0E?oc=5",
-    "published_at": "Thu, 08 Feb 2024 08:00:00 GMT",
-    "status_guess": "opened",
-    "score": 6,
-    "venue_guess": "9 things to know about the farm-to-table restaurant Table 128, reopening",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "opening",
-      "reopen"
-    ]
-  },
-  {
     "fingerprint": "239f43a9e6ca73",
     "source_id": "suburb-closures",
     "source_label": "Suburb closures",
@@ -2246,25 +2326,23 @@
     ]
   },
   {
-    "fingerprint": "ee90490df3ec80",
+    "fingerprint": "a83e9948ac4b52",
     "source_id": "suburb-closures",
     "source_label": "Suburb closures",
     "source_type": "google_news",
     "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
     "source_sort": "relevance",
     "source_timeframe": "all",
-    "title": "Happy Joe's plans for comeback after closures, bankruptcy - Axios",
-    "summary": "Happy Joe's plans for comeback after closures, bankruptcy Axios",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLV83LXFWOUl2UW9KZnpJcDBNaHpwQmU3bkVaQzBJMUhSdGMteGhacVN2Z200SzN6V0k3X1BxS29feU9RR1BvSmEyY1F6S0p3UEc1TnA2YUlCLUdCU0dVM0J5MmZjWElRVnJGZlFXOUFnNmZPdHlqRHRndkRWTXYwTGttdl9qeks3VnNxVmtNY3E4eVAwYXUxem0xNA?oc=5",
-    "published_at": "Fri, 14 Feb 2025 08:00:00 GMT",
+    "title": "Ben's Burgers in Ankeny is closing. What will take its place? - The Des Moines Register",
+    "summary": "Ben's Burgers in Ankeny is closing. What will take its place? The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVFJ3U1gzeHlRRmRXb1lIODdYOFlzN1d6VU52bVpkYXZrc2RPZ0J4QWFueGZ2eEVseFNVbkJlSjlwOXVxZDROZEk0SU9VeHRZcE5MZ0MzTjdMRmY2SzZHOHZhQVFjcmtqVHp3UWJ6V2VrZWI1ZWZLVnFuU1Ewd3JESDQ5djFacUlfQ1d0bU5yRWNQT0VNTEJ4REUta19NdlZ1eVh2QUh4T3BGbGVyYWRlcGZfd0RTLS1WeGJpZGE4SVRRLWs3Y1FibHpfVXpBdkdzRlB6Nm5zRkFZVWlRLUVDT2dkc0Y0dw?oc=5",
+    "published_at": "Mon, 18 Dec 2023 08:00:00 GMT",
     "status_guess": "closed",
-    "score": 11,
-    "venue_guess": "Happy Joe's plans for comeback after closures, bankruptcy - Axios",
-    "area_guess": "Des Moines Metro",
+    "score": 3,
+    "venue_guess": "Ben's Burgers",
+    "area_guess": "Ankeny",
     "matched_terms": [
-      "bankrupt",
-      "bankruptcy",
-      "closure"
+      "closing"
     ]
   },
   {
@@ -2289,23 +2367,25 @@
     ]
   },
   {
-    "fingerprint": "5517c1bdabf504",
+    "fingerprint": "ee90490df3ec80",
     "source_id": "suburb-closures",
     "source_label": "Suburb closures",
     "source_type": "google_news",
     "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
     "source_sort": "relevance",
     "source_timeframe": "all",
-    "title": "This longtime Mediterranean restaurant closed in Clive. It plans to find a new home. - The Des Moines Register",
-    "summary": "This longtime Mediterranean restaurant closed in Clive. It plans to find a new home. The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdExGRkVvOVJ0YVNYTlF6VUtfcEU5RnpVNHNBQm9Xd0ZuYmZrN0lCcTVQNXc3X25DSnNwTldpTlVMUjlieXRwMm8yQ1lScmxxbzNNSE1VbF9HTWdkUjY0N1BrMnFFOFZhZG9ZbzBoMEZFTms2dlRIMmZ2bkl5OXNGMXVFZDFJcTZkN21QUW83dUQyUzJDRnBTMFlRSmcwR1BCYVJOanhSYXBHR1oyVzFDRmZuZHF4VXM3M2kxLW9zT3pzYk5QUDBJ?oc=5",
-    "published_at": "Mon, 19 Feb 2024 08:00:00 GMT",
+    "title": "Happy Joe's plans for comeback after closures, bankruptcy - Axios",
+    "summary": "Happy Joe's plans for comeback after closures, bankruptcy Axios",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLV83LXFWOUl2UW9KZnpJcDBNaHpwQmU3bkVaQzBJMUhSdGMteGhacVN2Z200SzN6V0k3X1BxS29feU9RR1BvSmEyY1F6S0p3UEc1TnA2YUlCLUdCU0dVM0J5MmZjWElRVnJGZlFXOUFnNmZPdHlqRHRndkRWTXYwTGttdl9qeks3VnNxVmtNY3E4eVAwYXUxem0xNA?oc=5",
+    "published_at": "Fri, 14 Feb 2025 08:00:00 GMT",
     "status_guess": "closed",
-    "score": 5,
-    "venue_guess": "This longtime Mediterranean",
+    "score": 11,
+    "venue_guess": "Happy Joe's plans for comeback after closures, bankruptcy - Axios",
     "area_guess": "Des Moines Metro",
     "matched_terms": [
-      "closed"
+      "bankrupt",
+      "bankruptcy",
+      "closure"
     ]
   },
   {
@@ -2409,26 +2489,6 @@
     ]
   },
   {
-    "fingerprint": "aa8d56e66e6f9f",
-    "source_id": "suburb-closures",
-    "source_label": "Suburb closures",
-    "source_type": "google_news",
-    "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Ankeny Noodles & Company has closed - The Des Moines Register",
-    "summary": "Ankeny Noodles & Company has closed The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTy16dS0xWUZ2aHdQVlNpWnJnODRiNEhaN0R1LUtuRXJleVJLeE9DNUxHbE5IUkJON1cwQTkydU5QcEROQkxyclB4OExNMkE2WGpIa0JSVGFJQ3d4Tjd5UGR5ZUJSS3NXenVscFE2bTFmMmRsaUxVaHR3a2FjZEdkTjNXMmpla0pBNVV2a2lqNUpDRTFhVFR6MndtSzBCQ0owNlRDM0JyN1RHUzh0T29teGVR?oc=5",
-    "published_at": "Mon, 13 Feb 2017 08:00:00 GMT",
-    "status_guess": "closed",
-    "score": 3,
-    "venue_guess": "Ankeny Noodles & Company",
-    "area_guess": "Ankeny",
-    "matched_terms": [
-      "closed"
-    ]
-  },
-  {
     "fingerprint": "b41631a2fc65fb",
     "source_id": "suburb-closures",
     "source_label": "Suburb closures",
@@ -2446,6 +2506,26 @@
     "area_guess": "West Des Moines",
     "matched_terms": [
       "closing"
+    ]
+  },
+  {
+    "fingerprint": "1c93354e68e3ef",
+    "source_id": "suburb-closures",
+    "source_label": "Suburb closures",
+    "source_type": "google_news",
+    "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "10 Acadiana restaurants that closed in 2018 - The Daily Advertiser | Lafayette, Louisiana",
+    "summary": "10 Acadiana restaurants that closed in 2018 The Daily Advertiser | Lafayette, Louisiana",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNWJuamFqUm1YbGhJc2tzUm0wR1R1TTdTbDg3b20tYS1yTTcwYWdKYjVfR0NvNVJKSHhuOG1YTUVfTEt2dS1jZHFtazBYS2hELTBFVUdKM2ZLLUNkR0ZEWVo3LUxIblhoazlWR1Q5YkY0VVJmNjNFLXBjZlZ3WTZkS3F4UGQ3RnpXb3FJREVYQ2Q5aGEtbmFzV0NfbVdrdVkzTzluTHBFcUcxLW8zdXpIN0lCZV9wendwN3RTWFR0MzdHcTFzVVZPckJydEEtY3dEYkRBSXRKSVNldHc?oc=5",
+    "published_at": "Thu, 03 Jan 2019 08:00:00 GMT",
+    "status_guess": "closed",
+    "score": 5,
+    "venue_guess": "10 Acadiana restaurants that",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closed"
     ]
   },
   {
@@ -2469,24 +2549,23 @@
     ]
   },
   {
-    "fingerprint": "f950e341556609",
+    "fingerprint": "50fec399c9ea88",
     "source_id": "suburb-closures",
     "source_label": "Suburb closures",
     "source_type": "google_news",
     "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
     "source_sort": "relevance",
     "source_timeframe": "all",
-    "title": "Maxie\u2019s restaurant reopening in March under new ownership - Business Record",
-    "summary": "Maxie\u2019s restaurant reopening in March under new ownership Business Record",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEtyc1pjWEIya1Z3bk9Db3RxY192NVpYVERTRElUNFFnb2xPcV9VTlZqWUdYY0pJek5qNTNTZGYtMDZKdjAwekdMdW1aQ1ZFWTV0NFlhUlpVT1V3ajNJcFF3cmtoZkhFWXJkSWtMcmNpbTBZdFVWR0U4S1lfeWplZUUtVXVJdGZSbUN5LW1Rb0hmUQ?oc=5",
-    "published_at": "Wed, 08 Mar 2023 05:34:22 GMT",
-    "status_guess": "opened",
-    "score": 6,
-    "venue_guess": "Maxie\u2019s restaurant reopening",
-    "area_guess": "Des Moines Metro",
+    "title": "Mimi's Cafe in West Des Moines has closed - The Des Moines Register",
+    "summary": "Mimi's Cafe in West Des Moines has closed The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbm81ZUlnMzR3WVFYQUtUU0JidDJ6T2xDSnJsYTJsVTNsYS1fZzFxcDhycFBLZ05KdTF1MzlNQ0oyM19HR2RUSFFDYmNaZUhIRlhSelZNZVBRaWRVM3p1N09fUHdEUEcxTEVPdlhoM1YxVjdqQzZoTzhveEw5ZkhpNEZxWGFtemRaeEtMeHZZOTBTWDdma2dReDRtYjV4a1JERnRaOHlVR20xaEpLeHFaZ2FB?oc=5",
+    "published_at": "Wed, 28 May 2014 07:00:00 GMT",
+    "status_guess": "closed",
+    "score": 5,
+    "venue_guess": "Mimi's",
+    "area_guess": "West Des Moines",
     "matched_terms": [
-      "opening",
-      "reopen"
+      "closed"
     ]
   },
   {
@@ -2510,44 +2589,126 @@
     ]
   },
   {
-    "fingerprint": "50fec399c9ea88",
+    "fingerprint": "a2a6bcb3b4564b",
     "source_id": "suburb-closures",
     "source_label": "Suburb closures",
     "source_type": "google_news",
     "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
     "source_sort": "relevance",
     "source_timeframe": "all",
-    "title": "Mimi's Cafe in West Des Moines has closed - The Des Moines Register",
-    "summary": "Mimi's Cafe in West Des Moines has closed The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbm81ZUlnMzR3WVFYQUtUU0JidDJ6T2xDSnJsYTJsVTNsYS1fZzFxcDhycFBLZ05KdTF1MzlNQ0oyM19HR2RUSFFDYmNaZUhIRlhSelZNZVBRaWRVM3p1N09fUHdEUEcxTEVPdlhoM1YxVjdqQzZoTzhveEw5ZkhpNEZxWGFtemRaeEtMeHZZOTBTWDdma2dReDRtYjV4a1JERnRaOHlVR20xaEpLeHFaZ2FB?oc=5",
-    "published_at": "Wed, 28 May 2014 07:00:00 GMT",
+    "title": "Popular Jordan Creek restaurant and wine bar closing its doors after over 14 years - The Des Moines Register",
+    "summary": "Popular Jordan Creek restaurant and wine bar closing its doors after over 14 years The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNYXhUN0l0NHhzNVptMW5GdnlsZFdvNUZRVE5CNHZZT2RzOGQ0d0d2d0ZBN2tGQkxfcWtlQm01S2lVYXJUcGQ1aElBb2NCMHk1UV9hNmVCNU1IczdHbVFYX3lGM1BKSF9qdzlkYVR1QkxIbEo5NkEtTlhvTGN6dDVScXpfZS16LUFiXzhOaHlBOG1jZnRCTkE2TEVzMlRHVk1iOFJMa2cxTHFOQ1hPcXFPMTB2X1hGNW5mWjBuZFNYemZLSkFkT3d5ZGJ2ZWZnNXg3eGFSNXhBam42c2VwVXNodXRUUFdJWXpjSUdfRXRJa1VNZW5naG1kZ1hlSnMzN3RsSTQ3S2lMTQ?oc=5",
+    "published_at": "Tue, 12 Mar 2019 07:00:00 GMT",
     "status_guess": "closed",
     "score": 5,
-    "venue_guess": "Mimi's",
+    "venue_guess": "Popular Jordan Creek restaurant and wine",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "a9af5a635556f0",
+    "source_id": "suburb-closures",
+    "source_label": "Suburb closures",
+    "source_type": "google_news",
+    "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Cozy Asian eatery in West Des Moines serving Lao and Thai food closing after seven years - The Des Moines Register",
+    "summary": "Cozy Asian eatery in West Des Moines serving Lao and Thai food closing after seven years The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONmZNampXMVUtVEdlVGpCcXc1Z2swdTJnRWdoR2ZHaFhMU1VCSlppcXd4eFRpdURkaENpN3dKVnA4QUN1NDhwVjZYVzdrMHFBZ09XUmQyLUg3aUpDLVVaMG9RRkVKb0tyZzUxWWtZZmUxNmhtUXM1VXkyNk9PaUVwV1dPQkJiZGNLVzZUSVNtX1g5QU9xb2ZJU1VFZF9ybHBZRzZVOTZoLUdCbF9NMV9UbG9RczI5U2hKamJXWXJaN1ZRTlFCbHFiU29GQ3dsLVFKRHAyeC1BTWtfeGFIX0xNZHR3S0ROZ1Q5ck9yZkxPT1JScDBYVFJpYjJoLThCOGlyNGVtOURYRFlJbGM?oc=5",
+    "published_at": "Fri, 26 Oct 2018 07:00:00 GMT",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "ozy Asian eatery",
     "area_guess": "West Des Moines",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "d3b8f80b05aba0",
+    "source_id": "suburb-closures",
+    "source_label": "Suburb closures",
+    "source_type": "google_news",
+    "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Johnson\u2019s Corner Restaurant, Famous for Its Cinnamon Rolls, Has Closed - Westword",
+    "summary": "Johnson\u2019s Corner Restaurant, Famous for Its Cinnamon Rolls, Has Closed Westword",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQURIS1VjY096eUZqemVHNFhsSWZzb3M4cW56QzNPQ2xydWNaYTZRcnNRdndkLW12bmxLWlJBeDRIcXZqMzFiRlY4eElPWndTWGFQZ3BNdTVwUjZfSXV2alRmcXdvWnppVnBkVzNhSTF4bDdtdTM5SlUzbHlEemY4SWozNnBuZUpIRXFSOHRGSjloTkRjVFRJUjl6MVl3Qnc?oc=5",
+    "published_at": "Mon, 13 Jan 2025 08:00:00 GMT",
+    "status_guess": "closed",
+    "score": 5,
+    "venue_guess": "Has",
+    "area_guess": "Des Moines Metro",
     "matched_terms": [
       "closed"
     ]
   },
   {
-    "fingerprint": "15a295f1858930",
-    "source_id": "official-social-statements",
-    "source_label": "Official closure or move statements",
+    "fingerprint": "c2152013ae18e3",
+    "source_id": "suburb-closures",
+    "source_label": "Suburb closures",
     "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar) (\"last day\" OR \"permanently closed\" OR reopening OR relocated)",
+    "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
     "source_sort": "relevance",
     "source_timeframe": "all",
-    "title": "Maxie\u2019s restaurant reopening in March under new ownership - Business Record",
-    "summary": "Maxie\u2019s restaurant reopening in March under new ownership Business Record",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEtyc1pjWEIya1Z3bk9Db3RxY192NVpYVERTRElUNFFnb2xPcV9VTlZqWUdYY0pJek5qNTNTZGYtMDZKdjAwekdMdW1aQ1ZFWTV0NFlhUlpVT1V3ajNJcFF3cmtoZkhFWXJkSWtMcmNpbTBZdFVWR0U4S1lfeWplZUUtVXVJdGZSbUN5LW1Rb0hmUQ?oc=5",
-    "published_at": "Wed, 08 Mar 2023 05:34:22 GMT",
-    "status_guess": "opened",
-    "score": 6,
-    "venue_guess": "Maxie\u2019s restaurant reopening",
-    "area_guess": "Des Moines Metro",
+    "title": "Bankruptcy trustee claims fraud over shuttered Pots & Shots bar in West Des Moines - The Des Moines Register",
+    "summary": "Bankruptcy trustee claims fraud over shuttered Pots & Shots bar in West Des Moines The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcGpHbzNvcmZBemtiU1U2TnlSM1dVNU9FNS03cVQ3ZkkxWUxtOHNrYlNLMHBXczZndjh5NkRGTUdRM3lremZCUXNDYWJQbUc0YXpZbi15Uzk1LWRWYUF4U25tSmQyQnRRM0l1cmdKMHlwMEVwSnI2b3h1UEtOaVFGRmExc01TcE9wTWRta2gyUXVmeWRwbUh0c3BNMzFkeml1WGU1MWhMYXp6NmUzcFpNVGxxSFN2bVNOdDE3WFFTRTdFd3d5OTkwR1o0NVJjcUE5ekJ4X3lDVTBWZjRsNV8xTXBiamtOQQ?oc=5",
+    "published_at": "Thu, 13 Feb 2025 08:00:00 GMT",
+    "status_guess": "closed",
+    "score": 14,
+    "venue_guess": "Bankruptcy trustee claims fraud over",
+    "area_guess": "West Des Moines",
     "matched_terms": [
-      "opening",
-      "reopen"
+      "bankrupt",
+      "bankruptcy",
+      "shuttered"
+    ]
+  },
+  {
+    "fingerprint": "89e5855176bb71",
+    "source_id": "suburb-closures",
+    "source_label": "Suburb closures",
+    "source_type": "google_news",
+    "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Saraj Bosnian restaurant in Urbandale is closing - The Des Moines Register",
+    "summary": "Saraj Bosnian restaurant in Urbandale is closing The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMThJNVYzX3RWcWVKMk1ZVWRXMXYxNWt1SFY5NTRRZmQ5YTRoR2tZOUJFUU9XSEpzcnh6RGE3NnRLbW5ub3NpZE9UVDdETjczUlByNHVreC1NZDRJN0Ntb0RKbWE1aThyX0E1MUczNFJLWm9sZ2RZNXN6bjFIb25xSjEzZTFqTW9uNFpLdEVCRUhKT09qbllKR0lLY01Uc1FYZ1NybnVZM2RkOUs0dC1ycDVfQVRqWUFIM0p5MDhNQkI0bHJlRm5PSWRnNnZZTXhr?oc=5",
+    "published_at": "Mon, 25 Aug 2014 07:00:00 GMT",
+    "status_guess": "closed",
+    "score": 5,
+    "venue_guess": "Saraj Bosnian",
+    "area_guess": "Urbandale",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
+    "fingerprint": "f994031a8acc9b",
+    "source_id": "suburb-closures",
+    "source_label": "Suburb closures",
+    "source_type": "google_news",
+    "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Shuttered El Rey restaurant will reopen in a new West Des Moines location - The Des Moines Register",
+    "summary": "Shuttered El Rey restaurant will reopen in a new West Des Moines location The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOGZFcFJfc1RnNmRzLVQ2TG55UGU3aGpLcVVxbllPNkZMV0RrZ3VsZTZnalFSTU1odS1lTURyS0d2Unk0VmFlUTNFYkxYTG84RXlweHpfZmNXakhpSDFzZ3BoelI2a2FPRGpsTk1LZEgyamdEblVwQ244YU1XTHdHM2tNb2hrUmZkZXBTbWNnOGU0WUFDMTdpTGRjM2pNZlEzYXhnWUJyZ0IxTm85ZllDZXIwNEIxUVF3M3VzZmt1TXpBNDI0OEdMN3pQNmxsYVJpV2dFbHQ2ZEotSVhZeVdFVGV3?oc=5",
+    "published_at": "Mon, 10 Feb 2014 08:00:00 GMT",
+    "status_guess": "closed",
+    "score": 6,
+    "venue_guess": "Shuttered El Rey restaurant will",
+    "area_guess": "West Des Moines",
+    "matched_terms": [
+      "reopen",
+      "shuttered"
     ]
   },
   {
@@ -2571,27 +2732,6 @@
     ]
   },
   {
-    "fingerprint": "8ef3160042f9c8",
-    "source_id": "official-social-statements",
-    "source_label": "Official closure or move statements",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar) (\"last day\" OR \"permanently closed\" OR reopening OR relocated)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Long awaited reopening of Des Moines restaurant is inching ever closer - The Des Moines Register",
-    "summary": "Long awaited reopening of Des Moines restaurant is inching ever closer The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR3hmcW00cTVCTEluaThuelZuZlUzWEp4TTNyX2piNkR5azg3dmZvUUFadVdiV0g0eUdlRnhCdWRXVTZlUFpEaVV0bXdtZFVjTENXcWI2LU4wUk8zcmVKcG15eVBibkU0VXlHaTV3VzNkTEVnX3lsLWN6REx0Y3BlMVVMRVpDMkZORmtCQS1pdXZiU0U0SmRNMF9xVjBfZ2JYTGJReGVoUGF1UXoxbkd0VXVTWjExMVNudDk2dTdmUQ?oc=5",
-    "published_at": "Thu, 21 Jun 2018 07:00:00 GMT",
-    "status_guess": "opened",
-    "score": 6,
-    "venue_guess": "Long awaited reopening of Des Moines restaurant is inching ever closer - The Des Moines Register",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "opening",
-      "reopen"
-    ]
-  },
-  {
     "fingerprint": "36860bb1beab21",
     "source_id": "official-social-statements",
     "source_label": "Official closure or move statements",
@@ -2606,6 +2746,27 @@
     "status_guess": "opened",
     "score": 6,
     "venue_guess": "9 things to know about the farm-to-table restaurant Table 128, reopening",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "opening",
+      "reopen"
+    ]
+  },
+  {
+    "fingerprint": "8ef3160042f9c8",
+    "source_id": "official-social-statements",
+    "source_label": "Official closure or move statements",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar) (\"last day\" OR \"permanently closed\" OR reopening OR relocated)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Long awaited reopening of Des Moines restaurant is inching ever closer - The Des Moines Register",
+    "summary": "Long awaited reopening of Des Moines restaurant is inching ever closer The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR3hmcW00cTVCTEluaThuelZuZlUzWEp4TTNyX2piNkR5azg3dmZvUUFadVdiV0g0eUdlRnhCdWRXVTZlUFpEaVV0bXdtZFVjTENXcWI2LU4wUk8zcmVKcG15eVBibkU0VXlHaTV3VzNkTEVnX3lsLWN6REx0Y3BlMVVMRVpDMkZORmtCQS1pdXZiU0U0SmRNMF9xVjBfZ2JYTGJReGVoUGF1UXoxbkd0VXVTWjExMVNudDk2dTdmUQ?oc=5",
+    "published_at": "Thu, 21 Jun 2018 07:00:00 GMT",
+    "status_guess": "opened",
+    "score": 6,
+    "venue_guess": "Long awaited reopening of Des Moines restaurant is inching ever closer - The Des Moines Register",
     "area_guess": "Des Moines Metro",
     "matched_terms": [
       "opening",
@@ -2719,26 +2880,6 @@
     ]
   },
   {
-    "fingerprint": "8cebd0c8c6b2d4",
-    "source_id": "official-social-statements",
-    "source_label": "Official closure or move statements",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar) (\"last day\" OR \"permanently closed\" OR reopening OR relocated)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Chinese restaurant relocating to Capital Square; Kaleidoscope demo plans remain unclear - The Des Moines Register",
-    "summary": "Chinese restaurant relocating to Capital Square; Kaleidoscope demo plans remain unclear The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNeFJUT2tWckdweFN4ZXlQSldNcUMwbW0xX1UwUVJkcXhwNE51N1FRU0ZXRkprb3E2NTh3Y0hhMHA2aGJ1NmNJT04xM0pUcmVNcUxnbGYtNS1HLW5pN1E5alZSRWpGcS01bTRkTUZmR3NqVDZ6RUlMbHAzM2wzOENVYU1zc21KUjBMOVJiOUxqeTUtMVhBSlBMb2M3Tk5ha0hSMnJPVEdsai1XV0JEYWp6TWFZVHJtM2FrTUZfMUhlUmh4dnhIdHVKRkJ6SHpQbmpqaklXR0t4bGdYLWxjLWVlWVF1VXFzR0tHdUVETUtwaTNTSEZuVU5DVlpPZEJUc2hmbFB2MXB5SS02Z1BGVE5scXhaSFFZVjNyNHc?oc=5",
-    "published_at": "Tue, 02 Apr 2019 07:00:00 GMT",
-    "status_guess": "moved",
-    "score": 4,
-    "venue_guess": "Chinese",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "relocating"
-    ]
-  },
-  {
     "fingerprint": "b2cabac0153b69",
     "source_id": "official-social-statements",
     "source_label": "Official closure or move statements",
@@ -2756,6 +2897,26 @@
     "area_guess": "Des Moines Metro",
     "matched_terms": [
       "closed"
+    ]
+  },
+  {
+    "fingerprint": "8cebd0c8c6b2d4",
+    "source_id": "official-social-statements",
+    "source_label": "Official closure or move statements",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar) (\"last day\" OR \"permanently closed\" OR reopening OR relocated)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Chinese restaurant relocating to Capital Square; Kaleidoscope demo plans remain unclear - The Des Moines Register",
+    "summary": "Chinese restaurant relocating to Capital Square; Kaleidoscope demo plans remain unclear The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNeFJUT2tWckdweFN4ZXlQSldNcUMwbW0xX1UwUVJkcXhwNE51N1FRU0ZXRkprb3E2NTh3Y0hhMHA2aGJ1NmNJT04xM0pUcmVNcUxnbGYtNS1HLW5pN1E5alZSRWpGcS01bTRkTUZmR3NqVDZ6RUlMbHAzM2wzOENVYU1zc21KUjBMOVJiOUxqeTUtMVhBSlBMb2M3Tk5ha0hSMnJPVEdsai1XV0JEYWp6TWFZVHJtM2FrTUZfMUhlUmh4dnhIdHVKRkJ6SHpQbmpqaklXR0t4bGdYLWxjLWVlWVF1VXFzR0tHdUVETUtwaTNTSEZuVU5DVlpPZEJUc2hmbFB2MXB5SS02Z1BGVE5scXhaSFFZVjNyNHc?oc=5",
+    "published_at": "Tue, 02 Apr 2019 07:00:00 GMT",
+    "status_guess": "moved",
+    "score": 4,
+    "venue_guess": "Chinese",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "relocating"
     ]
   },
   {
@@ -2908,46 +3069,6 @@
     ]
   },
   {
-    "fingerprint": "5cd1a3f68d027a",
-    "source_id": "official-social-statements",
-    "source_label": "Official closure or move statements",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar) (\"last day\" OR \"permanently closed\" OR reopening OR relocated)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Bar owners prepare to reopen - The Des Moines Register",
-    "summary": "Bar owners prepare to reopen The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQWpFTV9SYzItTU5WRmd6SGhkY2VWNVR1VUdmTEhmQzRYN3otdVU5RVBuQXJTVW5JMkVxbmtFREU0cS1lQ1pHenA3djZsRjdERm1tQkE0el9JZUtVSHl0SjN4Rlg4UC1qZFNpNkdrdkdnVFBlakxtaVFURVpMc1ZJWnVtU3hXNGR1YVRwUnNJZTZScU9aRTdGNkU2cmRsM2pjaGxnUjdB?oc=5",
-    "published_at": "Mon, 22 Feb 2021 08:00:00 GMT",
-    "status_guess": "review",
-    "score": 4,
-    "venue_guess": "Bar owners prepare to",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "reopen"
-    ]
-  },
-  {
-    "fingerprint": "144dea4506b517",
-    "source_id": "official-social-statements",
-    "source_label": "Official closure or move statements",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar) (\"last day\" OR \"permanently closed\" OR reopening OR relocated)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Man who was 'executed' spent last day with his children, principal says - The Des Moines Register",
-    "summary": "Man who was 'executed' spent last day with his children, principal says The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVEdDZi1PdVJDc1dMZXJNZHVZcWE4dzZ2c0RVQUwzQlNXaGdMYy1hTjdVemxFdWdkSkhwaldyOVRlRXNvckRJcmNoUmppaGdmLV9QM1ZONlotMnROMkR2VHBRdUxJWEpESkk4V1pONHhlazd4SGhlZzR4UVdPZ2lkQTNrekVUbzNjTjNhbzhNSm5zbzQ0SFhFWGNvaFNyVlE0UHRtVlJFRk1KWGJ2VTdTUXZkeWI0SVp5Y0E0UkdYOE51Y2pncGtSVDlJUTNfcU1pRmRNZWxB?oc=5",
-    "published_at": "Mon, 24 Apr 2017 07:00:00 GMT",
-    "status_guess": "closed",
-    "score": 4,
-    "venue_guess": "Man who",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "last day"
-    ]
-  },
-  {
     "fingerprint": "bfa6d2ef876dbf",
     "source_id": "dsm-magazine-radar",
     "source_label": "dsm Magazine restaurant coverage",
@@ -3089,6 +3210,26 @@
     ]
   },
   {
+    "fingerprint": "1cc2553f73c5b8",
+    "source_id": "axios-dsm-food",
+    "source_label": "Axios Des Moines food coverage",
+    "source_type": "google_news",
+    "source_query": "site:axios.com \"Des Moines\" (restaurant OR bar) (opening OR opened OR closing OR closed)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Literary-inspired wine bar opening in Johnston - Axios",
+    "summary": "Literary-inspired wine bar opening in Johnston Axios",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXRPYldqV1dYb3FMVTNvbVdGbXZaazU0VlhzTEFoMlVGcXZtUEZKTENFVnRDZTU0ZkE2cWdIRll6cGZkUGhUTTk2aFB3Nk9rcUFoMU8xNndDTi1FY1o1cFNELTdseUlibkJUVUo3NzVIVkZQanpsaUwzdWFsZV9jMGZYWGdIV3FsSUJPNVNqZlZoVS1qNGxEMFlERUUzU3B4Y1dKMmNqYzQ2QVJrLVRHbA?oc=5",
+    "published_at": "Thu, 13 Nov 2025 08:00:00 GMT",
+    "status_guess": "review",
+    "score": 4,
+    "venue_guess": "Literary-inspired wine",
+    "area_guess": "Johnston",
+    "matched_terms": [
+      "opening"
+    ]
+  },
+  {
     "fingerprint": "0e51e0927d7f4e",
     "source_id": "axios-dsm-food",
     "source_label": "Axios Des Moines food coverage",
@@ -3207,26 +3348,6 @@
     "score": 4,
     "venue_guess": "Marjorie",
     "area_guess": "Downtown",
-    "matched_terms": [
-      "opening"
-    ]
-  },
-  {
-    "fingerprint": "1cc2553f73c5b8",
-    "source_id": "axios-dsm-food",
-    "source_label": "Axios Des Moines food coverage",
-    "source_type": "google_news",
-    "source_query": "site:axios.com \"Des Moines\" (restaurant OR bar) (opening OR opened OR closing OR closed)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Literary-inspired wine bar opening in Johnston - Axios",
-    "summary": "Literary-inspired wine bar opening in Johnston Axios",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXRPYldqV1dYb3FMVTNvbVdGbXZaazU0VlhzTEFoMlVGcXZtUEZKTENFVnRDZTU0ZkE2cWdIRll6cGZkUGhUTTk2aFB3Nk9rcUFoMU8xNndDTi1FY1o1cFNELTdseUlibkJUVUo3NzVIVkZQanpsaUwzdWFsZV9jMGZYWGdIV3FsSUJPNVNqZlZoVS1qNGxEMFlERUUzU3B4Y1dKMmNqYzQ2QVJrLVRHbA?oc=5",
-    "published_at": "Thu, 13 Nov 2025 08:00:00 GMT",
-    "status_guess": "review",
-    "score": 4,
-    "venue_guess": "Literary-inspired wine",
-    "area_guess": "Johnston",
     "matched_terms": [
       "opening"
     ]
@@ -3432,6 +3553,27 @@
     "matched_terms": [
       "opening",
       "reopen"
+    ]
+  },
+  {
+    "fingerprint": "97b1214386f5c3",
+    "source_id": "axios-dsm-food",
+    "source_label": "Axios Des Moines food coverage",
+    "source_type": "google_news",
+    "source_query": "site:axios.com \"Des Moines\" (restaurant OR bar) (opening OR opened OR closing OR closed)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Paws and Pints: \"Disneyland\" for dogs is opening soon - Axios",
+    "summary": "Paws and Pints: \"Disneyland\" for dogs is opening soon Axios",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM0hMRWFkTW13LWlGd04zMXBZRWRsMWU3SmZFOU84dmJEZ24yem1Cb1pIcEhaSWc1RzZmRkNkRk5BVTRfbE9jLXktRm9Na25lY0haR3VEVnRid0FxbjR2V1pNQ0hIQXAtSDZHSElUSi1QVmRCUXJNWThIb0hNYlFKandXM1BDMVBCYzRyeHA2bVVVOWc?oc=5",
+    "published_at": "Tue, 02 Aug 2022 07:00:00 GMT",
+    "status_guess": "opened",
+    "score": 5,
+    "venue_guess": "\"Disneyland\" for dogs is opening soon - Axios",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "opening",
+      "opening soon"
     ]
   }
 ]

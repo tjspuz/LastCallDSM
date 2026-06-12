@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-12T03:48:35+00:00",
-  "leadCount": 134,
+  "generatedAt": "2026-06-12T03:51:35+00:00",
+  "leadCount": 143,
   "statusCounts": {
-    "closed": 69,
+    "closed": 76,
     "review": 24,
-    "opened": 40,
+    "opened": 42,
     "moved": 1
   },
   "sourceTypeCounts": {
     "reddit": 3,
-    "google_news": 131
+    "google_news": 140
   },
   "warnings": [
     "Reddit blocked source reddit-closing (closing); no JSON or RSS results returned.",
@@ -185,6 +185,26 @@
       ]
     },
     {
+      "fingerprint": "d02cd6bd13db0f",
+      "source_id": "metro-closures",
+      "source_label": "Metro closures",
+      "source_type": "google_news",
+      "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+      "source_sort": "relevance",
+      "source_timeframe": "all",
+      "title": "Popular downtown restaurant closing today - KCCI",
+      "summary": "Popular downtown restaurant closing today KCCI",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeDRySHZ6Y3pDcHZ1YzJ3c25ySktGUGtXVEYxek9tTzkwZUgxLUFBMDVTMFBNQktvcTdUVU05TFdic3NxY2lpWXpJVUhwaDEyeHNYSFlGQk1ybjZLYUV2V29FZ2Z5dmpOVThMMUpjdW9IU3ZLYmFnQ3ZnNVRHM2c2YTRVZDg?oc=5",
+      "published_at": "Fri, 14 Aug 2015 07:00:00 GMT",
+      "status_guess": "closed",
+      "score": 5,
+      "venue_guess": "Popular downtown",
+      "area_guess": "Downtown",
+      "matched_terms": [
+        "closing"
+      ]
+    },
+    {
       "fingerprint": "111ff3471b94a4",
       "source_id": "metro-closures",
       "source_label": "Metro closures",
@@ -227,33 +247,31 @@
       ]
     },
     {
-      "fingerprint": "19752ca1a90a7f",
+      "fingerprint": "99323497549708",
       "source_id": "metro-closures",
       "source_label": "Metro closures",
       "source_type": "google_news",
       "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
       "source_sort": "relevance",
       "source_timeframe": "all",
-      "title": "Popular steakhouse chain's owners file bankruptcy. Do closures loom? - USA Today",
-      "summary": "Popular steakhouse chain's owners file bankruptcy. Do closures loom? USA Today",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNFNTSDVyTUtlRTJURnN0VWJlT3hSaFNKZzd5eEpqbU0zMW9RWG9GaXlTcy1hblVPa2tQTkpIdE1QOEtVTWpXSnJ1NmpUUmlnVGJfWnFsWTZJalVLX3huZGx6M19LRkdkXzlvdzNzSzlsSXhYUFVuSmlfbzhOTTJEY24yNG9mRVFRTm9oN041SUZHRWhCSjJzMlB6Yw?oc=5",
-      "published_at": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "title": "Southern-inspired Des Moines restaurant is closing - The Des Moines Register",
+      "summary": "Southern-inspired Des Moines restaurant is closing The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb191Y2xYRFhMVlRZLS00blhZZGFvbU0zVWpSQlZsZVFvcnJJNTVibUJqb2gzQnVVOFY5NGNrSXh4d1dEWjM3RUdfd01WNzhUV2x5eHktaVZXdnltRFctWTVzNGVJR2VrV0c3bFBjd1NQbG9jOU1ZdUxHSE9yRHlZUjJIUnRoSGJ6aF95VWdEclB3ejh0VF9sRGdodUl4cExEMXNqb3ZEd2pqZXRuUWFkWHg4eW54ejZibkludjNSOHE?oc=5",
+      "published_at": "Fri, 17 Feb 2017 08:00:00 GMT",
       "status_guess": "closed",
-      "score": 11,
-      "venue_guess": "Popular steakhouse chain's owners file bankruptcy. Do closures loom? - USA Today",
+      "score": 5,
+      "venue_guess": "Southern-inspired Des Moines restaurant is",
       "area_guess": "Des Moines Metro",
       "matched_terms": [
-        "bankrupt",
-        "bankruptcy",
-        "closure"
+        "closing"
       ]
     },
     {
-      "fingerprint": "5fcf7207f64bf4",
-      "source_id": "metro-closures",
-      "source_label": "Metro closures",
+      "fingerprint": "aecfa248ea2ed5",
+      "source_id": "suburb-openings",
+      "source_label": "Suburb openings",
       "source_type": "google_news",
-      "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+      "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (opened OR opening OR reopening)",
       "source_sort": "relevance",
       "source_timeframe": "all",
       "title": "Award-winning brewery closing after 12 years of beer. Here's when: - The Des Moines Register",
@@ -289,46 +307,23 @@
       ]
     },
     {
-      "fingerprint": "cdfc3eb2465527",
-      "source_id": "metro-closures",
-      "source_label": "Metro closures",
-      "source_type": "google_news",
-      "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
-      "source_sort": "relevance",
-      "source_timeframe": "all",
-      "title": "Bar Louie is closing locations after filing for bankruptcy. Will Jordan Creek's close? - The Des Moines Register",
-      "summary": "Bar Louie is closing locations after filing for bankruptcy. Will Jordan Creek's close? The Des Moines Register",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUmFqVUhpVnFWY0I5S3o0dnYyNkVaTlJocURJNWlVUHdpZ2JsbG92R1hudUcwQlZaSjd3MjBOcDZCNk0zWEtuRFk1MUY3ZDlrM3diNVVyMGdUMUNfWWFYSU81dk56Tk1qMXFhUlBuOXVpemFGSnJPYlh0eHo2VUl2TDQzcGNzUHA0RmlXajFoTWxtSk5sLXVaaDNQT2tvTW5xaG42aDlzSjJtTnM3TGc2YUxwazVfaGtKZklQaXNVUUJsWHpnN3JybU03VnJnQjJOVzg4UEhNWnVYSUpBZWRlVmFWbXE0YjVURmVxQkR3SU9ONUNFOF9idDUyZVVEWWpYWS00?oc=5",
-      "published_at": "Fri, 28 Mar 2025 07:00:00 GMT",
-      "status_guess": "closed",
-      "score": 13,
-      "venue_guess": "Bar Louie is",
-      "area_guess": "Des Moines Metro",
-      "matched_terms": [
-        "bankrupt",
-        "bankruptcy",
-        "closing"
-      ]
-    },
-    {
-      "fingerprint": "e6eefc8e431221",
+      "fingerprint": "a9af5a635556f0",
       "source_id": "suburb-closures",
       "source_label": "Suburb closures",
       "source_type": "google_news",
       "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
       "source_sort": "relevance",
       "source_timeframe": "all",
-      "title": "Waukee's Kinship Brewing, in foreclosure, has closed its taproom until May 1, website says - The Des Moines Register",
-      "summary": "Waukee's Kinship Brewing, in foreclosure, has closed its taproom until May 1, website says The Des Moines Register",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSERlc0xjSHB4LUI2TW0tRGRyOTlJSWJWeWliUUlfM1dmSi00NW5kV0Z4WFBjUERyVjY4Qm1PTHJza1NMRTFxdkIzTHl6UFpzdDdiZjZWWWpkajBXcGZYVHZaSzRCaFFjTkJDRTBuajBRSk02UUdnUHhCRTlvVnQ1OXk1dGpPVS1tZWx0YWtibThzcnlqZnpVQ3RpWXBZUFJRZ09GTTNxaTh0R0tfMVJHM0xwVjh4cW8wVzQxekJtTk1SdFVVSGxYTU9QN3JxT1Rrd2JZcUwyTkVfSk9MSmpUTGpheDk0QQ?oc=5",
-      "published_at": "Mon, 04 Dec 2023 08:00:00 GMT",
+      "title": "Cozy Asian eatery in West Des Moines serving Lao and Thai food closing after seven years - The Des Moines Register",
+      "summary": "Cozy Asian eatery in West Des Moines serving Lao and Thai food closing after seven years The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONmZNampXMVUtVEdlVGpCcXc1Z2swdTJnRWdoR2ZHaFhMU1VCSlppcXd4eFRpdURkaENpN3dKVnA4QUN1NDhwVjZYVzdrMHFBZ09XUmQyLUg3aUpDLVVaMG9RRkVKb0tyZzUxWWtZZmUxNmhtUXM1VXkyNk9PaUVwV1dPQkJiZGNLVzZUSVNtX1g5QU9xb2ZJU1VFZF9ybHBZRzZVOTZoLUdCbF9NMV9UbG9RczI5U2hKamJXWXJaN1ZRTlFCbHFiU29GQ3dsLVFKRHAyeC1BTWtfeGFIX0xNZHR3S0ROZ1Q5ck9yZkxPT1JScDBYVFJpYjJoLThCOGlyNGVtOURYRFlJbGM?oc=5",
+      "published_at": "Fri, 26 Oct 2018 07:00:00 GMT",
       "status_guess": "closed",
-      "score": 6,
-      "venue_guess": "has",
-      "area_guess": "Waukee",
+      "score": 3,
+      "venue_guess": "ozy Asian eatery",
+      "area_guess": "West Des Moines",
       "matched_terms": [
-        "closed",
-        "closure"
+        "closing"
       ]
     }
   ]
