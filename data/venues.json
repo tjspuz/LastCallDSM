@@ -1,57 +1,7 @@
 {
-  "updatedAt": "2026-06-12",
+  "updatedAt": "2026-06-12T03:51:00+00:00",
   "city": "Des Moines Metro",
   "items": [
-    {
-      "id": "another-potential-buyer-eyeing-long-downtown-closed-2026-06-10",
-      "name": "Another potential buyer eyeing long",
-      "status": "closed",
-      "eventDate": "2026-06-10",
-      "sortDate": "2026-06-10",
-      "dateLabel": "Jun 2026",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Downtown",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Another potential buyer eyeing long in Downtown. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Metro openings",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUDFmUVVuOGVyTkM4clVobFNWTEFaS3Yxa3FLODhXS1Q0cU1CendlMkV3RXZXbDRyLWZCRldxbkNJRFhQMTU2aXNWT2o1MXhCeUtmYXVTdWw0WDdwLXY5Z3ZBWHdoZ0JRMFpyaXhmemdmNWtlNlAzTDRGV0tkWm9leW9BQWY5OVRLSzc0UzA5LVJuSkQ3SWFrd0kyVGF5NTVHY3ZWUlVOeTFBYkZIdWdPMlUxYWlhUFpod09IdG45RURQdVdaLWNYVnpOZkVUeDUzSE5jZlc5WTZ2LVlVWFhjS3V0RFFpZw?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUDFmUVVuOGVyTkM4clVobFNWTEFaS3Yxa3FLODhXS1Q0cU1CendlMkV3RXZXbDRyLWZCRldxbkNJRFhQMTU2aXNWT2o1MXhCeUtmYXVTdWw0WDdwLXY5Z3ZBWHdoZ0JRMFpyaXhmemdmNWtlNlAzTDRGV0tkWm9leW9BQWY5OVRLSzc0UzA5LVJuSkQ3SWFrd0kyVGF5NTVHY3ZWUlVOeTFBYkZIdWdPMlUxYWlhUFpod09IdG45RURQdVdaLWNYVnpOZkVUeDUzSE5jZlc5WTZ2LVlVWFhjS3V0RFFpZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a-new-des-moines-metro-opened-2026-06-03",
-      "name": "A new",
-      "status": "opened",
-      "eventDate": "2026-06-03",
-      "sortDate": "2026-06-03",
-      "dateLabel": "Jun 2026",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines Metro",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for A new in Des Moines Metro. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Suburb openings",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5US1JHbWZZNm05VnRSN3FvbHZhczdzTU9SLTlQallqZUxxdVFta3RyUXp3cXE1Y19xdmwwQ3pPRTNxVUtNRU13ZVlFRTFyczQ5NHJOWllWM2tSb1JXenM5WkJ4MHVULWRmRFpJeHRkQUpnSW5OOWVV0gF3QVVfeXFMTzVGR2p1eUd1MXRELS0wZ040dlZtMkRlWWNJcTBPTk9BUDFXVHBJM0p3QThxZ2FDOS1xdE1WWkJYTVZqaDZNSGdRR1lBTWRFNUxlbklhMThCN09PTmEzWXpHT2ZCNF82R2NERVZaYm5wdC1ySVVwOHc?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3dTM25hb2pOUmxyZEE1SWJLMGYyakpzakRWVGFwdUxnZGFZV3ZGVkFQcHNTaWJsX0NPTTl0MDVEeFhHSmlETV9FRW1kN2FPWjl5aGZwaDhZSnp3Q3pRZDFzLXhCb3JtRlcySW9OOTdkSnlVcHVTdHhhNjROc0thZGJud3JwOUZPb2xYcTln?oc=5"
-        }
-      ]
-    },
     {
       "id": "louie-s-wine-dive-des-moines-metro-closed-2015-12-16",
       "name": "Louie's Wine Dive",
@@ -110,31 +60,6 @@
       "openedDatePrecision": "month",
       "address": "2285 Grand Prairie Parkway, Waukee, IA",
       "publicDescription": "A sweet-and-savory breakfast and brunch spot on Grand Prairie Parkway, opened May 2026."
-    },
-    {
-      "id": "nearly-80-hardee-s-des-moines-metro-closed-2026-04-29",
-      "name": "Nearly 80 Hardee's",
-      "status": "closed",
-      "eventDate": "2026-04-29",
-      "sortDate": "2026-04-29",
-      "dateLabel": "Apr 2026",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines Metro",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Nearly 80 Hardee's in Des Moines Metro. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Metro closures",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORzdEeWVhWXBqaFJMWDlvbFIySVdrUkFDSmlXVDJNUW1jZ1lPYzlrV1FGbDYxcUpncWhWSWVkR3kyYXZkbkh4b3IwZjE1c3d5a1hWNUZ2UUZtQmh1dWVUVmo4T2hMNXViUDc5bnRPdDczSW5EVnlaZjR4T0hPYXpiTlgtMjJXaG12aHhpVjVaNk51TnpZVWlrTGxIR29qb01oMlBCbXdJOEdqVEt2UEZzcm4wS3Q0bkVSTXNZLWx5U0lPQXhTTTdn?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORzdEeWVhWXBqaFJMWDlvbFIySVdrUkFDSmlXVDJNUW1jZ1lPYzlrV1FGbDYxcUpncWhWSWVkR3kyYXZkbkh4b3IwZjE1c3d5a1hWNUZ2UUZtQmh1dWVUVmo4T2hMNXViUDc5bnRPdDczSW5EVnlaZjR4T0hPYXpiTlgtMjJXaG12aHhpVjVaNk51TnpZVWlrTGxIR29qb01oMlBCbXdJOEdqVEt2UEZzcm4wS3Q0bkVSTXNZLWx5U0lPQXhTTTdn?oc=5"
-        }
-      ]
     },
     {
       "id": "bonchon-west-des-moines-opened-2026-04-29",
@@ -412,31 +337,6 @@
       "publicDescription": "A polished Highland Park cocktail lounge that added a moodier late-night option to the neighborhood's dining strip."
     },
     {
-      "id": "the-last-pita-pit-des-moines-metro-closed-2026-01-22",
-      "name": "The last Pita Pit",
-      "status": "closed",
-      "eventDate": "2026-01-22",
-      "sortDate": "2026-01-22",
-      "dateLabel": "Jan 2026",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines Metro",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for The last Pita Pit in Des Moines Metro. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Metro closures",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRlhRRjlmQU9pNHpIWVFyNlNWUWx5NlNXZDgyR1ZpbU82YlRneGxPMlBZZEJ4eWJzbk9semJORS13MkFONVBVRzF6amd3OXVsVE5oZjRGc3JtWF8yX2Fhdjl5SG00QmNzeGRaQW4zdWJzc0RUcU0xVW1YbFNBYmtaQlJCc1NQdTg5cW5faGN1bFRBd2I5WnJSbUhxWlhuTkNwWC12UzI0UTRDTG5LUHBnYTd6M096WGdQZVRIUFc5YkhLWUpK?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRlhRRjlmQU9pNHpIWVFyNlNWUWx5NlNXZDgyR1ZpbU82YlRneGxPMlBZZEJ4eWJzbk9semJORS13MkFONVBVRzF6amd3OXVsVE5oZjRGc3JtWF8yX2Fhdjl5SG00QmNzeGRaQW4zdWJzc0RUcU0xVW1YbFNBYmtaQlJCc1NQdTg5cW5faGN1bFRBd2I5WnJSbUhxWlhuTkNwWC12UzI0UTRDTG5LUHBnYTd6M096WGdQZVRIUFc5YkhLWUpK?oc=5"
-        }
-      ]
-    },
-    {
       "id": "toyo-ramen-opening",
       "name": "Toyo Ramen & Japanese Street Food",
       "status": "opened",
@@ -493,81 +393,6 @@
       "publicDescription": "Iowa's first women's sports bar opened on Ingersoll, taking over the former Juniper Moon space and leaning into an inclusive fan-first identity"
     },
     {
-      "id": "pagliai-s-pizza-johnston-closed-2025-11-10",
-      "name": "Pagliai's Pizza",
-      "status": "closed",
-      "eventDate": "2025-11-10",
-      "sortDate": "2025-11-10",
-      "dateLabel": "Nov 2025",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Pizza",
-      "neighborhood": "Johnston",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Pagliai's Pizza in Johnston. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Metro closures",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUUJwblFyNVdtLUtQWFhpNi1QWVU3UDNfdkFLRmJDWTRVc0g5X01yMWl1dVJIdmVnNTlCb0RuUTZFSHdfSXFjZmRVSEU3Y2xjRWx6SFdvQ09nbmdIc1VncklmeFo1MTh0U1hYVkt3bEJ2YlNRLUZtbVhlZUVjUWtLSnFjUU1xWXJINmdqUnZ3RFZLdjNtN1NuNVlkLUNPRm9qZm1UaVl3NlVTYkRVRWRmZkJ5SUFDX2V6YXJKcA?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUUJwblFyNVdtLUtQWFhpNi1QWVU3UDNfdkFLRmJDWTRVc0g5X01yMWl1dVJIdmVnNTlCb0RuUTZFSHdfSXFjZmRVSEU3Y2xjRWx6SFdvQ09nbmdIc1VncklmeFo1MTh0U1hYVkt3bEJ2YlNRLUZtbVhlZUVjUWtLSnFjUU1xWXJINmdqUnZ3RFZLdjNtN1NuNVlkLUNPRm9qZm1UaVl3NlVTYkRVRWRmZkJ5SUFDX2V6YXJKcA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "curry-n-grill-restaurant-holds-grand-des-moines-metro-opened-2025-11-07",
-      "name": "Curry-n-Grill restaurant holds grand",
-      "status": "opened",
-      "eventDate": "2025-11-07",
-      "sortDate": "2025-11-07",
-      "dateLabel": "Nov 2025",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines Metro",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Curry-n-Grill restaurant holds grand in Des Moines Metro. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Metro openings",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSGlMV28zeHZxZ3dFZTdFMHRzemFOeWwzR0lRSzdrNHFpaUR3U2xTYkRvcG1UdlpvOFRqY2dvWl9hSkdHd2RlTWlvWlVsa1RuY2M5ci1JcXh3dU1za1R1TW4xNDR4SENWWmt6V3dLd2Vicms2M1N3ZHp0V2k2TnpBeS1ackVjTDkzVkhkVGNfeUdKYmpEUENXMkhDZTlQVDljV1NBbVJLV3BubzFQZmVJM09Ub3RhTXBjLVFn?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSGlMV28zeHZxZ3dFZTdFMHRzemFOeWwzR0lRSzdrNHFpaUR3U2xTYkRvcG1UdlpvOFRqY2dvWl9hSkdHd2RlTWlvWlVsa1RuY2M5ci1JcXh3dU1za1R1TW4xNDR4SENWWmt6V3dLd2Vicms2M1N3ZHp0V2k2TnpBeS1ackVjTDkzVkhkVGNfeUdKYmpEUENXMkhDZTlQVDljV1NBbVJLV3BubzFQZmVJM09Ub3RhTXBjLVFn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "rhode-island-s-1st-ever-wingstop-throws-grand-opening-celebration-johnston-opened-2025-10-15",
-      "name": "Rhode Island's 1st Ever Wingstop Throws Grand Opening Celebration",
-      "status": "opened",
-      "eventDate": "2025-10-15",
-      "sortDate": "2025-10-15",
-      "dateLabel": "Oct 2025",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Johnston",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Rhode Island's 1st Ever Wingstop Throws Grand Opening Celebration in Johnston. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Suburb openings",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWUc5d0ZhVW9jWGlfSV8xNUZSVTQ3YVV1TndFMmZCV0k3bFZKdmt0aUtndGdfd09uX2lFbU01b2xRbUxlU2dYMzRidlctZmpqQ1JLX19pdzZDNXNPZHV1Z2ZzbXRBNURnd3Jfa3VnYkdveExFMzE1ZWZ2ZWpQYzJfdGVIWFNjNUkyQ0lQSmRYVUlvRWNDdXVxRUN1SndHYTducDVNYWdLdVd2ZTdocmpTcjQyNA?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWUc5d0ZhVW9jWGlfSV8xNUZSVTQ3YVV1TndFMmZCV0k3bFZKdmt0aUtndGdfd09uX2lFbU01b2xRbUxlU2dYMzRidlctZmpqQ1JLX19pdzZDNXNPZHV1Z2ZzbXRBNURnd3Jfa3VnYkdveExFMzE1ZWZ2ZWpQYzJfdGVIWFNjNUkyQ0lQSmRYVUlvRWNDdXVxRUN1SndHYTducDVNYWdLdVd2ZTdocmpTcjQyNA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "highland-underground-opening",
       "name": "Highland Underground",
       "status": "opened",
@@ -622,31 +447,6 @@
       "closedDate": "2025-10-01",
       "closedDatePrecision": "month",
       "publicDescription": "The longtime Drake-area Asian fusion restaurant closed after about 15 years, and later reporting cited the business as inactive"
-    },
-    {
-      "id": "bar-louie-s-west-des-moines-west-des-moines-closed-2025-09-16",
-      "name": "Bar Louie's West Des Moines",
-      "status": "closed",
-      "eventDate": "2025-09-16",
-      "sortDate": "2025-09-16",
-      "dateLabel": "Sep 2025",
-      "datePrecision": "day",
-      "venueType": "bar",
-      "venueTypeLabel": "Bar",
-      "cuisine": "Bar & Grill",
-      "neighborhood": "West Des Moines",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Bar Louie's West Des Moines in West Des Moines. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Suburb closures",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNTIwWlFOQkVNbVEwR2x2OUZZTzhtSHVlZDVJcVV2aG9zWkY2N0hFR3BPcGptbVNGS3N0Ukw4cmU2LWQ3ZEtaOFFuYnZCVUpkRExHSGYtZ2paVjN0RXFXcHo4cTUwcGFRRkUtQVBtOWJtUTBDYy1HWjF1Wmhxc181OVAzV0dCSHBfc3VzQVhSMUYwTGZkNDZYSTNUV0FneWRBdWFVU2RCTTBraXJ6Nm9xZFltb29RMGljLWUtTjJwYjI5ZHIzUWNwbjktc2ZRWHRWVUdmUHNhTklSM2ZVT0dlVXhYdnNpU04yYTNROFJhMDc?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNTIwWlFOQkVNbVEwR2x2OUZZTzhtSHVlZDVJcVV2aG9zWkY2N0hFR3BPcGptbVNGS3N0Ukw4cmU2LWQ3ZEtaOFFuYnZCVUpkRExHSGYtZ2paVjN0RXFXcHo4cTUwcGFRRkUtQVBtOWJtUTBDYy1HWjF1Wmhxc181OVAzV0dCSHBfc3VzQVhSMUYwTGZkNDZYSTNUV0FneWRBdWFVU2RCTTBraXJ6Nm9xZFltb29RMGljLWUtTjJwYjI5ZHIzUWNwbjktc2ZRWHRWVUdmUHNhTklSM2ZVT0dlVXhYdnNpU04yYTNROFJhMDc?oc=5"
-        }
-      ]
     },
     {
       "id": "bubbies-bbq-opening",
@@ -898,31 +698,6 @@
       "descriptionSource": "enriched"
     },
     {
-      "id": "st-kilda-cafe-bakery-downtown-closed-2024-12-20",
-      "name": "St. Kilda Cafe & Bakery",
-      "status": "closed",
-      "eventDate": "2024-12-20",
-      "sortDate": "2024-12-20",
-      "dateLabel": "Dec 2024",
-      "datePrecision": "day",
-      "venueType": "cafe",
-      "venueTypeLabel": "Cafe",
-      "cuisine": "Cafe / Bakery",
-      "neighborhood": "Downtown",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for St. Kilda Cafe & Bakery in Downtown. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Metro closures",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS2dwU3QwbVA4SF80RFVKLWJwd3R2UnN0MEZqRzRYQ3IxY21wTDJYZGhnWThzcmNmalZwaGxfeDBnY3EyamtTZUNiTGRHQ2RJX2p2d25VZGhuTXFxSl82XzhkY1JPVFo1TVByMmQ5WEstRXN3c3d0T3Fwbjg1SENpbGVIa0pabUZxSEZNZWtRZ3lvYTZadDFpWnNETnRnZUNaN3BZX1g5VzltRzZTREd5U3JncG1IeFZxSjMxUGpGRTNBUjgtZmVNS0VlQXI5c0ZHektpMnBCbENSemN4X0E5VXJn?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS2dwU3QwbVA4SF80RFVKLWJwd3R2UnN0MEZqRzRYQ3IxY21wTDJYZGhnWThzcmNmalZwaGxfeDBnY3EyamtTZUNiTGRHQ2RJX2p2d25VZGhuTXFxSl82XzhkY1JPVFo1TVByMmQ5WEstRXN3c3d0T3Fwbjg1SENpbGVIa0pabUZxSEZNZWtRZ3lvYTZadDFpWnNETnRnZUNaN3BZX1g5VzltRzZTREd5U3JncG1IeFZxSjMxUGpGRTNBUjgtZmVNS0VlQXI5c0ZHektpMnBCbENSemN4X0E5VXJn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "flora-opening",
       "name": "Flora",
       "status": "opened",
@@ -973,31 +748,6 @@
       "closedDate": null,
       "closedDatePrecision": null,
       "publicDescription": "Cowboy Mexican opened in the former El Rodeo space near East Euclid and E. 14th, giving the corridor a new bar-and-grill tenant"
-    },
-    {
-      "id": "hyper-energy-bar-celebrates-grand-des-moines-metro-opened-2024-11-20",
-      "name": "Hyper Energy Bar celebrates grand",
-      "status": "opened",
-      "eventDate": "2024-11-20",
-      "sortDate": "2024-11-20",
-      "dateLabel": "Nov 2024",
-      "datePrecision": "day",
-      "venueType": "bar",
-      "venueTypeLabel": "Bar",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines Metro",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Hyper Energy Bar celebrates grand in Des Moines Metro. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Metro openings",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkY4OVJwaE1OandNUmVsVUZaOWdjZlJKOEJJV2xrM1JuQTQ2dzlmdFhLZVdrRHdJSnRKZTIzNzZpeWVnYkNsSW8yUEZNM1lZa3doN1FCZng4VzhCNUJaYnNjQzluR3RiTERDMjBnZUMwV01YYmVzUWl1TUhRM0dncWFjY0hCS0lYZFMyUi1Ta1NUVU0?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkY4OVJwaE1OandNUmVsVUZaOWdjZlJKOEJJV2xrM1JuQTQ2dzlmdFhLZVdrRHdJSnRKZTIzNzZpeWVnYkNsSW8yUEZNM1lZa3doN1FCZng4VzhCNUJaYnNjQzluR3RiTERDMjBnZUMwV01YYmVzUWl1TUhRM0dncWFjY0hCS0lYZFMyUi1Ta1NUVU0?oc=5"
-        }
-      ]
     },
     {
       "id": "osm-node-12650708945",
@@ -1054,31 +804,6 @@
       "publicDescription": "Early Bird expanded again with an East Village location, bringing its brunch-heavy menu to Court Avenue"
     },
     {
-      "id": "zora-bar-des-moines-metro-closed-2024-10-22",
-      "name": "Zora bar",
-      "status": "closed",
-      "eventDate": "2024-10-22",
-      "sortDate": "2024-10-22",
-      "dateLabel": "Oct 2024",
-      "datePrecision": "day",
-      "venueType": "bar",
-      "venueTypeLabel": "Bar",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines Metro",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Zora bar in Des Moines Metro. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Metro closures",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWFWUGZVR3J1S1hlQ2JXc2h1MzBBb2FjMFBCT0hxb1RMaEluVzlBX3VrX1UzTE93bGIxVGpab2U4N0NNSFFuSTlCTlpiOHhadF8zWEQ5am9XdV9tTHVmN0tybXM3ZVo5Qk5NQ3VfNUhWZ3RReG1DVDVjam1tdzRoRDNRV1k5RldsVTdlUw?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWFWUGZVR3J1S1hlQ2JXc2h1MzBBb2FjMFBCT0hxb1RMaEluVzlBX3VrX1UzTE93bGIxVGpab2U4N0NNSFFuSTlCTlpiOHhadF8zWEQ5am9XdV9tTHVmN0tybXM3ZVo5Qk5NQ3VfNUhWZ3RReG1DVDVjam1tdzRoRDNRV1k5RldsVTdlUw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "osm-way-104273673",
       "name": "The Lamp",
       "status": "opened",
@@ -1130,31 +855,6 @@
       "closedDate": null,
       "closedDatePrecision": null,
       "publicDescription": "The Equitable Building gained a new quick-lunch option when Bussin' Eggroll and Rice Co. opened on the ground floor"
-    },
-    {
-      "id": "saturday-is-last-day-for-des-moines-des-moines-metro-closed-2024-06-22",
-      "name": "Saturday is last day for Des Moines",
-      "status": "closed",
-      "eventDate": "2024-06-22",
-      "sortDate": "2024-06-22",
-      "dateLabel": "Jun 2024",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines Metro",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Saturday is last day for Des Moines in Des Moines Metro. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Metro closures",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObk9weDA2NUNaeWVzamY0UGZZS2ZlOWxSaEZnRjRCV1VhWXVwcmdYdk5FdFFXRWdRRmo2b1VacUlNcU43blBVMFVudFdtZVdaZi05WjhJQ0x2VWVhMk5iWk5NUUpVZDl1Q0Z4OHJRMy1XazhOQkNxTlI5YThwb29fNnVCazhuWjZTUlpPNXNIM1gzNGtDNUZVUllVVkwzN2xCTXlj?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObk9weDA2NUNaeWVzamY0UGZZS2ZlOWxSaEZnRjRCV1VhWXVwcmdYdk5FdFFXRWdRRmo2b1VacUlNcU43blBVMFVudFdtZVdaZi05WjhJQ0x2VWVhMk5iWk5NUUpVZDl1Q0Z4OHJRMy1XazhOQkNxTlI5YThwb29fNnVCazhuWjZTUlpPNXNIM1gzNGtDNUZVUllVVkwzN2xCTXlj?oc=5"
-        }
-      ]
     },
     {
       "id": "whiskey-house-closure",
@@ -1339,31 +1039,6 @@
       "publicDescription": "The team behind Pho Real expanded into the East Village with Zavy Kitchen, adding a new Vietnamese option downtown"
     },
     {
-      "id": "the-handlebar-des-moines-metro-opened-2024-04-11",
-      "name": "The Handlebar",
-      "status": "opened",
-      "eventDate": "2024-04-11",
-      "sortDate": "2024-04-11",
-      "dateLabel": "Apr 2024",
-      "datePrecision": "day",
-      "venueType": "bar",
-      "venueTypeLabel": "Bar",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines Metro",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for The Handlebar in Des Moines Metro. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Official closure or move statements",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORWtpLTUtZzRqTkp4M2JVQ2lNZU84ZGtCaXNWNExDaXZ4cGpSTmZDYW1TUjE1OG1ocGFMYkh6aHY1TUhseVUwa0E5UWJQLWtMS2o5ZVpmS3VvQ1FRR00wUUpXY3k0cHgySXhWVWpnTzBHVVBSdk1UX3VMYjNOMzd1RFFmMkZ2OHJjSWNUTHRCcWN6REJkbXRJSTA4QjVJUW8tME1VTkMzTE5IR01NTTdZ?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORWtpLTUtZzRqTkp4M2JVQ2lNZU84ZGtCaXNWNExDaXZ4cGpSTmZDYW1TUjE1OG1ocGFMYkh6aHY1TUhseVUwa0E5UWJQLWtMS2o5ZVpmS3VvQ1FRR00wUUpXY3k0cHgySXhWVWpnTzBHVVBSdk1UX3VMYjNOMzd1RFFmMkZ2OHJjSWNUTHRCcWN6REJkbXRJSTA4QjVJUW8tME1VTkMzTE5IR01NTTdZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "club-car-ankeny-closure",
       "name": "Club Car Ankeny",
       "status": "closed",
@@ -1388,31 +1063,6 @@
       "closedDate": "2024-03-04",
       "closedDatePrecision": "day",
       "publicDescription": "Club Car's Ankeny outpost, which had opened only the year before, permanently closed in June"
-    },
-    {
-      "id": "this-longtime-mediterranean-des-moines-metro-closed-2024-02-19",
-      "name": "This longtime Mediterranean",
-      "status": "closed",
-      "eventDate": "2024-02-19",
-      "sortDate": "2024-02-19",
-      "dateLabel": "Feb 2024",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines Metro",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for This longtime Mediterranean in Des Moines Metro. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Metro closures",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdExGRkVvOVJ0YVNYTlF6VUtfcEU5RnpVNHNBQm9Xd0ZuYmZrN0lCcTVQNXc3X25DSnNwTldpTlVMUjlieXRwMm8yQ1lScmxxbzNNSE1VbF9HTWdkUjY0N1BrMnFFOFZhZG9ZbzBoMEZFTms2dlRIMmZ2bkl5OXNGMXVFZDFJcTZkN21QUW83dUQyUzJDRnBTMFlRSmcwR1BCYVJOanhSYXBHR1oyVzFDRmZuZHF4VXM3M2kxLW9zT3pzYk5QUDBJ?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdExGRkVvOVJ0YVNYTlF6VUtfcEU5RnpVNHNBQm9Xd0ZuYmZrN0lCcTVQNXc3X25DSnNwTldpTlVMUjlieXRwMm8yQ1lScmxxbzNNSE1VbF9HTWdkUjY0N1BrMnFFOFZhZG9ZbzBoMEZFTms2dlRIMmZ2bkl5OXNGMXVFZDFJcTZkN21QUW83dUQyUzJDRnBTMFlRSmcwR1BCYVJOanhSYXBHR1oyVzFDRmZuZHF4VXM3M2kxLW9zT3pzYk5QUDBJ?oc=5"
-        }
-      ]
     },
     {
       "id": "izumi-opening",
@@ -1523,31 +1173,6 @@
       "publicDescription": "Zora closed amid escalating city scrutiny, nuisance complaints, and litigation tied to safety and operating issues"
     },
     {
-      "id": "paesano-s-pizzeria-des-moines-metro-closed-2023-05-08",
-      "name": "Paesano's Pizzeria",
-      "status": "closed",
-      "eventDate": "2023-05-08",
-      "sortDate": "2023-05-08",
-      "dateLabel": "May 2023",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines Metro",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Paesano's Pizzeria in Des Moines Metro. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Metro closures",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQckxDaDFIWU5FT0xCQ0lQODRzS0ozYnFiY0x6cFdUZm5hQlJzWW1hSWE3Z3BuSWVGMzRlcE11TGVsRFVQMFRJQlBTLUxnQWJNZ3hwanE4elJSVGZQcC1lakhPdzktQ0VndnhacV9wNEo4VVdUdHROaWM1cFVkRTJ2SmJBbFJMeERBc3RGM3lpVUtaMXB4X1JlaUZKOHFScGNGT1BKVzM4Zk9KOEJRYlhQZy1UZ2UteXdjQm5tYm9xNHVIS0RCNktKSTVZeEpMUUhHbnptWlFaeTI0N0JVdkVlSmN3?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQckxDaDFIWU5FT0xCQ0lQODRzS0ozYnFiY0x6cFdUZm5hQlJzWW1hSWE3Z3BuSWVGMzRlcE11TGVsRFVQMFRJQlBTLUxnQWJNZ3hwanE4elJSVGZQcC1lakhPdzktQ0VndnhacV9wNEo4VVdUdHROaWM1cFVkRTJ2SmJBbFJMeERBc3RGM3lpVUtaMXB4X1JlaUZKOHFScGNGT1BKVzM4Zk9KOEJRYlhQZy1UZ2UteXdjQm5tYm9xNHVIS0RCNktKSTVZeEpMUUhHbnptWlFaeTI0N0JVdkVlSmN3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "spaghetti-works-closure",
       "name": "Spaghetti Works",
       "status": "closed",
@@ -1578,31 +1203,6 @@
       "publicDescription": "The longtime Court Avenue institution closed in March 2023 after failing to recover from pandemic-era losses"
     },
     {
-      "id": "maxie-s-restaurant-des-moines-metro-opened-2023-03-08",
-      "name": "Maxie\u2019s restaurant",
-      "status": "opened",
-      "eventDate": "2023-03-08",
-      "sortDate": "2023-03-08",
-      "dateLabel": "Mar 2023",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines Metro",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Maxie\u2019s restaurant in Des Moines Metro. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Suburb openings",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEtyc1pjWEIya1Z3bk9Db3RxY192NVpYVERTRElUNFFnb2xPcV9VTlZqWUdYY0pJek5qNTNTZGYtMDZKdjAwekdMdW1aQ1ZFWTV0NFlhUlpVT1V3ajNJcFF3cmtoZkhFWXJkSWtMcmNpbTBZdFVWR0U4S1lfeWplZUUtVXVJdGZSbUN5LW1Rb0hmUQ?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEtyc1pjWEIya1Z3bk9Db3RxY192NVpYVERTRElUNFFnb2xPcV9VTlZqWUdYY0pJek5qNTNTZGYtMDZKdjAwekdMdW1aQ1ZFWTV0NFlhUlpVT1V3ajNJcFF3cmtoZkhFWXJkSWtMcmNpbTBZdFVWR0U4S1lfeWplZUUtVXVJdGZSbUN5LW1Rb0hmUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "maxies-supper-club-reopened-2023-03",
       "name": "Maxie's Supper Club",
       "status": "opened",
@@ -1631,31 +1231,6 @@
       "website": "https://www.maxieswdsm.com/",
       "openedDate": "2023-03-01",
       "openedDatePrecision": "month"
-    },
-    {
-      "id": "gusto-pizza-waukee-closed-2023-02-09",
-      "name": "Gusto Pizza",
-      "status": "closed",
-      "eventDate": "2023-02-09",
-      "sortDate": "2023-02-09",
-      "dateLabel": "Feb 2023",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Pizza",
-      "neighborhood": "Waukee",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Gusto Pizza in Waukee. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Suburb closures",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxRlBWbDJHY016Rl9EbXJoc203R2NTN1RrNEl4UjlsS08tVkROcHdydG45QkVTUWRHRW4ya1FRZlZCZ1YtLU9BNXJuTFl3OUpFekpRUjBFYkVGWll3R05hcXRQandnbThfZ21BSnlOZ0ZqUzJYdWVuNWY4MzZrUQ?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxRlBWbDJHY016Rl9EbXJoc203R2NTN1RrNEl4UjlsS08tVkROcHdydG45QkVTUWRHRW4ya1FRZlZCZ1YtLU9BNXJuTFl3OUpFekpRUjBFYkVGWll3R05hcXRQandnbThfZ21BSnlOZ0ZqUzJYdWVuNWY4MzZrUQ?oc=5"
-        }
-      ]
     },
     {
       "id": "maxies-closure",
@@ -1820,31 +1395,6 @@
       "closedDate": "2022-12-04",
       "closedDatePrecision": "day",
       "publicDescription": "1717 Brewing shut its taproom after four years in business, becoming one of the more notable brewery losses of late 2022"
-    },
-    {
-      "id": "cooper-s-hawk-winery-des-moines-metro-opened-2022-12-02",
-      "name": "Cooper's Hawk Winery &",
-      "status": "opened",
-      "eventDate": "2022-12-02",
-      "sortDate": "2022-12-02",
-      "dateLabel": "Dec 2022",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines Metro",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Cooper's Hawk Winery & in Des Moines Metro. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Axios Des Moines food coverage",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMFFZNG1YeHZudHJpWVhTTDZvV2xOencxRmwzWEhtam44Z1NwdEgzLVpkQjZYdE1YZ2pmNFlmcnlaV1lXRU5XeHZ3RDhVeE90X1dOdnVrZEtlOGEwQWpOU1lfR0ZUSE84dThvNHhUVjV0cjdvcmxKaGRMemFjWTYzUGhNMF85QVcwSUE?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMFFZNG1YeHZudHJpWVhTTDZvV2xOencxRmwzWEhtam44Z1NwdEgzLVpkQjZYdE1YZ2pmNFlmcnlaV1lXRU5XeHZ3RDhVeE90X1dOdnVrZEtlOGEwQWpOU1lfR0ZUSE84dThvNHhUVjV0cjdvcmxKaGRMemFjWTYzUGhNMF85QVcwSUE?oc=5"
-        }
-      ]
     },
     {
       "id": "osm-way-849366366",
@@ -2229,31 +1779,6 @@
       "publicDescription": "Mad Meatball returned to Des Moines at LINC at Gray's Station after closing its East Village location and delaying a comeback during the pandemic"
     },
     {
-      "id": "table-128-chef-east-village-opened-2022-01-24",
-      "name": "Table 128 chef",
-      "status": "opened",
-      "eventDate": "2022-01-24",
-      "sortDate": "2022-01-24",
-      "dateLabel": "Jan 2022",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "East Village",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Table 128 chef in East Village. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Axios Des Moines food coverage",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmkyMkhnVEN3WWkzZ1ZuTHo2VW1ueHRHRzQyeWl5ZGhSTmFGMWJ1dlZLYmlCNG9xNElPLW9HY0VrdDZKNzVHRjlCQUpydnBIU1JnaTN4UHB4ZHJhckIyVFpMRm5uYjMwVTJQM1piZkE4amlFVUxFLXlYS05IN00xSWtUTUtWX3VKNVdyZ05tVUk0RVI3RWRN?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmkyMkhnVEN3WWkzZ1ZuTHo2VW1ueHRHRzQyeWl5ZGhSTmFGMWJ1dlZLYmlCNG9xNElPLW9HY0VrdDZKNzVHRjlCQUpydnBIU1JnaTN4UHB4ZHJhckIyVFpMRm5uYjMwVTJQM1piZkE4amlFVUxFLXlYS05IN00xSWtUTUtWX3VKNVdyZ05tVUk0RVI3RWRN?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ricochet-opening",
       "name": "Ricochet",
       "status": "opened",
@@ -2414,31 +1939,6 @@
       "publicDescription": "The New Northwestern opened in a restored historic building with an elegant small-plates, cocktails, and wine focus"
     },
     {
-      "id": "beloved-johnston-county-johnston-closed-2021-09-15",
-      "name": "Beloved Johnston County",
-      "status": "closed",
-      "eventDate": "2021-09-15",
-      "sortDate": "2021-09-15",
-      "dateLabel": "Sep 2021",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Johnston",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Beloved Johnston County in Johnston. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Suburb closures",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUGZuTEdOUzhodm16MkswSmlZV1V1MkVVdENlOFRxSGlIcFhmbkwwOFNjX1VfS1ZPbVR1Vjk1YWgzMUVCc2pkYkpOaWVGYmhWMTVZTmt2V0F2aEdRQXpKQ1pYS0gzdlZLTXBvRG5ZcENHR1pDS1JZTEF0UWtMdFhhWjV4aEpZaWFXYXlCb0w4VTRNQXIxMnE3VzdRel9uWEZrdUhmWDRkR1VZQzZha2J3X0hXVWVTd1YxcG84eUpsR0NFam81M0VEdHBQYVZlb2h0TWRqZ3VxWdIB3AFBVV95cUxNMlZ4bmpuY2FXUjR5WDlHaDFQWnJHUG84cXVqLU03RnBxeTlxMHdkWHkwcTNrU3Jva1Qzck4ydnRBc0JoLWtFODlTOHpqZEllbEVtQTlQSHN1OWdBTnFnRU9KVkpVN1BfQzRSVGE4Z2k4TlFxTWc4TVY5aTllTlBVWDQ3UUtZUE40SVhQTjJMWWh5ZDN4Y3c0OUlvNzNPWGd5Ti1sUlpmX1NGYVlnOFJXdTNaUk94REdSdXc4by13UU5HUUZma0loVnduVUxvcFlQMFRNend5aGVuVHhN?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUGZuTEdOUzhodm16MkswSmlZV1V1MkVVdENlOFRxSGlIcFhmbkwwOFNjX1VfS1ZPbVR1Vjk1YWgzMUVCc2pkYkpOaWVGYmhWMTVZTmt2V0F2aEdRQXpKQ1pYS0gzdlZLTXBvRG5ZcENHR1pDS1JZTEF0UWtMdFhhWjV4aEpZaWFXYXlCb0w4VTRNQXIxMnE3VzdRel9uWEZrdUhmWDRkR1VZQzZha2J3X0hXVWVTd1YxcG84eUpsR0NFam81M0VEdHBQYVZlb2h0TWRqZ3VxWdIB3AFBVV95cUxNMlZ4bmpuY2FXUjR5WDlHaDFQWnJHUG84cXVqLU03RnBxeTlxMHdkWHkwcTNrU3Jva1Qzck4ydnRBc0JoLWtFODlTOHpqZEllbEVtQTlQSHN1OWdBTnFnRU9KVkpVN1BfQzRSVGE4Z2k4TlFxTWc4TVY5aTllTlBVWDQ3UUtZUE40SVhQTjJMWWh5ZDN4Y3c0OUlvNzNPWGd5Ti1sUlpmX1NGYVlnOFJXdTNaUk94REdSdXc4by13UU5HUUZma0loVnduVUxvcFlQMFRNend5aGVuVHhN?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dobre-opening",
       "name": "Dobre Tasting Room",
       "status": "opened",
@@ -2521,56 +2021,6 @@
       "publicDescription": "Good News, Darling opened behind Hello, Marjorie with an intimate, cocktail-forward format that quickly became a downtown favorite"
     },
     {
-      "id": "iowa-bars-face-tough-decisions-as-coronavirus-spreads-among-under-40-crowd-des-moines-metro-opened-2020-07-10",
-      "name": "Iowa bars face tough decisions as coronavirus spreads among under-40 crowd",
-      "status": "opened",
-      "eventDate": "2020-07-10",
-      "sortDate": "2020-07-10",
-      "dateLabel": "Jul 2020",
-      "datePrecision": "day",
-      "venueType": "bar",
-      "venueTypeLabel": "Bar",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines Metro",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Iowa bars face tough decisions as coronavirus spreads among under-40 crowd in Des Moines Metro. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Official closure or move statements",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVzNBQ2hkdDd1WTZEVmMwSkdfRWhmN0tzeElocFRxWk4zT1A0YUtLZ3JjYm5JQ1NuRmh2TW1yZ01fWG91QU1VQkRPaXlNTnh6RzBiclp2RTUtVS16TGlrckUtbFc2X0dvRC1YZlJiTXQxajJiRkJyYUt6MVAtRWVtOVgtNmlNTjY2SktqZ3djV2ZpZ3lpbmNFazhQLW85RkhxQjhWS3ZrSTRUeEUwb3A4X0pDbzdHTVJXeVNxYkNzeHNXX2JlRmIyX2k1RjJXM20xVEE?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVzNBQ2hkdDd1WTZEVmMwSkdfRWhmN0tzeElocFRxWk4zT1A0YUtLZ3JjYm5JQ1NuRmh2TW1yZ01fWG91QU1VQkRPaXlNTnh6RzBiclp2RTUtVS16TGlrckUtbFc2X0dvRC1YZlJiTXQxajJiRkJyYUt6MVAtRWVtOVgtNmlNTjY2SktqZ3djV2ZpZ3lpbmNFazhQLW85RkhxQjhWS3ZrSTRUeEUwb3A4X0pDbzdHTVJXeVNxYkNzeHNXX2JlRmIyX2k1RjJXM20xVEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "mural-johnston-closed-2020-01-03",
-      "name": "Mural",
-      "status": "closed",
-      "eventDate": "2020-01-03",
-      "sortDate": "2020-01-03",
-      "dateLabel": "Jan 2020",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Johnston",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Mural in Johnston. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Suburb closures",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMHM4RFRQWTloc2VJRGg0TlFqYXYtYnFmRDZvMFRkV2V2OXlVYWVVYkdzN0dEdzRwUU5TalZBNUJTNlFkb0pzQXNHN2dxcnFyWnZLbGRuTDRjVm53MlFaWk1mQTNnR1daWF9lQ2tEMTB0Mzk5ZmdoWC1rcmJMRFlwSXJWbWVPNVFWcDNuazJvUXpSODJOLU5ET1lEUDRwS0xBSGhWNUZNMVE5V3BOdERGVEEwbDRjcXdfZ3pXWEZZemx5Z1pVVDFEbEh0LTY3M3pVSlZoOFZLekg?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMHM4RFRQWTloc2VJRGg0TlFqYXYtYnFmRDZvMFRkV2V2OXlVYWVVYkdzN0dEdzRwUU5TalZBNUJTNlFkb0pzQXNHN2dxcnFyWnZLbGRuTDRjVm53MlFaWk1mQTNnR1daWF9lQ2tEMTB0Mzk5ZmdoWC1rcmJMRFlwSXJWbWVPNVFWcDNuazJvUXpSODJOLU5ET1lEUDRwS0xBSGhWNUZNMVE5V3BOdERGVEEwbDRjcXdfZ3pXWEZZemx5Z1pVVDFEbEh0LTY3M3pVSlZoOFZLekg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "riccellis-closure",
       "name": "Riccelli's Italian Restaurant",
       "status": "closed",
@@ -2631,56 +2081,6 @@
       "publicDescription": "Known for chili, loose-meat sandwiches, malt shakes, and its old-school diner feel, George the Chili King remains one of the metro's most mourned closures."
     },
     {
-      "id": "gusto-pizza-co-west-des-moines-closed-2019-08-05",
-      "name": "Gusto Pizza Co",
-      "status": "closed",
-      "eventDate": "2019-08-05",
-      "sortDate": "2019-08-05",
-      "dateLabel": "Aug 2019",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Pizza",
-      "neighborhood": "West Des Moines",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Gusto Pizza Co in West Des Moines. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Metro closures",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMEZWZmdPZk96cVBOaU1MNmxZaC0zb1ZEeFpyeU1ESTJ2dHVGM1pvaGZwQ1ROa0QwaGZlTEVXRnNfYUJicmlxZ1Y4SWRhVHdld1FSRHFfZ3cyOFgxajFVRkJVeTR2d1M2N3lHVEtMVXlLLTdtaFE5NjEwZXhuTWtJV21Ubjg3Vmg1Rl85VEo1NHFYLWdqSzJBS2JwQUt3VTV4Z29BbjFJMHk5X0lZbzFUYXFDZm5uYWlhc2hxZVdUMmljbE9BV0lzYVlieFk4TzZuRFdWNHBENEJFTmJvN1VUXzlhcVp0LTB2LWlDY2h0aXhWbDc0ZHZBcGtlR3dIRmc5TUFrZTFDTnY?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMEZWZmdPZk96cVBOaU1MNmxZaC0zb1ZEeFpyeU1ESTJ2dHVGM1pvaGZwQ1ROa0QwaGZlTEVXRnNfYUJicmlxZ1Y4SWRhVHdld1FSRHFfZ3cyOFgxajFVRkJVeTR2d1M2N3lHVEtMVXlLLTdtaFE5NjEwZXhuTWtJV21Ubjg3Vmg1Rl85VEo1NHFYLWdqSzJBS2JwQUt3VTV4Z29BbjFJMHk5X0lZbzFUYXFDZm5uYWlhc2hxZVdUMmljbE9BV0lzYVlieFk4TzZuRFdWNHBENEJFTmJvN1VUXzlhcVp0LTB2LWlDY2h0aXhWbDc0ZHZBcGtlR3dIRmc5TUFrZTFDTnY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "sandwich-and-pizza-shop-des-moines-metro-closed-2019-05-28",
-      "name": "sandwich and pizza shop",
-      "status": "closed",
-      "eventDate": "2019-05-28",
-      "sortDate": "2019-05-28",
-      "dateLabel": "May 2019",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Pizza",
-      "neighborhood": "Des Moines Metro",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for sandwich and pizza shop in Des Moines Metro. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Official closure or move statements",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQclI5ZTItdGJDYUlCRkhMcHcwbTNZNy1wS3lJUDFnMGhKVXVCSlAzZUhZWkJhdlREa25XSGY3aGdPaExsVHRXaXZrcHJpc2hha28zaWZkRjNpYW9FREgxNXdMUXpUbGxlUWM1NFo1Y0s2bDFtdWR5c0RDb2RlNm83OUZick0yODZZSlR6SWhPanBTNW1qN0tKQnZOZjlaakdVNTNvTXRXS1NWSUYya1ZHYURNSmg2VDl3REhCdVNJUFByZHBGXzNiQVA1c01GU0IyYW91MmpYM1dHeXltOHdJU3NlMi1qNFVsRU50T05SWXZWc0dWek8xNkt6SDN6RDQ5YmNSZy1ENWZQOEllLWc?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQclI5ZTItdGJDYUlCRkhMcHcwbTNZNy1wS3lJUDFnMGhKVXVCSlAzZUhZWkJhdlREa25XSGY3aGdPaExsVHRXaXZrcHJpc2hha28zaWZkRjNpYW9FREgxNXdMUXpUbGxlUWM1NFo1Y0s2bDFtdWR5c0RDb2RlNm83OUZick0yODZZSlR6SWhPanBTNW1qN0tKQnZOZjlaakdVNTNvTXRXS1NWSUYya1ZHYURNSmg2VDl3REhCdVNJUFByZHBGXzNiQVA1c01GU0IyYW91MmpYM1dHeXltOHdJU3NlMi1qNFVsRU50T05SWXZWc0dWek8xNkt6SDN6RDQ5YmNSZy1ENWZQOEllLWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "clydes-fine-diner-east-village",
       "name": "Clyde's Fine Diner",
       "status": "opened",
@@ -2709,156 +2109,6 @@
       "website": "https://www.clydesfinediner.com/",
       "openedDate": "2019-01-01",
       "openedDatePrecision": "year"
-    },
-    {
-      "id": "cowboy-chicken-ankeny-closed-2018-12-10",
-      "name": "Cowboy Chicken",
-      "status": "closed",
-      "eventDate": "2018-12-10",
-      "sortDate": "2018-12-10",
-      "dateLabel": "Dec 2018",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Ankeny",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Cowboy Chicken in Ankeny. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Suburb closures",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbW9FY0dlN2dGYmw3UjJVenJYRG5yZkhuekE5YWk4MHhNdTA2bVNzUDdadDNodXltWEFKby1OX2IzU2swdm9SY3NGeDNlVXJfLWNBQVJyNXFkbDdZZHlOR2I1bEFiTDJLalBQNTFUeGsyRERnNVNOemptaWhPMVI2VlYyODctWVNIc1Fic09vS2lEUmVIRWszMVROZk0wQWZfeUNrWHNUelU4Y3kwYm5kakNpdVRIbGdaM25EaG12eHR0U2pTY0s5REFNbjRNT3pJVHUya0l5cEg2LUtXUDl6MVp5OGZQanl3dzh1ekp2OWQ5VjA0Q0U1ZGowWjdRRmFtZXc?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbW9FY0dlN2dGYmw3UjJVenJYRG5yZkhuekE5YWk4MHhNdTA2bVNzUDdadDNodXltWEFKby1OX2IzU2swdm9SY3NGeDNlVXJfLWNBQVJyNXFkbDdZZHlOR2I1bEFiTDJLalBQNTFUeGsyRERnNVNOemptaWhPMVI2VlYyODctWVNIc1Fic09vS2lEUmVIRWszMVROZk0wQWZfeUNrWHNUelU4Y3kwYm5kakNpdVRIbGdaM25EaG12eHR0U2pTY0s5REFNbjRNT3pJVHUya0l5cEg2LUtXUDl6MVp5OGZQanl3dzh1ekp2OWQ5VjA0Q0U1ZGowWjdRRmFtZXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "these-restaurants-des-moines-metro-closed-2018-02-15",
-      "name": "these restaurants",
-      "status": "closed",
-      "eventDate": "2018-02-15",
-      "sortDate": "2018-02-15",
-      "dateLabel": "Feb 2018",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines Metro",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for these restaurants in Des Moines Metro. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Axios Des Moines food coverage",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZHpwa0JqQWkxZWNBbUQyNEYyU2hfbUxWMEtiNThRcVUycl9jV1ZSeVdwLVBPSTM2UFYxZ0xZTDVhNUtXdVBvOGROOGNhNno4STdGc05aeG4yb01PWVpJVW9LT1VkTlFwekVQRUdqZnB6b1otRHBmSjFtdUZod3Zudk53UUJKblE3MFpBYnBzWHcxaEVYcHBiWGdqbm9fWVhvN0hn?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdkFYaEhETFJmZy1laC1ER3ZyNjFDV1U4TjNBcVRkZWNfQU1ZYVYtTHlsOTB0OFd1ei1aOUN1bUtEOENJWWlaYVR0UmpvX2lPY1hkcTB3NmFVb0FBYXdhbWJuaDZpVmRtMU0wamZrVUFkSzIzZHpDOERQMjMtdFc0dk9oNk1tSDNwNVgyUTBqaWhkWENkNUhSeFhwZ0hnNHlodzJlT3hfYk1fY0JPTFVwUnl2WUpaVkNKMGhBdGc2Nnh6ZEhzeEs4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ankeny-noodles-company-ankeny-closed-2017-02-13",
-      "name": "Ankeny Noodles & Company",
-      "status": "closed",
-      "eventDate": "2017-02-13",
-      "sortDate": "2017-02-13",
-      "dateLabel": "Feb 2017",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Ankeny",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Ankeny Noodles & Company in Ankeny. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Suburb closures",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTy16dS0xWUZ2aHdQVlNpWnJnODRiNEhaN0R1LUtuRXJleVJLeE9DNUxHbE5IUkJON1cwQTkydU5QcEROQkxyclB4OExNMkE2WGpIa0JSVGFJQ3d4Tjd5UGR5ZUJSS3NXenVscFE2bTFmMmRsaUxVaHR3a2FjZEdkTjNXMmpla0pBNVV2a2lqNUpDRTFhVFR6MndtSzBCQ0owNlRDM0JyN1RHUzh0T29teGVR?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTy16dS0xWUZ2aHdQVlNpWnJnODRiNEhaN0R1LUtuRXJleVJLeE9DNUxHbE5IUkJON1cwQTkydU5QcEROQkxyclB4OExNMkE2WGpIa0JSVGFJQ3d4Tjd5UGR5ZUJSS3NXenVscFE2bTFmMmRsaUxVaHR3a2FjZEdkTjNXMmpla0pBNVV2a2lqNUpDRTFhVFR6MndtSzBCQ0owNlRDM0JyN1RHUzh0T29teGVR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bear-ankeny-closed-2016-07-19",
-      "name": "Bear",
-      "status": "closed",
-      "eventDate": "2016-07-19",
-      "sortDate": "2016-07-19",
-      "dateLabel": "Jul 2016",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Ankeny",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Bear in Ankeny. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Suburb closures",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXY0eFFPQXgzTXZSOFpyZEI5UG9HOTJJbDdkcnZVV3lJTEg2NjVNa1JLUTVlQ2tvbFNrSkVLVTRzcTZoZ1JWUEVqRVo1czRQaXJxdW5LWXpGZlAxNkZRc1RwT2R3b2dGVjZXZUx2dDZLU29YYTdIdW82cU9oUEN5ZlN4djZHejYxRy1xOG1ncXBRcTZiWU1rWVlhOEc2RVNoWXNfRTA4bko?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXY0eFFPQXgzTXZSOFpyZEI5UG9HOTJJbDdkcnZVV3lJTEg2NjVNa1JLUTVlQ2tvbFNrSkVLVTRzcTZoZ1JWUEVqRVo1czRQaXJxdW5LWXpGZlAxNkZRc1RwT2R3b2dGVjZXZUx2dDZLU29YYTdIdW82cU9oUEN5ZlN4djZHejYxRy1xOG1ncXBRcTZiWU1rWVlhOEc2RVNoWXNfRTA4bko?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "vinny-paz-film-shoots-at-johnston-closed-2014-12-10",
-      "name": "Vinny Paz film shoots at",
-      "status": "closed",
-      "eventDate": "2014-12-10",
-      "sortDate": "2014-12-10",
-      "dateLabel": "Dec 2014",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Johnston",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Vinny Paz film shoots at in Johnston. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Suburb closures",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPblBfdkNXa0xzYzNTUkVYMjVVZGVjZzYzOU41N0o5UVFEbUxGUExiNGsyMmxQWm5yLTlhOWZudkJNdlFEZ0FpRkpGa043YkZGWkV2dGs2MU1LRUhzd1Q3R2thQVp6bi03NFJ4c3E3eEZxNEJiNW9fNzJnZXRQTEFTU1h1MzFWTkNrZ3FPWU5Rc1U4VERKenJIQ2xnX09pRG1nZkNFY2VxVjV6aDBfdE1GN3FIOUZ6VURlQ3hyb0xyUHgwSDhaWTh0azlXcDY1X25DNmt4cXZZVlNJZzVMME1mSTMtTGJZdGxrU2t0Nm93dWttQQ?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPblBfdkNXa0xzYzNTUkVYMjVVZGVjZzYzOU41N0o5UVFEbUxGUExiNGsyMmxQWm5yLTlhOWZudkJNdlFEZ0FpRkpGa043YkZGWkV2dGs2MU1LRUhzd1Q3R2thQVp6bi03NFJ4c3E3eEZxNEJiNW9fNzJnZXRQTEFTU1h1MzFWTkNrZ3FPWU5Rc1U4VERKenJIQ2xnX09pRG1nZkNFY2VxVjV6aDBfdE1GN3FIOUZ6VURlQ3hyb0xyUHgwSDhaWTh0azlXcDY1X25DNmt4cXZZVlNJZzVMME1mSTMtTGJZdGxrU2t0Nm93dWttQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "mimi-s-west-des-moines-closed-2014-05-28",
-      "name": "Mimi's",
-      "status": "closed",
-      "eventDate": "2014-05-28",
-      "sortDate": "2014-05-28",
-      "dateLabel": "May 2014",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "West Des Moines",
-      "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Mimi's in West Des Moines. Confirmation source: news.google.com.",
-      "verificationLevel": "verified",
-      "sources": [
-        {
-          "label": "Suburb closures",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbm81ZUlnMzR3WVFYQUtUU0JidDJ6T2xDSnJsYTJsVTNsYS1fZzFxcDhycFBLZ05KdTF1MzlNQ0oyM19HR2RUSFFDYmNaZUhIRlhSelZNZVBRaWRVM3p1N09fUHdEUEcxTEVPdlhoM1YxVjdqQzZoTzhveEw5ZkhpNEZxWGFtemRaeEtMeHZZOTBTWDdma2dReDRtYjV4a1JERnRaOHlVR20xaEpLeHFaZ2FB?oc=5"
-        },
-        {
-          "label": "news.google.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbm81ZUlnMzR3WVFYQUtUU0JidDJ6T2xDSnJsYTJsVTNsYS1fZzFxcDhycFBLZ05KdTF1MzlNQ0oyM19HR2RUSFFDYmNaZUhIRlhSelZNZVBRaWRVM3p1N09fUHdEUEcxTEVPdlhoM1YxVjdqQzZoTzhveEw5ZkhpNEZxWGFtemRaeEtMeHZZOTBTWDdma2dReDRtYjV4a1JERnRaOHlVR20xaEpLeHFaZ2FB?oc=5"
-        }
-      ]
     },
     {
       "id": "osm-way-166244216",

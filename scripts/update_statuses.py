@@ -102,6 +102,11 @@ def detect_places_drift(items: list[dict], changes: list[dict], apply_catalog: b
         business_status = row.get("businessStatus")
         if not item or not business_status:
             continue
+        # Places text search can match a same-name location in another state
+        # (e.g. Louie's Wine Dive in Overland Park, KS); only trust Iowa hits.
+        address = row.get("formattedAddress") or ""
+        if address and ", IA" not in address:
+            continue
 
         drift = None
         if item["status"] in {"closed", "lastcall"} and business_status == "OPERATIONAL":

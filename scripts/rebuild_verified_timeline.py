@@ -814,6 +814,18 @@ def collapse_verified_records(records: list[dict]) -> list[dict]:
 
 
 def main() -> int:
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Verify pipeline leads against news coverage.")
+    parser.add_argument(
+        "--publish",
+        action="store_true",
+        help="Also merge verified records into data/venues.json. Default is report-only: "
+        "verified candidates land in latest-verified-candidates.json for human review, "
+        "because automated name extraction is not reliable enough for the public timeline.",
+    )
+    args = parser.parse_args()
+
     venues_payload = load_json(VENUES_PATH)
     candidates = load_json(CANDIDATES_PATH)
 
@@ -906,10 +918,10 @@ def main() -> int:
         reverse=True,
     )
 
-    venues_payload["items"] = merged_items
-    venues_payload["updatedAt"] = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-
-    save_json(VENUES_PATH, venues_payload)
+    if args.publish:
+        venues_payload["items"] = merged_items
+        venues_payload["updatedAt"] = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        save_json(VENUES_PATH, venues_payload)
     save_json(
         VERIFIED_REPORT_PATH,
         sorted(
