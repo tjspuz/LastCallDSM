@@ -39,6 +39,16 @@
       "id": "official-social-statements",
       "label": "Official closure or move statements",
       "query": "\"Des Moines\" (restaurant OR bar) (\"last day\" OR \"permanently closed\" OR reopening OR relocated)"
+    },
+    {
+      "id": "dsm-magazine-radar",
+      "label": "dsm Magazine restaurant coverage",
+      "query": "site:dsmmagazine.com restaurant (opening OR opened OR closing OR closed)"
+    },
+    {
+      "id": "axios-dsm-food",
+      "label": "Axios Des Moines food coverage",
+      "query": "site:axios.com \"Des Moines\" (restaurant OR bar) (opening OR opened OR closing OR closed)"
     }
   ],
   "redditSearches": [
