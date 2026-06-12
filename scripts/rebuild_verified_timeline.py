@@ -883,6 +883,17 @@ def main() -> int:
 
     verified_items = collapse_verified_records(list(verified_records.values()))
 
+    # Final safety net: never import a record whose id or normalized name
+    # already exists in the curated set (the name+area+status key above can
+    # miss matches when the lead's inferred area differs from the curated one).
+    curated_ids = {item["id"] for item in curated_items}
+    curated_names = {normalize(item["name"]) for item in curated_items}
+    verified_items = [
+        record
+        for record in verified_items
+        if record["id"] not in curated_ids and normalize(record["name"]) not in curated_names
+    ]
+
     merged_items = sorted(
         [
             *curated_items,
