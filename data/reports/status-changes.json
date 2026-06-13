@@ -1,142 +1,135 @@
 {
-  "generatedAt": "2026-06-12T20:08:57+00:00",
+  "generatedAt": "2026-06-13T03:35:14+00:00",
   "changes": [
     {
       "id": "americana-closure",
       "name": "Americana",
       "transition": "possible-reopening",
-      "reason": "Google Places businessStatus=OPERATIONAL for 5 consecutive runs",
+      "reason": "Google Places businessStatus=OPERATIONAL for 6 consecutive runs",
       "applied": false
     },
     {
       "id": "ritual-cafe-closure",
       "name": "Ritual Cafe",
       "transition": "possible-reopening",
-      "reason": "Google Places businessStatus=OPERATIONAL for 5 consecutive runs",
+      "reason": "Google Places businessStatus=OPERATIONAL for 6 consecutive runs",
       "applied": false
     },
     {
       "id": "bussin-eggroll-opening",
       "name": "Bussin' Eggroll and Rice Co.",
       "transition": "possible-closure",
-      "reason": "Google Places businessStatus=CLOSED_PERMANENTLY for 5 consecutive runs",
+      "reason": "Google Places businessStatus=CLOSED_PERMANENTLY for 6 consecutive runs",
       "applied": false
     },
     {
       "id": "spaghetti-works-closure",
       "name": "Spaghetti Works",
       "transition": "possible-reopening",
-      "reason": "Google Places businessStatus=OPERATIONAL for 4 consecutive runs",
+      "reason": "Google Places businessStatus=OPERATIONAL for 5 consecutive runs",
       "applied": false
     },
     {
       "id": "maxies-closure",
       "name": "Maxie's Restaurant & Lounge",
       "transition": "possible-reopening",
-      "reason": "Google Places businessStatus=OPERATIONAL for 4 consecutive runs",
+      "reason": "Google Places businessStatus=OPERATIONAL for 5 consecutive runs",
       "applied": false
     },
     {
       "id": "1717-brewing-closure",
       "name": "1717 Brewing Co.",
       "transition": "possible-reopening",
-      "reason": "Google Places businessStatus=OPERATIONAL for 4 consecutive runs",
+      "reason": "Google Places businessStatus=OPERATIONAL for 5 consecutive runs",
       "applied": false
     },
     {
       "id": "gusto-ingersoll-reopening",
       "name": "Gusto Pizza Ingersoll Relaunch",
       "transition": "possible-closure",
-      "reason": "Google Places businessStatus=CLOSED_PERMANENTLY for 4 consecutive runs",
+      "reason": "Google Places businessStatus=CLOSED_PERMANENTLY for 5 consecutive runs",
       "applied": false
     },
     {
       "id": "rice-bowl-closure",
       "name": "Rice Bowl",
       "transition": "possible-reopening",
-      "reason": "Google Places businessStatus=OPERATIONAL for 4 consecutive runs",
+      "reason": "Google Places businessStatus=OPERATIONAL for 5 consecutive runs",
       "applied": false
     },
     {
       "id": "gusto-wdm-closure",
       "name": "Gusto Pizza West Des Moines",
       "transition": "possible-reopening",
-      "reason": "Google Places businessStatus=OPERATIONAL for 4 consecutive runs",
+      "reason": "Google Places businessStatus=OPERATIONAL for 5 consecutive runs",
       "applied": false
     },
     {
       "id": "503-opening",
       "name": "503 Cocktail Lab + Tasting Room",
       "transition": "possible-closure",
-      "reason": "Google Places businessStatus=CLOSED_PERMANENTLY for 4 consecutive runs",
+      "reason": "Google Places businessStatus=CLOSED_PERMANENTLY for 5 consecutive runs",
       "applied": false
     },
     {
       "id": "java-joes-closure",
       "name": "Java Joe's",
       "transition": "possible-reopening",
-      "reason": "Google Places businessStatus=OPERATIONAL for 4 consecutive runs",
+      "reason": "Google Places businessStatus=OPERATIONAL for 5 consecutive runs",
       "applied": false
     },
     {
       "id": "dobre-opening",
       "name": "Dobre Tasting Room",
       "transition": "possible-closure",
-      "reason": "Google Places businessStatus=CLOSED_PERMANENTLY for 4 consecutive runs",
+      "reason": "Google Places businessStatus=CLOSED_PERMANENTLY for 5 consecutive runs",
       "applied": false
     },
     {
       "id": "chicago-dog-des-moines-metro-closed-2019-12-03",
       "name": "Chicago Dog",
       "transition": "possible-reopening",
-      "reason": "Google Places businessStatus=OPERATIONAL for 3 consecutive runs",
+      "reason": "Google Places businessStatus=OPERATIONAL for 4 consecutive runs",
       "applied": false
     },
     {
       "id": "nomi-s-asian-cuisine-des-moines-metro-opened-2019-09-11",
       "name": "Nomi's Asian Cuisine",
       "transition": "possible-closure",
-      "reason": "Google Places businessStatus=CLOSED_PERMANENTLY for 3 consecutive runs",
+      "reason": "Google Places businessStatus=CLOSED_PERMANENTLY for 4 consecutive runs",
       "applied": false
     },
     {
       "id": "bear-ankeny-closed-2016-07-19",
       "name": "Bear",
       "transition": "possible-reopening",
-      "reason": "Google Places businessStatus=OPERATIONAL for 3 consecutive runs",
+      "reason": "Google Places businessStatus=OPERATIONAL for 4 consecutive runs",
       "applied": false
     },
     {
       "id": "silent-auction-items-des-moines-metro-closed-2016-11-14",
       "name": "Silent Auction Items",
       "transition": "possible-reopening",
-      "reason": "Google Places businessStatus=OPERATIONAL for 3 consecutive runs",
+      "reason": "Google Places businessStatus=OPERATIONAL for 4 consecutive runs",
       "applied": false
     },
     {
       "id": "carlos-o-kelly-s-des-moines-metro-closed-2014-03-10",
       "name": "Carlos O\u2019Kelly\u2019s",
       "transition": "possible-reopening",
-      "reason": "Google Places businessStatus=OPERATIONAL for 3 consecutive runs",
+      "reason": "Google Places businessStatus=OPERATIONAL for 4 consecutive runs",
       "applied": false
     },
     {
-      "id": "osm-node-1307333465",
-      "name": "Agave Grill",
+      "id": "osm-node-4640651934",
+      "name": "Blu Toro Cantina & Grill",
       "transition": "possible-closure",
       "reason": "Google Places businessStatus=CLOSED_PERMANENTLY for 2 consecutive runs",
       "applied": true
     },
     {
-      "id": "osm-way-145591213",
-      "name": "Babylon Grill",
-      "transition": "possible-closure",
-      "reason": "Google Places businessStatus=CLOSED_PERMANENTLY for 2 consecutive runs",
-      "applied": true
-    },
-    {
-      "id": "osm-node-2106262201",
-      "name": "Bauder's & Donut King",
+      "id": "osm-node-1685269911",
+      "name": "Brecks",
       "transition": "possible-closure",
       "reason": "Google Places businessStatus=CLOSED_PERMANENTLY for 2 consecutive runs",
       "applied": true

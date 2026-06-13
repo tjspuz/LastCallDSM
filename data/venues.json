@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-06-12T20:08:57+00:00",
+  "updatedAt": "2026-06-13T03:35:14+00:00",
   "city": "Des Moines Metro",
   "items": [
+    {
+      "id": "osm-node-4640651934",
+      "name": "Blu Toro Cantina & Grill",
+      "status": "closed",
+      "eventDate": "2026-06-13",
+      "sortDate": "2026-06-13",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Mexican",
+      "neighborhood": "West Des Moines",
+      "story": "Blu Toro Cantina & Grill appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/4640651934"
+        }
+      ],
+      "publicDescription": "Blu Toro Cantina & Grill appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "5585 Mills Civic Parkway, West Des Moines, IA, 50266",
+      "website": "https://blutorocantina.com/",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-13",
+      "closedDatePrecision": "month"
+    },
+    {
+      "id": "osm-node-1685269911",
+      "name": "Brecks",
+      "status": "closed",
+      "eventDate": "2026-06-13",
+      "sortDate": "2026-06-13",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Brecks appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/1685269911"
+        }
+      ],
+      "publicDescription": "Brecks appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "Des Moines Metro, IA",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-13",
+      "closedDatePrecision": "month"
+    },
     {
       "id": "osm-node-3457801594",
       "name": "1908 Draught House",
@@ -4717,32 +4772,6 @@
       "descriptionSource": "enriched"
     },
     {
-      "id": "osm-node-4640651934",
-      "name": "Blu Toro Cantina & Grill",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Mexican",
-      "neighborhood": "West Des Moines",
-      "story": "A Mexican cantina and grill in West Des Moines.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/node/4640651934"
-        }
-      ],
-      "publicDescription": "A Mexican cantina and grill in West Des Moines.",
-      "firstSeen": "2026-06-11",
-      "address": "5585 Mills Civic Parkway, West Des Moines, IA, 50266",
-      "website": "https://blutorocantina.com/",
-      "descriptionSource": "enriched"
-    },
-    {
       "id": "osm-node-5067636004",
       "name": "Blue Agave",
       "status": "opened",
@@ -4890,31 +4919,6 @@
         }
       ],
       "publicDescription": "A pizzeria serving pies across the Des Moines metro.",
-      "firstSeen": "2026-06-11",
-      "address": "Des Moines Metro, IA",
-      "descriptionSource": "enriched"
-    },
-    {
-      "id": "osm-node-1685269911",
-      "name": "Brecks",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "bar",
-      "venueTypeLabel": "Bar",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines Metro",
-      "story": "A Des Moines metro restaurant and gathering spot.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/node/1685269911"
-        }
-      ],
-      "publicDescription": "A Des Moines metro restaurant and gathering spot.",
       "firstSeen": "2026-06-11",
       "address": "Des Moines Metro, IA",
       "descriptionSource": "enriched"

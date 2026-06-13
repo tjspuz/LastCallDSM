@@ -1446,5 +1446,325 @@
     "businessStatus": "OPERATIONAL",
     "formattedAddress": "1306 Grand Ave, West Des Moines, IA 50265, USA",
     "checkedAt": "2026-06-12T20:08:57+00:00"
+  },
+  {
+    "id": "osm-way-38130977",
+    "name": "Cazador",
+    "query": "Cazador Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "103 NE Delaware Ave, Ankeny, IA 50021, USA",
+    "checkedAt": "2026-06-13T03:34:58+00:00"
+  },
+  {
+    "id": "osm-node-10972426962",
+    "name": "Celebrations",
+    "query": "Celebrations Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "212 4th St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T03:34:58+00:00"
+  },
+  {
+    "id": "osm-node-6812628123",
+    "name": "Central Standard",
+    "query": "Central Standard Waukee Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1222 SE University Ave, Waukee, IA 50263, USA",
+    "checkedAt": "2026-06-13T03:34:59+00:00"
+  },
+  {
+    "id": "osm-node-830971466",
+    "name": "Centro",
+    "query": "Centro Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1003 Locust St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T03:34:59+00:00"
+  },
+  {
+    "id": "osm-way-849629364",
+    "name": "Ceviche Bar",
+    "query": "Ceviche Bar Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "223 E Walnut St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T03:35:00+00:00"
+  },
+  {
+    "id": "osm-node-10989354364",
+    "name": "Chain & Spoke",
+    "query": "Chain & Spoke Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "515 28th St Unit 102, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-13T03:35:00+00:00"
+  },
+  {
+    "id": "osm-node-765478883",
+    "name": "Chalet Bar & Grill",
+    "query": "Chalet Bar & Grill West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "9250 University Ave Ste 117, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T03:35:00+00:00"
+  },
+  {
+    "id": "osm-node-13569827673",
+    "name": "Charley's SouthTown Tap",
+    "query": "Charley's SouthTown Tap Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3803 SW 9th St, Des Moines, IA 50315, USA",
+    "checkedAt": "2026-06-13T03:35:01+00:00"
+  },
+  {
+    "id": "osm-way-321535712",
+    "name": "Charlie's Filling Station",
+    "query": "Charlie's Filling Station West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "305 Grand Ave, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-13T03:35:01+00:00"
+  },
+  {
+    "id": "osm-way-266069023",
+    "name": "Charlotte's Kitchen",
+    "query": "Charlotte's Kitchen Johnston Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "6150 Merle Hay Rd, Johnston, IA 50131, USA",
+    "checkedAt": "2026-06-13T03:35:02+00:00"
+  },
+  {
+    "id": "osm-node-13885870401",
+    "name": "Cheba Hut",
+    "query": "Cheba Hut Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "5260 Merle Hay Rd STE 6, Johnston, IA 50131, USA",
+    "checkedAt": "2026-06-13T03:35:02+00:00"
+  },
+  {
+    "id": "osm-node-3016598826",
+    "name": "Cheese Bar",
+    "query": "Cheese Bar Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2925 Ingersoll Ave, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-13T03:35:03+00:00"
+  },
+  {
+    "id": "osm-node-12650699357",
+    "name": "Chelsie\u2019s Courtyard Diner",
+    "query": "Chelsie\u2019s Courtyard Diner Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "300 W Martin Luther King Jr Pkwy, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T03:35:03+00:00"
+  },
+  {
+    "id": "osm-way-289545137",
+    "name": "Chicago Speakeasy",
+    "query": "Chicago Speakeasy Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1520 Euclid Ave, Des Moines, IA 50313, USA",
+    "checkedAt": "2026-06-13T03:35:04+00:00"
+  },
+  {
+    "id": "osm-node-5153112341",
+    "name": "China Dragon",
+    "query": "China Dragon Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2351 Sunset Dr #103, Norwalk, IA 50211, USA",
+    "checkedAt": "2026-06-13T03:35:04+00:00"
+  },
+  {
+    "id": "osm-node-2077032475",
+    "name": "China Garden",
+    "query": "China Garden Clive Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1679 NW 86th St, Clive, IA 50325, USA",
+    "checkedAt": "2026-06-13T03:35:04+00:00"
+  },
+  {
+    "id": "osm-node-2838838127",
+    "name": "China Jade",
+    "query": "China Jade West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "225 5th St, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-13T03:35:05+00:00"
+  },
+  {
+    "id": "osm-node-442329482",
+    "name": "China Moon",
+    "query": "China Moon Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "225 SE Oralabor Rd, Ankeny, IA 50021, USA",
+    "checkedAt": "2026-06-13T03:35:06+00:00"
+  },
+  {
+    "id": "osm-way-34072931",
+    "name": "Chips",
+    "query": "Chips Ankeny Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "2502 SE Tones Dr, Ankeny, IA 50021, USA",
+    "checkedAt": "2026-06-13T03:35:06+00:00"
+  },
+  {
+    "id": "osm-way-105679746",
+    "name": "Christopher's",
+    "query": "Christopher's Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2816 Beaver Ave, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-13T03:35:06+00:00"
+  },
+  {
+    "id": "osm-way-253180323",
+    "name": "Chuck's Restaurant",
+    "query": "Chuck's Restaurant Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3610 6th Ave, Des Moines, IA 50313, USA",
+    "checkedAt": "2026-06-13T03:35:07+00:00"
+  },
+  {
+    "id": "osm-way-161969991",
+    "name": "Classic Frozen Custard",
+    "query": "Classic Frozen Custard Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "4000 SE 14th St, Des Moines, IA 50320, USA",
+    "checkedAt": "2026-06-13T03:35:07+00:00"
+  },
+  {
+    "id": "osm-node-2429489709",
+    "name": "Club Car Restaurant & Lounge",
+    "query": "Club Car Restaurant & Lounge Clive Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "13435 University Ave #200, Clive, IA 50325, USA",
+    "checkedAt": "2026-06-13T03:35:08+00:00"
+  },
+  {
+    "id": "osm-way-1024428535",
+    "name": "Coa Cantina",
+    "query": "Coa Cantina Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "425 E Grand Ave, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T03:35:08+00:00"
+  },
+  {
+    "id": "osm-node-1029181982",
+    "name": "Coach's Pizza",
+    "query": "Coach's Pizza West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "560 S Prairie View Dr, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T03:35:08+00:00"
+  },
+  {
+    "id": "osm-node-12995130149",
+    "name": "Coco & Nini's",
+    "query": "Coco & Nini's Carlisle Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "60 School St, Carlisle, IA 50047, USA",
+    "checkedAt": "2026-06-13T03:35:08+00:00"
+  },
+  {
+    "id": "osm-node-11646286132",
+    "name": "Coffee & Bar",
+    "query": "Coffee & Bar Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1000 Walnut St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T03:35:09+00:00"
+  },
+  {
+    "id": "osm-way-329589025",
+    "name": "Coffee Cats",
+    "query": "Coffee Cats West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "312 5th St, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-13T03:35:09+00:00"
+  },
+  {
+    "id": "osm-node-11393215693",
+    "name": "Concession Stand",
+    "query": "Concession Stand Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3000 E Grand Ave, Des Moines, IA 50317, USA",
+    "checkedAt": "2026-06-13T03:35:10+00:00"
+  },
+  {
+    "id": "osm-node-2807770608",
+    "name": "Confluence Brewing Company",
+    "query": "Confluence Brewing Company Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1235 Thomas Beck Rd, Des Moines, IA 50315, USA",
+    "checkedAt": "2026-06-13T03:35:10+00:00"
+  },
+  {
+    "id": "osm-node-4213098004",
+    "name": "Cookies & Cream",
+    "query": "Cookies & Cream Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "543 28th St, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-13T03:35:10+00:00"
+  },
+  {
+    "id": "osm-node-5373736147",
+    "name": "Cool Basil",
+    "query": "Cool Basil Altoona Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "550 36th Ave SW Ste J, Altoona, IA 50009, USA",
+    "checkedAt": "2026-06-13T03:35:11+00:00"
+  },
+  {
+    "id": "osm-way-105563324",
+    "name": "Cool Basil",
+    "query": "Cool Basil Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1250 86th St, Clive, IA 50325, USA",
+    "checkedAt": "2026-06-13T03:35:11+00:00"
+  },
+  {
+    "id": "osm-node-1235416493",
+    "name": "Cooney's Tavern",
+    "query": "Cooney's Tavern Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3708 Beaver Ave, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-13T03:35:11+00:00"
+  },
+  {
+    "id": "osm-way-107647159",
+    "name": "Cooper's Hawk",
+    "query": "Cooper's Hawk Clive Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "12801 University Ave, Clive, IA 50325, USA",
+    "checkedAt": "2026-06-13T03:35:12+00:00"
+  },
+  {
+    "id": "osm-way-329511912",
+    "name": "Cooper's on 5th",
+    "query": "Cooper's on 5th West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "227 5th St, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-13T03:35:12+00:00"
+  },
+  {
+    "id": "osm-node-3363671967",
+    "name": "Corazon Coffee Roasters",
+    "query": "Corazon Coffee Roasters West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "516 Elm St, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-13T03:35:13+00:00"
+  },
+  {
+    "id": "osm-way-692892917",
+    "name": "Corona Cantina",
+    "query": "Corona Cantina Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "525 Warren Ave, Osceola, IA 50213, USA",
+    "checkedAt": "2026-06-13T03:35:13+00:00"
+  },
+  {
+    "id": "osm-way-110163442",
+    "name": "Cosi Cucina",
+    "query": "Cosi Cucina Clive Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1975 NW 86th St, Clive, IA 50325, USA",
+    "checkedAt": "2026-06-13T03:35:13+00:00"
+  },
+  {
+    "id": "osm-way-132329830",
+    "name": "Cottonwood",
+    "query": "Cottonwood Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "7400 NW 37th St, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-13T03:35:14+00:00"
   }
 ]
