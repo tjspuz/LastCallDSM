@@ -1766,5 +1766,325 @@
     "businessStatus": "OPERATIONAL",
     "formattedAddress": "7400 NW 37th St, Ankeny, IA 50023, USA",
     "checkedAt": "2026-06-13T03:35:14+00:00"
+  },
+  {
+    "id": "osm-node-790684719",
+    "name": "Court Avenue Brewing Company",
+    "query": "Court Avenue Brewing Company Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "309 Court Ave, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T08:56:14+00:00"
+  },
+  {
+    "id": "osm-node-767570390",
+    "name": "Cozy Cafe",
+    "query": "Cozy Cafe West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "312 5th St, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-13T08:56:15+00:00"
+  },
+  {
+    "id": "osm-node-1568190870",
+    "name": "Cozy Cafe",
+    "query": "Cozy Cafe Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "8385 Birchwood Ct, Johnston, IA 50131, USA",
+    "checkedAt": "2026-06-13T08:56:15+00:00"
+  },
+  {
+    "id": "osm-node-3031189166",
+    "name": "Cozy Cafe",
+    "query": "Cozy Cafe Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "8385 Birchwood Ct, Johnston, IA 50131, USA",
+    "checkedAt": "2026-06-13T08:56:15+00:00"
+  },
+  {
+    "id": "osm-way-223780446",
+    "name": "Cozy Cafe Johnston",
+    "query": "Cozy Cafe Johnston Johnston Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "8385 Birchwood Ct, Johnston, IA 50131, USA",
+    "checkedAt": "2026-06-13T08:56:16+00:00"
+  },
+  {
+    "id": "osm-node-442329369",
+    "name": "Croz Nest",
+    "query": "Croz Nest Des Moines Metro Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "3801 Easton Blvd, Des Moines, IA 50317, USA",
+    "checkedAt": "2026-06-13T08:56:16+00:00"
+  },
+  {
+    "id": "osm-node-1343989215",
+    "name": "Cumming Tap",
+    "query": "Cumming Tap Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "117 N 44th St, Cumming, IA 50061, USA",
+    "checkedAt": "2026-06-13T08:56:16+00:00"
+  },
+  {
+    "id": "osm-node-9459369204",
+    "name": "Daisy Chain Coffee",
+    "query": "Daisy Chain Coffee Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "505 E Grand Ave #104, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T08:56:16+00:00"
+  },
+  {
+    "id": "osm-node-9765893793",
+    "name": "Dam Pub",
+    "query": "Dam Pub Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2710 Beaver Ave, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-13T08:56:16+00:00"
+  },
+  {
+    "id": "osm-node-446280581",
+    "name": "Daylight Doughnuts",
+    "query": "Daylight Doughnuts Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "502 N Ankeny Blvd Ste 2, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-13T08:56:17+00:00"
+  },
+  {
+    "id": "osm-node-11347567171",
+    "name": "De Rice",
+    "query": "De Rice Johnston Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "8460 Birchwood Ct Suie#100, Johnston, IA 50131, USA",
+    "checkedAt": "2026-06-13T08:56:17+00:00"
+  },
+  {
+    "id": "osm-node-765814633",
+    "name": "Denny Arthur's",
+    "query": "Denny Arthur's Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2400 86th St Apt 7, Urbandale, IA 50322, USA",
+    "checkedAt": "2026-06-13T08:56:17+00:00"
+  },
+  {
+    "id": "osm-way-152168497",
+    "name": "Des Moines Yacht Club",
+    "query": "Des Moines Yacht Club Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "22737 Marine View Dr S, Des Moines, WA 98198, USA",
+    "checkedAt": "2026-06-13T08:56:17+00:00"
+  },
+  {
+    "id": "osm-node-6017113420",
+    "name": "Ding's Rolled Ice Cream & Crepes",
+    "query": "Ding's Rolled Ice Cream & Crepes Des Moines Metro Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "101 S Jordan Creek Pkwy, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T08:56:18+00:00"
+  },
+  {
+    "id": "osm-node-1216900248",
+    "name": "Dinner Delights",
+    "query": "Dinner Delights Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2713 Beaver Ave, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-13T08:56:18+00:00"
+  },
+  {
+    "id": "osm-way-115545503",
+    "name": "Dinner Dispatch",
+    "query": "Dinner Dispatch Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "6587 University Ave, Windsor Heights, IA 50324, USA",
+    "checkedAt": "2026-06-13T08:56:18+00:00"
+  },
+  {
+    "id": "osm-node-2837110559",
+    "name": "Dino's",
+    "query": "Dino's Des Moines Metro Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "5962 Ashworth Rd, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T08:56:18+00:00"
+  },
+  {
+    "id": "osm-node-4612184316",
+    "name": "District 36",
+    "query": "District 36 Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1375 SW Vintage Pkwy, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-13T08:56:19+00:00"
+  },
+  {
+    "id": "osm-node-3457800792",
+    "name": "Doc's Lounge",
+    "query": "Doc's Lounge Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "8805 Chambery Blvd, Johnston, IA 50131, USA",
+    "checkedAt": "2026-06-13T08:56:19+00:00"
+  },
+  {
+    "id": "osm-way-37552681",
+    "name": "Doghouse Bar and Lounge",
+    "query": "Doghouse Bar and Lounge Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "300 Sonderen St, O'Fallon, MO 63366, USA",
+    "checkedAt": "2026-06-13T08:56:19+00:00"
+  },
+  {
+    "id": "osm-way-115387659",
+    "name": "Donut Hut",
+    "query": "Donut Hut Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "4941 Douglas Ave, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-13T08:56:19+00:00"
+  },
+  {
+    "id": "osm-node-12751840964",
+    "name": "Dough Co Pizza",
+    "query": "Dough Co Pizza Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2405 SW White Birch Dr Ste 100, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-13T08:56:20+00:00"
+  },
+  {
+    "id": "osm-node-10972426963",
+    "name": "Dough Mama's Pizzeria",
+    "query": "Dough Mama's Pizzeria Des Moines Iowa",
+    "businessStatus": "CLOSED_TEMPORARILY",
+    "formattedAddress": "214 4th St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T08:56:20+00:00"
+  },
+  {
+    "id": "osm-node-765877728",
+    "name": "Down Under Bar & Grill",
+    "query": "Down Under Bar & Grill Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "8350 Hickman Rd, Clive, IA 50325, USA",
+    "checkedAt": "2026-06-13T08:56:20+00:00"
+  },
+  {
+    "id": "osm-way-344548942",
+    "name": "Drake Diner",
+    "query": "Drake Diner Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1111 25th St, Des Moines, IA 50311, USA",
+    "checkedAt": "2026-06-13T08:56:20+00:00"
+  },
+  {
+    "id": "osm-way-105563760",
+    "name": "Ducktail Lounge",
+    "query": "Ducktail Lounge Clive Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1809 86th St, Clive, IA 50325, USA",
+    "checkedAt": "2026-06-13T08:56:21+00:00"
+  },
+  {
+    "id": "osm-way-152168492",
+    "name": "DZO Korean BBQ",
+    "query": "DZO Korean BBQ Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2611 Ingersoll Ave, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-13T08:56:21+00:00"
+  },
+  {
+    "id": "osm-node-6812628124",
+    "name": "Early Bird",
+    "query": "Early Bird West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "9250 University Ave Unit 107, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T08:56:21+00:00"
+  },
+  {
+    "id": "osm-node-13575424203",
+    "name": "Early Bird Brunch",
+    "query": "Early Bird Brunch Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1520 S Ankeny Blvd, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-13T08:56:21+00:00"
+  },
+  {
+    "id": "osm-node-5415384305",
+    "name": "Eat Fit Go",
+    "query": "Eat Fit Go West Des Moines Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "440 S 68th St Ste 107, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T08:56:22+00:00"
+  },
+  {
+    "id": "osm-node-11173209411",
+    "name": "Eat Thai",
+    "query": "Eat Thai West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1821 22nd St Ste 103, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T08:56:22+00:00"
+  },
+  {
+    "id": "osm-way-152292729",
+    "name": "Eatery A",
+    "query": "Eatery A Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2932 Ingersoll Ave, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-13T08:56:22+00:00"
+  },
+  {
+    "id": "osm-node-448784096",
+    "name": "El Azteca",
+    "query": "El Azteca Ankeny Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "1701 SE Delaware Ave, Ankeny, IA 50021, USA",
+    "checkedAt": "2026-06-13T08:56:22+00:00"
+  },
+  {
+    "id": "osm-way-971031741",
+    "name": "El Bait Shop",
+    "query": "El Bait Shop Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "200 SW 2nd St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T08:56:23+00:00"
+  },
+  {
+    "id": "osm-way-1250176857",
+    "name": "El Chero Restaurant",
+    "query": "El Chero Restaurant Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1832 Hubbell Ave, Des Moines, IA 50316, USA",
+    "checkedAt": "2026-06-13T08:56:23+00:00"
+  },
+  {
+    "id": "osm-node-8026295025",
+    "name": "El Dorado",
+    "query": "El Dorado Des Moines Metro Iowa",
+    "businessStatus": null,
+    "formattedAddress": "Eldorado Pt, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T08:56:23+00:00"
+  },
+  {
+    "id": "osm-way-324138721",
+    "name": "El Fogon",
+    "query": "El Fogon West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1250 8th St, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-13T08:56:23+00:00"
+  },
+  {
+    "id": "osm-way-266069024",
+    "name": "El Mariachi",
+    "query": "El Mariachi Johnston Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "5825 Merle Hay Rd, Johnston, IA 50131, USA",
+    "checkedAt": "2026-06-13T08:56:23+00:00"
+  },
+  {
+    "id": "osm-node-8026271479",
+    "name": "El Maya",
+    "query": "El Maya Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2351 Sunset Dr #105, Norwalk, IA 50211, USA",
+    "checkedAt": "2026-06-13T08:56:24+00:00"
+  },
+  {
+    "id": "osm-way-38224582",
+    "name": "El Molcajete",
+    "query": "El Molcajete Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "301 E 1st St, Ankeny, IA 50021, USA",
+    "checkedAt": "2026-06-13T08:56:24+00:00"
   }
 ]

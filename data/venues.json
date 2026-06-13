@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T03:35:14+00:00",
+  "updatedAt": "2026-06-13T08:56:24+00:00",
   "city": "Des Moines Metro",
   "items": [
     {
@@ -53,6 +53,62 @@
       "publicDescription": "Brecks appears to have closed; Google Places now reports it permanently closed.",
       "firstSeen": "2026-06-11",
       "address": "Des Moines Metro, IA",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-13",
+      "closedDatePrecision": "month"
+    },
+    {
+      "id": "osm-way-34072931",
+      "name": "Chips",
+      "status": "closed",
+      "eventDate": "2026-06-13",
+      "sortDate": "2026-06-13",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Ankeny",
+      "story": "Chips appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/34072931"
+        }
+      ],
+      "publicDescription": "Chips appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "2502 Southeast Tone's Drive, Ankeny, IA, 50021",
+      "website": "https://www.chipsrestaurant.com/",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-13",
+      "closedDatePrecision": "month"
+    },
+    {
+      "id": "osm-node-12995130149",
+      "name": "Coco & Nini's",
+      "status": "closed",
+      "eventDate": "2026-06-13",
+      "sortDate": "2026-06-13",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "Carlisle",
+      "story": "Coco & Nini's appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12995130149"
+        }
+      ],
+      "publicDescription": "Coco & Nini's appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "60 School Street, Carlisle, IA, 50047",
+      "website": "https://www.cocoandninis.com/",
       "descriptionSource": "enriched",
       "closedDate": "2026-06-13",
       "closedDatePrecision": "month"
@@ -5867,32 +5923,6 @@
       "descriptionSource": "enriched"
     },
     {
-      "id": "osm-way-34072931",
-      "name": "Chips",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Ankeny",
-      "story": "A casual eatery in Ankeny.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/way/34072931"
-        }
-      ],
-      "publicDescription": "A casual eatery in Ankeny.",
-      "firstSeen": "2026-06-11",
-      "address": "2502 Southeast Tone's Drive, Ankeny, IA, 50021",
-      "website": "https://www.chipsrestaurant.com/",
-      "descriptionSource": "enriched"
-    },
-    {
       "id": "osm-way-105679746",
       "name": "Christopher's",
       "status": "opened",
@@ -6046,32 +6076,6 @@
       "firstSeen": "2026-06-11",
       "address": "560 South Prairie View Drive, West Des Moines, IA, 50266",
       "website": "https://coachspizza.com/",
-      "descriptionSource": "enriched"
-    },
-    {
-      "id": "osm-node-12995130149",
-      "name": "Coco & Nini's",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "Carlisle",
-      "story": "A casual, family-owned Italian restaurant in Carlisle with a full-service bar, offering dine-in, carry-out, and curbside pickup.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/node/12995130149"
-        }
-      ],
-      "publicDescription": "A casual, family-owned Italian restaurant in Carlisle with a full-service bar, offering dine-in, carry-out, and curbside pickup.",
-      "firstSeen": "2026-06-11",
-      "address": "60 School Street, Carlisle, IA, 50047",
-      "website": "https://www.cocoandninis.com/",
       "descriptionSource": "enriched"
     },
     {

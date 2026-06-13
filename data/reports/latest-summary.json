@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-13T03:34:58+00:00",
-  "leadCount": 135,
+  "generatedAt": "2026-06-13T08:56:14+00:00",
+  "leadCount": 142,
   "statusCounts": {
-    "closed": 72,
-    "review": 22,
-    "opened": 40,
+    "closed": 76,
+    "review": 24,
+    "opened": 41,
     "moved": 1
   },
   "sourceTypeCounts": {
     "reddit": 3,
-    "google_news": 132
+    "google_news": 139
   },
   "warnings": [
     "Reddit blocked source reddit-closing (closing); no JSON or RSS results returned.",
@@ -144,26 +144,6 @@
       ]
     },
     {
-      "fingerprint": "49e2a8c9a80ab7",
-      "source_id": "suburb-closures",
-      "source_label": "Suburb closures",
-      "source_type": "google_news",
-      "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
-      "source_sort": "relevance",
-      "source_timeframe": "all",
-      "title": "Table 128 Bistro & Bar in Clive: Original location closed in 2021 - The Des Moines Register",
-      "summary": "Table 128 Bistro & Bar in Clive: Original location closed in 2021 The Des Moines Register",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPckV4eXVCZVJ1Q1ZXeFJubVRUbENpSS1GdmY5T01WQUx3RXlVUEN5bTVRNFJQa1BXUkY0dDk1VUVDWXM5RkRCMjFMQ2RyVzZ0X1k0XzlNN1hoY0F1WVJLOUpJbnAzaGpTVExyNndTaFhBTm1wXzI3N1FqLTQ2ejRaeWhSNHRidTFSRjEwdklxeW9EZ2NHVWtibUViblAyWmNuV1ozajNRRUlYMzZEaTBCR3d5RWN2aGdqbndsYWRB?oc=5",
-      "published_at": "Fri, 08 Jul 2016 07:00:00 GMT",
-      "status_guess": "closed",
-      "score": 5,
-      "venue_guess": "Original location",
-      "area_guess": "Des Moines Metro",
-      "matched_terms": [
-        "closed"
-      ]
-    },
-    {
       "fingerprint": "a5e096b0d6f07d",
       "source_id": "official-social-statements",
       "source_label": "Official closure or move statements",
@@ -244,6 +224,27 @@
       "area_guess": "Des Moines Metro",
       "matched_terms": [
         "closing"
+      ]
+    },
+    {
+      "fingerprint": "d413c6a8f36d13",
+      "source_id": "metro-closures",
+      "source_label": "Metro closures",
+      "source_type": "google_news",
+      "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+      "source_sort": "relevance",
+      "source_timeframe": "all",
+      "title": "Owner of Popular High-End Steakhouse Chain Files for Bankruptcy: What It Means for Locations Near You - People.com",
+      "summary": "Owner of Popular High-End Steakhouse Chain Files for Bankruptcy: What It Means for Locations Near You People.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNREpwbDcyU1hiZE5FRlNQWGF2c1hhRUZMalVDUVJaOXVJSTNQaGhJbjhJRFJXNTg1VEhjYlhnU3ZOZnRiV24yQjcxcU52MHROYXR3MEhvUEg3dEhqYkhmUkMwNlBFSkRCT2NPbmNoektqTVJjU21PZDlLazVrTklLcEhqNm93UQ?oc=5",
+      "published_at": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "status_guess": "closed",
+      "score": 8,
+      "venue_guess": "Owner of Popular High-End Steakhouse Chain",
+      "area_guess": "Des Moines Metro",
+      "matched_terms": [
+        "bankrupt",
+        "bankruptcy"
       ]
     },
     {
