@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T13:56:30+00:00",
+  "updatedAt": "2026-06-13T19:24:00+00:00",
   "city": "Des Moines Metro",
   "items": [
     {
@@ -246,6 +246,61 @@
       "firstSeen": "2026-06-11",
       "address": "1701 Southeast Delaware Avenue, Ankeny, IA, 50021",
       "website": "https://www.elaztecaiowa.com/",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-13",
+      "closedDatePrecision": "month"
+    },
+    {
+      "id": "osm-node-5415384268",
+      "name": "Fresh Fit Meals",
+      "status": "closed",
+      "eventDate": "2026-06-13",
+      "sortDate": "2026-06-13",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "West Des Moines",
+      "story": "Fresh Fit Meals appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/5415384268"
+        }
+      ],
+      "publicDescription": "Fresh Fit Meals appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "6605 Mills Civic Parkway, West Des Moines, IA, 50266",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-13",
+      "closedDatePrecision": "month"
+    },
+    {
+      "id": "osm-node-4484363659",
+      "name": "Fuzzy's Taco Shop",
+      "status": "closed",
+      "eventDate": "2026-06-13",
+      "sortDate": "2026-06-13",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Mexican",
+      "neighborhood": "Ankeny",
+      "story": "Fuzzy's Taco Shop appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/4484363659"
+        }
+      ],
+      "publicDescription": "Fuzzy's Taco Shop appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "2732 Southeast Delaware Avenue, Ankeny, IA, 50021",
+      "website": "https://www.fuzzystacoshop.com/locations/ankeny-ia",
       "descriptionSource": "enriched",
       "closedDate": "2026-06-13",
       "closedDatePrecision": "month"
@@ -8232,31 +8287,6 @@
       "descriptionSource": "enriched"
     },
     {
-      "id": "osm-node-5415384268",
-      "name": "Fresh Fit Meals",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "West Des Moines",
-      "story": "A West Des Moines spot offering fresh, fit meals for health-minded diners.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/node/5415384268"
-        }
-      ],
-      "publicDescription": "A West Des Moines spot offering fresh, fit meals for health-minded diners.",
-      "firstSeen": "2026-06-11",
-      "address": "6605 Mills Civic Parkway, West Des Moines, IA, 50266",
-      "descriptionSource": "enriched"
-    },
-    {
       "id": "osm-node-5415591292",
       "name": "Fresh Fit Meals",
       "status": "opened",
@@ -8458,32 +8488,6 @@
       "firstSeen": "2026-06-11",
       "address": "1550 North Ankeny Boulevard, Ankeny, IA, 50023",
       "website": "https://fruttabowls.com",
-      "descriptionSource": "enriched"
-    },
-    {
-      "id": "osm-node-4484363659",
-      "name": "Fuzzy's Taco Shop",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Mexican",
-      "neighborhood": "Ankeny",
-      "story": "An Ankeny taco shop serving Baja-style tacos, breakfast tacos, burritos, and other Mexican eats, plus beer and margaritas.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/node/4484363659"
-        }
-      ],
-      "publicDescription": "An Ankeny taco shop serving Baja-style tacos, breakfast tacos, burritos, and other Mexican eats, plus beer and margaritas.",
-      "firstSeen": "2026-06-11",
-      "address": "2732 Southeast Delaware Avenue, Ankeny, IA, 50021",
-      "website": "https://www.fuzzystacoshop.com/locations/ankeny-ia",
       "descriptionSource": "enriched"
     },
     {

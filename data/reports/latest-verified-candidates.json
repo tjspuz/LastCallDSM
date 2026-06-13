@@ -1,26 +1,26 @@
 [
   {
-    "id": "another-potential-buyer-eyeing-long-downtown-closed-2026-06-10",
-    "name": "Another potential buyer eyeing long",
-    "status": "closed",
-    "eventDate": "2026-06-10",
-    "sortDate": "2026-06-10",
+    "id": "a-new-des-moines-metro-opened-2026-06-03",
+    "name": "A new",
+    "status": "opened",
+    "eventDate": "2026-06-03",
+    "sortDate": "2026-06-03",
     "dateLabel": "Jun 2026",
     "datePrecision": "day",
     "venueType": "restaurant",
     "venueTypeLabel": "Restaurant",
     "cuisine": "Category Pending",
-    "neighborhood": "Downtown",
-    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Another potential buyer eyeing long in Downtown. Confirmation source: news.google.com.",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for A new in Des Moines Metro. Confirmation source: news.google.com.",
     "verificationLevel": "verified",
     "sources": [
       {
-        "label": "Metro openings",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUDFmUVVuOGVyTkM4clVobFNWTEFaS3Yxa3FLODhXS1Q0cU1CendlMkV3RXZXbDRyLWZCRldxbkNJRFhQMTU2aXNWT2o1MXhCeUtmYXVTdWw0WDdwLXY5Z3ZBWHdoZ0JRMFpyaXhmemdmNWtlNlAzTDRGV0tkWm9leW9BQWY5OVRLSzc0UzA5LVJuSkQ3SWFrd0kyVGF5NTVHY3ZWUlVOeTFBYkZIdWdPMlUxYWlhUFpod09IdG45RURQdVdaLWNYVnpOZkVUeDUzSE5jZlc5WTZ2LVlVWFhjS3V0RFFpZw?oc=5"
+        "label": "Suburb openings",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5US1JHbWZZNm05VnRSN3FvbHZhczdzTU9SLTlQallqZUxxdVFta3RyUXp3cXE1Y19xdmwwQ3pPRTNxVUtNRU13ZVlFRTFyczQ5NHJOWllWM2tSb1JXenM5WkJ4MHVULWRmRFpJeHRkQUpnSW5OOWVV0gF3QVVfeXFMTzVGR2p1eUd1MXRELS0wZ040dlZtMkRlWWNJcTBPTk9BUDFXVHBJM0p3QThxZ2FDOS1xdE1WWkJYTVZqaDZNSGdRR1lBTWRFNUxlbklhMThCN09PTmEzWXpHT2ZCNF82R2NERVZaYm5wdC1ySVVwOHc?oc=5"
       },
       {
         "label": "news.google.com",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUDFmUVVuOGVyTkM4clVobFNWTEFaS3Yxa3FLODhXS1Q0cU1CendlMkV3RXZXbDRyLWZCRldxbkNJRFhQMTU2aXNWT2o1MXhCeUtmYXVTdWw0WDdwLXY5Z3ZBWHdoZ0JRMFpyaXhmemdmNWtlNlAzTDRGV0tkWm9leW9BQWY5OVRLSzc0UzA5LVJuSkQ3SWFrd0kyVGF5NTVHY3ZWUlVOeTFBYkZIdWdPMlUxYWlhUFpod09IdG45RURQdVdaLWNYVnpOZkVUeDUzSE5jZlc5WTZ2LVlVWFhjS3V0RFFpZw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3dTM25hb2pOUmxyZEE1SWJLMGYyakpzakRWVGFwdUxnZGFZV3ZGVkFQcHNTaWJsX0NPTTl0MDVEeFhHSmlETV9FRW1kN2FPWjl5aGZwaDhZSnp3Q3pRZDFzLXhCb3JtRlcySW9OOTdkSnlVcHVTdHhhNjROc0thZGJud3JwOUZPb2xYcTln?oc=5"
       }
     ]
   },
@@ -150,31 +150,6 @@
     ]
   },
   {
-    "id": "curry-n-grill-restaurant-holds-grand-des-moines-metro-opened-2025-11-07",
-    "name": "Curry-n-Grill restaurant holds grand",
-    "status": "opened",
-    "eventDate": "2025-11-07",
-    "sortDate": "2025-11-07",
-    "dateLabel": "Nov 2025",
-    "datePrecision": "day",
-    "venueType": "restaurant",
-    "venueTypeLabel": "Restaurant",
-    "cuisine": "Category Pending",
-    "neighborhood": "Des Moines Metro",
-    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Curry-n-Grill restaurant holds grand in Des Moines Metro. Confirmation source: news.google.com.",
-    "verificationLevel": "verified",
-    "sources": [
-      {
-        "label": "Metro openings",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSGlMV28zeHZxZ3dFZTdFMHRzemFOeWwzR0lRSzdrNHFpaUR3U2xTYkRvcG1UdlpvOFRqY2dvWl9hSkdHd2RlTWlvWlVsa1RuY2M5ci1JcXh3dU1za1R1TW4xNDR4SENWWmt6V3dLd2Vicms2M1N3ZHp0V2k2TnpBeS1ackVjTDkzVkhkVGNfeUdKYmpEUENXMkhDZTlQVDljV1NBbVJLV3BubzFQZmVJM09Ub3RhTXBjLVFn?oc=5"
-      },
-      {
-        "label": "news.google.com",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSGlMV28zeHZxZ3dFZTdFMHRzemFOeWwzR0lRSzdrNHFpaUR3U2xTYkRvcG1UdlpvOFRqY2dvWl9hSkdHd2RlTWlvWlVsa1RuY2M5ci1JcXh3dU1za1R1TW4xNDR4SENWWmt6V3dLd2Vicms2M1N3ZHp0V2k2TnpBeS1ackVjTDkzVkhkVGNfeUdKYmpEUENXMkhDZTlQVDljV1NBbVJLV3BubzFQZmVJM09Ub3RhTXBjLVFn?oc=5"
-      }
-    ]
-  },
-  {
     "id": "rhode-island-s-1st-ever-wingstop-throws-grand-opening-celebration-johnston-opened-2025-10-15",
     "name": "Rhode Island's 1st Ever Wingstop Throws Grand Opening Celebration",
     "status": "opened",
@@ -221,31 +196,6 @@
       {
         "label": "news.google.com",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNTIwWlFOQkVNbVEwR2x2OUZZTzhtSHVlZDVJcVV2aG9zWkY2N0hFR3BPcGptbVNGS3N0Ukw4cmU2LWQ3ZEtaOFFuYnZCVUpkRExHSGYtZ2paVjN0RXFXcHo4cTUwcGFRRkUtQVBtOWJtUTBDYy1HWjF1Wmhxc181OVAzV0dCSHBfc3VzQVhSMUYwTGZkNDZYSTNUV0FneWRBdWFVU2RCTTBraXJ6Nm9xZFltb29RMGljLWUtTjJwYjI5ZHIzUWNwbjktc2ZRWHRWVUdmUHNhTklSM2ZVT0dlVXhYdnNpU04yYTNROFJhMDc?oc=5"
-      }
-    ]
-  },
-  {
-    "id": "a-new-des-moines-metro-opened-2025-08-22",
-    "name": "A new",
-    "status": "opened",
-    "eventDate": "2025-08-22",
-    "sortDate": "2025-08-22",
-    "dateLabel": "Aug 2025",
-    "datePrecision": "day",
-    "venueType": "restaurant",
-    "venueTypeLabel": "Restaurant",
-    "cuisine": "Category Pending",
-    "neighborhood": "Des Moines Metro",
-    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for A new in Des Moines Metro. Confirmation source: news.google.com.",
-    "verificationLevel": "verified",
-    "sources": [
-      {
-        "label": "Suburb openings",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5US1JHbWZZNm05VnRSN3FvbHZhczdzTU9SLTlQallqZUxxdVFta3RyUXp3cXE1Y19xdmwwQ3pPRTNxVUtNRU13ZVlFRTFyczQ5NHJOWllWM2tSb1JXenM5WkJ4MHVULWRmRFpJeHRkQUpnSW5OOWVV0gF3QVVfeXFMTzVGR2p1eUd1MXRELS0wZ040dlZtMkRlWWNJcTBPTk9BUDFXVHBJM0p3QThxZ2FDOS1xdE1WWkJYTVZqaDZNSGdRR1lBTWRFNUxlbklhMThCN09PTmEzWXpHT2ZCNF82R2NERVZaYm5wdC1ySVVwOHc?oc=5"
-      },
-      {
-        "label": "news.google.com",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYVJRdWVQNDhxcDJ2VVpZVEVmT0dSQmZjOV9wUW4wZTI1VjJFZHRndjFneXZaMlVDQXhYY2RBZmNXTlhFZjdGV2lwWGFyNEFxTVRvR1Z1bUtZUlhyNEdKTUhNYW1VMDFld0QxTnc2dHYwWUo3WmhpdUYtUVlsMzN2dXhfX2xFYXBxekt1UXJqLWhXaUxxNXBlcFU1Y3JSbnRJSDZ0dlc1VjMwb2ZsdkR0X3NLMTFzTmxWWllsQ0Fyd3lRNzg5czlIc195ZnBncGxNZjJJX0xHNGRlLUFrTDFfamVnOVR2UQ?oc=5"
       }
     ]
   },
@@ -446,6 +396,31 @@
       {
         "label": "news.google.com",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQckxDaDFIWU5FT0xCQ0lQODRzS0ozYnFiY0x6cFdUZm5hQlJzWW1hSWE3Z3BuSWVGMzRlcE11TGVsRFVQMFRJQlBTLUxnQWJNZ3hwanE4elJSVGZQcC1lakhPdzktQ0VndnhacV9wNEo4VVdUdHROaWM1cFVkRTJ2SmJBbFJMeERBc3RGM3lpVUtaMXB4X1JlaUZKOHFScGNGT1BKVzM4Zk9KOEJRYlhQZy1UZ2UteXdjQm5tYm9xNHVIS0RCNktKSTVZeEpMUUhHbnptWlFaeTI0N0JVdkVlSmN3?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "maxie-s-restaurant-des-moines-metro-opened-2023-03-08",
+    "name": "Maxie\u2019s restaurant",
+    "status": "opened",
+    "eventDate": "2023-03-08",
+    "sortDate": "2023-03-08",
+    "dateLabel": "Mar 2023",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Maxie\u2019s restaurant in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Official closure or move statements",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEtyc1pjWEIya1Z3bk9Db3RxY192NVpYVERTRElUNFFnb2xPcV9VTlZqWUdYY0pJek5qNTNTZGYtMDZKdjAwekdMdW1aQ1ZFWTV0NFlhUlpVT1V3ajNJcFF3cmtoZkhFWXJkSWtMcmNpbTBZdFVWR0U4S1lfeWplZUUtVXVJdGZSbUN5LW1Rb0hmUQ?oc=5"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEtyc1pjWEIya1Z3bk9Db3RxY192NVpYVERTRElUNFFnb2xPcV9VTlZqWUdYY0pJek5qNTNTZGYtMDZKdjAwekdMdW1aQ1ZFWTV0NFlhUlpVT1V3ajNJcFF3cmtoZkhFWXJkSWtMcmNpbTBZdFVWR0U4S1lfeWplZUUtVXVJdGZSbUN5LW1Rb0hmUQ?oc=5"
       }
     ]
   },

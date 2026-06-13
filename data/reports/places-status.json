@@ -2406,5 +2406,325 @@
     "businessStatus": "CLOSED_PERMANENTLY",
     "formattedAddress": "2732 SE Delaware Ave Ste 300, Ankeny, IA 50021, USA",
     "checkedAt": "2026-06-13T13:56:30+00:00"
+  },
+  {
+    "id": "osm-node-5012694220",
+    "name": "Fuzzy's Taco Shop",
+    "query": "Fuzzy's Taco Shop Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "300 W Martin Luther King Jr Pkwy Ste 120, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T19:23:46+00:00"
+  },
+  {
+    "id": "osm-way-329385035",
+    "name": "G. Mig's 5th Street Pub",
+    "query": "G. Mig's 5th Street Pub West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "128 5th St, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-13T19:23:46+00:00"
+  },
+  {
+    "id": "osm-node-11265341253",
+    "name": "Gameday",
+    "query": "Gameday Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3800 Merle Hay Rd Ste 1220, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-13T19:23:47+00:00"
+  },
+  {
+    "id": "osm-node-11082137615",
+    "name": "Garbanzo Mediterranean Fresh",
+    "query": "Garbanzo Mediterranean Fresh Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1550 N Ankeny Blvd Ste 100, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-13T19:23:47+00:00"
+  },
+  {
+    "id": "osm-node-3468208126",
+    "name": "Gateway Market Caf\u00e9",
+    "query": "Gateway Market Caf\u00e9 Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "High St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T19:23:47+00:00"
+  },
+  {
+    "id": "osm-node-4640651933",
+    "name": "Get Fit Grill",
+    "query": "Get Fit Grill West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "6305 Mills Civic Pkwy Ste 3109, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T19:23:48+00:00"
+  },
+  {
+    "id": "osm-node-12640647376",
+    "name": "Giliberto's Mexican Taco Shop",
+    "query": "Giliberto's Mexican Taco Shop Altoona Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "400 34th Ave SW #104, Altoona, IA 50009, USA",
+    "checkedAt": "2026-06-13T19:23:48+00:00"
+  },
+  {
+    "id": "osm-way-324139881",
+    "name": "Gilroy's",
+    "query": "Gilroy's West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1238 8th St, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-13T19:23:49+00:00"
+  },
+  {
+    "id": "osm-way-35105774",
+    "name": "Good Times",
+    "query": "Good Times Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1912 SW 3rd St, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-13T19:23:49+00:00"
+  },
+  {
+    "id": "osm-node-1216889633",
+    "name": "GoodSons",
+    "query": "GoodSons Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2815 Beaver Ave, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-13T19:23:49+00:00"
+  },
+  {
+    "id": "osm-node-6017113306",
+    "name": "Great Teriyaki",
+    "query": "Great Teriyaki West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "101 S Jordan Creek Pkwy, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T19:23:49+00:00"
+  },
+  {
+    "id": "osm-node-6017113307",
+    "name": "Great Wok",
+    "query": "Great Wok West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "101 S Jordan Creek Pkwy Ste 12510, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T19:23:50+00:00"
+  },
+  {
+    "id": "osm-node-765949837",
+    "name": "Grounds For Celebration",
+    "query": "Grounds For Celebration Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2709 Beaver Ave, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-13T19:23:50+00:00"
+  },
+  {
+    "id": "osm-node-1216900238",
+    "name": "Grounds For Celebration",
+    "query": "Grounds For Celebration Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2709 Beaver Ave, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-13T19:23:51+00:00"
+  },
+  {
+    "id": "osm-node-3269852738",
+    "name": "Grounds For Celebration",
+    "query": "Grounds For Celebration West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "5950 University Ave, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T19:23:51+00:00"
+  },
+  {
+    "id": "osm-node-3260940179",
+    "name": "Grumpy Goat",
+    "query": "Grumpy Goat West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "6240 Mills Civic Pkwy, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T19:23:51+00:00"
+  },
+  {
+    "id": "osm-way-114744534",
+    "name": "Grumpy Goat",
+    "query": "Grumpy Goat West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "6240 Mills Civic Pkwy, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T19:23:51+00:00"
+  },
+  {
+    "id": "osm-node-6699502718",
+    "name": "Grumpy Goat Tavern",
+    "query": "Grumpy Goat Tavern Ankeny Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "810 E 1st St, Ankeny, IA 50021, USA",
+    "checkedAt": "2026-06-13T19:23:52+00:00"
+  },
+  {
+    "id": "osm-way-152424029",
+    "name": "GT Lounge",
+    "query": "GT Lounge Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3013 Ingersoll Ave, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-13T19:23:52+00:00"
+  },
+  {
+    "id": "osm-way-37481943",
+    "name": "Guadalajara",
+    "query": "Guadalajara Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "202 SE Delaware Ave, Ankeny, IA 50021, USA",
+    "checkedAt": "2026-06-13T19:23:53+00:00"
+  },
+  {
+    "id": "osm-way-47010540",
+    "name": "Guadalajara",
+    "query": "Guadalajara Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3215 Adventureland Dr, Altoona, IA 50009, USA",
+    "checkedAt": "2026-06-13T19:23:53+00:00"
+  },
+  {
+    "id": "osm-way-1393164415",
+    "name": "Guadalajara Mexican Restaurant",
+    "query": "Guadalajara Mexican Restaurant Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3215 Adventureland Dr, Altoona, IA 50009, USA",
+    "checkedAt": "2026-06-13T19:23:53+00:00"
+  },
+  {
+    "id": "osm-node-2697974494",
+    "name": "Gusto Pizza Company",
+    "query": "Gusto Pizza Company West Des Moines Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "2800 University Ave, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T19:23:54+00:00"
+  },
+  {
+    "id": "osm-way-148284729",
+    "name": "Habanero's",
+    "query": "Habanero's Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3200 Forest Ave, Des Moines, IA 50311, USA",
+    "checkedAt": "2026-06-13T19:23:54+00:00"
+  },
+  {
+    "id": "osm-node-3283286377",
+    "name": "Hagar\u2019s Manhattan Grill",
+    "query": "Hagar\u2019s Manhattan Grill West Des Moines Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "1970 Grand Ave #29, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-13T19:23:55+00:00"
+  },
+  {
+    "id": "osm-node-5415411751",
+    "name": "Hana Ramen Sushi",
+    "query": "Hana Ramen Sushi West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "7450 Bridgewood Blvd Ste 205, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T19:23:55+00:00"
+  },
+  {
+    "id": "osm-way-297196741",
+    "name": "Hansen's Manhattan Deli",
+    "query": "Hansen's Manhattan Deli Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3705 Ingersoll Ave, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-13T19:23:56+00:00"
+  },
+  {
+    "id": "osm-node-961866245",
+    "name": "Happy Joe's",
+    "query": "Happy Joe's Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "8056 Douglas Ave, Urbandale, IA 50322, USA",
+    "checkedAt": "2026-06-13T19:23:56+00:00"
+  },
+  {
+    "id": "osm-way-152168784",
+    "name": "Harbinger",
+    "query": "Harbinger Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2724 Ingersoll Ave, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-13T19:23:56+00:00"
+  },
+  {
+    "id": "osm-node-13261673981",
+    "name": "Hawaiian Bros Island Grill",
+    "query": "Hawaiian Bros Island Grill Waukee Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1005 SE Alice's Rd, Waukee, IA 50263, USA",
+    "checkedAt": "2026-06-13T19:23:57+00:00"
+  },
+  {
+    "id": "osm-way-329511911",
+    "name": "Heavenly Asian Cuisine & Lounge",
+    "query": "Heavenly Asian Cuisine & Lounge West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "225 5th St, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-13T19:23:57+00:00"
+  },
+  {
+    "id": "osm-node-790684713",
+    "name": "Heroes",
+    "query": "Heroes Des Moines Metro Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "216 Court Ave, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T19:23:57+00:00"
+  },
+  {
+    "id": "osm-node-790684705",
+    "name": "Hessen Haus",
+    "query": "Hessen Haus Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "101 SW 4th St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T19:23:58+00:00"
+  },
+  {
+    "id": "osm-way-102128492",
+    "name": "Hibachi Grill",
+    "query": "Hibachi Grill West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1801 22nd St, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T19:23:58+00:00"
+  },
+  {
+    "id": "osm-way-108063361",
+    "name": "Hickman Soft Serve Royal Treats",
+    "query": "Hickman Soft Serve Royal Treats Des Moines Metro Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "5814 Hickman Rd, Des Moines, IA 50322, USA",
+    "checkedAt": "2026-06-13T19:23:58+00:00"
+  },
+  {
+    "id": "osm-node-5457751680",
+    "name": "Hidalgo Mexican Bar & Grill",
+    "query": "Hidalgo Mexican Bar & Grill Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1631 SW Main St Ste 100, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-13T19:23:59+00:00"
+  },
+  {
+    "id": "osm-way-971031740",
+    "name": "High Life Lounge",
+    "query": "High Life Lounge Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "200 SW 2nd St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T19:23:59+00:00"
+  },
+  {
+    "id": "osm-node-13389060820",
+    "name": "Home Sweet Cone",
+    "query": "Home Sweet Cone West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "5045 Bentley Dr, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-13T19:24:00+00:00"
+  },
+  {
+    "id": "osm-node-9538510212",
+    "name": "HoQ",
+    "query": "HoQ Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "303 E 5th St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T19:24:00+00:00"
+  },
+  {
+    "id": "osm-node-9538510210",
+    "name": "HoQtail",
+    "query": "HoQtail Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "303 E 5th St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T19:24:00+00:00"
   }
 ]
