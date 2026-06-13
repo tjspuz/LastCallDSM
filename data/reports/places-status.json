@@ -2086,5 +2086,325 @@
     "businessStatus": "OPERATIONAL",
     "formattedAddress": "301 E 1st St, Ankeny, IA 50021, USA",
     "checkedAt": "2026-06-13T08:56:24+00:00"
+  },
+  {
+    "id": "osm-way-297192449",
+    "name": "El Patio",
+    "query": "El Patio Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "611 37th St, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-13T13:56:21+00:00"
+  },
+  {
+    "id": "osm-node-11125132305",
+    "name": "El Patron",
+    "query": "El Patron Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "4351 Merle Hay Rd, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-13T13:56:21+00:00"
+  },
+  {
+    "id": "osm-node-3329454744",
+    "name": "El Rey Burrito",
+    "query": "El Rey Burrito West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1310 Grand Ave, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-13T13:56:21+00:00"
+  },
+  {
+    "id": "osm-way-110621291",
+    "name": "El Rodeo",
+    "query": "El Rodeo Clive Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1310 NW 118th St, Clive, IA 50325, USA",
+    "checkedAt": "2026-06-13T13:56:21+00:00"
+  },
+  {
+    "id": "osm-way-132329831",
+    "name": "El Rodeo",
+    "query": "El Rodeo Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "7420 Douglas Ave, Urbandale, IA 50322, USA",
+    "checkedAt": "2026-06-13T13:56:22+00:00"
+  },
+  {
+    "id": "osm-way-34926599",
+    "name": "El Salvadore\u00f1o",
+    "query": "El Salvadore\u00f1o Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2901 6th Ave, Des Moines, IA 50313, USA",
+    "checkedAt": "2026-06-13T13:56:22+00:00"
+  },
+  {
+    "id": "osm-node-9446408725",
+    "name": "Ernie's Boondock",
+    "query": "Ernie's Boondock Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "440 E Grand Ave, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T13:56:22+00:00"
+  },
+  {
+    "id": "osm-node-2327803472",
+    "name": "Escape Lounge",
+    "query": "Escape Lounge Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "8843 Northpark Ct, Johnston, IA 50131, USA",
+    "checkedAt": "2026-06-13T13:56:22+00:00"
+  },
+  {
+    "id": "osm-node-766164988",
+    "name": "Euro Bar & Grill",
+    "query": "Euro Bar & Grill Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "196 S 50th St, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-13T13:56:23+00:00"
+  },
+  {
+    "id": "osm-way-102680791",
+    "name": "Exile Brewing Company",
+    "query": "Exile Brewing Company Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1514 Walnut St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T13:56:23+00:00"
+  },
+  {
+    "id": "osm-node-3655799025",
+    "name": "Extra Innings",
+    "query": "Extra Innings Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3946 NW Urbandale Dr, Urbandale, IA 50322, USA",
+    "checkedAt": "2026-06-13T13:56:23+00:00"
+  },
+  {
+    "id": "osm-node-765102997",
+    "name": "Felix & Oscar's",
+    "query": "Felix & Oscar's Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "4050 Merle Hay Rd, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-13T13:56:23+00:00"
+  },
+  {
+    "id": "osm-node-9359464341",
+    "name": "Fender's Brewery",
+    "query": "Fender's Brewery Polk City Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "212 Van Dorn St, Polk City, IA 50226, USA",
+    "checkedAt": "2026-06-13T13:56:24+00:00"
+  },
+  {
+    "id": "osm-node-6017113308",
+    "name": "Fernando's",
+    "query": "Fernando's Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2650 University Ave, Des Moines, IA 50311, USA",
+    "checkedAt": "2026-06-13T13:56:24+00:00"
+  },
+  {
+    "id": "osm-node-10969677091",
+    "name": "Fernando's Mexican Grill",
+    "query": "Fernando's Mexican Grill Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2650 University Ave, Des Moines, IA 50311, USA",
+    "checkedAt": "2026-06-13T13:56:24+00:00"
+  },
+  {
+    "id": "osm-node-13725755093",
+    "name": "Fernando's Mexican Grill",
+    "query": "Fernando's Mexican Grill Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2650 University Ave, Des Moines, IA 50311, USA",
+    "checkedAt": "2026-06-13T13:56:24+00:00"
+  },
+  {
+    "id": "osm-node-11082229500",
+    "name": "Fiesta Jalape\u00f1o's",
+    "query": "Fiesta Jalape\u00f1o's Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1975 N Ankeny Blvd Ste 113, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-13T13:56:25+00:00"
+  },
+  {
+    "id": "osm-way-325657500",
+    "name": "Fiesta Mexican Restaurant",
+    "query": "Fiesta Mexican Restaurant West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2025 Grand Ave, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-13T13:56:25+00:00"
+  },
+  {
+    "id": "osm-node-6699415951",
+    "name": "Filet Steakhouse",
+    "query": "Filet Steakhouse Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1802 N Ankeny Blvd Ste B & C, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-13T13:56:25+00:00"
+  },
+  {
+    "id": "osm-node-1029790605",
+    "name": "Fire Creek",
+    "query": "Fire Creek West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "800 S 50th St Ste 110, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-13T13:56:25+00:00"
+  },
+  {
+    "id": "osm-node-4624183790",
+    "name": "Firebirds Wood Fired Grill",
+    "query": "Firebirds Wood Fired Grill West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "440 S 68th St Ste 101, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T13:56:26+00:00"
+  },
+  {
+    "id": "osm-way-37552649",
+    "name": "Firetrucker Brewery",
+    "query": "Firetrucker Brewery Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "716 SW 3rd St, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-13T13:56:26+00:00"
+  },
+  {
+    "id": "osm-way-1204946491",
+    "name": "Fiss'",
+    "query": "Fiss' Carlisle Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "120 IA-5, Carlisle, IA 50047, USA",
+    "checkedAt": "2026-06-13T13:56:26+00:00"
+  },
+  {
+    "id": "osm-way-1160596306",
+    "name": "Five Points",
+    "query": "Five Points Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1405 Walnut St, Dallas Center, IA 50063, USA",
+    "checkedAt": "2026-06-13T13:56:26+00:00"
+  },
+  {
+    "id": "osm-node-4612178681",
+    "name": "Flavory Bistro",
+    "query": "Flavory Bistro Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "Located in the District at Prairie Trail, 1450 SW Main St, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-13T13:56:27+00:00"
+  },
+  {
+    "id": "osm-way-47010539",
+    "name": "Flip\u2019N Jacks Pancake House & Eatery",
+    "query": "Flip\u2019N Jacks Pancake House & Eatery Altoona Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3221 Adventureland Dr, Altoona, IA 50009, USA",
+    "checkedAt": "2026-06-13T13:56:27+00:00"
+  },
+  {
+    "id": "osm-node-11265341255",
+    "name": "Flix Brewhouse",
+    "query": "Flix Brewhouse Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3800 Merle Hay Rd, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-13T13:56:27+00:00"
+  },
+  {
+    "id": "osm-way-105428647",
+    "name": "Flying Mango",
+    "query": "Flying Mango Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "4345 Hickman Rd, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-13T13:56:27+00:00"
+  },
+  {
+    "id": "osm-way-617266363",
+    "name": "Food Depot Bar & Grill",
+    "query": "Food Depot Bar & Grill Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3000 SE Grimes Blvd Ste 200, Grimes, IA 50111, USA",
+    "checkedAt": "2026-06-13T13:56:28+00:00"
+  },
+  {
+    "id": "osm-node-10815749062",
+    "name": "Founders Irish Pub",
+    "query": "Founders Irish Pub Bondurant Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "110 1st St SE, Bondurant, IA 50035, USA",
+    "checkedAt": "2026-06-13T13:56:28+00:00"
+  },
+  {
+    "id": "osm-node-5415384268",
+    "name": "Fresh Fit Meals",
+    "query": "Fresh Fit Meals West Des Moines Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "#1120, 8285, 6630 Mills Civic Pkwy, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T13:56:28+00:00"
+  },
+  {
+    "id": "osm-node-5415591292",
+    "name": "Fresh Fit Meals",
+    "query": "Fresh Fit Meals Urbandale Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "11881 Hickman Rd, Urbandale, IA 50323, USA",
+    "checkedAt": "2026-06-13T13:56:28+00:00"
+  },
+  {
+    "id": "osm-node-5198478156",
+    "name": "Fresh Mediterranean Express",
+    "query": "Fresh Mediterranean Express Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "15 NE Carefree Ln, Waukee, IA 50263, USA",
+    "checkedAt": "2026-06-13T13:56:29+00:00"
+  },
+  {
+    "id": "osm-node-9981837216",
+    "name": "Fresko",
+    "query": "Fresko Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "909 Locust St Ste. 103, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-13T13:56:29+00:00"
+  },
+  {
+    "id": "osm-node-1613816213",
+    "name": "Friedrich's World Coffees",
+    "query": "Friedrich's World Coffees Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "4126 University Ave, Des Moines, IA 50311, USA",
+    "checkedAt": "2026-06-13T13:56:29+00:00"
+  },
+  {
+    "id": "osm-node-765338157",
+    "name": "Friedrichs Coffee",
+    "query": "Friedrichs Coffee West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1821 22nd St Ste 101, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-13T13:56:29+00:00"
+  },
+  {
+    "id": "osm-node-1077924061",
+    "name": "Friedrichs Coffee",
+    "query": "Friedrichs Coffee Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "4126 University Ave, Des Moines, IA 50311, USA",
+    "checkedAt": "2026-06-13T13:56:30+00:00"
+  },
+  {
+    "id": "osm-node-11646286140",
+    "name": "Friedrichs Coffee",
+    "query": "Friedrichs Coffee Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "4126 University Ave, Des Moines, IA 50311, USA",
+    "checkedAt": "2026-06-13T13:56:30+00:00"
+  },
+  {
+    "id": "osm-node-11082137616",
+    "name": "Frutta Bowls",
+    "query": "Frutta Bowls Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1550 N Ankeny Blvd Ste 102, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-13T13:56:30+00:00"
+  },
+  {
+    "id": "osm-node-4484363659",
+    "name": "Fuzzy's Taco Shop",
+    "query": "Fuzzy's Taco Shop Ankeny Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "2732 SE Delaware Ave Ste 300, Ankeny, IA 50021, USA",
+    "checkedAt": "2026-06-13T13:56:30+00:00"
   }
 ]

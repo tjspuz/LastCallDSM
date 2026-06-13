@@ -300,31 +300,6 @@
     ]
   },
   {
-    "id": "hyper-energy-bar-celebrates-grand-des-moines-metro-opened-2024-11-20",
-    "name": "Hyper Energy Bar celebrates grand",
-    "status": "opened",
-    "eventDate": "2024-11-20",
-    "sortDate": "2024-11-20",
-    "dateLabel": "Nov 2024",
-    "datePrecision": "day",
-    "venueType": "bar",
-    "venueTypeLabel": "Bar",
-    "cuisine": "Category Pending",
-    "neighborhood": "Des Moines Metro",
-    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Hyper Energy Bar celebrates grand in Des Moines Metro. Confirmation source: news.google.com.",
-    "verificationLevel": "verified",
-    "sources": [
-      {
-        "label": "Metro openings",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkY4OVJwaE1OandNUmVsVUZaOWdjZlJKOEJJV2xrM1JuQTQ2dzlmdFhLZVdrRHdJSnRKZTIzNzZpeWVnYkNsSW8yUEZNM1lZa3doN1FCZng4VzhCNUJaYnNjQzluR3RiTERDMjBnZUMwV01YYmVzUWl1TUhRM0dncWFjY0hCS0lYZFMyUi1Ta1NUVU0?oc=5"
-      },
-      {
-        "label": "news.google.com",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkY4OVJwaE1OandNUmVsVUZaOWdjZlJKOEJJV2xrM1JuQTQ2dzlmdFhLZVdrRHdJSnRKZTIzNzZpeWVnYkNsSW8yUEZNM1lZa3doN1FCZng4VzhCNUJaYnNjQzluR3RiTERDMjBnZUMwV01YYmVzUWl1TUhRM0dncWFjY0hCS0lYZFMyUi1Ta1NUVU0?oc=5"
-      }
-    ]
-  },
-  {
     "id": "zora-bar-des-moines-metro-closed-2024-10-22",
     "name": "Zora bar",
     "status": "closed",
@@ -446,6 +421,31 @@
       {
         "label": "news.google.com",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVFJ3U1gzeHlRRmRXb1lIODdYOFlzN1d6VU52bVpkYXZrc2RPZ0J4QWFueGZ2eEVseFNVbkJlSjlwOXVxZDROZEk0SU9VeHRZcE5MZ0MzTjdMRmY2SzZHOHZhQVFjcmtqVHp3UWJ6V2VrZWI1ZWZLVnFuU1Ewd3JESDQ5djFacUlfQ1d0bU5yRWNQT0VNTEJ4REUta19NdlZ1eVh2QUh4T3BGbGVyYWRlcGZfd0RTLS1WeGJpZGE4SVRRLWs3Y1FibHpfVXpBdkdzRlB6Nm5zRkFZVWlRLUVDT2dkc0Y0dw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "paesano-s-pizzeria-des-moines-metro-closed-2023-05-08",
+    "name": "Paesano's Pizzeria",
+    "status": "closed",
+    "eventDate": "2023-05-08",
+    "sortDate": "2023-05-08",
+    "dateLabel": "May 2023",
+    "datePrecision": "day",
+    "venueType": "restaurant",
+    "venueTypeLabel": "Restaurant",
+    "cuisine": "Category Pending",
+    "neighborhood": "Des Moines Metro",
+    "story": "Automatically verified from the lead pipeline. Matched facility-specific coverage for Paesano's Pizzeria in Des Moines Metro. Confirmation source: news.google.com.",
+    "verificationLevel": "verified",
+    "sources": [
+      {
+        "label": "Metro closures",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQckxDaDFIWU5FT0xCQ0lQODRzS0ozYnFiY0x6cFdUZm5hQlJzWW1hSWE3Z3BuSWVGMzRlcE11TGVsRFVQMFRJQlBTLUxnQWJNZ3hwanE4elJSVGZQcC1lakhPdzktQ0VndnhacV9wNEo4VVdUdHROaWM1cFVkRTJ2SmJBbFJMeERBc3RGM3lpVUtaMXB4X1JlaUZKOHFScGNGT1BKVzM4Zk9KOEJRYlhQZy1UZ2UteXdjQm5tYm9xNHVIS0RCNktKSTVZeEpMUUhHbnptWlFaeTI0N0JVdkVlSmN3?oc=5"
+      },
+      {
+        "label": "news.google.com",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQckxDaDFIWU5FT0xCQ0lQODRzS0ozYnFiY0x6cFdUZm5hQlJzWW1hSWE3Z3BuSWVGMzRlcE11TGVsRFVQMFRJQlBTLUxnQWJNZ3hwanE4elJSVGZQcC1lakhPdzktQ0VndnhacV9wNEo4VVdUdHROaWM1cFVkRTJ2SmJBbFJMeERBc3RGM3lpVUtaMXB4X1JlaUZKOHFScGNGT1BKVzM4Zk9KOEJRYlhQZy1UZ2UteXdjQm5tYm9xNHVIS0RCNktKSTVZeEpMUUhHbnptWlFaeTI0N0JVdkVlSmN3?oc=5"
       }
     ]
   },

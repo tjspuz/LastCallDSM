@@ -320,6 +320,26 @@
     ]
   },
   {
+    "fingerprint": "1929c2044a635e",
+    "source_id": "suburb-closures",
+    "source_label": "Suburb closures",
+    "source_type": "google_news",
+    "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Ankeny Burger King workers shut down restaurant Sunday evening - The Des Moines Register",
+    "summary": "Ankeny Burger King workers shut down restaurant Sunday evening The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM1lQVEgxLW5LWUlvWW1uUmRsdHp5LWpXa0UwV3p3eFNMczZSRDRjUXdLUjMtS0Y5S1ZSM1dtaG5IaFFQM3VNcTZjaklfTWNzMU1rbUtNanpvZ0ItWDltd0I1bU80aHlodGNXZ1J1emlhMFp1MHlWWllWQlQxaGVneFVRazNHanFpX2ZRYW9sdDl5X3FYQXlnc2RXWU94c0VBZVBwVWtIb0xhaXBDOC1kN3dhQWVmX2V6T0RuNUhSMDVNQWZPWVg4Rg?oc=5",
+    "published_at": "Mon, 04 Sep 2017 07:00:00 GMT",
+    "status_guess": "closed",
+    "score": 6,
+    "venue_guess": "Ankeny Burger King workers shut down restaurant Sunday evening - The Des Moines Register",
+    "area_guess": "Ankeny",
+    "matched_terms": [
+      "shut down"
+    ]
+  },
+  {
     "fingerprint": "f994031a8acc9b",
     "source_id": "suburb-closures",
     "source_label": "Suburb closures",
@@ -1145,6 +1165,26 @@
     ]
   },
   {
+    "fingerprint": "4f6524ee502b1a",
+    "source_id": "metro-closures",
+    "source_label": "Metro closures",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Paesano's Pizzeria closing after decades in business - weareiowa.com",
+    "summary": "Paesano's Pizzeria closing after decades in business weareiowa.com",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQckxDaDFIWU5FT0xCQ0lQODRzS0ozYnFiY0x6cFdUZm5hQlJzWW1hSWE3Z3BuSWVGMzRlcE11TGVsRFVQMFRJQlBTLUxnQWJNZ3hwanE4elJSVGZQcC1lakhPdzktQ0VndnhacV9wNEo4VVdUdHROaWM1cFVkRTJ2SmJBbFJMeERBc3RGM3lpVUtaMXB4X1JlaUZKOHFScGNGT1BKVzM4Zk9KOEJRYlhQZy1UZ2UteXdjQm5tYm9xNHVIS0RCNktKSTVZeEpMUUhHbnptWlFaeTI0N0JVdkVlSmN3?oc=5",
+    "published_at": "Mon, 08 May 2023 07:00:00 GMT",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Paesano's Pizzeria",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closing"
+    ]
+  },
+  {
     "fingerprint": "b41631a2fc65fb",
     "source_id": "suburb-closures",
     "source_label": "Suburb closures",
@@ -1405,26 +1445,6 @@
     ]
   },
   {
-    "fingerprint": "953de01cd0b072",
-    "source_id": "suburb-closures",
-    "source_label": "Suburb closures",
-    "source_type": "google_news",
-    "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (closed OR closing OR shuttered OR bankruptcy OR eviction)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Johnston County BBQ joint closing after 40 years in business - WRAL",
-    "summary": "Johnston County BBQ joint closing after 40 years in business WRAL",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQVNVek1LaFBNLWNJZ01kUzZXV3hCQS1VZTRQdllqdVlOSFVqMlNXVWpKMHkwR3ZaY2kwZmhTbm5uS1RaRnFtUUZIUU16TjR2eVB2OEg2TENjLUtHRVlGUHdjYWFPNHd1RXNRZkI5aUszTnZNYlRlbnhxX3h5TFRuODFIT3F4enhaa3JOY092M3dPS20zSHpSR0VxU1RxZw?oc=5",
-    "published_at": "Tue, 14 Sep 2021 07:00:00 GMT",
-    "status_guess": "closed",
-    "score": 3,
-    "venue_guess": "Johnston County BBQ joint",
-    "area_guess": "Johnston",
-    "matched_terms": [
-      "closing"
-    ]
-  },
-  {
     "fingerprint": "0333abd8110396",
     "source_id": "suburb-closures",
     "source_label": "Suburb closures",
@@ -1462,6 +1482,26 @@
     "area_guess": "Des Moines Metro",
     "matched_terms": [
       "closing"
+    ]
+  },
+  {
+    "fingerprint": "7d4ed6395f83e5",
+    "source_id": "dsm-magazine-radar",
+    "source_label": "dsm Magazine restaurant coverage",
+    "source_type": "google_news",
+    "source_query": "site:dsmmagazine.com restaurant (opening OR opened OR closing OR closed)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "Sew long, Joann: Fabric store\u2019s closure creates a hard-to-patch hole - dsm magazine",
+    "summary": "Sew long, Joann: Fabric store\u2019s closure creates a hard-to-patch hole dsm magazine",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNjNUQm44X3cwM3Q1LWFLUGNxTUpWUGEwYUxfVkVJRUp4Y2ZnX2F2VlFqeWlGQ1hTMUlRRFVLRHlJcXRRVm50NGl2ZVc3Y0c1YzZSbnBTMGJIUjRSd2FOZkU1d2dIUnROSGM3VlFTcncya2tWaUR0aHRnbUlMeVB2eXdLNGdScnN0bkl0MzAyemZCMFBTUXZLaUtHcHBieTVLQ09N?oc=5",
+    "published_at": "Wed, 02 Jul 2025 07:00:00 GMT",
+    "status_guess": "closed",
+    "score": 3,
+    "venue_guess": "Fabric store\u2019s closure creates a hard-to-patch hole - dsm magazine",
+    "area_guess": "Des Moines Metro",
+    "matched_terms": [
+      "closure"
     ]
   },
   {
@@ -1580,6 +1620,26 @@
     "score": 4,
     "venue_guess": "Marjorie",
     "area_guess": "Downtown",
+    "matched_terms": [
+      "opening"
+    ]
+  },
+  {
+    "fingerprint": "fa0e9b85d585aa",
+    "source_id": "suburb-openings",
+    "source_label": "Suburb openings",
+    "source_type": "google_news",
+    "source_query": "(\"West Des Moines\" OR Waukee OR Ankeny OR Clive OR Urbandale OR Johnston) (restaurant OR bar OR brewery OR cafe) (opened OR opening OR reopening)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "New Chipotle restaurant opening in the Des Moines metro this weekend - weareiowa.com",
+    "summary": "New Chipotle restaurant opening in the Des Moines metro this weekend weareiowa.com",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSExQcEFoSFZEZFpHbHNZVHFZbzlSYV9OcnRIa3Q1V09sdXJnbF81eDlJLUtpUVVmTHlLaC1XTnlMWDhRNXRCUU50M2t2T202Wk1MYzAyZ0hnNW1OV0NBNWtIMGNxd3VmTDZWZ0I4ZG94TGk4dmY5N2dIM3Q1RmstdzRzd2NxQ0YyZGZLelh5QTFxZGpFUURXR0hNc1l5WEoweG1CcFlTZVdJdVRFQnVaaE8wVXVxRXF5bTVCWEI0SDA0NGRyUFF5T1JxRlpfSnFsaVFvQVQtQktqME84WGJtRW9mTm1qYXhsSENsdnZBRGVnSXQ2Z3JYSzlB?oc=5",
+    "published_at": "Fri, 29 Dec 2023 08:00:00 GMT",
+    "status_guess": "review",
+    "score": 4,
+    "venue_guess": "New Chipotle",
+    "area_guess": "Des Moines Metro",
     "matched_terms": [
       "opening"
     ]
@@ -1840,6 +1900,26 @@
     "score": 4,
     "venue_guess": "Retro arcade",
     "area_guess": "Johnston",
+    "matched_terms": [
+      "opening"
+    ]
+  },
+  {
+    "fingerprint": "35a12fee48c655",
+    "source_id": "metro-openings",
+    "source_label": "Metro openings",
+    "source_type": "google_news",
+    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (opened OR opening OR \"soft opening\" OR \"grand opening\" OR reopening)",
+    "source_sort": "relevance",
+    "source_timeframe": "all",
+    "title": "'Putting the passion on the plate': Des Moines restaurant opening new location - weareiowa.com",
+    "summary": "'Putting the passion on the plate': Des Moines restaurant opening new location weareiowa.com",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNENaMUVrR1k4X25IY3pfREd3T3NwNDVZTzhZdWdZZTlkYXo4c2h0QkFnTWhDdWwwLW16bFkwbkhVcEcxdGotaWpmaFF3eE1mMWM2S3lacWJodGY3NFV0MXBHeEN0Zk95S0xTSTlERnJQdmZkdkd1QU5uemIwM3k3MTd3Sm9WNjdtbEtRS1k4XzRRaFRKWExiOFR6YzRKRkx1cmZ6WXlKbDk5dm5nRmNmNVhUYmFNSTk5Uk9qYVh1aDBKdFlqWHQzX1dLRlhVclZPNHVkaFRB?oc=5",
+    "published_at": "Tue, 02 Jan 2024 08:00:00 GMT",
+    "status_guess": "review",
+    "score": 4,
+    "venue_guess": "Des Moines",
+    "area_guess": "Des Moines Metro",
     "matched_terms": [
       "opening"
     ]
@@ -2152,27 +2232,6 @@
     "matched_terms": [
       "new restaurant",
       "opened"
-    ]
-  },
-  {
-    "fingerprint": "cd38947599ae41",
-    "source_id": "metro-openings",
-    "source_label": "Metro openings",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (opened OR opening OR \"soft opening\" OR \"grand opening\" OR reopening)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Hyper Energy Bar celebrates grand opening in Iowa City - The Daily Iowan",
-    "summary": "Hyper Energy Bar celebrates grand opening in Iowa City The Daily Iowan",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkY4OVJwaE1OandNUmVsVUZaOWdjZlJKOEJJV2xrM1JuQTQ2dzlmdFhLZVdrRHdJSnRKZTIzNzZpeWVnYkNsSW8yUEZNM1lZa3doN1FCZng4VzhCNUJaYnNjQzluR3RiTERDMjBnZUMwV01YYmVzUWl1TUhRM0dncWFjY0hCS0lYZFMyUi1Ta1NUVU0?oc=5",
-    "published_at": "Wed, 20 Nov 2024 08:00:00 GMT",
-    "status_guess": "opened",
-    "score": 8,
-    "venue_guess": "Hyper Energy Bar celebrates grand",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "grand opening",
-      "opening"
     ]
   },
   {
@@ -2728,26 +2787,6 @@
     "area_guess": "Des Moines Metro",
     "matched_terms": [
       "new restaurant"
-    ]
-  },
-  {
-    "fingerprint": "2662f45dcefc90",
-    "source_id": "metro-closures",
-    "source_label": "Metro closures",
-    "source_type": "google_news",
-    "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
-    "source_sort": "relevance",
-    "source_timeframe": "all",
-    "title": "Des Moines pizza pioneer Abbie Polito dies at age 101; opened restaurant in 1952 - The Des Moines Register",
-    "summary": "Des Moines pizza pioneer Abbie Polito dies at age 101; opened restaurant in 1952 The Des Moines Register",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc3huSEpHRWYwbzFJNkdQNl9OVi1qdUx6eWVocWdPZDAzVjZOalN2N2FJbWRnOUV5ZVV0MklMajk2MHROVmVwd2xwcW04c3FTN1F3UG9BeF9kSjlCUkw3c05seEJlaWlwbmdoQV9QbUJ1aWVyZm1UT3NOZmRYOC05aERTeVpIR1RJS3B5b0hxSmVzdVVvY0Y3S2lSeXFqb0FmWi1nMTREMFR0aUxhc1JCLXJxY3o1QjdiaWU5MVFuTTFXYTQxb2QyTzJVOA?oc=5",
-    "published_at": "Wed, 18 Jun 2025 07:00:00 GMT",
-    "status_guess": "opened",
-    "score": 5,
-    "venue_guess": "Des Moines pizza pioneer Abbie Polito dies at age 101;",
-    "area_guess": "Des Moines Metro",
-    "matched_terms": [
-      "opened"
     ]
   },
   {

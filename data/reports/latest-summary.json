@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-13T08:56:14+00:00",
-  "leadCount": 142,
+  "generatedAt": "2026-06-13T13:56:20+00:00",
+  "leadCount": 144,
   "statusCounts": {
-    "closed": 76,
-    "review": 24,
-    "opened": 41,
+    "closed": 78,
+    "review": 26,
+    "opened": 39,
     "moved": 1
   },
   "sourceTypeCounts": {
     "reddit": 3,
-    "google_news": 139
+    "google_news": 141
   },
   "warnings": [
     "Reddit blocked source reddit-closing (closing); no JSON or RSS results returned.",

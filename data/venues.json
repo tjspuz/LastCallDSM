@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T08:56:24+00:00",
+  "updatedAt": "2026-06-13T13:56:30+00:00",
   "city": "Des Moines Metro",
   "items": [
     {
@@ -109,6 +109,143 @@
       "firstSeen": "2026-06-11",
       "address": "60 School Street, Carlisle, IA, 50047",
       "website": "https://www.cocoandninis.com/",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-13",
+      "closedDatePrecision": "month"
+    },
+    {
+      "id": "osm-node-442329369",
+      "name": "Croz Nest",
+      "status": "closed",
+      "eventDate": "2026-06-13",
+      "sortDate": "2026-06-13",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Croz Nest appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/442329369"
+        }
+      ],
+      "publicDescription": "Croz Nest appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "Des Moines Metro, IA",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-13",
+      "closedDatePrecision": "month"
+    },
+    {
+      "id": "osm-node-6017113420",
+      "name": "Ding's Rolled Ice Cream & Crepes",
+      "status": "closed",
+      "eventDate": "2026-06-13",
+      "sortDate": "2026-06-13",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Ice Cream",
+      "neighborhood": "Des Moines Metro",
+      "story": "Ding's Rolled Ice Cream & Crepes appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/6017113420"
+        }
+      ],
+      "publicDescription": "Ding's Rolled Ice Cream & Crepes appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "Des Moines Metro, IA",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-13",
+      "closedDatePrecision": "month"
+    },
+    {
+      "id": "osm-node-2837110559",
+      "name": "Dino's",
+      "status": "closed",
+      "eventDate": "2026-06-13",
+      "sortDate": "2026-06-13",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "American",
+      "neighborhood": "Des Moines Metro",
+      "story": "Dino's appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/2837110559"
+        }
+      ],
+      "publicDescription": "Dino's appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "5962 Ashworth Road, Des Moines Metro, IA, 50266",
+      "website": "https://www.dinoswdm.com/",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-13",
+      "closedDatePrecision": "month"
+    },
+    {
+      "id": "osm-node-5415384305",
+      "name": "Eat Fit Go",
+      "status": "closed",
+      "eventDate": "2026-06-13",
+      "sortDate": "2026-06-13",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Category Pending",
+      "neighborhood": "West Des Moines",
+      "story": "Eat Fit Go appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/5415384305"
+        }
+      ],
+      "publicDescription": "Eat Fit Go appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "440 South 68th Street, West Des Moines, IA, 50266",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-13",
+      "closedDatePrecision": "month"
+    },
+    {
+      "id": "osm-node-448784096",
+      "name": "El Azteca",
+      "status": "closed",
+      "eventDate": "2026-06-13",
+      "sortDate": "2026-06-13",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Mexican",
+      "neighborhood": "Ankeny",
+      "story": "El Azteca appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/448784096"
+        }
+      ],
+      "publicDescription": "El Azteca appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "1701 Southeast Delaware Avenue, Ankeny, IA, 50021",
+      "website": "https://www.elaztecaiowa.com/",
       "descriptionSource": "enriched",
       "closedDate": "2026-06-13",
       "closedDatePrecision": "month"
@@ -6564,31 +6701,6 @@
       "descriptionSource": "enriched"
     },
     {
-      "id": "osm-node-442329369",
-      "name": "Croz Nest",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "bar",
-      "venueTypeLabel": "Bar",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines Metro",
-      "story": "A spot in the Des Moines metro, with details still to come.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/node/442329369"
-        }
-      ],
-      "publicDescription": "A spot in the Des Moines metro, with details still to come.",
-      "firstSeen": "2026-06-11",
-      "address": "Des Moines Metro, IA",
-      "descriptionSource": "enriched"
-    },
-    {
       "id": "osm-node-1343989215",
       "name": "Cumming Tap",
       "status": "opened",
@@ -6768,31 +6880,6 @@
       "descriptionSource": "enriched"
     },
     {
-      "id": "osm-node-6017113420",
-      "name": "Ding's Rolled Ice Cream & Crepes",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Ice Cream",
-      "neighborhood": "Des Moines Metro",
-      "story": "A Des Moines metro shop serving rolled ice cream and crepes.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/node/6017113420"
-        }
-      ],
-      "publicDescription": "A Des Moines metro shop serving rolled ice cream and crepes.",
-      "firstSeen": "2026-06-11",
-      "address": "Des Moines Metro, IA",
-      "descriptionSource": "enriched"
-    },
-    {
       "id": "osm-node-1216900248",
       "name": "Dinner Delights",
       "status": "opened",
@@ -6841,32 +6928,6 @@
       "publicDescription": "An American eatery serving the Des Moines metro.",
       "firstSeen": "2026-06-11",
       "address": "6587 University Avenue, Des Moines Metro, IA, 50324",
-      "descriptionSource": "enriched"
-    },
-    {
-      "id": "osm-node-2837110559",
-      "name": "Dino's",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "American",
-      "neighborhood": "Des Moines Metro",
-      "story": "An American restaurant in the Des Moines metro area.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/node/2837110559"
-        }
-      ],
-      "publicDescription": "An American restaurant in the Des Moines metro area.",
-      "firstSeen": "2026-06-11",
-      "address": "5962 Ashworth Road, Des Moines Metro, IA, 50266",
-      "website": "https://www.dinoswdm.com/",
       "descriptionSource": "enriched"
     },
     {
@@ -7177,31 +7238,6 @@
       "descriptionSource": "enriched"
     },
     {
-      "id": "osm-node-5415384305",
-      "name": "Eat Fit Go",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Category Pending",
-      "neighborhood": "West Des Moines",
-      "story": "A West Des Moines eatery.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/node/5415384305"
-        }
-      ],
-      "publicDescription": "A West Des Moines eatery.",
-      "firstSeen": "2026-06-11",
-      "address": "440 South 68th Street, West Des Moines, IA, 50266",
-      "descriptionSource": "enriched"
-    },
-    {
       "id": "osm-node-11173209411",
       "name": "Eat Thai",
       "status": "opened",
@@ -7251,32 +7287,6 @@
       "firstSeen": "2026-06-11",
       "address": "2932 Ingersoll Avenue, Des Moines, IA, 50312",
       "website": "https://www.eateryadsm.com/",
-      "descriptionSource": "enriched"
-    },
-    {
-      "id": "osm-node-448784096",
-      "name": "El Azteca",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Mexican",
-      "neighborhood": "Ankeny",
-      "story": "A Mexican restaurant in Ankeny.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/node/448784096"
-        }
-      ],
-      "publicDescription": "A Mexican restaurant in Ankeny.",
-      "firstSeen": "2026-06-11",
-      "address": "1701 Southeast Delaware Avenue, Ankeny, IA, 50021",
-      "website": "https://www.elaztecaiowa.com/",
       "descriptionSource": "enriched"
     },
     {
