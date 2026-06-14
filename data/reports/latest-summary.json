@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-13T19:23:45+00:00",
-  "leadCount": 141,
+  "generatedAt": "2026-06-14T03:56:03+00:00",
+  "leadCount": 132,
   "statusCounts": {
-    "closed": 79,
+    "closed": 73,
     "review": 24,
-    "opened": 37,
+    "opened": 34,
     "moved": 1
   },
   "sourceTypeCounts": {
     "reddit": 3,
-    "google_news": 138
+    "google_news": 129
   },
   "warnings": [
     "Reddit blocked source reddit-closing (closing); no JSON or RSS results returned.",
@@ -227,27 +227,6 @@
       ]
     },
     {
-      "fingerprint": "d413c6a8f36d13",
-      "source_id": "metro-closures",
-      "source_label": "Metro closures",
-      "source_type": "google_news",
-      "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
-      "source_sort": "relevance",
-      "source_timeframe": "all",
-      "title": "Owner of Popular High-End Steakhouse Chain Files for Bankruptcy: What It Means for Locations Near You - People.com",
-      "summary": "Owner of Popular High-End Steakhouse Chain Files for Bankruptcy: What It Means for Locations Near You People.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNREpwbDcyU1hiZE5FRlNQWGF2c1hhRUZMalVDUVJaOXVJSTNQaGhJbjhJRFJXNTg1VEhjYlhnU3ZOZnRiV24yQjcxcU52MHROYXR3MEhvUEg3dEhqYkhmUkMwNlBFSkRCT2NPbmNoektqTVJjU21PZDlLazVrTklLcEhqNm93UQ?oc=5",
-      "published_at": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "status_guess": "closed",
-      "score": 8,
-      "venue_guess": "Owner of Popular High-End Steakhouse Chain",
-      "area_guess": "Des Moines Metro",
-      "matched_terms": [
-        "bankrupt",
-        "bankruptcy"
-      ]
-    },
-    {
       "fingerprint": "19752ca1a90a7f",
       "source_id": "metro-closures",
       "source_label": "Metro closures",
@@ -326,6 +305,28 @@
       "venue_guess": "ozy Asian eatery",
       "area_guess": "West Des Moines",
       "matched_terms": [
+        "closing"
+      ]
+    },
+    {
+      "fingerprint": "cdfc3eb2465527",
+      "source_id": "metro-closures",
+      "source_label": "Metro closures",
+      "source_type": "google_news",
+      "source_query": "\"Des Moines\" (restaurant OR bar OR brewery OR cafe OR coffee OR pizza) (closed OR closing OR closure OR shuttered OR bankruptcy OR bankrupt OR eviction OR auction OR sold OR relocating)",
+      "source_sort": "relevance",
+      "source_timeframe": "all",
+      "title": "Bar Louie is closing locations after filing for bankruptcy. Will Jordan Creek's close? - The Des Moines Register",
+      "summary": "Bar Louie is closing locations after filing for bankruptcy. Will Jordan Creek's close? The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUmFqVUhpVnFWY0I5S3o0dnYyNkVaTlJocURJNWlVUHdpZ2JsbG92R1hudUcwQlZaSjd3MjBOcDZCNk0zWEtuRFk1MUY3ZDlrM3diNVVyMGdUMUNfWWFYSU81dk56Tk1qMXFhUlBuOXVpemFGSnJPYlh0eHo2VUl2TDQzcGNzUHA0RmlXajFoTWxtSk5sLXVaaDNQT2tvTW5xaG42aDlzSjJtTnM3TGc2YUxwazVfaGtKZklQaXNVUUJsWHpnN3JybU03VnJnQjJOVzg4UEhNWnVYSUpBZWRlVmFWbXE0YjVURmVxQkR3SU9ONUNFOF9idDUyZVVEWWpYWS00?oc=5",
+      "published_at": "Fri, 28 Mar 2025 07:00:00 GMT",
+      "status_guess": "closed",
+      "score": 13,
+      "venue_guess": "Bar Louie is",
+      "area_guess": "Des Moines Metro",
+      "matched_terms": [
+        "bankrupt",
+        "bankruptcy",
         "closing"
       ]
     }
