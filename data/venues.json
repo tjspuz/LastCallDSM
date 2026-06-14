@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T03:56:13+00:00",
+  "updatedAt": "2026-06-14T09:31:56+00:00",
   "city": "Des Moines Metro",
   "items": [
     {
@@ -163,6 +163,88 @@
       "publicDescription": "Hickman Soft Serve Royal Treats appears to have closed; Google Places now reports it permanently closed.",
       "firstSeen": "2026-06-11",
       "address": "5814 Hickman Road, Des Moines Metro, IA, 50322",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-14",
+      "closedDatePrecision": "month"
+    },
+    {
+      "id": "osm-node-1478662348",
+      "name": "House of Hunan",
+      "status": "closed",
+      "eventDate": "2026-06-14",
+      "sortDate": "2026-06-14",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "restaurant",
+      "venueTypeLabel": "Restaurant",
+      "cuisine": "Chinese",
+      "neighborhood": "Des Moines Metro",
+      "story": "House of Hunan appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/1478662348"
+        }
+      ],
+      "publicDescription": "House of Hunan appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "Des Moines Metro, IA",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-14",
+      "closedDatePrecision": "month"
+    },
+    {
+      "id": "osm-node-3320196094",
+      "name": "Jeremiah Bullfrog's",
+      "status": "closed",
+      "eventDate": "2026-06-14",
+      "sortDate": "2026-06-14",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Category Pending",
+      "neighborhood": "West Des Moines",
+      "story": "Jeremiah Bullfrog's appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/3320196094"
+        }
+      ],
+      "publicDescription": "Jeremiah Bullfrog's appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "1907 E P True Parkway, West Des Moines, IA, 50265",
+      "website": "http://jbullfrogia.com",
+      "descriptionSource": "enriched",
+      "closedDate": "2026-06-14",
+      "closedDatePrecision": "month"
+    },
+    {
+      "id": "osm-node-790684710",
+      "name": "Jokers",
+      "status": "closed",
+      "eventDate": "2026-06-14",
+      "sortDate": "2026-06-14",
+      "dateLabel": "Jun 2026",
+      "datePrecision": "month",
+      "venueType": "bar",
+      "venueTypeLabel": "Bar",
+      "cuisine": "Category Pending",
+      "neighborhood": "Des Moines Metro",
+      "story": "Jokers appears to have closed; Google Places now reports it permanently closed.",
+      "verificationLevel": "review",
+      "sources": [
+        {
+          "label": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/790684710"
+        }
+      ],
+      "publicDescription": "Jokers appears to have closed; Google Places now reports it permanently closed.",
+      "firstSeen": "2026-06-11",
+      "address": "Des Moines Metro, IA",
       "descriptionSource": "enriched",
       "closedDate": "2026-06-14",
       "closedDatePrecision": "month"
@@ -9553,31 +9635,6 @@
       "descriptionSource": "enriched"
     },
     {
-      "id": "osm-node-1478662348",
-      "name": "House of Hunan",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "restaurant",
-      "venueTypeLabel": "Restaurant",
-      "cuisine": "Chinese",
-      "neighborhood": "Des Moines Metro",
-      "story": "A Chinese restaurant serving the Des Moines metro.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/node/1478662348"
-        }
-      ],
-      "publicDescription": "A Chinese restaurant serving the Des Moines metro.",
-      "firstSeen": "2026-06-11",
-      "address": "Des Moines Metro, IA",
-      "descriptionSource": "enriched"
-    },
-    {
       "id": "osm-node-13725755094",
       "name": "Hummus Mediterranean Grill",
       "status": "opened",
@@ -10011,32 +10068,6 @@
       "descriptionSource": "enriched"
     },
     {
-      "id": "osm-node-3320196094",
-      "name": "Jeremiah Bullfrog's",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "bar",
-      "venueTypeLabel": "Bar",
-      "cuisine": "Category Pending",
-      "neighborhood": "West Des Moines",
-      "story": "A casual spot in West Des Moines for food and drinks.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/node/3320196094"
-        }
-      ],
-      "publicDescription": "A casual spot in West Des Moines for food and drinks.",
-      "firstSeen": "2026-06-11",
-      "address": "1907 E P True Parkway, West Des Moines, IA, 50265",
-      "website": "http://jbullfrogia.com",
-      "descriptionSource": "enriched"
-    },
-    {
       "id": "osm-way-155923333",
       "name": "Jesse's Embers",
       "status": "opened",
@@ -10316,31 +10347,6 @@
       "publicDescription": "A Des Moines bar and gathering spot.",
       "firstSeen": "2026-06-11",
       "address": "302 Court Avenue, Des Moines, IA, 50309",
-      "descriptionSource": "enriched"
-    },
-    {
-      "id": "osm-node-790684710",
-      "name": "Jokers",
-      "status": "opened",
-      "eventDate": "1900-01-01",
-      "sortDate": "1900-01-01",
-      "dateLabel": "Open",
-      "datePrecision": "day",
-      "venueType": "bar",
-      "venueTypeLabel": "Bar",
-      "cuisine": "Category Pending",
-      "neighborhood": "Des Moines Metro",
-      "story": "A bar in the Des Moines metro.",
-      "verificationLevel": "review",
-      "sources": [
-        {
-          "label": "OpenStreetMap",
-          "url": "https://www.openstreetmap.org/node/790684710"
-        }
-      ],
-      "publicDescription": "A bar in the Des Moines metro.",
-      "firstSeen": "2026-06-11",
-      "address": "Des Moines Metro, IA",
       "descriptionSource": "enriched"
     },
     {

@@ -3046,5 +3046,325 @@
     "businessStatus": "OPERATIONAL",
     "formattedAddress": "364 NW Main St, Elkhart, IA 50073, USA",
     "checkedAt": "2026-06-14T03:56:13+00:00"
+  },
+  {
+    "id": "osm-node-6017112666",
+    "name": "KPOT Korean BBQ & Hot Pot",
+    "query": "KPOT Korean BBQ & Hot Pot West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "7105 Mills Civic Pkwy Ste 160, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-14T09:31:41+00:00"
+  },
+  {
+    "id": "osm-node-5198478151",
+    "name": "Kue'd Smokehouse",
+    "query": "Kue'd Smokehouse Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "245 E Hickman Rd, Waukee, IA 50263, USA",
+    "checkedAt": "2026-06-14T09:31:41+00:00"
+  },
+  {
+    "id": "osm-way-325348434",
+    "name": "La Barista Coffee",
+    "query": "La Barista Coffee West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1963 Grand Ave, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-14T09:31:42+00:00"
+  },
+  {
+    "id": "osm-node-13841165302",
+    "name": "La Cuscatleca South",
+    "query": "La Cuscatleca South Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2580 Fleur Dr Ste 101, Des Moines, IA 50321, USA",
+    "checkedAt": "2026-06-14T09:31:42+00:00"
+  },
+  {
+    "id": "osm-way-1014473425",
+    "name": "La Familia (Closed)",
+    "query": "La Familia (Closed) Polk City Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1610 6th Ave, Des Moines, IA 50314, USA",
+    "checkedAt": "2026-06-14T09:31:42+00:00"
+  },
+  {
+    "id": "osm-way-107437952",
+    "name": "La Hacienda",
+    "query": "La Hacienda Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "5955 Merle Hay Rd, Johnston, IA 50131, USA",
+    "checkedAt": "2026-06-14T09:31:43+00:00"
+  },
+  {
+    "id": "osm-way-760431230",
+    "name": "La Hacienda Mexican Restaurant",
+    "query": "La Hacienda Mexican Restaurant Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "5955 Merle Hay Rd, Johnston, IA 50131, USA",
+    "checkedAt": "2026-06-14T09:31:43+00:00"
+  },
+  {
+    "id": "osm-node-13786718601",
+    "name": "La Tropicana Mexican Market and Restaurant",
+    "query": "La Tropicana Mexican Market and Restaurant Urbandale Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2743 86th St, Urbandale, IA 50322, USA",
+    "checkedAt": "2026-06-14T09:31:44+00:00"
+  },
+  {
+    "id": "osm-node-11167332953",
+    "name": "La Villa",
+    "query": "La Villa Des Moines Metro Iowa",
+    "businessStatus": "CLOSED_TEMPORARILY",
+    "formattedAddress": "30 School St, Carlisle, IA 50047, USA",
+    "checkedAt": "2026-06-14T09:31:44+00:00"
+  },
+  {
+    "id": "osm-way-152168779",
+    "name": "Lachele's Fine Foods",
+    "query": "Lachele's Fine Foods Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2716 Ingersoll Ave, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-14T09:31:45+00:00"
+  },
+  {
+    "id": "osm-node-12663690079",
+    "name": "Lachele's Fine Foods + The Fitz",
+    "query": "Lachele's Fine Foods + The Fitz Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3621 6th Ave, Des Moines, IA 50313, USA",
+    "checkedAt": "2026-06-14T09:31:45+00:00"
+  },
+  {
+    "id": "osm-node-3329454778",
+    "name": "Ladder 13",
+    "query": "Ladder 13 West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1316 Grand Ave, West Des Moines, IA 50265, USA",
+    "checkedAt": "2026-06-14T09:31:45+00:00"
+  },
+  {
+    "id": "osm-node-10812168853",
+    "name": "Latin King Italian Dining",
+    "query": "Latin King Italian Dining Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2200 Hubbell Ave, Des Moines, IA 50317, USA",
+    "checkedAt": "2026-06-14T09:31:46+00:00"
+  },
+  {
+    "id": "osm-way-110353889",
+    "name": "Laughing Crab",
+    "query": "Laughing Crab West Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "4508 University Ave, West Des Moines, IA 50266, USA",
+    "checkedAt": "2026-06-14T09:31:46+00:00"
+  },
+  {
+    "id": "osm-way-1041717684",
+    "name": "Le's Chinese Bar-B-Que",
+    "query": "Le's Chinese Bar-B-Que Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2831 Douglas Ave, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-14T09:31:46+00:00"
+  },
+  {
+    "id": "osm-way-37965263",
+    "name": "Leaning Tower of Pizza",
+    "query": "Leaning Tower of Pizza Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "512 SW 3rd St, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-14T09:31:47+00:00"
+  },
+  {
+    "id": "osm-node-9836652220",
+    "name": "Lightbrite Coffee Roasters",
+    "query": "Lightbrite Coffee Roasters Grimes Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1895 SE Grimes Blvd Ste 104, Grimes, IA 50111, USA",
+    "checkedAt": "2026-06-14T09:31:47+00:00"
+  },
+  {
+    "id": "osm-node-9624482544",
+    "name": "Lina's Mexican Restaurant",
+    "query": "Lina's Mexican Restaurant Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1221 Keosauqua Way Ste 101, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-14T09:31:48+00:00"
+  },
+  {
+    "id": "osm-way-1072033261",
+    "name": "LJ's Burgers and Ice Cream",
+    "query": "LJ's Burgers and Ice Cream Des Moines Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "3702 2nd Ave, Des Moines, IA 50313, USA",
+    "checkedAt": "2026-06-14T09:31:48+00:00"
+  },
+  {
+    "id": "osm-way-104273659",
+    "name": "Locust Tap",
+    "query": "Locust Tap Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "434 E Locust St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-14T09:31:48+00:00"
+  },
+  {
+    "id": "osm-way-1072046558",
+    "name": "Los Laureles Mexican Restaurant",
+    "query": "Los Laureles Mexican Restaurant Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1518 E Grand Ave, Des Moines, IA 50316, USA",
+    "checkedAt": "2026-06-14T09:31:49+00:00"
+  },
+  {
+    "id": "osm-node-5198478154",
+    "name": "Los Tres Amigos",
+    "query": "Los Tres Amigos Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "63 NE Carefree Ln, Waukee, IA 50263, USA",
+    "checkedAt": "2026-06-14T09:31:49+00:00"
+  },
+  {
+    "id": "osm-way-297961628",
+    "name": "Lot 33 Coffee Bar and Lounge",
+    "query": "Lot 33 Coffee Bar and Lounge Des Moines Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "3701 Ingersoll Ave, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-14T09:31:50+00:00"
+  },
+  {
+    "id": "osm-node-12691115339",
+    "name": "Lua Brewing",
+    "query": "Lua Brewing Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1525 High St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-14T09:31:50+00:00"
+  },
+  {
+    "id": "osm-way-104273680",
+    "name": "Lucca",
+    "query": "Lucca Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "420 E Locust St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-14T09:31:50+00:00"
+  },
+  {
+    "id": "osm-way-152167074",
+    "name": "Lucky Lotus",
+    "query": "Lucky Lotus Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2721 Ingersoll Ave, Des Moines, IA 50312, USA",
+    "checkedAt": "2026-06-14T09:31:50+00:00"
+  },
+  {
+    "id": "osm-way-760856439",
+    "name": "Luke\u2019s Coffee Hub",
+    "query": "Luke\u2019s Coffee Hub Des Moines Metro Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "250 SE Destination Dr, Grimes, IA 50111, USA",
+    "checkedAt": "2026-06-14T09:31:51+00:00"
+  },
+  {
+    "id": "osm-way-284162433",
+    "name": "Lynn's on Merle Hay",
+    "query": "Lynn's on Merle Hay Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "6014 NW 59th Ct, Johnston, IA 50131, USA",
+    "checkedAt": "2026-06-14T09:31:51+00:00"
+  },
+  {
+    "id": "osm-node-1615178110",
+    "name": "Maccabee's Deli",
+    "query": "Maccabee's Deli Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1150 Polk Blvd, Des Moines, IA 50311, USA",
+    "checkedAt": "2026-06-14T09:31:52+00:00"
+  },
+  {
+    "id": "osm-node-6892912469",
+    "name": "Magee\u2019s Irish Pub & Eatery",
+    "query": "Magee\u2019s Irish Pub & Eatery Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1610 SW Main St, Ankeny, IA 50023, USA",
+    "checkedAt": "2026-06-14T09:31:52+00:00"
+  },
+  {
+    "id": "osm-node-13728752801",
+    "name": "Maggie's Rumble Room",
+    "query": "Maggie's Rumble Room Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1430 2nd Ave, Des Moines, IA 50314, USA",
+    "checkedAt": "2026-06-14T09:31:52+00:00"
+  },
+  {
+    "id": "osm-node-9351683332",
+    "name": "Maid Rite",
+    "query": "Maid Rite Ankeny Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "802 SE Oralabor Rd, Ankeny, IA 50021, USA",
+    "checkedAt": "2026-06-14T09:31:53+00:00"
+  },
+  {
+    "id": "osm-node-7236129457",
+    "name": "Maid-Rite",
+    "query": "Maid-Rite Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3800 Merle Hay Rd #988, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-14T09:31:53+00:00"
+  },
+  {
+    "id": "osm-way-615102064",
+    "name": "Maid-Rite and Broaster Chicken",
+    "query": "Maid-Rite and Broaster Chicken Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "3800 Merle Hay Rd #988, Des Moines, IA 50310, USA",
+    "checkedAt": "2026-06-14T09:31:54+00:00"
+  },
+  {
+    "id": "osm-node-6806305912",
+    "name": "Main Street Cafe & Bakery",
+    "query": "Main Street Cafe & Bakery Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "801 Grand Ave Ste 370, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-14T09:31:54+00:00"
+  },
+  {
+    "id": "osm-node-3658422294",
+    "name": "Malo",
+    "query": "Malo Des Moines Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "900 Mulberry St, Des Moines, IA 50309, USA",
+    "checkedAt": "2026-06-14T09:31:54+00:00"
+  },
+  {
+    "id": "osm-node-1224838871",
+    "name": "Mama Lacona's",
+    "query": "Mama Lacona's Des Moines Metro Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "2200 Hubbell Ave, Des Moines, IA 50317, USA",
+    "checkedAt": "2026-06-14T09:31:55+00:00"
+  },
+  {
+    "id": "osm-node-3458664923",
+    "name": "Mandarin Grill & Sushi Bar",
+    "query": "Mandarin Grill & Sushi Bar Clive Iowa",
+    "businessStatus": "OPERATIONAL",
+    "formattedAddress": "1250 Northwest 128th Street #100, Clive, IA 50325, USA",
+    "checkedAt": "2026-06-14T09:31:55+00:00"
+  },
+  {
+    "id": "osm-node-5538878694",
+    "name": "Mandarin Noodle House",
+    "query": "Mandarin Noodle House Des Moines Metro Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "8769 Northpark Dr, Johnston, IA 50131, USA",
+    "checkedAt": "2026-06-14T09:31:55+00:00"
+  },
+  {
+    "id": "osm-way-115543858",
+    "name": "Maple Vape Lounge",
+    "query": "Maple Vape Lounge Windsor Heights Iowa",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "formattedAddress": "6555 University Ave, Windsor Heights, IA 50324, USA",
+    "checkedAt": "2026-06-14T09:31:56+00:00"
   }
 ]
